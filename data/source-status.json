@@ -1,25 +1,11 @@
 {
-  "generated_at": "2026-02-28T05:27:04.116586Z",
+  "generated_at": "2026-02-28T05:35:19.453933Z",
   "sites": [
-    {
-      "site_id": "wallstreetcn",
-      "site_name": "华尔街见闻",
-      "ok": true,
-      "item_count": 0
-    },
     {
       "site_id": "eastmoney",
       "site_name": "东方财富",
-      "ok": false,
-      "item_count": 0,
-      "error": "Expecting value: line 1 column 1 (char 0)"
-    },
-    {
-      "site_id": "gelonghui",
-      "site_name": "格隆汇",
-      "ok": false,
-      "item_count": 0,
-      "error": "404 Client Error: Not Found for url: https://www.gelonghui.com/rss"
+      "ok": true,
+      "item_count": 0
     },
     {
       "site_id": "cls",
@@ -34,24 +20,18 @@
       "item_count": 23
     },
     {
-      "site_id": "yicai",
-      "site_name": "第一财经",
+      "site_id": "jiemian",
+      "site_name": "界面新闻",
       "ok": false,
       "item_count": 0,
-      "error": "404 Client Error: Not Found for url: https://www.yicai.com/rss/"
-    },
-    {
-      "site_id": "stcn",
-      "site_name": "证券时报",
-      "ok": true,
-      "item_count": 0
+      "error": "404 Client Error: Not Found for url: https://www.jiemian.com/rss/index.xml"
     },
     {
       "site_id": "sina_finance",
       "site_name": "新浪财经",
       "ok": false,
       "item_count": 0,
-      "error": "'list' object has no attribute 'get'"
+      "error": "404 Client Error: Not Found for url: https://rss.sina.com.cn/news/fin_roll/01.xml"
     },
     {
       "site_id": "tmtpost",
@@ -60,18 +40,36 @@
       "item_count": 20
     },
     {
+      "site_id": "stcn",
+      "site_name": "证券时报",
+      "ok": true,
+      "item_count": 0
+    },
+    {
+      "site_id": "wallstreetcn",
+      "site_name": "华尔街见闻",
+      "ok": true,
+      "item_count": 0
+    },
+    {
+      "site_id": "cs",
+      "site_name": "中国证券报",
+      "ok": false,
+      "item_count": 0,
+      "error": "404 Client Error: Not Found for url: https://www.cs.com.cn/rss/rss.xml"
+    },
+    {
       "site_id": "huxiu",
       "site_name": "虎嗅网",
       "ok": true,
       "item_count": 2
     }
   ],
-  "successful_sites": 6,
+  "successful_sites": 7,
   "failed_sites": [
-    "eastmoney",
-    "gelonghui",
-    "yicai",
-    "sina_finance"
+    "jiemian",
+    "sina_finance",
+    "cs"
   ],
   "fetched_raw_items": 45
 }
