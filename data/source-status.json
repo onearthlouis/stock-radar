@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-28T12:59:27.295609Z",
+  "generated_at": "2026-02-28T13:43:03.035664Z",
   "sites": [
     {
       "site_id": "wallstreetcn",
@@ -12,6 +12,31 @@
       "site_name": "36氪",
       "ok": true,
       "item_count": 22
+    },
+    {
+      "site_id": "eastmoney",
+      "site_name": "东方财富",
+      "ok": true,
+      "item_count": 0
+    },
+    {
+      "site_id": "sina_finance",
+      "site_name": "新浪财经",
+      "ok": false,
+      "item_count": 0,
+      "error": "404 Client Error: Not Found for url: https://rss.sina.com.cn/news/fin_roll/01.xml"
+    },
+    {
+      "site_id": "stcn",
+      "site_name": "证券时报",
+      "ok": true,
+      "item_count": 0
+    },
+    {
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "ok": true,
+      "item_count": 19
     },
     {
       "site_id": "cls",
@@ -27,18 +52,6 @@
       "error": "404 Client Error: Not Found for url: https://www.cs.com.cn/rss/rss.xml"
     },
     {
-      "site_id": "eastmoney",
-      "site_name": "东方财富",
-      "ok": true,
-      "item_count": 0
-    },
-    {
-      "site_id": "stcn",
-      "site_name": "证券时报",
-      "ok": true,
-      "item_count": 0
-    },
-    {
       "site_id": "jiemian",
       "site_name": "界面新闻",
       "ok": false,
@@ -46,30 +59,17 @@
       "error": "404 Client Error: Not Found for url: https://www.jiemian.com/rss/index.xml"
     },
     {
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "ok": true,
-      "item_count": 19
-    },
-    {
       "site_id": "huxiu",
       "site_name": "虎嗅网",
       "ok": true,
-      "item_count": 2
-    },
-    {
-      "site_id": "sina_finance",
-      "site_name": "新浪财经",
-      "ok": false,
-      "item_count": 0,
-      "error": "404 Client Error: Not Found for url: https://rss.sina.com.cn/news/fin_roll/01.xml"
+      "item_count": 3
     }
   ],
   "successful_sites": 7,
   "failed_sites": [
+    "sina_finance",
     "cs",
-    "jiemian",
-    "sina_finance"
+    "jiemian"
   ],
-  "fetched_raw_items": 43
+  "fetched_raw_items": 44
 }
