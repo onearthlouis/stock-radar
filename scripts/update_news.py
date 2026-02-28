@@ -123,10 +123,10 @@ BUILTIN_RSS_SOURCES = [
         "source": "虎嗅网",
     },
     {
-        "site_id": "yicai",
-        "site_name": "第一财经",
-        "url": "https://www.yicai.com/rss/",
-        "source": "第一财经",
+        "site_id": "sina_finance",
+        "site_name": "新浪财经",
+        "url": "https://rss.sina.com.cn/news/fin_roll/01.xml",
+        "source": "财经滚动",
     },
     {
         "site_id": "stcn",
@@ -135,16 +135,22 @@ BUILTIN_RSS_SOURCES = [
         "source": "证券时报",
     },
     {
-        "site_id": "gelonghui",
-        "site_name": "格隆汇",
-        "url": "https://www.gelonghui.com/rss",
-        "source": "格隆汇",
+        "site_id": "cs",
+        "site_name": "中国证券报",
+        "url": "https://www.cs.com.cn/rss/rss.xml",
+        "source": "中国证券报",
     },
     {
         "site_id": "tmtpost",
         "site_name": "钛媒体",
         "url": "https://www.tmtpost.com/rss",
         "source": "钛媒体",
+    },
+    {
+        "site_id": "jiemian",
+        "site_name": "界面新闻",
+        "url": "https://www.jiemian.com/rss/index.xml",
+        "source": "界面新闻",
     },
 ]
 
@@ -280,27 +286,34 @@ def fetch_rss(
 
 # ── 自定义抓取器 ─────────────────────────────────────────────────────────────
 
-def fetch_sina_finance(session: requests.Session, cutoff: datetime) -> tuple[list[RawItem], dict]:
-    """新浪财经滚动新闻"""
-    site_id, site_name = "sina_finance", "新浪财经"
+def fetch_eastmoney_flash(session: requests.Session, cutoff: datetime) -> tuple[list[RawItem], dict]:
+    """东方财富快讯（HTML 抓取）"""
+    site_id, site_name = "eastmoney", "东方财富"
     status = {"site_id": site_id, "site_name": site_name, "ok": False, "item_count": 0}
     items: list[RawItem] = []
     try:
-        url = "https://feed.mix.sina.com.cn/api/roll/get"
-        params = {"pageid": 153, "lid": 2509, "k": "", "num": 50, "page": 1}
-        resp = session.get(url, params=params, timeout=20)
-        data = resp.json()
-        news_list = data.get("result", {}).get("data", {}).get("list", [])
-        for item in news_list:
-            title = (item.get("title") or item.get("intro") or "").strip()
-            link = (item.get("url") or item.get("u") or "").strip()
+        url = "https://kuaixun.eastmoney.com/"
+        resp = session.get(url, timeout=20)
+        resp.raise_for_status()
+        soup = BeautifulSoup(resp.text, "html.parser")
+        for li in soup.select(".news-item, .kuaixun-item, li[data-time]")[:50]:
+            a = li.find("a")
+            if not a:
+                continue
+            title = a.get_text(strip=True)
+            link = a.get("href", "")
             if not title or not link:
                 continue
-            ts = item.get("ctime") or item.get("create_time")
+            if not link.startswith("http"):
+                link = "https://kuaixun.eastmoney.com" + link
+            ts_str = li.get("data-time", "") or ""
             published_at: datetime | None = None
-            if ts:
+            if ts_str:
                 try:
-                    published_at = datetime.fromtimestamp(int(ts), tz=UTC)
+                    dt = dtparser.parse(ts_str)
+                    if not dt.tzinfo:
+                        dt = dt.replace(tzinfo=CST)
+                    published_at = dt.astimezone(UTC)
                 except Exception:
                     pass
             if published_at and published_at < cutoff:
@@ -308,7 +321,7 @@ def fetch_sina_finance(session: requests.Session, cutoff: datetime) -> tuple[lis
             items.append(RawItem(
                 site_id=site_id,
                 site_name=site_name,
-                source=item.get("media_name") or item.get("channel") or "财经要闻",
+                source="快讯",
                 title=title,
                 url=normalize_url(link),
                 published_at=published_at,
@@ -541,8 +554,7 @@ def main() -> int:
 
     # 自定义抓取器
     for fn, name in [
-        (fetch_sina_finance, "sina_finance"),
-        (fetch_eastmoney, "eastmoney"),
+        (fetch_eastmoney_flash, "eastmoney"),
         (fetch_cls_telegraph, "cls"),
     ]:
         tasks.append(("custom", name, fn, session, cutoff))
