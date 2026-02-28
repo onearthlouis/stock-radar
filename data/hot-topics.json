@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-02-28T06:53:56.240905Z",
+  "generated_at": "2026-02-28T07:33:52.290784Z",
   "window_hours": 24,
-  "total_items_analyzed": 42,
+  "total_items_analyzed": 44,
   "hot_topics": [
     {
       "keyword": "芯片",
@@ -14,21 +14,22 @@
       ]
     },
     {
+      "keyword": "机器人",
+      "category": "板块",
+      "count": 3,
+      "sample_titles": [
+        "宇树科技董事长王兴兴：希望积极参与推动机器人行业标准规范化",
+        "美国政府多部门对马斯克旗下Grok 聊天机器人发出安全警告",
+        "20年一遇的创富窗口？擎天租机器人租赁，是风口，还是精准的收割？"
+      ]
+    },
+    {
       "keyword": "人工智能",
       "category": "板块",
       "count": 2,
       "sample_titles": [
-        "AI的下一步：智能体",
-        "保险业开始把AI风险写进条款"
-      ]
-    },
-    {
-      "keyword": "机器人",
-      "category": "板块",
-      "count": 2,
-      "sample_titles": [
-        "美国政府多部门对马斯克旗下Grok 聊天机器人发出安全警告",
-        "20年一遇的创富窗口？擎天租机器人租赁，是风口，还是精准的收割？"
+        "绝不存在“智能危机”",
+        "1100亿美元融资实为豪赌，OpenAI今年必须实现AGI或者IPO"
       ]
     },
     {
@@ -65,11 +66,19 @@
       ]
     },
     {
-      "keyword": "保险",
+      "keyword": "汽车",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "保险业开始把AI风险写进条款"
+        "小米汽车自动驾驶算法评测报告生成专利获授权"
+      ]
+    },
+    {
+      "keyword": "IPO",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "1100亿美元融资实为豪赌，OpenAI今年必须实现AGI或者IPO"
       ]
     },
     {
