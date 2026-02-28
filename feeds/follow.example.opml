@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>股市雷达 - 财经 RSS 订阅示例</title>
+  </head>
+  <body>
+    <outline text="国内财经媒体">
+      <outline text="华尔街见闻"
+        type="rss"
+        xmlUrl="https://wallstreetcn.com/rss"
+        htmlUrl="https://wallstreetcn.com" />
+      <outline text="36氪"
+        type="rss"
+        xmlUrl="https://36kr.com/feed"
+        htmlUrl="https://36kr.com" />
+      <outline text="虎嗅财经"
+        type="rss"
+        xmlUrl="https://www.huxiu.com/rss/0.xml"
+        htmlUrl="https://www.huxiu.com" />
+      <outline text="第一财经"
+        type="rss"
+        xmlUrl="https://www.yicai.com/rss/"
+        htmlUrl="https://www.yicai.com" />
+      <outline text="证券时报"
+        type="rss"
+        xmlUrl="https://www.stcn.com/rss/index.xml"
+        htmlUrl="https://www.stcn.com" />
+      <outline text="格隆汇"
+        type="rss"
+        xmlUrl="https://www.gelonghui.com/rss"
+        htmlUrl="https://www.gelonghui.com" />
+      <outline text="钛媒体"
+        type="rss"
+        xmlUrl="https://www.tmtpost.com/rss"
+        htmlUrl="https://www.tmtpost.com" />
+      <outline text="上海证券报"
+        type="rss"
+        xmlUrl="https://www.cnstock.com/rss/zhongguozhengquanbao.xml"
+        htmlUrl="https://www.cnstock.com" />
+      <outline text="中国证券报"
+        type="rss"
+        xmlUrl="https://www.cs.com.cn/rss/rss.xml"
+        htmlUrl="https://www.cs.com.cn" />
+    </outline>
+    <outline text="港股资讯">
+      <outline text="明报财经"
+        type="rss"
+        xmlUrl="https://finance.mingpao.com/rss/finance.xml"
+        htmlUrl="https://finance.mingpao.com" />
+      <outline text="信报财经"
+        type="rss"
+        xmlUrl="https://www1.hkej.com/rss/news.xml"
+        htmlUrl="https://www1.hkej.com" />
+    </outline>
+  </body>
+</opml>

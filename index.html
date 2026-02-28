@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>股市雷达 | A股·港股信息聚合</title>
+    <link rel="stylesheet" href="./assets/styles.css" />
+  </head>
+  <body>
+    <div class="bg-orb orb-a"></div>
+    <div class="bg-orb orb-b"></div>
+
+    <main class="shell">
+      <header class="hero">
+        <div class="hero-headline">
+          <div>
+            <p class="hero-tag">A股 · 港股 · 财经信息雷达</p>
+            <h1>股市信息雷达</h1>
+          </div>
+        </div>
+        <p class="hero-sub">
+          聚合财联社、东方财富、华尔街见闻、新浪财经等主流财经媒体，每 30 分钟自动更新，实时追踪市场热点与板块动态。
+        </p>
+        <section class="stats" id="stats"></section>
+      </header>
+
+      <!-- 热度榜 -->
+      <section class="hot-wrap">
+        <div class="hot-head">
+          <h2>24h 热词榜</h2>
+          <span id="hotUpdatedAt" class="hot-updated">加载中...</span>
+        </div>
+        <p class="hot-hint">点击关键词可快速筛选相关资讯</p>
+        <div id="hotList" class="hot-list"></div>
+      </section>
+
+      <!-- 筛选控制 -->
+      <section class="controls">
+        <input id="searchInput" type="search" placeholder="搜索标题 / 来源" />
+        <select id="siteSelect">
+          <option value="">全部来源</option>
+        </select>
+        <span class="updated" id="updatedAt">加载中...</span>
+      </section>
+      <section class="site-pills" id="sitePills"></section>
+
+      <!-- 新闻列表 -->
+      <section class="list-wrap">
+        <div class="list-head">
+          <h2>最近 24 小时资讯</h2>
+          <span id="resultCount">0 条</span>
+        </div>
+        <div id="newsList" class="news-list"></div>
+      </section>
+    </main>
+
+    <template id="itemTpl">
+      <article class="news-card">
+        <div class="meta-row">
+          <span class="site"></span>
+          <span class="source"></span>
+          <time class="time"></time>
+        </div>
+        <a class="title" target="_blank" rel="noopener noreferrer"></a>
+      </article>
+    </template>
+
+    <script src="./assets/app.js" defer></script>
+  </body>
+</html>

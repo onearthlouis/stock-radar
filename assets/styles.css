@@ -1,0 +1,318 @@
+:root {
+  --bg: #f4f3ef;
+  --panel: rgba(255, 255, 255, 0.76);
+  --ink: #12100f;
+  --muted: #5f5953;
+  --line: rgba(24, 19, 16, 0.14);
+  --accent: #d94825;
+  --accent-2: #0f6f7f;
+  --radius: 18px;
+  /* 中文系统字体栈，无需网络加载 */
+  --font-body: -apple-system, BlinkMacSystemFont, "PingFang SC", "Hiragino Sans GB",
+    "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+  --font-heading: "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Source Han Sans CN",
+    -apple-system, sans-serif;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  min-height: 100%;
+  font-family: var(--font-body);
+  color: var(--ink);
+  background:
+    radial-gradient(circle at 15% 20%, rgba(217, 72, 37, 0.15), transparent 35%),
+    radial-gradient(circle at 85% 16%, rgba(15, 111, 127, 0.15), transparent 40%),
+    var(--bg);
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  opacity: 0.22;
+  background-image: radial-gradient(circle at 1px 1px, #000 1px, transparent 0);
+  background-size: 5px 5px;
+}
+
+.bg-orb {
+  position: fixed;
+  border-radius: 999px;
+  filter: blur(46px);
+  opacity: 0.55;
+  pointer-events: none;
+  z-index: 0;
+}
+.orb-a { width: 260px; height: 260px; background: #df6f52; top: -68px; left: -60px; }
+.orb-b { width: 300px; height: 300px; background: #6ca0a9; right: -80px; top: 120px; }
+
+.shell {
+  position: relative;
+  z-index: 1;
+  max-width: 1080px;
+  margin: 0 auto;
+  padding: 32px 18px 48px;
+}
+
+/* ── Hero ─────────────────────────────────────────────────────────────────── */
+.hero {
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.7), rgba(255, 246, 237, 0.72));
+  border: 1px solid var(--line);
+  border-radius: 28px;
+  padding: 28px;
+  box-shadow: 0 24px 55px rgba(21, 16, 12, 0.09), inset 0 1px 0 rgba(255,255,255,0.9);
+  animation: fade-up 600ms ease;
+}
+
+.hero-headline { display: flex; gap: 14px; align-items: center; }
+.hero-tag { margin: 0; font-size: 12px; letter-spacing: 0.16em; color: var(--muted); }
+
+.hero h1 {
+  margin: 10px 0 8px;
+  font-family: var(--font-heading);
+  font-size: clamp(26px, 4vw, 44px);
+  font-weight: 800;
+  line-height: 1.05;
+}
+
+.hero-sub { margin: 0; color: var(--muted); max-width: 760px; line-height: 1.6; }
+
+.stats {
+  margin-top: 18px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 12px;
+}
+
+.stat {
+  border: 1px solid var(--line);
+  background: rgba(255, 255, 255, 0.75);
+  border-radius: var(--radius);
+  padding: 12px 14px;
+}
+.stat .k { font-size: 12px; color: var(--muted); }
+.stat .v {
+  margin-top: 4px;
+  font-family: var(--font-heading);
+  font-size: 24px;
+  font-weight: 700;
+}
+
+/* ── 热度榜 ───────────────────────────────────────────────────────────────── */
+.hot-wrap {
+  margin-top: 16px;
+  border: 1px solid var(--line);
+  border-radius: 24px;
+  background: rgba(255, 255, 255, 0.76);
+  backdrop-filter: blur(3px);
+  overflow: hidden;
+  animation: fade-up 500ms ease 100ms both;
+}
+
+.hot-head {
+  padding: 16px 18px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.hot-head h2 {
+  margin: 0;
+  font-family: var(--font-heading);
+  font-size: 20px;
+  font-weight: 700;
+}
+.hot-updated { color: var(--muted); font-size: 13px; }
+.hot-hint { margin: 6px 18px 12px; color: var(--muted); font-size: 12px; }
+
+.hot-list {
+  padding: 0 14px 16px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.hot-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  border: 1px solid color-mix(in srgb, var(--c, #d94825) 40%, transparent);
+  background: color-mix(in srgb, var(--c, #d94825) calc(var(--a, 0.2) * 18%), rgba(255,255,255,0.85));
+  border-radius: 999px;
+  padding: 6px 10px 6px 8px;
+  cursor: pointer;
+  font-size: 13px;
+  font-family: var(--font-body);
+  color: var(--ink);
+  transition: transform 120ms ease, box-shadow 120ms ease;
+}
+.hot-chip:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.12);
+}
+.hot-chip .rank {
+  font-size: 10px;
+  color: var(--muted);
+  min-width: 14px;
+  text-align: center;
+}
+.hot-chip .kw { font-weight: 600; }
+.hot-chip .cnt {
+  font-size: 11px;
+  color: var(--c, var(--accent));
+  font-weight: 700;
+}
+.hot-chip .cat {
+  font-size: 10px;
+  color: var(--muted);
+  padding: 1px 5px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: rgba(255,255,255,0.6);
+}
+
+/* ── 控制栏 ───────────────────────────────────────────────────────────────── */
+.controls {
+  margin-top: 16px;
+  display: grid;
+  grid-template-columns: minmax(0, 1.6fr) minmax(160px, 0.6fr) auto;
+  gap: 10px;
+  align-items: center;
+}
+
+input, select {
+  width: 100%;
+  border: 1px solid var(--line);
+  background: rgba(255, 255, 255, 0.8);
+  color: var(--ink);
+  border-radius: 12px;
+  padding: 11px 12px;
+  font-size: 14px;
+  font-family: var(--font-body);
+}
+input:focus, select:focus { outline: 2px solid rgba(217, 72, 37, 0.35); }
+
+.updated { color: var(--muted); font-size: 13px; white-space: nowrap; }
+
+/* ── 站点 Pill ─────────────────────────────────────────────────────────────── */
+.site-pills { margin-top: 12px; display: flex; flex-wrap: wrap; gap: 8px; }
+
+.pill {
+  border: 1px solid var(--line);
+  background: rgba(255, 255, 255, 0.7);
+  color: var(--ink);
+  border-radius: 999px;
+  padding: 6px 12px;
+  cursor: pointer;
+  font-size: 12px;
+  font-family: var(--font-body);
+}
+.pill.active {
+  background: linear-gradient(90deg, rgba(217,72,37,0.14), rgba(15,111,127,0.16));
+  border-color: rgba(33, 22, 17, 0.35);
+}
+
+/* ── 新闻列表 ──────────────────────────────────────────────────────────────── */
+.list-wrap {
+  margin-top: 16px;
+  border: 1px solid var(--line);
+  border-radius: 24px;
+  background: rgba(255, 255, 255, 0.76);
+  backdrop-filter: blur(3px);
+  overflow: hidden;
+}
+.list-head {
+  padding: 16px 18px;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  border-bottom: 1px solid var(--line);
+}
+.list-head h2 {
+  margin: 0;
+  font-family: var(--font-heading);
+  font-size: 20px;
+  font-weight: 700;
+}
+#resultCount { color: var(--muted); font-size: 13px; }
+
+.news-list { display: grid; }
+
+.site-group { border-top: 1px solid rgba(22,16,13,0.08); }
+.site-group:first-child { border-top: 0; }
+.site-group-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 14px 18px;
+  background: rgba(217,72,37,0.08);
+  border-bottom: 1px solid rgba(22,16,13,0.08);
+}
+.site-group-head h3 { margin: 0; font-size: 16px; font-weight: 700; }
+.site-group-head span { color: var(--muted); font-size: 12px; }
+.site-group-list { display: grid; }
+
+.source-group { border-top: 1px solid rgba(22,16,13,0.06); }
+.source-group:first-child { border-top: 0; }
+.source-group-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px 18px;
+  background: rgba(15,111,127,0.05);
+  border-bottom: 1px solid rgba(22,16,13,0.08);
+}
+.source-group-head h3 { margin: 0; font-size: 14px; }
+.source-group-head span { color: var(--muted); font-size: 12px; }
+.source-group-list { display: grid; }
+
+.news-card {
+  padding: 14px 18px;
+  border-top: 1px solid rgba(22,16,13,0.08);
+  animation: fade-up 300ms ease;
+}
+.news-card:first-child { border-top: 0; }
+
+.meta-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+  font-size: 12px;
+  color: var(--muted);
+}
+.site { font-weight: 700; color: #453f39; }
+.source {
+  padding: 2px 8px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  font-size: 11px;
+}
+.time { margin-left: auto; }
+
+.title {
+  margin-top: 8px;
+  display: block;
+  color: var(--ink);
+  text-decoration: none;
+  font-size: 15px;
+  line-height: 1.5;
+}
+.title:hover { color: var(--accent); }
+
+.empty { padding: 24px 18px; color: var(--muted); text-align: center; }
+
+/* ── 响应式 ────────────────────────────────────────────────────────────────── */
+@media (max-width: 760px) {
+  .shell { padding: 18px 12px 36px; }
+  .hero { padding: 18px; border-radius: 20px; }
+  .controls { grid-template-columns: 1fr; }
+  .updated { justify-self: start; }
+  .time { margin-left: 0; }
+}
+
+@keyframes fade-up {
+  from { transform: translateY(8px); opacity: 0; }
+  to   { transform: translateY(0);   opacity: 1; }
+}
