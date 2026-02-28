@@ -1,17 +1,25 @@
 {
-  "generated_at": "2026-02-28T05:35:19.453933Z",
+  "generated_at": "2026-02-28T05:57:20.503667Z",
   "sites": [
     {
-      "site_id": "eastmoney",
-      "site_name": "东方财富",
+      "site_id": "wallstreetcn",
+      "site_name": "华尔街见闻",
       "ok": true,
       "item_count": 0
     },
     {
-      "site_id": "cls",
-      "site_name": "财联社",
-      "ok": true,
-      "item_count": 0
+      "site_id": "cs",
+      "site_name": "中国证券报",
+      "ok": false,
+      "item_count": 0,
+      "error": "404 Client Error: Not Found for url: https://www.cs.com.cn/rss/rss.xml"
+    },
+    {
+      "site_id": "jiemian",
+      "site_name": "界面新闻",
+      "ok": false,
+      "item_count": 0,
+      "error": "404 Client Error: Not Found for url: https://www.jiemian.com/rss/index.xml"
     },
     {
       "site_id": "36kr",
@@ -20,11 +28,22 @@
       "item_count": 23
     },
     {
-      "site_id": "jiemian",
-      "site_name": "界面新闻",
-      "ok": false,
-      "item_count": 0,
-      "error": "404 Client Error: Not Found for url: https://www.jiemian.com/rss/index.xml"
+      "site_id": "cls",
+      "site_name": "财联社",
+      "ok": true,
+      "item_count": 0
+    },
+    {
+      "site_id": "eastmoney",
+      "site_name": "东方财富",
+      "ok": true,
+      "item_count": 0
+    },
+    {
+      "site_id": "stcn",
+      "site_name": "证券时报",
+      "ok": true,
+      "item_count": 0
     },
     {
       "site_id": "sina_finance",
@@ -40,25 +59,6 @@
       "item_count": 20
     },
     {
-      "site_id": "stcn",
-      "site_name": "证券时报",
-      "ok": true,
-      "item_count": 0
-    },
-    {
-      "site_id": "wallstreetcn",
-      "site_name": "华尔街见闻",
-      "ok": true,
-      "item_count": 0
-    },
-    {
-      "site_id": "cs",
-      "site_name": "中国证券报",
-      "ok": false,
-      "item_count": 0,
-      "error": "404 Client Error: Not Found for url: https://www.cs.com.cn/rss/rss.xml"
-    },
-    {
       "site_id": "huxiu",
       "site_name": "虎嗅网",
       "ok": true,
@@ -67,9 +67,9 @@
   ],
   "successful_sites": 7,
   "failed_sites": [
+    "cs",
     "jiemian",
-    "sina_finance",
-    "cs"
+    "sina_finance"
   ],
   "fetched_raw_items": 45
 }
