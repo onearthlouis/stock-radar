@@ -1,17 +1,24 @@
 {
-  "generated_at": "2026-02-28T22:29:59.251461Z",
+  "generated_at": "2026-02-28T22:52:08.922192Z",
   "sites": [
-    {
-      "site_id": "wallstreetcn",
-      "site_name": "华尔街见闻",
-      "ok": true,
-      "item_count": 0
-    },
     {
       "site_id": "eastmoney",
       "site_name": "东方财富",
       "ok": true,
       "item_count": 0
+    },
+    {
+      "site_id": "cs",
+      "site_name": "中国证券报",
+      "ok": false,
+      "item_count": 0,
+      "error": "404 Client Error: Not Found for url: https://www.cs.com.cn/rss/rss.xml"
+    },
+    {
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "ok": true,
+      "item_count": 22
     },
     {
       "site_id": "jiemian",
@@ -27,17 +34,11 @@
       "item_count": 0
     },
     {
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "ok": true,
-      "item_count": 22
-    },
-    {
-      "site_id": "cs",
-      "site_name": "中国证券报",
+      "site_id": "wallstreetcn",
+      "site_name": "华尔街见闻",
       "ok": false,
       "item_count": 0,
-      "error": "404 Client Error: Not Found for url: https://www.cs.com.cn/rss/rss.xml"
+      "error": "HTTPSConnectionPool(host='wallstreetcn.com', port=443): Max retries exceeded with url: /rss (Caused by ResponseError('too many 500 error responses'))"
     },
     {
       "site_id": "stcn",
@@ -65,10 +66,11 @@
       "item_count": 3
     }
   ],
-  "successful_sites": 7,
+  "successful_sites": 6,
   "failed_sites": [
-    "jiemian",
     "cs",
+    "jiemian",
+    "wallstreetcn",
     "sina_finance"
   ],
   "fetched_raw_items": 44
