@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-03-01T17:50:42.303534Z",
+  "generated_at": "2026-03-01T18:43:02.140011Z",
   "sites": [
+    {
+      "site_id": "sina_finance",
+      "site_name": "新浪财经",
+      "ok": false,
+      "item_count": 0,
+      "error": "404 Client Error: Not Found for url: https://rss.sina.com.cn/news/fin_roll/01.xml"
+    },
     {
       "site_id": "wallstreetcn",
       "site_name": "华尔街见闻",
@@ -14,23 +21,17 @@
       "item_count": 0
     },
     {
-      "site_id": "jiemian",
-      "site_name": "界面新闻",
-      "ok": false,
-      "item_count": 0,
-      "error": "404 Client Error: Not Found for url: https://www.jiemian.com/rss/index.xml"
-    },
-    {
       "site_id": "cls",
       "site_name": "财联社",
       "ok": true,
       "item_count": 0
     },
     {
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "ok": true,
-      "item_count": 20
+      "site_id": "jiemian",
+      "site_name": "界面新闻",
+      "ok": false,
+      "item_count": 0,
+      "error": "404 Client Error: Not Found for url: https://www.jiemian.com/rss/index.xml"
     },
     {
       "site_id": "cs",
@@ -40,17 +41,10 @@
       "error": "404 Client Error: Not Found for url: https://www.cs.com.cn/rss/rss.xml"
     },
     {
-      "site_id": "sina_finance",
-      "site_name": "新浪财经",
-      "ok": false,
-      "item_count": 0,
-      "error": "404 Client Error: Not Found for url: https://rss.sina.com.cn/news/fin_roll/01.xml"
-    },
-    {
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
+      "site_id": "36kr",
+      "site_name": "36氪",
       "ok": true,
-      "item_count": 16
+      "item_count": 20
     },
     {
       "site_id": "stcn",
@@ -59,19 +53,23 @@
       "item_count": 0
     },
     {
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "ok": true,
+      "item_count": 16
+    },
+    {
       "site_id": "huxiu",
       "site_name": "虎嗅网",
-      "ok": false,
-      "item_count": 0,
-      "error": "HTTPSConnectionPool(host='www.huxiu.com', port=443): Read timed out."
+      "ok": true,
+      "item_count": 1
     }
   ],
-  "successful_sites": 6,
+  "successful_sites": 7,
   "failed_sites": [
-    "jiemian",
-    "cs",
     "sina_finance",
-    "huxiu"
+    "jiemian",
+    "cs"
   ],
-  "fetched_raw_items": 36
+  "fetched_raw_items": 37
 }
