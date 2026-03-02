@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-02T18:05:39.954166Z",
+  "generated_at": "2026-03-02T19:21:47.524919Z",
   "sites": [
     {
       "site_id": "wallstreetcn",
@@ -33,10 +33,11 @@
       "item_count": 0
     },
     {
-      "site_id": "stcn",
-      "site_name": "证券时报",
-      "ok": true,
-      "item_count": 0
+      "site_id": "jiemian",
+      "site_name": "界面新闻",
+      "ok": false,
+      "item_count": 0,
+      "error": "404 Client Error: Not Found for url: https://www.jiemian.com/rss/index.xml"
     },
     {
       "site_id": "sina_finance",
@@ -46,30 +47,31 @@
       "error": "404 Client Error: Not Found for url: https://rss.sina.com.cn/news/fin_roll/01.xml"
     },
     {
-      "site_id": "jiemian",
-      "site_name": "界面新闻",
-      "ok": false,
-      "item_count": 0,
-      "error": "404 Client Error: Not Found for url: https://www.jiemian.com/rss/index.xml"
-    },
-    {
       "site_id": "tmtpost",
       "site_name": "钛媒体",
       "ok": true,
       "item_count": 16
     },
     {
+      "site_id": "stcn",
+      "site_name": "证券时报",
+      "ok": true,
+      "item_count": 0
+    },
+    {
       "site_id": "huxiu",
       "site_name": "虎嗅网",
-      "ok": true,
-      "item_count": 7
+      "ok": false,
+      "item_count": 0,
+      "error": "HTTPSConnectionPool(host='www.huxiu.com', port=443): Read timed out."
     }
   ],
-  "successful_sites": 7,
+  "successful_sites": 6,
   "failed_sites": [
     "cs",
+    "jiemian",
     "sina_finance",
-    "jiemian"
+    "huxiu"
   ],
-  "fetched_raw_items": 53
+  "fetched_raw_items": 46
 }
