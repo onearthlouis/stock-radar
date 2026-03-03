@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-03-03T11:55:57.230328Z",
+  "generated_at": "2026-03-03T13:17:02.232840Z",
   "window_hours": 24,
-  "total_items_analyzed": 51,
+  "total_items_analyzed": 50,
   "hot_topics": [
     {
       "keyword": "人工智能",
@@ -24,21 +24,21 @@
       ]
     },
     {
+      "keyword": "汽车",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "热门中概股美股盘前普跌，小鹏汽车跌超5%",
+        "Bigger than bigger，汽车公司开启SUV之战"
+      ]
+    },
+    {
       "keyword": "IPO",
       "category": "市场",
       "count": 2,
       "sample_titles": [
         "China's Dumpling Chain Restaurant Goes for IPO in Hong Kong, the First Dumpling Stock",
         "盯上“减肥焦虑”，一年卖超16亿元，抖音爆款要IPO"
-      ]
-    },
-    {
-      "keyword": "央行",
-      "category": "宏观",
-      "count": 2,
-      "sample_titles": [
-        "交易员们认为欧洲央行今年有50%的概率会提高利率",
-        "央行：1月上海期货交易所黄金成交1.8万吨，同比增加52.2%"
       ]
     },
     {
@@ -74,19 +74,35 @@
       ]
     },
     {
-      "keyword": "汽车",
+      "keyword": "石油",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "Bigger than bigger，汽车公司开启SUV之战"
+        "中国石油：短期油价波动存在较大不确定性"
       ]
     },
     {
-      "keyword": "回购",
+      "keyword": "跌停",
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "贵州茅台：已累计回购股份57.25万股，支付总金额8.01亿元"
+        "上期所调整燃料油期货相关合约涨跌停板幅度和交易保证金比例"
+      ]
+    },
+    {
+      "keyword": "减持",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "泸天化：农行四川分行拟减持公司不超1%股份"
+      ]
+    },
+    {
+      "keyword": "增持",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "华安证券：控股股东拟1亿元至2亿元增持公司可转债并转股"
       ]
     },
     {
@@ -95,6 +111,14 @@
       "count": 1,
       "sample_titles": [
         "五和博澳冲刺港股：40亿估值，买的是管线还是确定性？"
+      ]
+    },
+    {
+      "keyword": "GDP",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "英国预算责任办公室：预计2026年GDP增长1.1%，不及此前预期"
       ]
     },
     {
