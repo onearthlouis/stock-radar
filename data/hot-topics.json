@@ -1,63 +1,25 @@
 {
-  "generated_at": "2026-03-03T09:09:14.796884Z",
+  "generated_at": "2026-03-03T10:07:32.634668Z",
   "window_hours": 24,
-  "total_items_analyzed": 50,
+  "total_items_analyzed": 48,
   "hot_topics": [
-    {
-      "keyword": "机器人",
-      "category": "板块",
-      "count": 5,
-      "sample_titles": [
-        "银禧科技：目前没有为宇树科技及智元机器人提供产品",
-        "人形机器人卖不动，只能靠租？",
-        "荣耀“转型”：发布Robot Phone和首款人形机器人丨MWC 2026"
-      ]
-    },
-    {
-      "keyword": "人工智能",
-      "category": "板块",
-      "count": 4,
-      "sample_titles": [
-        "北京累计已完成217款生成式人工智能服务备案",
-        "内容行业最「焦虑」的一个春节",
-        "小云雀会成为字节的Higgsfield吗"
-      ]
-    },
-    {
-      "keyword": "医疗",
-      "category": "板块",
-      "count": 3,
-      "sample_titles": [
-        "普门科技：促红细胞生产素（EPO）测定试剂盒获医疗器械注册证",
-        "拿下AI制药史上最大IPO，这家公司将挑战阿斯利康等巨头",
-        "别只盯着IPO，2026跨国械企并购清单曝光，谁是下一块拼图？"
-      ]
-    },
-    {
-      "keyword": "汽车",
-      "category": "板块",
-      "count": 2,
-      "sample_titles": [
-        "现代汽车2月全球销量30.6万辆，同比下滑5.1%",
-        "起亚2月汽车销量为247401辆，同比下降2.8%。"
-      ]
-    },
-    {
-      "keyword": "5G",
-      "category": "板块",
-      "count": 2,
-      "sample_titles": [
-        "华为李鹏：运营商依托5G-A与AI的能力，可以展开面向未来应用的探索与实践",
-        "氪星晚报｜马斯克称第二代星链卫星将提供5G速度的太空互联网服务；调整住宿税，日本京都预计增收132亿日元；卢伟冰：小米今年即将发布全新的机器人产品"
-      ]
-    },
     {
       "keyword": "IPO",
       "category": "市场",
+      "count": 3,
+      "sample_titles": [
+        "China's Dumpling Chain Restaurant Goes for IPO in Hong Kong, the First Dumpling Stock",
+        "盯上“减肥焦虑”，一年卖超16亿元，抖音爆款要IPO",
+        "去故事化时代的第一张门票，希磁科技给硬科技IPO打了个样"
+      ]
+    },
+    {
+      "keyword": "机器人",
+      "category": "板块",
       "count": 2,
       "sample_titles": [
-        "拿下AI制药史上最大IPO，这家公司将挑战阿斯利康等巨头",
-        "别只盯着IPO，2026跨国械企并购清单曝光，谁是下一块拼图？"
+        "荣耀“转型”：发布Robot Phone和首款人形机器人丨MWC 2026",
+        "前小米高管创业机器人，用“爆品逻辑”做工业通用具身智能"
       ]
     },
     {
@@ -65,31 +27,47 @@
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "光伏巨头储能账面利润近百亿，但赚到钱的为什么是派能、固德威和海博思创？"
+        "天津南港新能源发展公司注册资本增至19.5亿元"
       ]
     },
     {
-      "keyword": "光伏",
+      "keyword": "人工智能",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "光伏巨头储能账面利润近百亿，但赚到钱的为什么是派能、固德威和海博思创？"
+        "内容行业最「焦虑」的一个春节"
       ]
     },
     {
-      "keyword": "储能",
+      "keyword": "消费",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "光伏巨头储能账面利润近百亿，但赚到钱的为什么是派能、固德威和海博思创？"
+        "氪星晚报｜全国首个跨境电商出口“前置监管仓”投用；亚马逊云服务称仍在努力恢复阿联酋网络服务；2026年全国消费促进月启动"
       ]
     },
     {
-      "keyword": "医药",
+      "keyword": "白酒",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "拿下AI制药史上最大IPO，这家公司将挑战阿斯利康等巨头"
+        "“今年过了个清闲年”，一位酒商说出2026白酒行业的残酷真相"
+      ]
+    },
+    {
+      "keyword": "汽车",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "现代汽车2月全球销量30.6万辆，同比下滑5.1%"
+      ]
+    },
+    {
+      "keyword": "增持",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "通化金马：董事长拟1000万元—2000万元增持公司股份"
       ]
     },
     {
@@ -101,27 +79,11 @@
       ]
     },
     {
-      "keyword": "恒指",
-      "category": "港股",
-      "count": 1,
-      "sample_titles": [
-        "恒指收跌1.12%，恒生科技指数跌2.26%"
-      ]
-    },
-    {
-      "keyword": "恒生科技",
-      "category": "港股",
-      "count": 1,
-      "sample_titles": [
-        "恒指收跌1.12%，恒生科技指数跌2.26%"
-      ]
-    },
-    {
       "keyword": "南向资金",
       "category": "港股",
       "count": 1,
       "sample_titles": [
-        "南向资金净买入额达50亿港元"
+        "腾讯控股获南向资金净买入25.59亿港元"
       ]
     },
     {
