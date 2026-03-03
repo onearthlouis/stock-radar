@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-03-03T10:07:32.634668Z",
+  "generated_at": "2026-03-03T11:07:00.368597Z",
   "window_hours": 24,
   "total_items_analyzed": 48,
   "hot_topics": [
+    {
+      "keyword": "机器人",
+      "category": "板块",
+      "count": 4,
+      "sample_titles": [
+        "姜哲源喊出“刚跑了十米”后，宁德时代投了10个亿，但C端故事可能还是个陷阱",
+        "春晚之后，机器人忙着“走穴”接活",
+        "荣耀“转型”：发布Robot Phone和首款人形机器人丨MWC 2026"
+      ]
+    },
     {
       "keyword": "IPO",
       "category": "市场",
@@ -14,28 +24,21 @@
       ]
     },
     {
-      "keyword": "机器人",
+      "keyword": "人工智能",
       "category": "板块",
       "count": 2,
       "sample_titles": [
-        "荣耀“转型”：发布Robot Phone和首款人形机器人丨MWC 2026",
-        "前小米高管创业机器人，用“爆品逻辑”做工业通用具身智能"
+        "OpenClaw爆火60天：中国产业AI落地的“又一次集体进化”",
+        "OpenClaw 越红火，MiniMax 们越开心"
       ]
     },
     {
-      "keyword": "新能源",
-      "category": "板块",
-      "count": 1,
+      "keyword": "央行",
+      "category": "宏观",
+      "count": 2,
       "sample_titles": [
-        "天津南港新能源发展公司注册资本增至19.5亿元"
-      ]
-    },
-    {
-      "keyword": "人工智能",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "内容行业最「焦虑」的一个春节"
+        "交易员们认为欧洲央行今年有50%的概率会提高利率",
+        "央行：1月上海期货交易所黄金成交1.8万吨，同比增加52.2%"
       ]
     },
     {
@@ -47,19 +50,11 @@
       ]
     },
     {
-      "keyword": "白酒",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "“今年过了个清闲年”，一位酒商说出2026白酒行业的残酷真相"
-      ]
-    },
-    {
       "keyword": "汽车",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "现代汽车2月全球销量30.6万辆，同比下滑5.1%"
+        "Bigger than bigger，汽车公司开启SUV之战"
       ]
     },
     {
@@ -71,11 +66,11 @@
       ]
     },
     {
-      "keyword": "港股",
-      "category": "港股",
+      "keyword": "回购",
+      "category": "市场",
       "count": 1,
       "sample_titles": [
-        "冲刺港交所，“饺子第一股”能否抓住港股对内地餐饮企业的“窗口期”"
+        "贵州茅台：已累计回购股份57.25万股，支付总金额8.01亿元"
       ]
     },
     {
@@ -84,14 +79,6 @@
       "count": 1,
       "sample_titles": [
         "腾讯控股获南向资金净买入25.59亿港元"
-      ]
-    },
-    {
-      "keyword": "央行",
-      "category": "宏观",
-      "count": 1,
-      "sample_titles": [
-        "央行：2月中期借贷便利（MLF）净投放3000亿元"
       ]
     }
   ]
