@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-03-03T11:07:00.368597Z",
+  "generated_at": "2026-03-03T11:55:57.230328Z",
   "window_hours": 24,
-  "total_items_analyzed": 48,
+  "total_items_analyzed": 51,
   "hot_topics": [
+    {
+      "keyword": "人工智能",
+      "category": "板块",
+      "count": 4,
+      "sample_titles": [
+        "字节领航、Kimi 爆发：红包大战落幕，AI行业变天",
+        "从夸克到千问：阿里AI“重修族谱”",
+        "OpenClaw爆火60天：中国产业AI落地的“又一次集体进化”"
+      ]
+    },
     {
       "keyword": "机器人",
       "category": "板块",
@@ -16,20 +26,10 @@
     {
       "keyword": "IPO",
       "category": "市场",
-      "count": 3,
-      "sample_titles": [
-        "China's Dumpling Chain Restaurant Goes for IPO in Hong Kong, the First Dumpling Stock",
-        "盯上“减肥焦虑”，一年卖超16亿元，抖音爆款要IPO",
-        "去故事化时代的第一张门票，希磁科技给硬科技IPO打了个样"
-      ]
-    },
-    {
-      "keyword": "人工智能",
-      "category": "板块",
       "count": 2,
       "sample_titles": [
-        "OpenClaw爆火60天：中国产业AI落地的“又一次集体进化”",
-        "OpenClaw 越红火，MiniMax 们越开心"
+        "China's Dumpling Chain Restaurant Goes for IPO in Hong Kong, the First Dumpling Stock",
+        "盯上“减肥焦虑”，一年卖超16亿元，抖音爆款要IPO"
       ]
     },
     {
@@ -39,6 +39,30 @@
       "sample_titles": [
         "交易员们认为欧洲央行今年有50%的概率会提高利率",
         "央行：1月上海期货交易所黄金成交1.8万吨，同比增加52.2%"
+      ]
+    },
+    {
+      "keyword": "光伏",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "中东光伏项目短期内交付受阻；欧盟将废除小额包裹免税政策；Lazada子公司在新加坡推出前置仓即时零售 ｜一周出海参考"
+      ]
+    },
+    {
+      "keyword": "医药",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "五和博澳冲刺港股：40亿估值，买的是管线还是确定性？"
+      ]
+    },
+    {
+      "keyword": "医疗",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "五和博澳冲刺港股：40亿估值，买的是管线还是确定性？"
       ]
     },
     {
@@ -58,14 +82,6 @@
       ]
     },
     {
-      "keyword": "增持",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "通化金马：董事长拟1000万元—2000万元增持公司股份"
-      ]
-    },
-    {
       "keyword": "回购",
       "category": "市场",
       "count": 1,
@@ -74,11 +90,19 @@
       ]
     },
     {
-      "keyword": "南向资金",
+      "keyword": "港股",
       "category": "港股",
       "count": 1,
       "sample_titles": [
-        "腾讯控股获南向资金净买入25.59亿港元"
+        "五和博澳冲刺港股：40亿估值，买的是管线还是确定性？"
+      ]
+    },
+    {
+      "keyword": "通胀",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "欧元区2月通胀率升至1.9%"
       ]
     }
   ]
