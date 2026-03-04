@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-03-04T22:39:01.927774Z",
+  "generated_at": "2026-03-04T23:37:02.956745Z",
   "window_hours": 24,
-  "total_items_analyzed": 48,
+  "total_items_analyzed": 49,
   "hot_topics": [
     {
       "keyword": "IPO",
@@ -14,15 +14,6 @@
       ]
     },
     {
-      "keyword": "芯片",
-      "category": "板块",
-      "count": 2,
-      "sample_titles": [
-        "消息称特斯拉计划就大幅提升AI6芯片产能规模与三星电子磋商",
-        "战事持续，芯片公司逃离以色列"
-      ]
-    },
-    {
       "keyword": "消费",
       "category": "板块",
       "count": 2,
@@ -32,12 +23,21 @@
       ]
     },
     {
+      "keyword": "石油",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "【钛晨报】两会日程预告丨3月5日：十四届全国人大四次会议上午9时开幕；Seedance2.0生成视频价格公布：一秒1块钱；中国石油A股市值重回第一",
+        "石油运不出来，中国新能源出口迎来新转机？"
+      ]
+    },
+    {
       "keyword": "减持",
       "category": "市场",
       "count": 2,
       "sample_titles": [
-        "东方财富：近期高管程磊减持260万股公司股份，本次减持计划已实施完毕",
-        "凯盛新材：股东凯盛投资拟减持不超2.49%股份"
+        "凯茜伍德抄底中国科技股：大举买入阿里巴巴，减持台积电和百度",
+        "东方财富：近期高管程磊减持260万股公司股份，本次减持计划已实施完毕"
       ]
     },
     {
@@ -46,6 +46,14 @@
       "count": 1,
       "sample_titles": [
         "石油运不出来，中国新能源出口迎来新转机？"
+      ]
+    },
+    {
+      "keyword": "芯片",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "战事持续，芯片公司逃离以色列"
       ]
     },
     {
@@ -73,27 +81,11 @@
       ]
     },
     {
-      "keyword": "汽车",
+      "keyword": "银行",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "仪表板和后视摄像头显示屏故障，本田在美召回65135辆汽车"
-      ]
-    },
-    {
-      "keyword": "石油",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "石油运不出来，中国新能源出口迎来新转机？"
-      ]
-    },
-    {
-      "keyword": "增持",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "中国海油：实际控制人已累计增持公司股份4.03亿元"
+        "从拼利率到控成本，部分中小银行调降存款利率"
       ]
     },
     {
@@ -102,6 +94,22 @@
       "count": 1,
       "sample_titles": [
         "浙江医药6亿输血“吞金兽”：子公司6年亏10多亿，靠ADC管线赌港股IPO"
+      ]
+    },
+    {
+      "keyword": "PMI",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "美国2月标普全球服务业PMI报51.7"
+      ]
+    },
+    {
+      "keyword": "美联储",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "白宫向参议院提交美联储下任主席提名"
       ]
     }
   ]
