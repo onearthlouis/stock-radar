@@ -1,35 +1,54 @@
 {
-  "generated_at": "2026-03-03T23:34:22.666252Z",
+  "generated_at": "2026-03-04T02:36:52.753928Z",
   "window_hours": 24,
-  "total_items_analyzed": 49,
+  "total_items_analyzed": 51,
   "hot_topics": [
     {
       "keyword": "人工智能",
       "category": "板块",
-      "count": 5,
+      "count": 3,
       "sample_titles": [
-        "消息人士称新闻集团与Meta Platforms达成多年期人工智能授权协议",
         "字节领航、Kimi 爆发：红包大战落幕，AI行业变天",
-        "从夸克到千问：阿里AI“重修族谱”"
+        "从夸克到千问：阿里AI“重修族谱”",
+        "OpenClaw爆火60天：中国产业AI落地的“又一次集体进化”"
       ]
     },
     {
       "keyword": "机器人",
       "category": "板块",
-      "count": 4,
+      "count": 3,
       "sample_titles": [
+        "前大疆工程师创业，宇树天使投资人出手，仿生柔性机器人公司完成新融资｜硬氪首发",
         "姜哲源喊出“刚跑了十米”后，宁德时代投了10个亿，但C端故事可能还是个陷阱",
-        "春晚之后，机器人忙着“走穴”接活",
         "荣耀“转型”：发布Robot Phone和首款人形机器人丨MWC 2026"
       ]
     },
     {
-      "keyword": "汽车",
+      "keyword": "PMI",
+      "category": "宏观",
+      "count": 3,
+      "sample_titles": [
+        "中国2月RatingDog制造业PMI 52.1，前值 50.3",
+        "国家统计局：2月份综合PMI产出指数为49.5%",
+        "国家统计局：2月份制造业采购经理指数（PMI）为49.0%"
+      ]
+    },
+    {
+      "keyword": "医疗",
       "category": "板块",
       "count": 2,
       "sample_titles": [
-        "热门中概股美股盘前普跌，小鹏汽车跌超5%",
-        "Bigger than bigger，汽车公司开启SUV之战"
+        "蚂蚁阿福用户破亿：AI医疗的狂欢，还是虚火？",
+        "五和博澳冲刺港股：40亿估值，买的是管线还是确定性？"
+      ]
+    },
+    {
+      "keyword": "消费",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "阳台储能公司获数千万融资，用消费硬件逻辑重新定义户用储能｜硬氪首发",
+        "氪星晚报｜全国首个跨境电商出口“前置监管仓”投用；亚马逊云服务称仍在���力恢复阿联酋网络服务；2026年全国消费促进月启动"
       ]
     },
     {
@@ -49,6 +68,14 @@
       ]
     },
     {
+      "keyword": "储能",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "阳台储能公司获数千万融资，用消费硬件逻辑重新定义户用储能｜硬氪首发"
+      ]
+    },
+    {
       "keyword": "医药",
       "category": "板块",
       "count": 1,
@@ -57,43 +84,19 @@
       ]
     },
     {
-      "keyword": "医疗",
+      "keyword": "金融",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "五和博澳冲刺港股：40亿估值，买的是管线还是确定性？"
+        "韩元兑美元汇率一度跌破1500，为金融危机以来首次"
       ]
     },
     {
-      "keyword": "消费",
+      "keyword": "汽车",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "氪星晚报｜全国首个跨境电商出口“前置监管仓”投用；亚马逊云服务称仍在努力恢复阿联酋网络服务；2026年全国消费促进月启动"
-      ]
-    },
-    {
-      "keyword": "保险",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "百亿级私募数量已达125家，保险资金表现突出"
-      ]
-    },
-    {
-      "keyword": "券商",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "并购再起，券商板块估值修复窗口开启"
-      ]
-    },
-    {
-      "keyword": "化工",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "北交所公司2025年业绩分化中显韧性，化工新材料板块“双增长”领跑"
+        "Bigger than bigger，汽车公司开启SUV之战"
       ]
     },
     {
@@ -101,7 +104,7 @@
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "China's Dumpling Chain Restaurant Goes for IPO in Hong Kong, the First Dumpling Stock"
+        "花旗预计印度IPO规模2026年将超过250亿美元"
       ]
     },
     {
@@ -113,11 +116,19 @@
       ]
     },
     {
-      "keyword": "GDP",
-      "category": "宏观",
+      "keyword": "恒指",
+      "category": "港股",
       "count": 1,
       "sample_titles": [
-        "英国预算责任办公室：预计2026年GDP增长1.1%，不及此前预期"
+        "恒指开盘跌1.16%，恒生科技指数跌1.24%"
+      ]
+    },
+    {
+      "keyword": "恒生科技",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "恒指开盘跌1.16%，恒生科技指数跌1.24%"
       ]
     }
   ]
