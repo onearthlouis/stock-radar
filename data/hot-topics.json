@@ -1,26 +1,25 @@
 {
-  "generated_at": "2026-03-05T21:58:55.180737Z",
+  "generated_at": "2026-03-05T23:15:38.447016Z",
   "window_hours": 24,
   "total_items_analyzed": 48,
   "hot_topics": [
     {
       "keyword": "人工智能",
       "category": "板块",
-      "count": 3,
+      "count": 4,
       "sample_titles": [
+        "亚马逊推出人工智能平台，实现医疗保健行政工作自动化",
         "木鸟途家抢山头，中国民宿“卷”向AI",
-        "OpenClaw登顶后，Agent悄悄杀死了“应用”",
-        "你有没有偷偷删除与AI的聊天记录？"
+        "OpenClaw登顶后，Agent悄悄杀死了“应用”"
       ]
     },
     {
-      "keyword": "减持",
-      "category": "市场",
-      "count": 3,
+      "keyword": "医疗",
+      "category": "板块",
+      "count": 2,
       "sample_titles": [
-        "中仑新材：股东Strait Co Ltd.拟减持不超1.375%股份",
-        "润贝航科6.25亿可转债加码主业，低负债托底扩张却遇大股东减持",
-        "悦安新材：瑞和投资、瑞岚投资拟合计减持不超0.52%股份"
+        "亚马逊推出人工智能平台，实现医疗保健行政工作自动化",
+        "放弃科创板转战港股，已入集采的天星医疗在急什么？"
       ]
     },
     {
@@ -49,19 +48,27 @@
       ]
     },
     {
-      "keyword": "医疗",
+      "keyword": "金融",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "放弃科创板转战港股，已入集采的天星医疗在急什么？"
+        "OpenAI发布金融服务新工具，加剧与Anthropic角力"
       ]
     },
     {
-      "keyword": "退市",
+      "keyword": "汽车",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "日产汽车警告其英国工厂或将被迫关闭"
+      ]
+    },
+    {
+      "keyword": "减持",
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "*ST花王：公司申请撤销退市风险警示及其他风险警示"
+        "润贝航科6.25亿可转债加码主业，低负债托底扩张却遇大股东减持"
       ]
     },
     {
@@ -70,6 +77,14 @@
       "count": 1,
       "sample_titles": [
         "放弃科创板转战港股，已入集采的天星医疗在急什么？"
+      ]
+    },
+    {
+      "keyword": "央行",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "法国央行行长Villeroy称欧洲央行目前没有理由加息"
       ]
     }
   ]
