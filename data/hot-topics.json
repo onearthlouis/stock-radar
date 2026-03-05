@@ -1,18 +1,8 @@
 {
-  "generated_at": "2026-03-05T10:09:56.139990Z",
+  "generated_at": "2026-03-05T11:08:08.755996Z",
   "window_hours": 24,
-  "total_items_analyzed": 45,
+  "total_items_analyzed": 47,
   "hot_topics": [
-    {
-      "keyword": "IPO",
-      "category": "市场",
-      "count": 3,
-      "sample_titles": [
-        "“锦欣系”第二个IPO来了，开讲康养板块资本故事｜IPO观察",
-        "Tencent-backed “Insta360 of the Laser Industry” Heading for an IPO",
-        "臻宝科技科创板IPO获上市委会议通过"
-      ]
-    },
     {
       "keyword": "人工智能",
       "category": "板块",
@@ -20,6 +10,15 @@
       "sample_titles": [
         "花500块请人代装“龙虾”？淘金的还没暴富，卖铲子的先赚翻了",
         "别了，理想主义者：阿里“结果导向”下的AI天才出走"
+      ]
+    },
+    {
+      "keyword": "医药",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "复星医药：控股子公司药品获临床试验批准",
+        "540亿糖尿病新霸主即将诞生？"
       ]
     },
     {
@@ -32,20 +31,12 @@
       ]
     },
     {
-      "keyword": "回购",
+      "keyword": "IPO",
       "category": "市场",
       "count": 2,
       "sample_titles": [
-        "网易云音乐近期回购超115万股，耗资1.8亿港元",
-        "央行：3月6日将开展8000亿元买断式逆回购操作"
-      ]
-    },
-    {
-      "keyword": "半导体",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "证监会同意盛合晶微半导体有限公司首次公开发行股票并在科创板上市的注册申请"
+        "“锦欣系”第二个IPO来了，开讲康养板块资本故事｜IPO观察",
+        "Tencent-backed “Insta360 of the Laser Industry” Heading for an IPO"
       ]
     },
     {
@@ -57,27 +48,35 @@
       ]
     },
     {
-      "keyword": "医药",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "540亿糖尿病新霸主即将诞生？"
-      ]
-    },
-    {
-      "keyword": "白酒",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "珍酒李渡：白酒灾年里的“唐吉坷德”"
-      ]
-    },
-    {
       "keyword": "连板",
       "category": "市场",
       "count": 1,
       "sample_titles": [
         "两连板智能自控：股票交易异常波动，不存在应披露未披露重大事项"
+      ]
+    },
+    {
+      "keyword": "退市",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "*ST花王：公司申请撤销退市风险警示及其他风险警示"
+      ]
+    },
+    {
+      "keyword": "减持",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "悦安新材：瑞和投资、瑞岚投资拟合计减持不超0.52%股份"
+      ]
+    },
+    {
+      "keyword": "回购",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "网易云音乐近期回购超115万股，耗资1.8亿港元"
       ]
     },
     {
@@ -94,22 +93,6 @@
       "count": 1,
       "sample_titles": [
         "盈富基金遭南向资金净卖出136.61亿港元"
-      ]
-    },
-    {
-      "keyword": "央行",
-      "category": "宏观",
-      "count": 1,
-      "sample_titles": [
-        "央行：3月6日将开展8000亿元买断式逆回购操作"
-      ]
-    },
-    {
-      "keyword": "证监会",
-      "category": "宏观",
-      "count": 1,
-      "sample_titles": [
-        "证监会同意盛合晶微半导体有限公司首次公开发行股票并在科创板上市的注册申请"
       ]
     }
   ]
