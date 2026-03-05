@@ -1,25 +1,43 @@
 {
-  "generated_at": "2026-03-05T07:01:52.603986Z",
+  "generated_at": "2026-03-05T08:01:34.977810Z",
   "window_hours": 24,
-  "total_items_analyzed": 47,
+  "total_items_analyzed": 46,
   "hot_topics": [
     {
-      "keyword": "人工智能",
-      "category": "板块",
+      "keyword": "南向资金",
+      "category": "港股",
       "count": 3,
       "sample_titles": [
-        "凶猛AI剧：影视版「预制菜」上桌了",
-        "林俊旸离开千问，会改变什么？",
-        "OpenClaw 25万星背后：为什么它仍然只是个“半拉子工程”"
+        "南向资金净卖出额超250亿港元",
+        "南向资金净卖出额达230亿港元",
+        "南向资金净卖出额达200亿港元"
       ]
     },
     {
-      "keyword": "消费",
+      "keyword": "人工智能",
       "category": "板块",
       "count": 2,
       "sample_titles": [
-        "沈丹阳：今年将进一步加大对线下实体零售的支持力度，居民消费增长的良好势头在前两个月已经有所显现",
-        "马年营销各显奇招，乳品品牌破局出圈｜世研消费指数品牌榜Vol.157"
+        "别了，理想主义者：阿里“结果导向”下的AI天才出走",
+        "凶猛AI剧：影视版「预制菜」上桌了"
+      ]
+    },
+    {
+      "keyword": "银行",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "担心AI冲击就业和经济，英国央行拟开展情景评估并纳入银行压力测试",
+        "郑州银行人事震荡下的业绩迷局"
+      ]
+    },
+    {
+      "keyword": "央行",
+      "category": "宏观",
+      "count": 2,
+      "sample_titles": [
+        "担心AI冲击就业和经济，英国央行拟开展情景评估并纳入银行压力测试",
+        "马来西亚央行维持关键利率不变"
       ]
     },
     {
@@ -31,11 +49,27 @@
       ]
     },
     {
+      "keyword": "医药",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "540亿糖尿病新霸主即将诞生？"
+      ]
+    },
+    {
       "keyword": "医疗",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "哈工大博士创业8年，带领“国产运动医学一哥”冲刺IPO"
+        "540亿糖尿病新霸主即将诞生？"
+      ]
+    },
+    {
+      "keyword": "消费",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "马年营销各显奇招，乳品品牌破局出圈｜世研消费指数品牌榜Vol.157"
       ]
     },
     {
@@ -55,14 +89,6 @@
       ]
     },
     {
-      "keyword": "银行",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "郑州银行人事震荡下的业绩迷局"
-      ]
-    },
-    {
       "keyword": "保险",
       "category": "板块",
       "count": 1,
@@ -71,43 +97,11 @@
       ]
     },
     {
-      "keyword": "外资",
-      "category": "市场",
+      "keyword": "低空经济",
+      "category": "板块",
       "count": 1,
       "sample_titles": [
-        "沈丹阳：外资来华投资有四个新商机"
-      ]
-    },
-    {
-      "keyword": "IPO",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "哈工大博士创业8年，带领“国产运动医学一哥”冲刺IPO"
-      ]
-    },
-    {
-      "keyword": "恒生科技",
-      "category": "港股",
-      "count": 1,
-      "sample_titles": [
-        "恒生科技指数跌超1%"
-      ]
-    },
-    {
-      "keyword": "降准",
-      "category": "宏观",
-      "count": 1,
-      "sample_titles": [
-        "陈昌盛：中央政府负债率比较低，货币的降准降息还有条件"
-      ]
-    },
-    {
-      "keyword": "降息",
-      "category": "宏观",
-      "count": 1,
-      "sample_titles": [
-        "陈昌盛：中央政府负债率比较低，货币的降准降息还有条件"
+        "陈昌盛：要加快空域资源的开放和低空经济飞行审批程序的优化简化"
       ]
     }
   ]
