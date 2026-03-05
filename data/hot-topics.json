@@ -1,41 +1,105 @@
 {
-  "generated_at": "2026-03-05T02:40:34.835092Z",
+  "generated_at": "2026-03-05T04:50:34.718962Z",
   "window_hours": 24,
-  "total_items_analyzed": 45,
+  "total_items_analyzed": 49,
   "hot_topics": [
-    {
-      "keyword": "消费",
-      "category": "板块",
-      "count": 4,
-      "sample_titles": [
-        "政府工作报告：调整优化消费税征税范围、税率",
-        "政府工作报告：安排超长期特别国债2500亿元支持消费品以旧换新",
-        "K-POP，数亿级美金消费版图"
-      ]
-    },
     {
       "keyword": "人工智能",
       "category": "板块",
+      "count": 4,
+      "sample_titles": [
+        "林俊旸离开千问，会改变什么？",
+        "工信部部长李乐成：我国规上制造业企业人工智能（AI）技术应用普及率超30%",
+        "工信部部长李乐成：我国人工智能核心产业规模超1.2万亿元"
+      ]
+    },
+    {
+      "keyword": "医疗",
+      "category": "板块",
       "count": 2,
       "sample_titles": [
-        "人心猛于AI",
-        "马斯克频繁为中国AI站台，真相被忽略了"
+        "哈工大博士创业8年，带领“国产运动医学一哥”冲刺IPO",
+        "AD治疗药物研发进入“战国时代”"
       ]
     },
     {
-      "keyword": "汽车",
+      "keyword": "机器人",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "一年四款新车上线，金标大众没有“金字招牌”"
+        "IDC预测：2026年全球智能机器人硬件市场将近300亿美元，中国有望引领增长"
       ]
     },
     {
-      "keyword": "石油",
+      "keyword": "医药",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "复盘三次石油危机股市的反应"
+        "AD治疗药物研发进入“战国时代”"
+      ]
+    },
+    {
+      "keyword": "消费",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "马年营销各显奇招，乳品品牌破局出圈｜世研消费指数品牌榜Vol.157"
+      ]
+    },
+    {
+      "keyword": "银行",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "郑州银行人事震荡下的业绩迷局"
+      ]
+    },
+    {
+      "keyword": "有色",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "半日主力资金加仓电子股，抛售有色金属股"
+      ]
+    },
+    {
+      "keyword": "量子",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "Rigetti Computing财报后下跌，这家专注量子计算的纯正概念股正面临关键挑战"
+      ]
+    },
+    {
+      "keyword": "IPO",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "哈工大博士创业8年，带领“国产运动医学一哥”冲刺IPO"
+      ]
+    },
+    {
+      "keyword": "恒指",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "恒指午间休盘涨0.83%，恒生科技指数收平"
+      ]
+    },
+    {
+      "keyword": "恒生科技",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "恒指午间休盘涨0.83%，恒生科技指数收平"
+      ]
+    },
+    {
+      "keyword": "国务院",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "国务院国资委主任张玉卓：十四五央企资产总额连跨三个台阶"
       ]
     }
   ]
