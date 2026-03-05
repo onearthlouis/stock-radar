@@ -1,8 +1,28 @@
 {
-  "generated_at": "2026-03-05T08:01:34.977810Z",
+  "generated_at": "2026-03-05T09:08:31.475808Z",
   "window_hours": 24,
-  "total_items_analyzed": 46,
+  "total_items_analyzed": 47,
   "hot_topics": [
+    {
+      "keyword": "人工智能",
+      "category": "板块",
+      "count": 3,
+      "sample_titles": [
+        "花500块请人代装“龙虾”？淘金的还没暴富，卖铲子的先赚翻了",
+        "别了，理想主义者：阿里“结果导向”下的AI天才出走",
+        "凶猛AI剧：影视版「预制菜」上桌了"
+      ]
+    },
+    {
+      "keyword": "医疗",
+      "category": "板块",
+      "count": 3,
+      "sample_titles": [
+        "放弃科创板转战港股，已入集采的天星医疗在急什么？",
+        "三星医疗：子公司签订约9.49亿元海外经营合同",
+        "540亿糖尿病新霸主即将诞生？"
+      ]
+    },
     {
       "keyword": "南向资金",
       "category": "港股",
@@ -14,38 +34,20 @@
       ]
     },
     {
-      "keyword": "人工智能",
-      "category": "板块",
+      "keyword": "IPO",
+      "category": "市场",
       "count": 2,
       "sample_titles": [
-        "别了，理想主义者：阿里“结果导向”下的AI天才出走",
-        "凶猛AI剧：影视版「预制菜」上桌了"
+        "臻宝科技科创板IPO获上市委会议通过",
+        "MOMENTA或将申请10亿美元香港IPO"
       ]
     },
     {
-      "keyword": "银行",
-      "category": "板块",
-      "count": 2,
-      "sample_titles": [
-        "担心AI冲击就业和经济，英国央行拟开展情景评估并纳入银行压力测试",
-        "郑州银行人事震荡下的业绩迷局"
-      ]
-    },
-    {
-      "keyword": "央行",
-      "category": "宏观",
-      "count": 2,
-      "sample_titles": [
-        "担心AI冲击就业和经济，英国央行拟开展情景评估并纳入银行压力测试",
-        "马来西亚央行维持关键利率不变"
-      ]
-    },
-    {
-      "keyword": "光伏",
+      "keyword": "半导体",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "全国人大代表李东生：加强资本市场对先进制造企业融资支持、发挥市场力量推动光伏“反内卷”"
+        "证监会同意盛合晶微半导体有限公司首次公开发行股票并在科创板上市的注册申请"
       ]
     },
     {
@@ -54,22 +56,6 @@
       "count": 1,
       "sample_titles": [
         "540亿糖尿病新霸主即将诞生？"
-      ]
-    },
-    {
-      "keyword": "医疗",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "540亿糖尿病新霸主即将诞生？"
-      ]
-    },
-    {
-      "keyword": "消费",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "马年营销各显奇招，乳品品牌破局出圈｜世研消费指数品牌榜Vol.157"
       ]
     },
     {
@@ -89,6 +75,14 @@
       ]
     },
     {
+      "keyword": "银行",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "担心AI冲击就业和经济，英国央行拟开展情景评估并纳入银行压力测试"
+      ]
+    },
+    {
       "keyword": "保险",
       "category": "板块",
       "count": 1,
@@ -97,11 +91,51 @@
       ]
     },
     {
-      "keyword": "低空经济",
+      "keyword": "汽车",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "陈昌盛：要加快空域资源的开放和低空经济飞行审批程序的优化简化"
+        "本田拟从中美进口汽车，以增强日本国内产品销售"
+      ]
+    },
+    {
+      "keyword": "港股",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "放弃科创板转战港股，已入集采的天星医疗在急什么？"
+      ]
+    },
+    {
+      "keyword": "恒指",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "恒指收涨0.28%，恒生科技指数跌0.69%"
+      ]
+    },
+    {
+      "keyword": "恒生科技",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "恒指收涨0.28%，恒生科技指数跌0.69%"
+      ]
+    },
+    {
+      "keyword": "央行",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "担心AI冲击就业和经济，英国央行拟开展情景评估并纳入银行压力测试"
+      ]
+    },
+    {
+      "keyword": "证监会",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "证监会同意盛合晶微半导体有限公司首次公开发行股票并在科创板上市的注册申请"
       ]
     }
   ]
