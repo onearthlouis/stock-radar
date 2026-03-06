@@ -1,34 +1,34 @@
 {
-  "generated_at": "2026-03-06T00:04:57.005366Z",
+  "generated_at": "2026-03-06T03:14:40.776205Z",
   "window_hours": 24,
-  "total_items_analyzed": 49,
+  "total_items_analyzed": 45,
   "hot_topics": [
+    {
+      "keyword": "恒生科技",
+      "category": "港股",
+      "count": 4,
+      "sample_titles": [
+        "港股高开高走，恒生科技指数涨超3%",
+        "恒生科技指数涨幅扩大至2%",
+        "恒生科技指数涨幅扩大至1%"
+      ]
+    },
     {
       "keyword": "人工智能",
       "category": "板块",
-      "count": 3,
+      "count": 2,
       "sample_titles": [
         "木鸟途家抢山头，中国民宿“卷”向AI",
-        "OpenClaw登顶后，Agent悄悄杀死了“应用”",
-        "你有没有偷偷删除与AI的聊天记录？"
+        "OpenClaw登顶后，Agent悄悄杀死了“应用”"
       ]
     },
     {
-      "keyword": "机器人",
-      "category": "板块",
+      "keyword": "港股",
+      "category": "港股",
       "count": 2,
       "sample_titles": [
-        "Alphabet因Gemini聊天机器人被起诉",
-        "全国政协委员、天娱数科董事长贺晗：场景牵引、央国企带头，拉动人形机器人规模化上岗"
-      ]
-    },
-    {
-      "keyword": "IPO",
-      "category": "市场",
-      "count": 2,
-      "sample_titles": [
-        "“锦欣系”第二个IPO来了，开讲康养板块资本故事｜IPO观察",
-        "Tencent-backed “Insta360 of the Laser Industry” Heading for an IPO"
+        "港股高开高走，恒生科技指数涨超3%",
+        "深港通下的港股通标的证券名单调入牧原股份、大族数控，3月6日起生效"
       ]
     },
     {
@@ -40,27 +40,27 @@
       ]
     },
     {
-      "keyword": "减持",
-      "category": "市场",
+      "keyword": "汽车",
+      "category": "板块",
       "count": 1,
       "sample_titles": [
-        "润贝航科6.25亿可转债加码主业，低负债托底扩张却遇大股东减持"
+        "本田中国2月终端汽车销量28780台"
       ]
     },
     {
-      "keyword": "分红",
+      "keyword": "回购",
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "已有13家上市公司发布2025年年度分红预案"
+        "央行今日开展448亿元7天逆回购操作"
       ]
     },
     {
-      "keyword": "通胀",
-      "category": "宏观",
+      "keyword": "恒指",
+      "category": "港股",
       "count": 1,
       "sample_titles": [
-        "韩国2月通胀率持稳于2%，连续两月达到央行目标"
+        "恒指开盘涨0.15%，恒生科技指数涨0.47%"
       ]
     },
     {
@@ -68,7 +68,7 @@
       "category": "宏观",
       "count": 1,
       "sample_titles": [
-        "韩国2月通胀率持稳于2%，连续两月达到央行目标"
+        "央行今日开展448亿元7天逆回购操作"
       ]
     }
   ]
