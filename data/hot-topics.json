@@ -1,34 +1,25 @@
 {
-  "generated_at": "2026-03-07T04:26:01.665471Z",
+  "generated_at": "2026-03-07T05:23:04.253249Z",
   "window_hours": 24,
-  "total_items_analyzed": 41,
+  "total_items_analyzed": 45,
   "hot_topics": [
     {
       "keyword": "人工智能",
       "category": "板块",
-      "count": 3,
+      "count": 4,
       "sample_titles": [
+        "俄研究机构训练人工智能识别早期乳腺癌",
         "人力资源社会保障部部长：正研究措施发挥人工智能创造新岗位和赋能传统岗位作用",
-        "AI风向标：腾讯向左，微信向右",
-        "ChatGPT-5.4属实“动手王者”，一句话征服微信，但是我却被气笑了"
+        "AI风向标：腾讯向左，微信向右"
       ]
     },
     {
-      "keyword": "银行",
-      "category": "板块",
-      "count": 2,
-      "sample_titles": [
-        "欧洲私募巨头CVC拟在上市前收购比利时Belfius银行股份",
-        "据悉英国央行就MFS风险敞口问询银行 巴克莱在列"
-      ]
-    },
-    {
-      "keyword": "央行",
+      "keyword": "证监会",
       "category": "宏观",
       "count": 2,
       "sample_titles": [
-        "央行连续第16个月增持黄金",
-        "据悉英国央行就MFS风险敞口问询银行 巴克莱在列"
+        "证监会：对易见股份原董事长冷天晴采取终身证券市场禁入措施",
+        "氪星晚报｜蜜雪冰城公司已公布多项咖啡相关专利；证监会同意春光集团创业板IPO注册；千问持续推进AI生活服务落地"
       ]
     },
     {
@@ -56,14 +47,6 @@
       ]
     },
     {
-      "keyword": "国防",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "特朗普今日将会见国防企业高管，鉴于外界担忧武器库存不足，这些公司可能从中受益"
-      ]
-    },
-    {
       "keyword": "金融",
       "category": "板块",
       "count": 1,
@@ -72,19 +55,19 @@
       ]
     },
     {
+      "keyword": "银行",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "欧洲私募巨头CVC拟在上市前收购比利时Belfius银行股份"
+      ]
+    },
+    {
       "keyword": "保险",
       "category": "板块",
       "count": 1,
       "sample_titles": [
         "太保寿险在香港开“卷”，新品搅局跨境储蓄险"
-      ]
-    },
-    {
-      "keyword": "量子",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "像 IonQ 这样专注量子领域的纯粹概念股所带来的盈利，让华尔街对它们的增长前景垂涎三尺"
       ]
     },
     {
@@ -120,11 +103,11 @@
       ]
     },
     {
-      "keyword": "证监会",
+      "keyword": "央行",
       "category": "宏观",
       "count": 1,
       "sample_titles": [
-        "氪星晚报｜蜜雪冰城公司已公布多项咖啡相关专利；证监会同意春光集团创业板IPO注册；千问持续推进AI生活服务落地"
+        "央行连续第16个月增持黄金"
       ]
     }
   ]
