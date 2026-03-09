@@ -1,39 +1,105 @@
 {
-  "generated_at": "2026-03-08T23:31:26.073693Z",
+  "generated_at": "2026-03-09T02:45:55.546193Z",
   "window_hours": 24,
-  "total_items_analyzed": 51,
+  "total_items_analyzed": 48,
   "hot_topics": [
     {
-      "keyword": "IPO",
-      "category": "市场",
-      "count": 2,
-      "sample_titles": [
-        "俞永福的一句话促成一个 IPO",
-        "震撼医疗创投圈！100位女性创业者缔造30个IPO，斩获近百亿融资"
-      ]
-    },
-    {
-      "keyword": "光伏",
+      "keyword": "人工智能",
       "category": "板块",
-      "count": 1,
+      "count": 5,
       "sample_titles": [
-        "小米入局车载光伏，或与前高管李创奇创业项目合作"
-      ]
-    },
-    {
-      "keyword": "医疗",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "震撼医疗创投圈！100位女性创业者缔造30个IPO，斩获近百亿融资"
+        "涉人工智能案件，最高法：准确把握科技创新“容错”空间",
+        "今年将加强人工智能等领域立法研究",
+        "2026 AI 创业终局：算力驱动 = 数字佃农，数据驱动 = 数字地主"
       ]
     },
     {
       "keyword": "消费",
       "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "国家统计局：2026年2月份居民消费价格同比上涨1.3%",
+        "8点1氪丨最高补贴200万，深圳一区拟出台政策鼓励免费“养龙虾”；苹果核心管理层调整；寿司郎回应消费者吃出金枪鱼寄生虫卵"
+      ]
+    },
+    {
+      "keyword": "半导体",
+      "category": "板块",
       "count": 1,
       "sample_titles": [
-        "三类品牌，撑起女性消费新蓝海"
+        "SIA：1月全球半导体销售额同比增幅达46.1%"
+      ]
+    },
+    {
+      "keyword": "机器人",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "扫地机器人，正式迈入AI时代？"
+      ]
+    },
+    {
+      "keyword": "医药",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "压力大坐立不安？浙江中医药大学陈忠/汪仪揭示星形胶质细胞H3受体调控焦虑神经机制"
+      ]
+    },
+    {
+      "keyword": "白酒",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "谁能帮郭广昌复兴舍得酒？"
+      ]
+    },
+    {
+      "keyword": "金融",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "今年将制定国有资产法、金融法等"
+      ]
+    },
+    {
+      "keyword": "回购",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "央行公开市场开展485亿元7天期逆回购操作"
+      ]
+    },
+    {
+      "keyword": "恒指",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "恒指开盘跌2.65%，恒生科技指数跌3.79%"
+      ]
+    },
+    {
+      "keyword": "恒生科技",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "恒指开盘跌2.65%，恒生科技指数跌3.79%"
+      ]
+    },
+    {
+      "keyword": "南向资金",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "南向资金净买入额超100亿港元"
+      ]
+    },
+    {
+      "keyword": "央行",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "央行公开市场开展485亿元7天期逆回购操作"
       ]
     }
   ]

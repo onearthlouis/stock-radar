@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-08T23:31:07.489677Z",
+  "generated_at": "2026-03-09T02:45:11.946544Z",
   "sites": [
     {
       "site_id": "wallstreetcn",
@@ -33,16 +33,11 @@
       "item_count": 0
     },
     {
-      "site_id": "stcn",
-      "site_name": "证券时报",
-      "ok": true,
-      "item_count": 0
-    },
-    {
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "ok": true,
-      "item_count": 20
+      "site_id": "cs",
+      "site_name": "中国证券报",
+      "ok": false,
+      "item_count": 0,
+      "error": "404 Client Error: Not Found for url: https://www.cs.com.cn/rss/rss.xml"
     },
     {
       "site_id": "sina_finance",
@@ -52,24 +47,31 @@
       "error": "404 Client Error: Not Found for url: https://rss.sina.com.cn/news/fin_roll/01.xml"
     },
     {
-      "site_id": "cs",
-      "site_name": "中国证券报",
-      "ok": false,
-      "item_count": 0,
-      "error": "404 Client Error: Not Found for url: https://www.cs.com.cn/rss/rss.xml"
+      "site_id": "stcn",
+      "site_name": "证券时报",
+      "ok": true,
+      "item_count": 0
+    },
+    {
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "ok": true,
+      "item_count": 18
     },
     {
       "site_id": "huxiu",
       "site_name": "虎嗅网",
-      "ok": true,
-      "item_count": 1
+      "ok": false,
+      "item_count": 0,
+      "error": "HTTPSConnectionPool(host='www.huxiu.com', port=443): Read timed out."
     }
   ],
-  "successful_sites": 7,
+  "successful_sites": 6,
   "failed_sites": [
     "jiemian",
+    "cs",
     "sina_finance",
-    "cs"
+    "huxiu"
   ],
-  "fetched_raw_items": 51
+  "fetched_raw_items": 48
 }
