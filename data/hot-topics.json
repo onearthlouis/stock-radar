@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-03-09T11:42:14.241196Z",
+  "generated_at": "2026-03-09T13:19:39.160405Z",
   "window_hours": 24,
-  "total_items_analyzed": 47,
+  "total_items_analyzed": 49,
   "hot_topics": [
     {
       "keyword": "储能",
@@ -13,20 +13,29 @@
       ]
     },
     {
-      "keyword": "证监会",
-      "category": "宏观",
+      "keyword": "汽车",
+      "category": "板块",
       "count": 2,
       "sample_titles": [
-        "可孚医疗：发行境外上市外资股（H股）获中国证监会备案",
-        "胜宏科技：公司发行境外上市股份（H股）获得中国证监会备案"
+        "热门中概股美股盘前涨跌不一，小鹏汽车涨超3%",
+        "岚图汽车港股上市方案获批"
       ]
     },
     {
-      "keyword": "人工智能",
+      "keyword": "IPO",
+      "category": "市场",
+      "count": 2,
+      "sample_titles": [
+        "朗信电气：第一大客户为控股股东，业务独立性存疑，高负债背景下依旧现金分红｜IPO观察",
+        "又一场近亿官司，海辰储能IPO还能顺利过关吗？"
+      ]
+    },
+    {
+      "keyword": "医药",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "龙虾爆火，互联网巨头开始重新思考一件事"
+        "希维她获批引爆股价，亚虹医药百亿市值背后的亏损与商业化大考"
       ]
     },
     {
@@ -62,11 +71,11 @@
       ]
     },
     {
-      "keyword": "IPO",
+      "keyword": "退市",
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "又一场近亿官司，海辰储能IPO还能顺利过关吗？"
+        "*ST松发：申请撤销公司股票退市风险警示"
       ]
     },
     {
@@ -78,11 +87,35 @@
       ]
     },
     {
+      "keyword": "分红",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "朗信电气：第一大客户为控股股东，业务独立性存疑，高负债背景下依旧现金分红｜IPO观察"
+      ]
+    },
+    {
+      "keyword": "港股",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "岚图汽车港股上市方案获批"
+      ]
+    },
+    {
       "keyword": "央行",
       "category": "宏观",
       "count": 1,
       "sample_titles": [
         "【Fintech 周报】中国央行连续第16个月增持黄金；美团保险布局升级"
+      ]
+    },
+    {
+      "keyword": "证监会",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "可孚医疗：发行境外上市外资股（H股）获中国证监会备案"
       ]
     }
   ]
