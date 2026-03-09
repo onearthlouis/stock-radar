@@ -1,32 +1,49 @@
 {
-  "generated_at": "2026-03-09T06:06:36.345995Z",
+  "generated_at": "2026-03-09T07:34:59.765267Z",
   "window_hours": 24,
-  "total_items_analyzed": 47,
+  "total_items_analyzed": 49,
   "hot_topics": [
     {
-      "keyword": "新能源",
+      "keyword": "机器人",
       "category": "板块",
       "count": 2,
       "sample_titles": [
-        "万华化学旗下公司、兴发集团在湖北成立新能源公司",
-        "宁德时代在泉州新设新能源科技公司"
+        "智元机器人智能手环外观设计专利获授权",
+        "广东智能机器人产业投资基金合伙企业成立"
+      ]
+    },
+    {
+      "keyword": "医疗",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "1项临床、2名受试者，撑起1个NDA",
+        "两会释放“十五五”信号，八大前沿医疗赛道将迎来黄金五年"
+      ]
+    },
+    {
+      "keyword": "南向资金",
+      "category": "港股",
+      "count": 2,
+      "sample_titles": [
+        "南向资金净买额达300亿元",
+        "南向资金净买入额达220亿港元"
+      ]
+    },
+    {
+      "keyword": "新能源",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "电力与新能源类被动型股票指数基金分类研究分析"
       ]
     },
     {
       "keyword": "人工智能",
       "category": "板块",
-      "count": 2,
-      "sample_titles": [
-        "中传砍掉16个专业，“人机分工教育”老师先\"毕业\"，学生再\"入学\"？",
-        "OpenClaw一夜掏空你钱包？终于有人管管了"
-      ]
-    },
-    {
-      "keyword": "半导体",
-      "category": "板块",
       "count": 1,
       "sample_titles": [
-        "半导体产业价值大重估，连英伟达都失宠了？"
+        "AI气象大模型，为什么开始进入能源系统"
       ]
     },
     {
@@ -38,22 +55,6 @@
       ]
     },
     {
-      "keyword": "机器人",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "机器人「起飞」元年：热钱、故事与透支的未来"
-      ]
-    },
-    {
-      "keyword": "医疗",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "天益医疗：枸橼酸钠血滤置换液获药品注册证书"
-      ]
-    },
-    {
       "keyword": "消费",
       "category": "板块",
       "count": 1,
@@ -62,11 +63,35 @@
       ]
     },
     {
-      "keyword": "港股",
-      "category": "港股",
+      "keyword": "保险",
+      "category": "板块",
       "count": 1,
       "sample_titles": [
-        "温氏股份：2026年饲料原料价格或小幅上行；暂无港股上市需求"
+        "再谈保险科技：AI如何让保险更具温度"
+      ]
+    },
+    {
+      "keyword": "钢铁",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "河北上市公司ESG-V评级： 重化底色下的价值分化，龙头制造稳中见优，钢铁能源承压明显｜上市公司观察"
+      ]
+    },
+    {
+      "keyword": "涨停",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "价值判断：涨停板的投资机会和风险提示（3月6日）｜证券市场观察"
+      ]
+    },
+    {
+      "keyword": "央行",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "韩国央行将购买3万亿韩元韩国国债，以应对收益率波动加剧"
       ]
     }
   ]
