@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-03-09T10:00:45.939161Z",
+  "generated_at": "2026-03-09T10:58:38.014549Z",
   "window_hours": 24,
-  "total_items_analyzed": 46,
+  "total_items_analyzed": 47,
   "hot_topics": [
     {
       "keyword": "人工智能",
       "category": "板块",
-      "count": 5,
+      "count": 4,
       "sample_titles": [
         "龙虾爆火，互联网巨头开始重新思考一件事",
         "QQ、微信双端接入“小龙虾”，腾讯撕开AI入口新战局？",
@@ -14,11 +14,28 @@
       ]
     },
     {
-      "keyword": "医药",
+      "keyword": "证监会",
+      "category": "宏观",
+      "count": 2,
+      "sample_titles": [
+        "胜宏科技：公司发行境外上市股份（H股）获得中国证监会备案",
+        "中油工程：发行A股股票申请获证监会同意"
+      ]
+    },
+    {
+      "keyword": "半导体",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "恒瑞医药：子公司收到HRS9531注射液药物临床试验批准通知书"
+        "强一股份：拟投资10亿元建设半导体探针卡制造基地项目"
+      ]
+    },
+    {
+      "keyword": "储能",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "又一场近亿官司，海辰储能IPO还能顺利过关吗？"
       ]
     },
     {
@@ -38,19 +55,11 @@
       ]
     },
     {
-      "keyword": "天然气",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "皖天然气：拟作价3.77亿元公开挂牌转让参股公司石化皖能50%股权"
-      ]
-    },
-    {
-      "keyword": "连板",
+      "keyword": "IPO",
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "4连板顺钠股份：目前经营情况正常，不存在应披露而未披露的重大事项"
+        "又一场近亿官司，海辰储能IPO还能顺利过关吗？"
       ]
     },
     {
@@ -75,14 +84,6 @@
       "count": 1,
       "sample_titles": [
         "【Fintech 周报】中国央行连续第16个月增持黄金；美团保险布局升级"
-      ]
-    },
-    {
-      "keyword": "证监会",
-      "category": "宏观",
-      "count": 1,
-      "sample_titles": [
-        "国网英大：子公司英大证券参与碳排放权交易获得中国证监会复函"
       ]
     }
   ]
