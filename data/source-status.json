@@ -1,13 +1,6 @@
 {
-  "generated_at": "2026-03-09T23:34:51.458085Z",
+  "generated_at": "2026-03-10T02:36:17.368970Z",
   "sites": [
-    {
-      "site_id": "sina_finance",
-      "site_name": "新浪财经",
-      "ok": false,
-      "item_count": 0,
-      "error": "404 Client Error: Not Found for url: https://rss.sina.com.cn/news/fin_roll/01.xml"
-    },
     {
       "site_id": "eastmoney",
       "site_name": "东方财富",
@@ -21,11 +14,16 @@
       "item_count": 0
     },
     {
-      "site_id": "cs",
-      "site_name": "中国证券报",
-      "ok": false,
-      "item_count": 0,
-      "error": "404 Client Error: Not Found for url: https://www.cs.com.cn/rss/rss.xml"
+      "site_id": "cls",
+      "site_name": "财联社",
+      "ok": true,
+      "item_count": 0
+    },
+    {
+      "site_id": "stcn",
+      "site_name": "证券时报",
+      "ok": true,
+      "item_count": 0
     },
     {
       "site_id": "jiemian",
@@ -35,41 +33,45 @@
       "error": "404 Client Error: Not Found for url: https://www.jiemian.com/rss/index.xml"
     },
     {
-      "site_id": "cls",
-      "site_name": "财联社",
-      "ok": true,
-      "item_count": 0
-    },
-    {
       "site_id": "36kr",
       "site_name": "36氪",
       "ok": true,
-      "item_count": 28
+      "item_count": 25
     },
     {
-      "site_id": "stcn",
-      "site_name": "证券时报",
-      "ok": true,
-      "item_count": 0
+      "site_id": "sina_finance",
+      "site_name": "新浪财经",
+      "ok": false,
+      "item_count": 0,
+      "error": "404 Client Error: Not Found for url: https://rss.sina.com.cn/news/fin_roll/01.xml"
     },
     {
       "site_id": "tmtpost",
       "site_name": "钛媒体",
       "ok": true,
-      "item_count": 19
+      "item_count": 18
+    },
+    {
+      "site_id": "cs",
+      "site_name": "中国证券报",
+      "ok": false,
+      "item_count": 0,
+      "error": "404 Client Error: Not Found for url: https://www.cs.com.cn/rss/rss.xml"
     },
     {
       "site_id": "huxiu",
       "site_name": "虎嗅网",
-      "ok": true,
-      "item_count": 2
+      "ok": false,
+      "item_count": 0,
+      "error": "HTTPSConnectionPool(host='www.huxiu.com', port=443): Read timed out."
     }
   ],
-  "successful_sites": 7,
+  "successful_sites": 6,
   "failed_sites": [
+    "jiemian",
     "sina_finance",
     "cs",
-    "jiemian"
+    "huxiu"
   ],
-  "fetched_raw_items": 49
+  "fetched_raw_items": 43
 }
