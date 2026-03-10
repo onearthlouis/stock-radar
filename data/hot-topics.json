@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-03-10T08:02:07.782101Z",
+  "generated_at": "2026-03-10T09:09:58.970384Z",
   "window_hours": 24,
-  "total_items_analyzed": 44,
+  "total_items_analyzed": 45,
   "hot_topics": [
+    {
+      "keyword": "机器人",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "搭乘人形机器人概念，首开股份再涨停",
+        "机器人、能源产业押注“物理AI”：AI产业下一条万亿赛道浮现"
+      ]
+    },
+    {
+      "keyword": "储能",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "瑞士清洁科技公司Unbound Potential研发无膜氧化还原液流电池，提升电池长时储能能力"
+      ]
+    },
     {
       "keyword": "医药",
       "category": "板块",
@@ -20,19 +37,35 @@
       ]
     },
     {
-      "keyword": "汽车",
-      "category": "板块",
+      "keyword": "涨停",
+      "category": "市场",
       "count": 1,
       "sample_titles": [
-        "大众汽车去年全年营收3219.1亿欧元，同比下降0.8%"
+        "搭乘人形机器人概念，首开股份再涨停"
       ]
     },
     {
-      "keyword": "通胀",
-      "category": "宏观",
+      "keyword": "连板",
+      "category": "市场",
       "count": 1,
       "sample_titles": [
-        "高盛和巴克莱均警告：持续油价上涨或推高整体通胀"
+        "2连板中南文化：公司目前经营正常，无应披露而未披露的重大事项"
+      ]
+    },
+    {
+      "keyword": "恒指",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "恒指收涨2.17%，恒生科技指数涨2.4%"
+      ]
+    },
+    {
+      "keyword": "恒生科技",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "恒指收涨2.17%，恒生科技指数涨2.4%"
       ]
     }
   ]
