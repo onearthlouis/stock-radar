@@ -1,25 +1,8 @@
 {
-  "generated_at": "2026-03-10T07:01:03.150182Z",
+  "generated_at": "2026-03-10T08:02:07.782101Z",
   "window_hours": 24,
   "total_items_analyzed": 44,
   "hot_topics": [
-    {
-      "keyword": "银行",
-      "category": "板块",
-      "count": 2,
-      "sample_titles": [
-        "渣打拟在新加坡增加银行家数量以服务中国财富客户",
-        "Quest Global据悉将邀请银行参与10亿美元的IPO项目路演"
-      ]
-    },
-    {
-      "keyword": "芯片",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "Groq拟将AI芯片产量由9000片提高至15000片"
-      ]
-    },
     {
       "keyword": "医药",
       "category": "板块",
@@ -37,27 +20,19 @@
       ]
     },
     {
-      "keyword": "IPO",
-      "category": "市场",
+      "keyword": "汽车",
+      "category": "板块",
       "count": 1,
       "sample_titles": [
-        "Quest Global据悉将邀请银行参与10亿美元的IPO项目路演"
+        "大众汽车去年全年营收3219.1亿欧元，同比下降0.8%"
       ]
     },
     {
-      "keyword": "恒生科技",
-      "category": "港股",
+      "keyword": "通胀",
+      "category": "宏观",
       "count": 1,
       "sample_titles": [
-        "恒生科技指数午后涨超2%"
-      ]
-    },
-    {
-      "keyword": "南向资金",
-      "category": "港股",
-      "count": 1,
-      "sample_titles": [
-        "南向资金净卖出额达30亿港元"
+        "高盛和巴克莱均警告：持续油价上涨或推高整体通胀"
       ]
     }
   ]
