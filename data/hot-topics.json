@@ -1,22 +1,57 @@
 {
-  "generated_at": "2026-03-10T04:48:07.998693Z",
+  "generated_at": "2026-03-10T05:53:37.152084Z",
   "window_hours": 24,
-  "total_items_analyzed": 44,
+  "total_items_analyzed": 42,
   "hot_topics": [
+    {
+      "keyword": "银行",
+      "category": "板块",
+      "count": 3,
+      "sample_titles": [
+        "渣打拟在新加坡增加银行家数量以服务中国财富客户",
+        "Quest Global据悉将邀请银行参与10亿美元的IPO项目路演",
+        "亚洲人才争夺战加剧，资深银行家纷纷跳槽到竞争对手"
+      ]
+    },
+    {
+      "keyword": "恒生科技",
+      "category": "港股",
+      "count": 2,
+      "sample_titles": [
+        "恒生科技指数午后涨超2%",
+        "恒指午间休盘涨1.56%，恒生科技指数涨1.4%"
+      ]
+    },
+    {
+      "keyword": "芯片",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "Groq拟将AI芯片产量由9000片提高至15000片"
+      ]
+    },
+    {
+      "keyword": "人工智能",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "亚马逊在人工智能相关宕机事件后召开工程会议"
+      ]
+    },
+    {
+      "keyword": "医药",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "从获批到撤市仅 12 个月：和黄医药这款首创药栽在安全性上"
+      ]
+    },
     {
       "keyword": "消费",
       "category": "板块",
       "count": 1,
       "sample_titles": [
         "从“平替”到“价值领跑”：国货运动品牌全面突破｜世研消费指数品牌榜Vol.158"
-      ]
-    },
-    {
-      "keyword": "银行",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "亚洲人才争夺战加剧，资深银行家纷纷跳槽到竞争对手"
       ]
     },
     {
@@ -28,11 +63,19 @@
       ]
     },
     {
-      "keyword": "石油",
-      "category": "板块",
+      "keyword": "涨停",
+      "category": "市场",
       "count": 1,
       "sample_titles": [
-        "半日主力资金加仓电子股，抛售石油石化股"
+        "【钛晨报】又一轮能化品种涨停潮，上期所风控措施再加码；OpenClaw爆火，腾讯、字节相继推出自家“小龙虾”产品；消息称苹果上调首款折叠机备货量"
+      ]
+    },
+    {
+      "keyword": "IPO",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "Quest Global据悉将邀请银行参与10亿美元的IPO项目路演"
       ]
     },
     {
@@ -44,11 +87,11 @@
       ]
     },
     {
-      "keyword": "恒生科技",
+      "keyword": "南向资金",
       "category": "港股",
       "count": 1,
       "sample_titles": [
-        "恒指午间休盘涨1.56%，恒生科技指数涨1.4%"
+        "南向资金净卖出额达30亿港元"
       ]
     }
   ]
