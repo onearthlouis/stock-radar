@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-03-11T07:04:23.007375Z",
+  "generated_at": "2026-03-11T08:02:11.136860Z",
   "window_hours": 24,
-  "total_items_analyzed": 52,
+  "total_items_analyzed": 53,
   "hot_topics": [
     {
       "keyword": "半导体",
@@ -13,12 +13,30 @@
       ]
     },
     {
+      "keyword": "医疗",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "互联网医疗超级独角兽，倒在了2026年开春",
+        "国内管线占比过半，MNC缺席四代靶向药"
+      ]
+    },
+    {
       "keyword": "汽车",
       "category": "板块",
       "count": 2,
       "sample_titles": [
         "中汽协：2月新能源汽车产销分别完成69.4万辆和76.5万辆，同比分别下降21.8%和14.2%",
         "中汽协：2月汽车产销分别完成167.2万辆和180.5万辆，同比分别下降20.5%和15.2%"
+      ]
+    },
+    {
+      "keyword": "IPO",
+      "category": "市场",
+      "count": 2,
+      "sample_titles": [
+        "“两会”点名+多家IPO在即，脑机接口沸腾了",
+        "正大种业：利润持续下滑，手握3亿理财产品，6成资产为“现金类”仍要上市募资｜IPO观察"
       ]
     },
     {
@@ -42,15 +60,7 @@
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "国际爆款带状疱疹疫苗，为何在国内卖不动？"
-      ]
-    },
-    {
-      "keyword": "医疗",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "国际爆款带状疱疹疫苗，为何在国内卖不动？"
+        "国内管线占比过半，MNC缺席四代靶向药"
       ]
     },
     {
@@ -62,27 +72,11 @@
       ]
     },
     {
-      "keyword": "IPO",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "正大种业：利润持续下滑，手握3亿理财产品，6成资产为“现金类”仍要上市募资｜IPO观察"
-      ]
-    },
-    {
       "keyword": "港股",
       "category": "港股",
       "count": 1,
       "sample_titles": [
         "“龙虾”概念港股跌幅扩大，MINIMAX-WP跌7%"
-      ]
-    },
-    {
-      "keyword": "央行",
-      "category": "宏观",
-      "count": 1,
-      "sample_titles": [
-        "紧缩预期升温，两家澳洲大行预计澳央行3月份将连续第二次加息"
       ]
     }
   ]
