@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-03-11T09:09:06.618168Z",
+  "generated_at": "2026-03-11T10:08:47.485464Z",
   "window_hours": 24,
-  "total_items_analyzed": 52,
+  "total_items_analyzed": 49,
   "hot_topics": [
     {
       "keyword": "医药",
@@ -22,38 +22,19 @@
       ]
     },
     {
-      "keyword": "汽车",
-      "category": "板块",
-      "count": 2,
-      "sample_titles": [
-        "吉利汽车港股收涨8.21%，极氪8X技术亮点与高端化战略引关注",
-        "小米汽车：小米YU7 2月销量20196辆"
-      ]
-    },
-    {
-      "keyword": "港股",
-      "category": "港股",
-      "count": 2,
-      "sample_titles": [
-        "李想考虑回购部分港股股份",
-        "吉利汽车港股收涨8.21%，极氪8X技术亮点与高端化战略引关注"
-      ]
-    },
-    {
-      "keyword": "证监会",
-      "category": "宏观",
-      "count": 2,
-      "sample_titles": [
-        "华丰科技：向特定对象发行股票申请获中国证监会同意注册批复",
-        "斯达半导：向特定对象发行可转换公司债券申请获中国证监会同意注册批复"
-      ]
-    },
-    {
-      "keyword": "人工智能",
+      "keyword": "机器人",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "杨立昆，两个月融了70.8亿"
+        "一家年轻机器人公司的生存逻辑"
+      ]
+    },
+    {
+      "keyword": "汽车",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "江淮汽车：前2月销量同比下降11.78%"
       ]
     },
     {
@@ -81,19 +62,27 @@
       ]
     },
     {
-      "keyword": "恒指",
+      "keyword": "港股",
       "category": "港股",
       "count": 1,
       "sample_titles": [
-        "恒指收跌0.24%，恒生科技指数跌0.11%"
+        "李想考虑回购部分港股股份"
       ]
     },
     {
-      "keyword": "恒生科技",
+      "keyword": "南向资金",
       "category": "港股",
       "count": 1,
       "sample_titles": [
-        "恒指收跌0.24%，恒生科技指数跌0.11%"
+        "腾讯控股逆势遭南向资金净卖出24.35亿港元"
+      ]
+    },
+    {
+      "keyword": "证监会",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "华丰科技：向特定对象发行股票申请获中国证监会同意注册批复"
       ]
     }
   ]
