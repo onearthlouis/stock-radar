@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-03-12T10:09:02.349650Z",
+  "generated_at": "2026-03-12T11:07:58.832017Z",
   "window_hours": 24,
-  "total_items_analyzed": 46,
+  "total_items_analyzed": 49,
   "hot_topics": [
+    {
+      "keyword": "IPO",
+      "category": "市场",
+      "count": 4,
+      "sample_titles": [
+        "天味食品：香肠调料不好卖业绩双降，“清仓式”分红后赴港IPO｜看财报",
+        "证监会同意天海电子深市主板IPO注册",
+        "嘉德利：低研发高毛利，机构高价突击入股，资金充裕为何还要募资补流？｜IPO观察"
+      ]
+    },
     {
       "keyword": "芯片",
       "category": "板块",
@@ -24,45 +34,27 @@
       ]
     },
     {
-      "keyword": "IPO",
-      "category": "市场",
-      "count": 3,
-      "sample_titles": [
-        "证监会同意天海电子深市主板IPO注册",
-        "嘉德利：低研发高毛利，机构高价突击入股，资金充裕为何还要募资补流？｜IPO观察",
-        "科莱瑞迪：拟募资缩水、补流项目删除、第一大客户为参股公司，关联交易公允性遭北交所问询｜IPO观察"
-      ]
-    },
-    {
-      "keyword": "新能源",
+      "keyword": "人工智能",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "国能辽宁新能源开发公司注册资本增至10.5亿元"
+        "真爱美家：探迹远擎不存在未来12个月内对公司资产和业务进行出售、合并的计划，公司不涉及人工智能业务"
       ]
     },
     {
-      "keyword": "医疗",
+      "keyword": "医药",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "美国医疗市场AI争夺战：巨头押注，创业公司能赢吗？"
+        "步长制药：全资子公司山东丹红拟与鸿育医药签署技术转让与科研合作合同"
       ]
     },
     {
-      "keyword": "金融",
+      "keyword": "消费",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "新加坡金融科技企业MetaComp完成Pre-A+轮融资｜融资速递"
-      ]
-    },
-    {
-      "keyword": "汽车",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "理想汽车重构体系化销售能力"
+        "回村的年轻人，撑起消费市场再“下沉”"
       ]
     },
     {
@@ -74,11 +66,43 @@
       ]
     },
     {
+      "keyword": "跌停",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "上期所调整黄金等期货相关合约涨跌停板幅度和交易保证金比例"
+      ]
+    },
+    {
       "keyword": "退市",
       "category": "市场",
       "count": 1,
       "sample_titles": [
         "*ST长药：收到股票终止上市决定，将于3月20日进入退市整理期"
+      ]
+    },
+    {
+      "keyword": "减持",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "天力锂能：股东安徽高新投新材料产业基金拟减持不超3%股份"
+      ]
+    },
+    {
+      "keyword": "增持",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "恺英网络：董事长金锋拟不低于1.5亿元增持公司股份"
+      ]
+    },
+    {
+      "keyword": "分红",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "天味食品：香肠调料不好卖业绩双降，“清仓式”分红后赴港IPO｜看财报"
       ]
     },
     {
