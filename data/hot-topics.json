@@ -1,15 +1,24 @@
 {
-  "generated_at": "2026-03-13T23:35:43.316871Z",
+  "generated_at": "2026-03-14T02:38:20.713907Z",
   "window_hours": 24,
-  "total_items_analyzed": 52,
+  "total_items_analyzed": 49,
   "hot_topics": [
     {
-      "keyword": "回购",
+      "keyword": "石油",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "加拿大将释放2360万桶石油储备",
+        "4亿桶砸出个油价新高，石油市场恐慌重燃"
+      ]
+    },
+    {
+      "keyword": "IPO",
       "category": "市场",
       "count": 2,
       "sample_titles": [
-        "赛诺医疗：拟以1500万元—3000万元回购公司股份",
-        "鼎胜新材：拟以7000万元—1.4亿元回购公司股份"
+        "SpaceX据悉计划将IPO的相关工作分配给多家银行",
+        "“小迈瑞”麦科田二闯港交所：并购堆起82亿估值，商誉占净资产半壁江山，八成收入绑死经销商丨IPO观察"
       ]
     },
     {
@@ -18,14 +27,6 @@
       "count": 1,
       "sample_titles": [
         "科氪 | AWE 2026再携重磅阵容，MOVA全面披露芯片战略，擎画“主动时代”技术版图"
-      ]
-    },
-    {
-      "keyword": "机器人",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "它石A1机器人获吉尼斯世界纪录称号"
       ]
     },
     {
@@ -45,19 +46,19 @@
       ]
     },
     {
-      "keyword": "石油",
+      "keyword": "银行",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "4亿桶砸出个油价新高，石油市场恐慌重燃"
+        "SpaceX据悉计划将IPO的相关工作分配给多家银行"
       ]
     },
     {
-      "keyword": "IPO",
-      "category": "市场",
+      "keyword": "汽车",
+      "category": "板块",
       "count": 1,
       "sample_titles": [
-        "“小迈瑞”麦科田二闯港交所：并购堆起82亿估值，商誉占净资产半壁江山，八成收入绑死经销商丨IPO观察"
+        "理想汽车的变革方向，被严重误解了"
       ]
     },
     {
@@ -69,6 +70,14 @@
       ]
     },
     {
+      "keyword": "回购",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "赛诺医疗：拟以1500万元—3000万元回购公司股份"
+      ]
+    },
+    {
       "keyword": "GDP",
       "category": "宏观",
       "count": 1,
@@ -77,11 +86,11 @@
       ]
     },
     {
-      "keyword": "国务院",
+      "keyword": "美联储",
       "category": "宏观",
       "count": 1,
       "sample_titles": [
-        "李强主持召开国务院常务会议，研究建立地方财政补贴负面清单管理机制"
+        "“几乎毫无证据” 美法官驳回针对美联储主席鲍威尔的传票"
       ]
     }
   ]
