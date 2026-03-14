@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-03-14T08:44:36.094351Z",
+  "generated_at": "2026-03-14T09:41:03.292079Z",
   "window_hours": 24,
-  "total_items_analyzed": 47,
+  "total_items_analyzed": 46,
   "hot_topics": [
+    {
+      "keyword": "银行",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "多家银行出手，积存金或将“限购”",
+        "SpaceX据悉计划将IPO的相关工作分配给多家银行"
+      ]
+    },
+    {
+      "keyword": "芯片",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "美国商务部撤回拟议的AI芯片出口管制新规"
+      ]
+    },
     {
       "keyword": "机器人",
       "category": "板块",
@@ -12,35 +29,11 @@
       ]
     },
     {
-      "keyword": "银行",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "SpaceX据悉计划将IPO的相关工作分配给多家银行"
-      ]
-    },
-    {
-      "keyword": "石油",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "加拿大将释放2360万桶石油储备"
-      ]
-    },
-    {
       "keyword": "IPO",
       "category": "市场",
       "count": 1,
       "sample_titles": [
         "SpaceX据悉计划将IPO的相关工作分配给多家银行"
-      ]
-    },
-    {
-      "keyword": "美联储",
-      "category": "宏观",
-      "count": 1,
-      "sample_titles": [
-        "“几乎毫无证据” 美法官驳回针对美联储主席鲍威尔的传票"
       ]
     }
   ]
