@@ -1,15 +1,16 @@
 {
-  "generated_at": "2026-03-16T05:30:11.807923Z",
+  "generated_at": "2026-03-16T06:55:30.698986Z",
   "window_hours": 24,
-  "total_items_analyzed": 44,
+  "total_items_analyzed": 46,
   "hot_topics": [
     {
       "keyword": "机器人",
       "category": "板块",
-      "count": 2,
+      "count": 4,
       "sample_titles": [
-        "清越科技发布双品牌战略，将拓展服务机器人核心部件领域丨最前线",
-        "两位清华校友创业：获谷歌、英伟达系投资人押注，要把机器人数据采集成本降50倍丨36氪首发"
+        "英伟达CES同款机器人Reachy Mini登陆阿里速卖通",
+        "蚂蚁灵波与乐聚机器人签署战略合作协议",
+        "清越科技发布双品牌战略，将拓展服务机器人核心部件领域丨最前线"
       ]
     },
     {
@@ -31,11 +32,11 @@
       ]
     },
     {
-      "keyword": "银行",
+      "keyword": "新能源",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "巴克莱银行预计英国央行3月将维持利率不变"
+        "港股新能源车企股震荡走高，比亚迪股份涨超7%"
       ]
     },
     {
@@ -47,6 +48,22 @@
       ]
     },
     {
+      "keyword": "汽车",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "美的集团旗下汽车部件公司增资至12亿元"
+      ]
+    },
+    {
+      "keyword": "新能源车",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "港股新能源车企股震荡走高，比亚迪股份涨超7%"
+      ]
+    },
+    {
       "keyword": "涨停",
       "category": "市场",
       "count": 1,
@@ -55,27 +72,11 @@
       ]
     },
     {
-      "keyword": "恒指",
+      "keyword": "港股",
       "category": "港股",
       "count": 1,
       "sample_titles": [
-        "恒指午间休盘涨1.14%，恒生科技指数涨2.24%"
-      ]
-    },
-    {
-      "keyword": "恒生科技",
-      "category": "港股",
-      "count": 1,
-      "sample_titles": [
-        "恒指午间休盘涨1.14%，恒生科技指数涨2.24%"
-      ]
-    },
-    {
-      "keyword": "央行",
-      "category": "宏观",
-      "count": 1,
-      "sample_titles": [
-        "巴克莱银行预计英国央行3月将维持利率不变"
+        "港股新能源车企股震荡走高，比亚迪股份涨超7%"
       ]
     }
   ]
