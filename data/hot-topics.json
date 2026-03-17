@@ -1,82 +1,84 @@
 {
-  "generated_at": "2026-03-17T09:01:03.129530Z",
+  "generated_at": "2026-03-17T10:26:52.030131Z",
   "window_hours": 24,
-  "total_items_analyzed": 47,
+  "total_items_analyzed": 51,
   "hot_topics": [
-    {
-      "keyword": "汽车",
-      "category": "板块",
-      "count": 3,
-      "sample_titles": [
-        "零跑汽车旗下公司在成都成立汽车销售服务公司",
-        "理想汽车发布下一代自动驾驶基础模型MindVLA-o1",
-        "零一汽车再获12亿元融资，想成为重卡领域的「特斯拉」｜36氪首发"
-      ]
-    },
-    {
-      "keyword": "医药",
-      "category": "板块",
-      "count": 2,
-      "sample_titles": [
-        "中国医药：注射用硫酸艾沙康唑获药品注册证书",
-        "东北关氏家族，从儿童药的顶峰跌落"
-      ]
-    },
     {
       "keyword": "医疗",
       "category": "板块",
-      "count": 2,
+      "count": 3,
       "sample_titles": [
+        "开立医疗：拟1亿元至2亿元回购股份",
         "东北关氏家族，从儿童药的顶峰跌落",
         "清华教授领衔，成立不到2年的AI医疗公司正在筹备IPO"
       ]
     },
     {
-      "keyword": "新能源",
+      "keyword": "半导体",
       "category": "板块",
-      "count": 1,
+      "count": 2,
       "sample_titles": [
-        "中广核山西新能源投资公司增资至约85.6亿元"
+        "拿下半导体领域关键客户粉体材料采购订单，「矽瓷新能」完成数千万元A轮融资 | 36氪首发",
+        "上市首亏巨压下，一彬科技半年砸2.6亿“押注”半导体"
       ]
     },
     {
       "keyword": "芯片",
       "category": "板块",
-      "count": 1,
+      "count": 2,
       "sample_titles": [
-        "地平线芯片负责人将离职，公司走向软硬一体架构｜36氪独家"
+        "SK会长：将力求稳定芯片价格，考虑海力士在美上市",
+        "北京君正：目前DRAM芯片、Flash芯片和部分计算芯片价格有调整"
       ]
     },
     {
-      "keyword": "消费",
+      "keyword": "汽车",
       "category": "板块",
-      "count": 1,
+      "count": 2,
       "sample_titles": [
-        "中产女性奢侈品消费新趋势：对名牌包祛魅，悦己消费盛行"
+        "吉利汽车：“超级Eva+G-ASD 4.0”即将发布并量产上车",
+        "三菱电机正在就接受富士康对其汽车零部件业务的投资进行谈判"
       ]
     },
     {
       "keyword": "IPO",
       "category": "市场",
-      "count": 1,
+      "count": 2,
       "sample_titles": [
+        "思谋科技IPO：突围大模型的“工业盲区”",
         "清华教授领衔，成立不到2年的AI医疗公司正在筹备IPO"
       ]
     },
     {
-      "keyword": "恒指",
-      "category": "港股",
+      "keyword": "机器人",
+      "category": "板块",
       "count": 1,
       "sample_titles": [
-        "恒指收涨0.13%，恒生科技指数跌0.08%"
+        "中力股份：拟3.5亿元投建年产5万台智能机器人及10万套叉车部套件新技术建设项目"
       ]
     },
     {
-      "keyword": "恒生科技",
-      "category": "港股",
+      "keyword": "医药",
+      "category": "板块",
       "count": 1,
       "sample_titles": [
-        "恒指收涨0.13%，恒生科技指数跌0.08%"
+        "东北关氏家族，从儿童药的顶峰跌落"
+      ]
+    },
+    {
+      "keyword": "银行",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "摩根大通任命刘伯伟为亚太区投资银行副主席、张毅为中国区投资银行联席主管"
+      ]
+    },
+    {
+      "keyword": "回购",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "开立医疗：拟1亿元至2亿元回购股份"
       ]
     },
     {
@@ -84,7 +86,7 @@
       "category": "港股",
       "count": 1,
       "sample_titles": [
-        "南向资金净卖出额达100亿港元"
+        "盈富基金遭南向资金净卖出64.44亿港元"
       ]
     }
   ]
