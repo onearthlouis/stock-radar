@@ -1,18 +1,8 @@
 {
-  "generated_at": "2026-03-17T10:26:52.030131Z",
+  "generated_at": "2026-03-17T11:26:02.632200Z",
   "window_hours": 24,
-  "total_items_analyzed": 51,
+  "total_items_analyzed": 53,
   "hot_topics": [
-    {
-      "keyword": "医疗",
-      "category": "板块",
-      "count": 3,
-      "sample_titles": [
-        "开立医疗：拟1亿元至2亿元回购股份",
-        "东北关氏家族，从儿童药的顶峰跌落",
-        "清华教授领衔，成立不到2年的AI医疗公司正在筹备IPO"
-      ]
-    },
     {
       "keyword": "半导体",
       "category": "板块",
@@ -32,6 +22,15 @@
       ]
     },
     {
+      "keyword": "医疗",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "拿到礼来减肥药大单的康龙化成，还是干不过药明康德",
+        "开立医疗：拟1亿元至2亿元回购股份"
+      ]
+    },
+    {
       "keyword": "汽车",
       "category": "板块",
       "count": 2,
@@ -41,20 +40,11 @@
       ]
     },
     {
-      "keyword": "IPO",
-      "category": "市场",
-      "count": 2,
-      "sample_titles": [
-        "思谋科技IPO：突围大模型的“工业盲区”",
-        "清华教授领衔，成立不到2年的AI医疗公司正在筹备IPO"
-      ]
-    },
-    {
-      "keyword": "机器人",
+      "keyword": "人工智能",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "中力股份：拟3.5亿元投建年产5万台智能机器人及10万套叉车部套件新技术建设项目"
+        "首批场外双创人工智能指数基金获批"
       ]
     },
     {
@@ -62,7 +52,7 @@
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "东北关氏家族，从儿童药的顶峰跌落"
+        "拿到礼来减肥药大单的康龙化成，还是干不过药明康德"
       ]
     },
     {
@@ -70,7 +60,47 @@
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "摩根大通任命刘伯伟为亚太区投资银行副主席、张毅为中国区投资银行联席主管"
+        "中小银行理财2026年末或不需“清零”，母行资质成理财子能否获批关键"
+      ]
+    },
+    {
+      "keyword": "地产",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "妖股一字跌停！ST科利达及董事长突遭立案，控制权变更或添变数"
+      ]
+    },
+    {
+      "keyword": "跌停",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "妖股一字跌停！ST科利达及董事长突遭立案，控制权变更或添变数"
+      ]
+    },
+    {
+      "keyword": "IPO",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "AI硬件IPO潮继续席卷：四家公司扎堆港股，硬科技融资窗口继续开闸"
+      ]
+    },
+    {
+      "keyword": "退市",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "美芝股份：股票可能被实施退市风险警示"
+      ]
+    },
+    {
+      "keyword": "减持",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "万通智控：控股股东拟减持公司不超2%股份"
       ]
     },
     {
@@ -82,11 +112,11 @@
       ]
     },
     {
-      "keyword": "南向资金",
+      "keyword": "港股",
       "category": "港股",
       "count": 1,
       "sample_titles": [
-        "盈富基金遭南向资金净卖出64.44亿港元"
+        "AI硬件IPO潮继续席卷：四家公司扎堆港股，硬科技融资窗口继续开闸"
       ]
     }
   ]
