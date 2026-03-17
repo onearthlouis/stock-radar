@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-03-17T12:05:35.535908Z",
+  "generated_at": "2026-03-17T13:58:22.358443Z",
   "window_hours": 24,
   "total_items_analyzed": 53,
   "hot_topics": [
+    {
+      "keyword": "减持",
+      "category": "市场",
+      "count": 4,
+      "sample_titles": [
+        "慧智微：股东GZPA拟减持公司不超1.25%股份",
+        "华立股份：股东拟减持公司不超1%股份",
+        "华绿生物：股东宿迁华鑫拟减持不超1%公司股份"
+      ]
+    },
     {
       "keyword": "半导体",
       "category": "板块",
@@ -31,23 +41,6 @@
       ]
     },
     {
-      "keyword": "减持",
-      "category": "市场",
-      "count": 2,
-      "sample_titles": [
-        "华绿生物：股东宿迁华鑫拟减持不超1%公司股份",
-        "安孚科技：股东拟减持公司不超250.49万股股份"
-      ]
-    },
-    {
-      "keyword": "人工智能",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "首批场外双创人工智能指数基金获批"
-      ]
-    },
-    {
       "keyword": "医药",
       "category": "板块",
       "count": 1,
@@ -56,19 +49,27 @@
       ]
     },
     {
-      "keyword": "银行",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "中小银行理财2026年末或不需“清零”，母行资质成理财子能否获批关键"
-      ]
-    },
-    {
       "keyword": "地产",
       "category": "板块",
       "count": 1,
       "sample_titles": [
         "妖股一字跌停！ST科利达及董事长突遭立案，控制权变更或添变数"
+      ]
+    },
+    {
+      "keyword": "汽车",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "现代汽车公司和起亚扩大与英伟达在自动驾驶领域的合作"
+      ]
+    },
+    {
+      "keyword": "天然气",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "谷歌与密歇根天然气公司合作在美国密歇根州建设数据中心"
       ]
     },
     {
@@ -88,14 +89,6 @@
       ]
     },
     {
-      "keyword": "退市",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "美芝股份：股票可能被实施退市风险警示"
-      ]
-    },
-    {
       "keyword": "回购",
       "category": "市场",
       "count": 1,
@@ -109,6 +102,14 @@
       "count": 1,
       "sample_titles": [
         "AI硬件IPO潮继续席卷：四家公司扎堆港股，硬科技融资窗口继续开闸"
+      ]
+    },
+    {
+      "keyword": "美联储",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "麦格理预计美联储将在2027年上半年加息"
       ]
     }
   ]
