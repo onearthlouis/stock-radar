@@ -1,8 +1,27 @@
 {
-  "generated_at": "2026-03-17T07:37:14.657961Z",
+  "generated_at": "2026-03-17T09:01:03.129530Z",
   "window_hours": 24,
-  "total_items_analyzed": 51,
+  "total_items_analyzed": 47,
   "hot_topics": [
+    {
+      "keyword": "汽车",
+      "category": "板块",
+      "count": 3,
+      "sample_titles": [
+        "零跑汽车旗下公司在成都成立汽车销售服务公司",
+        "理想汽车发布下一代自动驾驶基础模型MindVLA-o1",
+        "零一汽车再获12亿元融资，想成为重卡领域的「特斯拉」｜36氪首发"
+      ]
+    },
+    {
+      "keyword": "医药",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "中国医药：注射用硫酸艾沙康唑获药品注册证书",
+        "东北关氏家族，从儿童药的顶峰跌落"
+      ]
+    },
     {
       "keyword": "医疗",
       "category": "板块",
@@ -13,20 +32,11 @@
       ]
     },
     {
-      "keyword": "汽车",
-      "category": "板块",
-      "count": 2,
-      "sample_titles": [
-        "变速箱接地线松动或致电路短路，大众在美召回48165辆汽车",
-        "零一汽车再获12亿元融资，想成为重卡领域的「特斯拉」｜36氪首发"
-      ]
-    },
-    {
-      "keyword": "半导体",
+      "keyword": "新能源",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "英诺赛科半导体公司增资至44亿元"
+        "中广核山西新能源投资公司增资至约85.6亿元"
       ]
     },
     {
@@ -35,14 +45,6 @@
       "count": 1,
       "sample_titles": [
         "地平线芯片负责人将离职，公司走向软硬一体架构｜36氪独家"
-      ]
-    },
-    {
-      "keyword": "医药",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "东北关氏家族，从儿童药的顶峰跌落"
       ]
     },
     {
@@ -62,19 +64,27 @@
       ]
     },
     {
-      "keyword": "减持",
-      "category": "市场",
+      "keyword": "恒指",
+      "category": "港股",
       "count": 1,
       "sample_titles": [
-        "股东拟“清仓式”减持，昭衍新药回应"
+        "恒指收涨0.13%，恒生科技指数跌0.08%"
       ]
     },
     {
-      "keyword": "央行",
-      "category": "宏观",
+      "keyword": "恒生科技",
+      "category": "港股",
       "count": 1,
       "sample_titles": [
-        "澳大利亚央行宣布加息"
+        "恒指收涨0.13%，恒生科技指数跌0.08%"
+      ]
+    },
+    {
+      "keyword": "南向资金",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "南向资金净卖出额达100亿港元"
       ]
     }
   ]
