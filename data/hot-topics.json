@@ -1,17 +1,8 @@
 {
-  "generated_at": "2026-03-18T06:40:55.260668Z",
+  "generated_at": "2026-03-18T07:57:14.942956Z",
   "window_hours": 24,
-  "total_items_analyzed": 52,
+  "total_items_analyzed": 51,
   "hot_topics": [
-    {
-      "keyword": "汽车",
-      "category": "板块",
-      "count": 2,
-      "sample_titles": [
-        "韩国2月汽车出口额同比下降20.8%",
-        "奇瑞汽车：2025年公司拥有人应占利润同比增加34.6%"
-      ]
-    },
     {
       "keyword": "半导体",
       "category": "板块",
@@ -21,11 +12,19 @@
       ]
     },
     {
-      "keyword": "金融",
+      "keyword": "银行",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "韩国金融监管机构称将制定禁止母公司与子公司“双重上市”的具体方案"
+        "甘肃农村商业银行登记成立"
+      ]
+    },
+    {
+      "keyword": "汽车",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "韩国2月汽车出口额同比下降20.8%"
       ]
     },
     {
@@ -34,14 +33,6 @@
       "count": 1,
       "sample_titles": [
         "新日铁获得9000亿日元贷款，用于收购美国钢铁"
-      ]
-    },
-    {
-      "keyword": "港股",
-      "category": "港股",
-      "count": 1,
-      "sample_titles": [
-        "阿里巴巴港股午后短线拉升，现涨近2%"
       ]
     }
   ]
