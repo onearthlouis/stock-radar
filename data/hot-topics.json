@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-03-18T07:57:14.942956Z",
+  "generated_at": "2026-03-18T09:01:58.567668Z",
   "window_hours": 24,
-  "total_items_analyzed": 51,
+  "total_items_analyzed": 50,
   "hot_topics": [
+    {
+      "keyword": "汽车",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "众泰汽车：全资子公司深康车身复工复产启动",
+        "工信部发布《减免车辆购置税的新能源汽车车型目录》（第二十八批）"
+      ]
+    },
+    {
+      "keyword": "新能源",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "工信部发布《减免车辆购置税的新能源汽车车型目录》（第二十八批）"
+      ]
+    },
     {
       "keyword": "半导体",
       "category": "板块",
@@ -20,19 +37,35 @@
       ]
     },
     {
-      "keyword": "汽车",
+      "keyword": "低空经济",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "韩国2月汽车出口额同比下降20.8%"
+        "新疆通用航空公司等成立低空经济公司"
       ]
     },
     {
-      "keyword": "钢铁",
-      "category": "板块",
+      "keyword": "恒指",
+      "category": "港股",
       "count": 1,
       "sample_titles": [
-        "新日铁获得9000亿日元贷款，用于收购美国钢铁"
+        "恒指收涨0.61%，恒生科技指数涨0.01%"
+      ]
+    },
+    {
+      "keyword": "恒生科技",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "恒指收涨0.61%，恒生科技指数涨0.01%"
+      ]
+    },
+    {
+      "keyword": "证监会",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "证监会：坚决清除影响资本市场改革发展的“拦路虎”“绊脚石”"
       ]
     }
   ]
