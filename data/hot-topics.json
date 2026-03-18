@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-03-18T11:28:15.173537Z",
+  "generated_at": "2026-03-18T12:07:32.587950Z",
   "window_hours": 24,
-  "total_items_analyzed": 44,
+  "total_items_analyzed": 43,
   "hot_topics": [
+    {
+      "keyword": "减持",
+      "category": "市场",
+      "count": 3,
+      "sample_titles": [
+        "协鑫集成：第四大股东前海金控3月12日至3月17日减持5800万股",
+        "软通动力：股东CEL Bravo Limited拟减持不超2%股份",
+        "顾家家居：高管欧亚非拟减持不超0.07%股份"
+      ]
+    },
     {
       "keyword": "半导体",
       "category": "板块",
@@ -34,7 +44,7 @@
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "北京：对重点领域“人工智能+”示范项目，按有关政策给予不超过5000万元支持"
+        "在人工智能热潮的推动下，市场预期极高，美光迎来财报发布前夕"
       ]
     },
     {
@@ -46,19 +56,11 @@
       ]
     },
     {
-      "keyword": "减持",
-      "category": "市场",
+      "keyword": "低空经济",
+      "category": "板块",
       "count": 1,
       "sample_titles": [
-        "顾家家居：高管欧亚非拟减持不超0.07%股份"
-      ]
-    },
-    {
-      "keyword": "CPI",
-      "category": "宏观",
-      "count": 1,
-      "sample_titles": [
-        "欧元区2月CPI终值同比上升1.9%"
+        "吉峰科技：子公司签署低空经济领域战略合作协议"
       ]
     }
   ]
