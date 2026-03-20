@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-03-20T11:06:31.202346Z",
+  "generated_at": "2026-03-20T11:55:47.975392Z",
   "window_hours": 24,
-  "total_items_analyzed": 45,
+  "total_items_analyzed": 49,
   "hot_topics": [
+    {
+      "keyword": "机器人",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "宇树：计划在3年内发布“通用人形机器人具身基础模型”",
+        "求购Anthropic老股份额；求购多家机器人公司老股份额｜资情留言板第181期"
+      ]
+    },
     {
       "keyword": "IPO",
       "category": "市场",
       "count": 2,
       "sample_titles": [
-        "长进光子IPO定于3月27日上会",
-        "懂车帝或将聘请花旗和高盛安排香港IPO事宜"
-      ]
-    },
-    {
-      "keyword": "央行",
-      "category": "宏观",
-      "count": 2,
-      "sample_titles": [
-        "俄罗斯央行将基准利率下调至15.00%",
-        "央行：境内企业境外放款宏观审慎调节系数由0.5上调至0.6 整体提高境外放款余额上限"
+        "宇树科技IPO受理：营收17亿元、利润6亿元，王兴兴控制近7成表决权",
+        "长进光子IPO定于3月27日上会"
       ]
     },
     {
@@ -27,6 +27,14 @@
       "count": 1,
       "sample_titles": [
         "RENOGY 如果新能源：如何用16年时间打造一家Global Native公司｜出海踏浪者"
+      ]
+    },
+    {
+      "keyword": "半导体",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "半导体设备的下一个金矿，藏在封装厂里"
       ]
     },
     {
@@ -46,11 +54,11 @@
       ]
     },
     {
-      "keyword": "机器人",
+      "keyword": "光伏",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "求购Anthropic老股份额；求购多家机器人公司老股份额｜资情留言板第181期"
+        "氪星晚报｜迪卡侬正式入驻拼多多；特斯拉计划2026年批量交付Semi电动卡车，价格或低于30万美元；消息人士：马斯克团队采购光伏设备预计将在5月第一周发货"
       ]
     },
     {
@@ -67,6 +75,22 @@
       "count": 1,
       "sample_titles": [
         "集友股份：2025年净亏损1820万元，公司股票将被实施退市风险警示"
+      ]
+    },
+    {
+      "keyword": "回购",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "当腾讯不再“回购自由”"
+      ]
+    },
+    {
+      "keyword": "央行",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "俄罗斯央行将基准利率下调至15.00%"
       ]
     }
   ]
