@@ -1,30 +1,97 @@
 {
-  "generated_at": "2026-03-21T07:37:45.214680Z",
+  "generated_at": "2026-03-21T08:41:42.428596Z",
   "window_hours": 24,
-  "total_items": 48,
-  "total_items_raw": 48,
-  "total_items_all_mode": 48,
-  "archive_total": 1335,
-  "site_count": 3,
-  "source_count": 4,
+  "total_items": 45,
+  "total_items_raw": 45,
+  "total_items_all_mode": 45,
+  "archive_total": 1337,
+  "site_count": 2,
+  "source_count": 3,
   "site_stats": [
     {
       "site_id": "36kr",
       "site_name": "36氪",
-      "count": 28
+      "count": 27
     },
     {
       "site_id": "tmtpost",
       "site_name": "钛媒体",
       "count": 18
-    },
-    {
-      "site_id": "huxiu",
-      "site_name": "虎嗅网",
-      "count": 2
     }
   ],
   "items": [
+    {
+      "uid": "04e4af2ad6211d9b",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "LiblibAI发布AI视频创作平台LibTV",
+      "url": "https://36kr.com/newsflashes/3732441440665859?f=rss",
+      "published_at": "2026-03-21T08:35:46Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
+      "meta": {}
+    },
+    {
+      "uid": "c40cf574da35b4a1",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "为什么大厂必须抢郭达雅？",
+      "url": "https://www.tmtpost.com/7923709.html",
+      "published_at": "2026-03-21T08:14:39Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
+      "meta": {}
+    },
+    {
+      "uid": "c8895f1d817e4945",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "胖东来正与酒鬼酒洽谈600元新品",
+      "url": "https://36kr.com/newsflashes/3732411719794952?f=rss",
+      "published_at": "2026-03-21T08:05:32Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
+      "meta": {}
+    },
+    {
+      "uid": "154beda57851d3e0",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "钛媒体",
+      "title": "HALO资产从“AI避险”到“物理底座 ：历史变局中的实物资产重估与中国战略机遇",
+      "url": "https://www.tmtpost.com/7923764.html",
+      "published_at": "2026-03-21T07:44:00Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
+      "meta": {}
+    },
+    {
+      "uid": "636bc5b6c839cb27",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "马斯克：Optimus+PV将是首个冯诺依曼探测器",
+      "url": "https://36kr.com/newsflashes/3732387328655360?f=rss",
+      "published_at": "2026-03-21T07:40:43Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
+      "meta": {}
+    },
+    {
+      "uid": "946ec60c800a1cfb",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "Rabbit又行了？油管大V改口，将发第二款AI硬件",
+      "url": "https://www.tmtpost.com/7923602.html",
+      "published_at": "2026-03-21T07:33:30Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
+      "meta": {}
+    },
     {
       "uid": "522c2485d89495e0",
       "site_id": "36kr",
@@ -33,8 +100,8 @@
       "title": "雷军官宣：XiaomiMiMo首周限免开放",
       "url": "https://36kr.com/newsflashes/3732341580841218?f=rss",
       "published_at": "2026-03-21T06:54:11Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -45,8 +112,8 @@
       "title": "百度网盘GenFlow全新升级，融合OpenClaw，支持多人AI协作",
       "url": "https://36kr.com/newsflashes/3732314690240769?f=rss",
       "published_at": "2026-03-21T06:26:50Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -57,8 +124,8 @@
       "title": "美药管局在全美召回近9万瓶儿童布洛芬药物",
       "url": "https://36kr.com/newsflashes/3732313819791369?f=rss",
       "published_at": "2026-03-21T06:25:57Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -69,8 +136,8 @@
       "title": "网易云音乐接入OpenClaw",
       "url": "https://36kr.com/newsflashes/3732204385501448?f=rss",
       "published_at": "2026-03-21T04:51:30Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -81,8 +148,8 @@
       "title": "赤峰黄金易主前夜：一个从未下过矿的女老板，决定在最高点卖掉它",
       "url": "https://www.tmtpost.com/7923603.html",
       "published_at": "2026-03-21T04:46:49Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -93,8 +160,8 @@
       "title": "宇树上市，这10点你应该知道",
       "url": "https://www.tmtpost.com/7923637.html",
       "published_at": "2026-03-21T04:44:35Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -105,8 +172,8 @@
       "title": "报告：影石全景相机及拇指相机全球市占双第一，增速强劲",
       "url": "https://36kr.com/newsflashes/3732202908516610?f=rss",
       "published_at": "2026-03-21T04:33:07Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -117,8 +184,8 @@
       "title": "机构：受零部件成本影响，电视和显示器面板价格上涨",
       "url": "https://36kr.com/newsflashes/3732182190653449?f=rss",
       "published_at": "2026-03-21T04:27:55Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -129,8 +196,8 @@
       "title": "AI加速可控核聚变商业化，新烛时代完成6000万元天使轮融资｜融资速递",
       "url": "https://www.tmtpost.com/7923389.html",
       "published_at": "2026-03-21T04:14:44Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -141,8 +208,8 @@
       "title": "多家品牌金饰价格跌破1400元/克",
       "url": "https://36kr.com/newsflashes/3732181565652998?f=rss",
       "published_at": "2026-03-21T04:11:25Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -153,8 +220,8 @@
       "title": "改革正式启动，哥伦比亚广播公司新闻部裁员6%",
       "url": "https://36kr.com/newsflashes/3732029962912007?f=rss",
       "published_at": "2026-03-21T03:42:04Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -165,8 +232,8 @@
       "title": "航司燃油费上涨预期走强，消费者开始提前“囤”机票",
       "url": "https://36kr.com/newsflashes/3732029301309705?f=rss",
       "published_at": "2026-03-21T03:22:24Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -177,8 +244,8 @@
       "title": "杭州新元素药业股份有限公司递表港交所",
       "url": "https://36kr.com/newsflashes/3731988126121985?f=rss",
       "published_at": "2026-03-21T03:00:31Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -189,8 +256,8 @@
       "title": "视频号金豆刷量黑产实录：一场薅走平台与用户的“流量骗局”",
       "url": "https://www.tmtpost.com/7923468.html",
       "published_at": "2026-03-21T02:59:46Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -201,8 +268,8 @@
       "title": "谁在制造AI天才？",
       "url": "https://www.tmtpost.com/7923551.html",
       "published_at": "2026-03-21T02:57:08Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -213,8 +280,8 @@
       "title": "引爆光伏，上能电气、迈为股份带飞光伏板块， 中国光伏设备正卡住马斯克的脖子",
       "url": "https://www.tmtpost.com/7923540.html",
       "published_at": "2026-03-21T02:57:03Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -225,8 +292,8 @@
       "title": "Nat Commun：南方医科大学肖中举团队揭示感官诱导逃逸背后的神经机制",
       "url": "https://www.tmtpost.com/7923272.html",
       "published_at": "2026-03-21T02:56:58Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -237,8 +304,8 @@
       "title": "Nexstar宣布完成对Tegna收购，八州总检察长起诉阻止合并",
       "url": "https://36kr.com/newsflashes/3731987738624000?f=rss",
       "published_at": "2026-03-21T02:53:07Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -249,8 +316,8 @@
       "title": "“我的前额叶罢工了”，年轻人争相确诊“网红病”？",
       "url": "https://36kr.com/p/3732100232298503?f=rss",
       "published_at": "2026-03-21T02:51:33Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -261,8 +328,8 @@
       "title": "Cell Rep：军事医学研究院王以政团队揭示VTA星形胶质细胞调控GABA传递的抗焦虑抑郁机制",
       "url": "https://www.tmtpost.com/7923270.html",
       "published_at": "2026-03-21T02:45:29Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -273,8 +340,8 @@
       "title": "鸡蛋界LV翻车？黄天鹅“染色”风波全解析",
       "url": "https://www.tmtpost.com/7923423.html",
       "published_at": "2026-03-21T02:45:15Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -285,8 +352,8 @@
       "title": "对话心理学家：童年不是过去，我们还能否重写自己的故事",
       "url": "https://www.tmtpost.com/7923402.html",
       "published_at": "2026-03-21T02:44:33Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -297,8 +364,8 @@
       "title": "抑郁症全新作用机制，谢鹏/程可/郭毅团队揭示IL-17A诱发绝望行为的完整通路",
       "url": "https://www.tmtpost.com/7923271.html",
       "published_at": "2026-03-21T02:44:27Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -309,8 +376,8 @@
       "title": "爱康退市，钧达新生：英发睿能赴港，抢滩光伏专业化的身位？",
       "url": "https://www.tmtpost.com/7923034.html",
       "published_at": "2026-03-21T02:36:23Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -321,20 +388,8 @@
       "title": "宇树科技IPO终于来了，募资42亿，王兴兴控制近7成表决权",
       "url": "https://www.tmtpost.com/7923180.html",
       "published_at": "2026-03-21T02:36:00Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
-      "meta": {}
-    },
-    {
-      "uid": "1e657ee7116b8bcd",
-      "site_id": "huxiu",
-      "site_name": "虎嗅网",
-      "source": "虎嗅网",
-      "title": "蔚小理纷纷盈利之后，战事升级",
-      "url": "http://www.huxiu.com/article/4843969.html?f=wangzhan",
-      "published_at": "2026-03-21T02:33:50Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -345,8 +400,8 @@
       "title": "字节放手、网易垮台，国内MOBA留腾米对对碰了",
       "url": "https://www.tmtpost.com/7923390.html",
       "published_at": "2026-03-21T02:32:17Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -357,8 +412,8 @@
       "title": "腾讯音乐赚了110亿，股价却下跌，市场在担心什么？",
       "url": "https://www.tmtpost.com/7922959.html",
       "published_at": "2026-03-21T02:27:55Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -369,44 +424,8 @@
       "title": "PT Merdeka Gold Resources Tbk-S递表港交所",
       "url": "https://36kr.com/newsflashes/3731986439847944?f=rss",
       "published_at": "2026-03-21T02:27:45Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
-      "meta": {}
-    },
-    {
-      "uid": "1ce4ad61cb6687f9",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "投稿",
-      "title": "AI风越大，云计算越贵",
-      "url": "https://www.tmtpost.com/7922940.html",
-      "published_at": "2026-03-21T02:23:33Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
-      "meta": {}
-    },
-    {
-      "uid": "013ef6eed40a9e2d",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "投稿",
-      "title": "小米SU7告别等单，让其他车咋卖？",
-      "url": "https://www.tmtpost.com/7923387.html",
-      "published_at": "2026-03-21T02:21:08Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
-      "meta": {}
-    },
-    {
-      "uid": "83237940bac95ae0",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "投稿",
-      "title": "硬刚跨国巨头，毛利超75%，“医学影像大模型第一股”要来了",
-      "url": "https://www.tmtpost.com/7922973.html",
-      "published_at": "2026-03-21T02:20:37Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -417,20 +436,8 @@
       "title": "软银计划在俄亥俄建设5000亿美元的巨型AI数据中心",
       "url": "https://36kr.com/newsflashes/3731985496915974?f=rss",
       "published_at": "2026-03-21T02:12:50Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
-      "meta": {}
-    },
-    {
-      "uid": "efa6b7d74f0e90a7",
-      "site_id": "huxiu",
-      "site_name": "虎嗅网",
-      "source": "虎嗅网",
-      "title": "不止霍尔木兹海峡，这些知名海峡也靠“过路费”爽挣",
-      "url": "http://www.huxiu.com/article/4843907.html?f=wangzhan",
-      "published_at": "2026-03-21T02:00:00Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -441,8 +448,8 @@
       "title": "苹果CEO库克：新款Mac吸引了创纪录的首购客户",
       "url": "https://36kr.com/newsflashes/3731984704897288?f=rss",
       "published_at": "2026-03-21T01:56:02Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -453,8 +460,8 @@
       "title": "华泰证券：油、气处理量下降导致硫磺供给缺口，多方面冲击化工及金属",
       "url": "https://36kr.com/newsflashes/3731984117907713?f=rss",
       "published_at": "2026-03-21T01:27:24Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -465,8 +472,8 @@
       "title": "9点1氪：傅盛凌晨开撕周鸿祎称“被欠1个亿”，360回应；字节跳动413亿元卖掉沐瞳科技；伊朗战事持续或致油价升至180美元",
       "url": "https://36kr.com/p/3732001538490631?f=rss",
       "published_at": "2026-03-21T01:13:44Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -477,8 +484,8 @@
       "title": "马斯克被裁定在440亿美元收购案的欺诈诉讼中对Twitter股东负责",
       "url": "https://36kr.com/newsflashes/3731983543599110?f=rss",
       "published_at": "2026-03-21T01:07:50Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -489,8 +496,8 @@
       "title": "美股三大指数集体收跌，小鹏汽车跌超8%",
       "url": "https://36kr.com/newsflashes/3731981744292101?f=rss",
       "published_at": "2026-03-21T01:00:00Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -501,44 +508,8 @@
       "title": "万物云：与万科关联应收账款余额仅剩20.6亿，业务独立性持续增强",
       "url": "https://36kr.com/p/3731378273828868?f=rss",
       "published_at": "2026-03-20T14:35:18Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
-      "meta": {}
-    },
-    {
-      "uid": "bc69454deda43e9e",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "先导基电：拟定增募资不超35.1亿元，用于半导体光学部件研发及产业化项目等",
-      "url": "https://36kr.com/newsflashes/3731280465707273?f=rss",
-      "published_at": "2026-03-20T12:54:46Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
-      "meta": {}
-    },
-    {
-      "uid": "a80f3543c17013c6",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "德力股份：股东锦江集团拟减持不超3%公司股份",
-      "url": "https://36kr.com/newsflashes/3731273731276806?f=rss",
-      "published_at": "2026-03-20T12:47:55Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
-      "meta": {}
-    },
-    {
-      "uid": "89eee70ff390c281",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "热门中概股美股盘前跌多涨少，小鹏汽车跌超3%",
-      "url": "https://36kr.com/newsflashes/3731273217835268?f=rss",
-      "published_at": "2026-03-20T12:47:23Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -549,8 +520,8 @@
       "title": "氪星晚报｜迪卡侬正式入驻拼多多；特斯拉计划2026年批量交付Semi电动卡车，价格或低于30万美元；消息人士：马斯克团队采购光伏设备预计将在5月第一周发货",
       "url": "https://36kr.com/p/3731169592918273?f=rss",
       "published_at": "2026-03-20T11:08:25Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -561,8 +532,8 @@
       "title": "阿迪达斯，不看好2026的自己",
       "url": "https://36kr.com/p/3731096049795078?f=rss",
       "published_at": "2026-03-20T10:30:59Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -573,8 +544,8 @@
       "title": "RENOGY 如果新能源：如何用16年时间打造一家Global Native公司｜出海踏浪者",
       "url": "https://36kr.com/p/3731094987407617?f=rss",
       "published_at": "2026-03-20T09:49:41Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -585,25 +556,85 @@
       "title": "沙特土豪超60亿美元收购沐瞳：公司架构不变，张云帆仍是CEO",
       "url": "https://36kr.com/p/3731048121647361?f=rss",
       "published_at": "2026-03-20T09:34:43Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
-      "meta": {}
-    },
-    {
-      "uid": "e27fd77a13c4b0c4",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "求购Anthropic老股份额；求购多家机器人公司老股份额｜资情留言板第181期",
-      "url": "https://36kr.com/p/3730996090192130?f=rss",
-      "published_at": "2026-03-20T08:06:48Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     }
   ],
   "items_all": [
     {
+      "uid": "04e4af2ad6211d9b",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "LiblibAI发布AI视频创作平台LibTV",
+      "url": "https://36kr.com/newsflashes/3732441440665859?f=rss",
+      "published_at": "2026-03-21T08:35:46Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
+      "meta": {}
+    },
+    {
+      "uid": "c40cf574da35b4a1",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "为什么大厂必须抢郭达雅？",
+      "url": "https://www.tmtpost.com/7923709.html",
+      "published_at": "2026-03-21T08:14:39Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
+      "meta": {}
+    },
+    {
+      "uid": "c8895f1d817e4945",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "胖东来正与酒鬼酒洽谈600元新品",
+      "url": "https://36kr.com/newsflashes/3732411719794952?f=rss",
+      "published_at": "2026-03-21T08:05:32Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
+      "meta": {}
+    },
+    {
+      "uid": "154beda57851d3e0",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "钛媒体",
+      "title": "HALO资产从“AI避险”到“物理底座 ：历史变局中的实物资产重估与中国战略机遇",
+      "url": "https://www.tmtpost.com/7923764.html",
+      "published_at": "2026-03-21T07:44:00Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
+      "meta": {}
+    },
+    {
+      "uid": "636bc5b6c839cb27",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "马斯克：Optimus+PV将是首个冯诺依曼探测器",
+      "url": "https://36kr.com/newsflashes/3732387328655360?f=rss",
+      "published_at": "2026-03-21T07:40:43Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
+      "meta": {}
+    },
+    {
+      "uid": "946ec60c800a1cfb",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "Rabbit又行了？油管大V改口，将发第二款AI硬件",
+      "url": "https://www.tmtpost.com/7923602.html",
+      "published_at": "2026-03-21T07:33:30Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
+      "meta": {}
+    },
+    {
       "uid": "522c2485d89495e0",
       "site_id": "36kr",
       "site_name": "36氪",
@@ -611,8 +642,8 @@
       "title": "雷军官宣：XiaomiMiMo首周限免开放",
       "url": "https://36kr.com/newsflashes/3732341580841218?f=rss",
       "published_at": "2026-03-21T06:54:11Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -623,8 +654,8 @@
       "title": "百度网盘GenFlow全新升级，融合OpenClaw，支持多人AI协作",
       "url": "https://36kr.com/newsflashes/3732314690240769?f=rss",
       "published_at": "2026-03-21T06:26:50Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -635,8 +666,8 @@
       "title": "美药管局在全美召回近9万瓶儿童布洛芬药物",
       "url": "https://36kr.com/newsflashes/3732313819791369?f=rss",
       "published_at": "2026-03-21T06:25:57Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -647,8 +678,8 @@
       "title": "网易云音乐接入OpenClaw",
       "url": "https://36kr.com/newsflashes/3732204385501448?f=rss",
       "published_at": "2026-03-21T04:51:30Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -659,8 +690,8 @@
       "title": "赤峰黄金易主前夜：一个从未下过矿的女老板，决定在最高点卖掉它",
       "url": "https://www.tmtpost.com/7923603.html",
       "published_at": "2026-03-21T04:46:49Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -671,8 +702,8 @@
       "title": "宇树上市，这10点你应该知道",
       "url": "https://www.tmtpost.com/7923637.html",
       "published_at": "2026-03-21T04:44:35Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -683,8 +714,8 @@
       "title": "报告：影石全景相机及拇指相机全球市占双第一，增速强劲",
       "url": "https://36kr.com/newsflashes/3732202908516610?f=rss",
       "published_at": "2026-03-21T04:33:07Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -695,8 +726,8 @@
       "title": "机构：受零部件成本影响，电视和显示器面板价格上涨",
       "url": "https://36kr.com/newsflashes/3732182190653449?f=rss",
       "published_at": "2026-03-21T04:27:55Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -707,8 +738,8 @@
       "title": "AI加速可控核聚变商业化，新烛时代完成6000万元天使轮融资｜融资速递",
       "url": "https://www.tmtpost.com/7923389.html",
       "published_at": "2026-03-21T04:14:44Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -719,8 +750,8 @@
       "title": "多家品牌金饰价格跌破1400元/克",
       "url": "https://36kr.com/newsflashes/3732181565652998?f=rss",
       "published_at": "2026-03-21T04:11:25Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -731,8 +762,8 @@
       "title": "改革正式启动，哥伦比亚广播公司新闻部裁员6%",
       "url": "https://36kr.com/newsflashes/3732029962912007?f=rss",
       "published_at": "2026-03-21T03:42:04Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -743,8 +774,8 @@
       "title": "航司燃油费上涨预期走强，消费者开始提前“囤”机票",
       "url": "https://36kr.com/newsflashes/3732029301309705?f=rss",
       "published_at": "2026-03-21T03:22:24Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -755,8 +786,8 @@
       "title": "杭州新元素药业股份有限公司递表港交所",
       "url": "https://36kr.com/newsflashes/3731988126121985?f=rss",
       "published_at": "2026-03-21T03:00:31Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -767,8 +798,8 @@
       "title": "视频号金豆刷量黑产实录：一场薅走平台与用户的“流量骗局”",
       "url": "https://www.tmtpost.com/7923468.html",
       "published_at": "2026-03-21T02:59:46Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -779,8 +810,8 @@
       "title": "谁在制造AI天才？",
       "url": "https://www.tmtpost.com/7923551.html",
       "published_at": "2026-03-21T02:57:08Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -791,8 +822,8 @@
       "title": "引爆光伏，上能电气、迈为股份带飞光伏板块， 中国光伏设备正卡住马斯克的脖子",
       "url": "https://www.tmtpost.com/7923540.html",
       "published_at": "2026-03-21T02:57:03Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -803,8 +834,8 @@
       "title": "Nat Commun：南方医科大学肖中举团队揭示感官诱导逃逸背后的神经机制",
       "url": "https://www.tmtpost.com/7923272.html",
       "published_at": "2026-03-21T02:56:58Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -815,8 +846,8 @@
       "title": "Nexstar宣布完成对Tegna收购，八州总检察长起诉阻止合并",
       "url": "https://36kr.com/newsflashes/3731987738624000?f=rss",
       "published_at": "2026-03-21T02:53:07Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -827,8 +858,8 @@
       "title": "“我的前额叶罢工了”，年轻人争相确诊“网红病”？",
       "url": "https://36kr.com/p/3732100232298503?f=rss",
       "published_at": "2026-03-21T02:51:33Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -839,8 +870,8 @@
       "title": "Cell Rep：军事医学研究院王以政团队揭示VTA星形胶质细胞调控GABA传递的抗焦虑抑郁机制",
       "url": "https://www.tmtpost.com/7923270.html",
       "published_at": "2026-03-21T02:45:29Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -851,8 +882,8 @@
       "title": "鸡蛋界LV翻车？黄天鹅“染色”风波全解析",
       "url": "https://www.tmtpost.com/7923423.html",
       "published_at": "2026-03-21T02:45:15Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -863,8 +894,8 @@
       "title": "对话心理学家：童年不是过去，我们还能否重写自己的故事",
       "url": "https://www.tmtpost.com/7923402.html",
       "published_at": "2026-03-21T02:44:33Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -875,8 +906,8 @@
       "title": "抑郁症全新作用机制，谢鹏/程可/郭毅团队揭示IL-17A诱发绝望行为的完整通路",
       "url": "https://www.tmtpost.com/7923271.html",
       "published_at": "2026-03-21T02:44:27Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -887,8 +918,8 @@
       "title": "爱康退市，钧达新生：英发睿能赴港，抢滩光伏专业化的身位？",
       "url": "https://www.tmtpost.com/7923034.html",
       "published_at": "2026-03-21T02:36:23Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -899,20 +930,8 @@
       "title": "宇树科技IPO终于来了，募资42亿，王兴兴控制近7成表决权",
       "url": "https://www.tmtpost.com/7923180.html",
       "published_at": "2026-03-21T02:36:00Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
-      "meta": {}
-    },
-    {
-      "uid": "1e657ee7116b8bcd",
-      "site_id": "huxiu",
-      "site_name": "虎嗅网",
-      "source": "虎嗅网",
-      "title": "蔚小理纷纷盈利之后，战事升级",
-      "url": "http://www.huxiu.com/article/4843969.html?f=wangzhan",
-      "published_at": "2026-03-21T02:33:50Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -923,8 +942,8 @@
       "title": "字节放手、网易垮台，国内MOBA留腾米对对碰了",
       "url": "https://www.tmtpost.com/7923390.html",
       "published_at": "2026-03-21T02:32:17Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -935,8 +954,8 @@
       "title": "腾讯音乐赚了110亿，股价却下跌，市场在担心什么？",
       "url": "https://www.tmtpost.com/7922959.html",
       "published_at": "2026-03-21T02:27:55Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -947,44 +966,8 @@
       "title": "PT Merdeka Gold Resources Tbk-S递表港交所",
       "url": "https://36kr.com/newsflashes/3731986439847944?f=rss",
       "published_at": "2026-03-21T02:27:45Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
-      "meta": {}
-    },
-    {
-      "uid": "1ce4ad61cb6687f9",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "投稿",
-      "title": "AI风越大，云计算越贵",
-      "url": "https://www.tmtpost.com/7922940.html",
-      "published_at": "2026-03-21T02:23:33Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
-      "meta": {}
-    },
-    {
-      "uid": "013ef6eed40a9e2d",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "投稿",
-      "title": "小米SU7告别等单，让其他车咋卖？",
-      "url": "https://www.tmtpost.com/7923387.html",
-      "published_at": "2026-03-21T02:21:08Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
-      "meta": {}
-    },
-    {
-      "uid": "83237940bac95ae0",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "投稿",
-      "title": "硬刚跨国巨头，毛利超75%，“医学影像大模型第一股”要来了",
-      "url": "https://www.tmtpost.com/7922973.html",
-      "published_at": "2026-03-21T02:20:37Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -995,20 +978,8 @@
       "title": "软银计划在俄亥俄建设5000亿美元的巨型AI数据中心",
       "url": "https://36kr.com/newsflashes/3731985496915974?f=rss",
       "published_at": "2026-03-21T02:12:50Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
-      "meta": {}
-    },
-    {
-      "uid": "efa6b7d74f0e90a7",
-      "site_id": "huxiu",
-      "site_name": "虎嗅网",
-      "source": "虎嗅网",
-      "title": "不止霍尔木兹海峡，这些知名海峡也靠“过路费”爽挣",
-      "url": "http://www.huxiu.com/article/4843907.html?f=wangzhan",
-      "published_at": "2026-03-21T02:00:00Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -1019,8 +990,8 @@
       "title": "苹果CEO库克：新款Mac吸引了创纪录的首购客户",
       "url": "https://36kr.com/newsflashes/3731984704897288?f=rss",
       "published_at": "2026-03-21T01:56:02Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -1031,8 +1002,8 @@
       "title": "华泰证券：油、气处理量下降导致硫磺供给缺口，多方面冲击化工及金属",
       "url": "https://36kr.com/newsflashes/3731984117907713?f=rss",
       "published_at": "2026-03-21T01:27:24Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -1043,8 +1014,8 @@
       "title": "9点1氪：傅盛凌晨开撕周鸿祎称“被欠1个亿”，360回应；字节跳动413亿元卖掉沐瞳科技；伊朗战事持续或致油价升至180美元",
       "url": "https://36kr.com/p/3732001538490631?f=rss",
       "published_at": "2026-03-21T01:13:44Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -1055,8 +1026,8 @@
       "title": "马斯克被裁定在440亿美元收购案的欺诈诉讼中对Twitter股东负责",
       "url": "https://36kr.com/newsflashes/3731983543599110?f=rss",
       "published_at": "2026-03-21T01:07:50Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -1067,8 +1038,8 @@
       "title": "美股三大指数集体收跌，小鹏汽车跌超8%",
       "url": "https://36kr.com/newsflashes/3731981744292101?f=rss",
       "published_at": "2026-03-21T01:00:00Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -1079,44 +1050,8 @@
       "title": "万物云：与万科关联应收账款余额仅剩20.6亿，业务独立性持续增强",
       "url": "https://36kr.com/p/3731378273828868?f=rss",
       "published_at": "2026-03-20T14:35:18Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
-      "meta": {}
-    },
-    {
-      "uid": "bc69454deda43e9e",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "先导基电：拟定增募资不超35.1亿元，用于半导体光学部件研发及产业化项目等",
-      "url": "https://36kr.com/newsflashes/3731280465707273?f=rss",
-      "published_at": "2026-03-20T12:54:46Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
-      "meta": {}
-    },
-    {
-      "uid": "a80f3543c17013c6",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "德力股份：股东锦江集团拟减持不超3%公司股份",
-      "url": "https://36kr.com/newsflashes/3731273731276806?f=rss",
-      "published_at": "2026-03-20T12:47:55Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
-      "meta": {}
-    },
-    {
-      "uid": "89eee70ff390c281",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "热门中概股美股盘前跌多涨少，小鹏汽车跌超3%",
-      "url": "https://36kr.com/newsflashes/3731273217835268?f=rss",
-      "published_at": "2026-03-20T12:47:23Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -1127,8 +1062,8 @@
       "title": "氪星晚报｜迪卡侬正式入驻拼多多；特斯拉计划2026年批量交付Semi电动卡车，价格或低于30万美元；消息人士：马斯克团队采购光伏设备预计将在5月第一周发货",
       "url": "https://36kr.com/p/3731169592918273?f=rss",
       "published_at": "2026-03-20T11:08:25Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -1139,8 +1074,8 @@
       "title": "阿迪达斯，不看好2026的自己",
       "url": "https://36kr.com/p/3731096049795078?f=rss",
       "published_at": "2026-03-20T10:30:59Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -1151,8 +1086,8 @@
       "title": "RENOGY 如果新能源：如何用16年时间打造一家Global Native公司｜出海踏浪者",
       "url": "https://36kr.com/p/3731094987407617?f=rss",
       "published_at": "2026-03-20T09:49:41Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -1163,25 +1098,85 @@
       "title": "沙特土豪超60亿美元收购沐瞳：公司架构不变，张云帆仍是CEO",
       "url": "https://36kr.com/p/3731048121647361?f=rss",
       "published_at": "2026-03-20T09:34:43Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
-      "meta": {}
-    },
-    {
-      "uid": "e27fd77a13c4b0c4",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "求购Anthropic老股份额；求购多家机器人公司老股份额｜资情留言板第181期",
-      "url": "https://36kr.com/p/3730996090192130?f=rss",
-      "published_at": "2026-03-20T08:06:48Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     }
   ],
   "items_all_raw": [
     {
+      "uid": "04e4af2ad6211d9b",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "LiblibAI发布AI视频创作平台LibTV",
+      "url": "https://36kr.com/newsflashes/3732441440665859?f=rss",
+      "published_at": "2026-03-21T08:35:46Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
+      "meta": {}
+    },
+    {
+      "uid": "c40cf574da35b4a1",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "为什么大厂必须抢郭达雅？",
+      "url": "https://www.tmtpost.com/7923709.html",
+      "published_at": "2026-03-21T08:14:39Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
+      "meta": {}
+    },
+    {
+      "uid": "c8895f1d817e4945",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "胖东来正与酒鬼酒洽谈600元新品",
+      "url": "https://36kr.com/newsflashes/3732411719794952?f=rss",
+      "published_at": "2026-03-21T08:05:32Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
+      "meta": {}
+    },
+    {
+      "uid": "154beda57851d3e0",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "钛媒体",
+      "title": "HALO资产从“AI避险”到“物理底座 ：历史变局中的实物资产重估与中国战略机遇",
+      "url": "https://www.tmtpost.com/7923764.html",
+      "published_at": "2026-03-21T07:44:00Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
+      "meta": {}
+    },
+    {
+      "uid": "636bc5b6c839cb27",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "马斯克：Optimus+PV将是首个冯诺依曼探测器",
+      "url": "https://36kr.com/newsflashes/3732387328655360?f=rss",
+      "published_at": "2026-03-21T07:40:43Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
+      "meta": {}
+    },
+    {
+      "uid": "946ec60c800a1cfb",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "Rabbit又行了？油管大V改口，将发第二款AI硬件",
+      "url": "https://www.tmtpost.com/7923602.html",
+      "published_at": "2026-03-21T07:33:30Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
+      "meta": {}
+    },
+    {
       "uid": "522c2485d89495e0",
       "site_id": "36kr",
       "site_name": "36氪",
@@ -1189,8 +1184,8 @@
       "title": "雷军官宣：XiaomiMiMo首周限免开放",
       "url": "https://36kr.com/newsflashes/3732341580841218?f=rss",
       "published_at": "2026-03-21T06:54:11Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -1201,8 +1196,8 @@
       "title": "百度网盘GenFlow全新升级，融合OpenClaw，支持多人AI协作",
       "url": "https://36kr.com/newsflashes/3732314690240769?f=rss",
       "published_at": "2026-03-21T06:26:50Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -1213,8 +1208,8 @@
       "title": "美药管局在全美召回近9万瓶儿童布洛芬药物",
       "url": "https://36kr.com/newsflashes/3732313819791369?f=rss",
       "published_at": "2026-03-21T06:25:57Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -1225,8 +1220,8 @@
       "title": "网易云音乐接入OpenClaw",
       "url": "https://36kr.com/newsflashes/3732204385501448?f=rss",
       "published_at": "2026-03-21T04:51:30Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -1237,8 +1232,8 @@
       "title": "赤峰黄金易主前夜：一个从未下过矿的女老板，决定在最高点卖掉它",
       "url": "https://www.tmtpost.com/7923603.html",
       "published_at": "2026-03-21T04:46:49Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -1249,8 +1244,8 @@
       "title": "宇树上市，这10点你应该知道",
       "url": "https://www.tmtpost.com/7923637.html",
       "published_at": "2026-03-21T04:44:35Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -1261,8 +1256,8 @@
       "title": "报告：影石全景相机及拇指相机全球市占双第一，增速强劲",
       "url": "https://36kr.com/newsflashes/3732202908516610?f=rss",
       "published_at": "2026-03-21T04:33:07Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -1273,8 +1268,8 @@
       "title": "机构：受零部件成本影响，电视和显示器面板价格上涨",
       "url": "https://36kr.com/newsflashes/3732182190653449?f=rss",
       "published_at": "2026-03-21T04:27:55Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -1285,8 +1280,8 @@
       "title": "AI加速可控核聚变商业化，新烛时代完成6000万元天使轮融资｜融资速递",
       "url": "https://www.tmtpost.com/7923389.html",
       "published_at": "2026-03-21T04:14:44Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -1297,8 +1292,8 @@
       "title": "多家品牌金饰价格跌破1400元/克",
       "url": "https://36kr.com/newsflashes/3732181565652998?f=rss",
       "published_at": "2026-03-21T04:11:25Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -1309,8 +1304,8 @@
       "title": "改革正式启动，哥伦比亚广播公司新闻部裁员6%",
       "url": "https://36kr.com/newsflashes/3732029962912007?f=rss",
       "published_at": "2026-03-21T03:42:04Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -1321,8 +1316,8 @@
       "title": "航司燃油费上涨预期走强，消费者开始提前“囤”机票",
       "url": "https://36kr.com/newsflashes/3732029301309705?f=rss",
       "published_at": "2026-03-21T03:22:24Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -1333,8 +1328,8 @@
       "title": "杭州新元素药业股份有限公司递表港交所",
       "url": "https://36kr.com/newsflashes/3731988126121985?f=rss",
       "published_at": "2026-03-21T03:00:31Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -1345,8 +1340,8 @@
       "title": "视频号金豆刷量黑产实录：一场薅走平台与用户的“流量骗局”",
       "url": "https://www.tmtpost.com/7923468.html",
       "published_at": "2026-03-21T02:59:46Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -1357,8 +1352,8 @@
       "title": "谁在制造AI天才？",
       "url": "https://www.tmtpost.com/7923551.html",
       "published_at": "2026-03-21T02:57:08Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -1369,8 +1364,8 @@
       "title": "引爆光伏，上能电气、迈为股份带飞光伏板块， 中国光伏设备正卡住马斯克的脖子",
       "url": "https://www.tmtpost.com/7923540.html",
       "published_at": "2026-03-21T02:57:03Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -1381,8 +1376,8 @@
       "title": "Nat Commun：南方医科大学肖中举团队揭示感官诱导逃逸背后的神经机制",
       "url": "https://www.tmtpost.com/7923272.html",
       "published_at": "2026-03-21T02:56:58Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -1393,8 +1388,8 @@
       "title": "Nexstar宣布完成对Tegna收购，八州总检察长起诉阻止合并",
       "url": "https://36kr.com/newsflashes/3731987738624000?f=rss",
       "published_at": "2026-03-21T02:53:07Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -1405,8 +1400,8 @@
       "title": "“我的前额叶罢工了”，年轻人争相确诊“网红病”？",
       "url": "https://36kr.com/p/3732100232298503?f=rss",
       "published_at": "2026-03-21T02:51:33Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -1417,8 +1412,8 @@
       "title": "Cell Rep：军事医学研究院王以政团队揭示VTA星形胶质细胞调控GABA传递的抗焦虑抑郁机制",
       "url": "https://www.tmtpost.com/7923270.html",
       "published_at": "2026-03-21T02:45:29Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -1429,8 +1424,8 @@
       "title": "鸡蛋界LV翻车？黄天鹅“染色”风波全解析",
       "url": "https://www.tmtpost.com/7923423.html",
       "published_at": "2026-03-21T02:45:15Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -1441,8 +1436,8 @@
       "title": "对话心理学家：童年不是过去，我们还能否重写自己的故事",
       "url": "https://www.tmtpost.com/7923402.html",
       "published_at": "2026-03-21T02:44:33Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -1453,8 +1448,8 @@
       "title": "抑郁症全新作用机制，谢鹏/程可/郭毅团队揭示IL-17A诱发绝望行为的完整通路",
       "url": "https://www.tmtpost.com/7923271.html",
       "published_at": "2026-03-21T02:44:27Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -1465,8 +1460,8 @@
       "title": "爱康退市，钧达新生：英发睿能赴港，抢滩光伏专业化的身位？",
       "url": "https://www.tmtpost.com/7923034.html",
       "published_at": "2026-03-21T02:36:23Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -1477,20 +1472,8 @@
       "title": "宇树科技IPO终于来了，募资42亿，王兴兴控制近7成表决权",
       "url": "https://www.tmtpost.com/7923180.html",
       "published_at": "2026-03-21T02:36:00Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
-      "meta": {}
-    },
-    {
-      "uid": "1e657ee7116b8bcd",
-      "site_id": "huxiu",
-      "site_name": "虎嗅网",
-      "source": "虎嗅网",
-      "title": "蔚小理纷纷盈利之后，战事升级",
-      "url": "http://www.huxiu.com/article/4843969.html?f=wangzhan",
-      "published_at": "2026-03-21T02:33:50Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -1501,8 +1484,8 @@
       "title": "字节放手、网易垮台，国内MOBA留腾米对对碰了",
       "url": "https://www.tmtpost.com/7923390.html",
       "published_at": "2026-03-21T02:32:17Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -1513,8 +1496,8 @@
       "title": "腾讯音乐赚了110亿，股价却下跌，市场在担心什么？",
       "url": "https://www.tmtpost.com/7922959.html",
       "published_at": "2026-03-21T02:27:55Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -1525,44 +1508,8 @@
       "title": "PT Merdeka Gold Resources Tbk-S递表港交所",
       "url": "https://36kr.com/newsflashes/3731986439847944?f=rss",
       "published_at": "2026-03-21T02:27:45Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
-      "meta": {}
-    },
-    {
-      "uid": "1ce4ad61cb6687f9",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "投稿",
-      "title": "AI风越大，云计算越贵",
-      "url": "https://www.tmtpost.com/7922940.html",
-      "published_at": "2026-03-21T02:23:33Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
-      "meta": {}
-    },
-    {
-      "uid": "013ef6eed40a9e2d",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "投稿",
-      "title": "小米SU7告别等单，让其他车咋卖？",
-      "url": "https://www.tmtpost.com/7923387.html",
-      "published_at": "2026-03-21T02:21:08Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
-      "meta": {}
-    },
-    {
-      "uid": "83237940bac95ae0",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "投稿",
-      "title": "硬刚跨国巨头，毛利超75%，“医学影像大模型第一股”要来了",
-      "url": "https://www.tmtpost.com/7922973.html",
-      "published_at": "2026-03-21T02:20:37Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -1573,20 +1520,8 @@
       "title": "软银计划在俄亥俄建设5000亿美元的巨型AI数据中心",
       "url": "https://36kr.com/newsflashes/3731985496915974?f=rss",
       "published_at": "2026-03-21T02:12:50Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
-      "meta": {}
-    },
-    {
-      "uid": "efa6b7d74f0e90a7",
-      "site_id": "huxiu",
-      "site_name": "虎嗅网",
-      "source": "虎嗅网",
-      "title": "不止霍尔木兹海峡，这些知名海峡也靠“过路费”爽挣",
-      "url": "http://www.huxiu.com/article/4843907.html?f=wangzhan",
-      "published_at": "2026-03-21T02:00:00Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -1597,8 +1532,8 @@
       "title": "苹果CEO库克：新款Mac吸引了创纪录的首购客户",
       "url": "https://36kr.com/newsflashes/3731984704897288?f=rss",
       "published_at": "2026-03-21T01:56:02Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -1609,8 +1544,8 @@
       "title": "华泰证券：油、气处理量下降导致硫磺供给缺口，多方面冲击化工及金属",
       "url": "https://36kr.com/newsflashes/3731984117907713?f=rss",
       "published_at": "2026-03-21T01:27:24Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -1621,8 +1556,8 @@
       "title": "9点1氪：傅盛凌晨开撕周鸿祎称“被欠1个亿”，360回应；字节跳动413亿元卖掉沐瞳科技；伊朗战事持续或致油价升至180美元",
       "url": "https://36kr.com/p/3732001538490631?f=rss",
       "published_at": "2026-03-21T01:13:44Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -1633,8 +1568,8 @@
       "title": "马斯克被裁定在440亿美元收购案的欺诈诉讼中对Twitter股东负责",
       "url": "https://36kr.com/newsflashes/3731983543599110?f=rss",
       "published_at": "2026-03-21T01:07:50Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -1645,8 +1580,8 @@
       "title": "美股三大指数集体收跌，小鹏汽车跌超8%",
       "url": "https://36kr.com/newsflashes/3731981744292101?f=rss",
       "published_at": "2026-03-21T01:00:00Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -1657,44 +1592,8 @@
       "title": "万物云：与万科关联应收账款余额仅剩20.6亿，业务独立性持续增强",
       "url": "https://36kr.com/p/3731378273828868?f=rss",
       "published_at": "2026-03-20T14:35:18Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
-      "meta": {}
-    },
-    {
-      "uid": "bc69454deda43e9e",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "先导基电：拟定增募资不超35.1亿元，用于半导体光学部件研发及产业化项目等",
-      "url": "https://36kr.com/newsflashes/3731280465707273?f=rss",
-      "published_at": "2026-03-20T12:54:46Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
-      "meta": {}
-    },
-    {
-      "uid": "a80f3543c17013c6",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "德力股份：股东锦江集团拟减持不超3%公司股份",
-      "url": "https://36kr.com/newsflashes/3731273731276806?f=rss",
-      "published_at": "2026-03-20T12:47:55Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
-      "meta": {}
-    },
-    {
-      "uid": "89eee70ff390c281",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "热门中概股美股盘前跌多涨少，小鹏汽车跌超3%",
-      "url": "https://36kr.com/newsflashes/3731273217835268?f=rss",
-      "published_at": "2026-03-20T12:47:23Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -1705,8 +1604,8 @@
       "title": "氪星晚报｜迪卡侬正式入驻拼多多；特斯拉计划2026年批量交付Semi电动卡车，价格或低于30万美元；消息人士：马斯克团队采购光伏设备预计将在5月第一周发货",
       "url": "https://36kr.com/p/3731169592918273?f=rss",
       "published_at": "2026-03-20T11:08:25Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -1717,8 +1616,8 @@
       "title": "阿迪达斯，不看好2026的自己",
       "url": "https://36kr.com/p/3731096049795078?f=rss",
       "published_at": "2026-03-20T10:30:59Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -1729,8 +1628,8 @@
       "title": "RENOGY 如果新能源：如何用16年时间打造一家Global Native公司｜出海踏浪者",
       "url": "https://36kr.com/p/3731094987407617?f=rss",
       "published_at": "2026-03-20T09:49:41Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     },
     {
@@ -1741,20 +1640,8 @@
       "title": "沙特土豪超60亿美元收购沐瞳：公司架构不变，张云帆仍是CEO",
       "url": "https://36kr.com/p/3731048121647361?f=rss",
       "published_at": "2026-03-20T09:34:43Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
-      "meta": {}
-    },
-    {
-      "uid": "e27fd77a13c4b0c4",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "求购Anthropic老股份额；求购多家机器人公司老股份额｜资情留言板第181期",
-      "url": "https://36kr.com/p/3730996090192130?f=rss",
-      "published_at": "2026-03-20T08:06:48Z",
-      "first_seen_at": "2026-03-21T07:37:45.214680Z",
-      "last_seen_at": "2026-03-21T07:37:45.214680Z",
+      "first_seen_at": "2026-03-21T08:41:42.428596Z",
+      "last_seen_at": "2026-03-21T08:41:42.428596Z",
       "meta": {}
     }
   ]
