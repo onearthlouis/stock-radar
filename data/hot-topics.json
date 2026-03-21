@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-03-21T08:42:34.161817Z",
+  "generated_at": "2026-03-21T09:39:26.708335Z",
   "window_hours": 24,
-  "total_items_analyzed": 45,
+  "total_items_analyzed": 46,
   "hot_topics": [
     {
       "keyword": "光伏",
@@ -22,6 +22,14 @@
       ]
     },
     {
+      "keyword": "人工智能",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "国家级电力人工智能中试基地迎首批企业，华为、中兴、百度等入驻"
+      ]
+    },
+    {
       "keyword": "消费",
       "category": "板块",
       "count": 1,
@@ -34,23 +42,7 @@
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "美股三大指数集体收跌，小鹏汽车跌超8%"
-      ]
-    },
-    {
-      "keyword": "化工",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "华泰证券：油、气处理量下降导致硫磺供给缺口，多方面冲击化工及金属"
-      ]
-    },
-    {
-      "keyword": "IPO",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "宇树科技IPO终于来了，募资42亿，王兴兴控制近7成表决权"
+        "我国电动汽车充电基础设施总数达2101.0万个"
       ]
     },
     {
@@ -59,6 +51,22 @@
       "count": 1,
       "sample_titles": [
         "爱康退市，钧达新生：英发睿能赴港，抢滩光伏专业化的身位？"
+      ]
+    },
+    {
+      "keyword": "通胀",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "欧洲央行管委Nagel：如有必要，可以迅速行动应对通胀风险"
+      ]
+    },
+    {
+      "keyword": "央行",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "欧洲央行管委Nagel：如有必要，可以迅速行动应对通胀风险"
       ]
     }
   ]
