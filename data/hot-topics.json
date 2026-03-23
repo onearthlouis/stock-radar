@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-03-23T06:49:05.068231Z",
+  "generated_at": "2026-03-23T08:05:27.095362Z",
   "window_hours": 24,
-  "total_items_analyzed": 47,
+  "total_items_analyzed": 48,
   "hot_topics": [
     {
-      "keyword": "机器人",
+      "keyword": "银行",
       "category": "板块",
       "count": 2,
       "sample_titles": [
-        "地瓜机器人公司增资至16.3亿元",
-        "LG电子称今年将全力推进机器人业务"
+        "【Fintech 周报】金融法要来了；险企抢滩低空保险；华通银行股权流拍",
+        "邮储银行旗下中邮邮惠万家银行公司注销"
       ]
     },
     {
@@ -21,14 +21,6 @@
       ]
     },
     {
-      "keyword": "人工智能",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "广东：加强对国家重大科技任务和电子信息、人工智能、低空经济等先进制造业集群的增信"
-      ]
-    },
-    {
       "keyword": "光伏",
       "category": "板块",
       "count": 1,
@@ -37,27 +29,35 @@
       ]
     },
     {
-      "keyword": "国防",
+      "keyword": "消费",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "OpenAI的国防合同：70万用户用脚投票，内部先炸了"
+        "跑鞋卖出2600万双的李宁，手握200亿现金"
       ]
     },
     {
-      "keyword": "银行",
+      "keyword": "金融",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "邮储银行旗下中邮邮惠万家银行公司注销"
+        "【Fintech 周报】金融法要来了；险企抢滩低空保险；华通银行股权流拍"
       ]
     },
     {
-      "keyword": "低空经济",
+      "keyword": "保险",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "广东：加强对国家重大科技任务和电子信息、人工智能、低空经济等先进制造业集群的增信"
+        "【Fintech 周报】金融法要来了；险企抢滩低空保险；华通银行股权流拍"
+      ]
+    },
+    {
+      "keyword": "外资",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "双林股份：发行境外上市外资股（H股）获得中国证监会备案"
       ]
     },
     {
@@ -66,6 +66,22 @@
       "count": 1,
       "sample_titles": [
         "恒生科技指数跌4%"
+      ]
+    },
+    {
+      "keyword": "南向资金",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "南向资金净买入额达200亿港元"
+      ]
+    },
+    {
+      "keyword": "证监会",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "双林股份：发行境外上市外资股（H股）获得中国证监会备案"
       ]
     }
   ]
