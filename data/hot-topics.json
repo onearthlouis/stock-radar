@@ -1,22 +1,43 @@
 {
-  "generated_at": "2026-03-23T02:50:37.395997Z",
+  "generated_at": "2026-03-23T05:09:50.404659Z",
   "window_hours": 24,
-  "total_items_analyzed": 50,
+  "total_items_analyzed": 48,
   "hot_topics": [
     {
-      "keyword": "半导体",
+      "keyword": "光伏",
       "category": "板块",
-      "count": 1,
+      "count": 3,
       "sample_titles": [
-        "中天精装：科睿斯半导体科技不从事PCB板业务"
+        "钧达股份：公司太空光伏业务仍处于技术研发与验证阶段，尚未形成收入和利润",
+        "1分钱一度电，分布式光伏彻底“变天”了",
+        "国家能源局万劲松：“十五五”时期积极推动风电、光伏、核能、生物质能等多元清洁能源发展"
       ]
     },
     {
       "keyword": "芯片",
       "category": "板块",
-      "count": 1,
+      "count": 2,
       "sample_titles": [
-        "韩国3月前20天芯片出口同比飙升163.9%，人工智能需求持续强劲"
+        "这些芯片能帮你活到1000岁",
+        "阿里明日或将发布重要芯片产品"
+      ]
+    },
+    {
+      "keyword": "汽车",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "半日主力资金加仓电力设备、汽车股，抛售电子股",
+        "大众汽车总算醒了"
+      ]
+    },
+    {
+      "keyword": "跌停",
+      "category": "市场",
+      "count": 2,
+      "sample_titles": [
+        "A股三大指数午间休盘集体下跌，赤峰黄金跌停",
+        "赤峰黄金复牌首日一字跌停，公司回应"
       ]
     },
     {
@@ -24,23 +45,7 @@
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "韩国3月前20天芯片出口同比飙升163.9%，人工智能需求持续强劲"
-      ]
-    },
-    {
-      "keyword": "机器人",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "2026人形机器人半程马拉松4月开跑 共有300余台人形机器人参赛"
-      ]
-    },
-    {
-      "keyword": "消费",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "一文讲清：中国消费品牌的八层进化路径"
+        "北京椒图科技公司更名为奇安信人工智能"
       ]
     },
     {
@@ -52,67 +57,11 @@
       ]
     },
     {
-      "keyword": "金融",
+      "keyword": "石油",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "【钛晨报】金融法草案向社会公开征求意见；微信推出官方龙虾插件；国家互联网应急中心等发布OpenClaw安全使用实践指南"
-      ]
-    },
-    {
-      "keyword": "汽车",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "大众汽车总算醒了"
-      ]
-    },
-    {
-      "keyword": "天然气",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "美国西得克萨斯州天然气价格转负，供应商被迫烧掉过剩产量"
-      ]
-    },
-    {
-      "keyword": "涨停",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "焦煤期货主力合约触及涨停"
-      ]
-    },
-    {
-      "keyword": "跌停",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "A股三大指数大幅低开，赤峰黄金跌停"
-      ]
-    },
-    {
-      "keyword": "IPO",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "宇树冲击IPO，王兴兴的“价格屠刀”能否砍出下一个万亿赛道？"
-      ]
-    },
-    {
-      "keyword": "回购",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "央行今日开展80亿元7天逆回购操作"
-      ]
-    },
-    {
-      "keyword": "港股",
-      "category": "港股",
-      "count": 1,
-      "sample_titles": [
-        "华泰证券：港股短期仍建议关注电力运营商、油气龙头等"
+        "韩国官员称原油供应仍可控，政府准备在4月中旬释放石油储备"
       ]
     },
     {
@@ -120,7 +69,7 @@
       "category": "港股",
       "count": 1,
       "sample_titles": [
-        "恒指开盘跌1.93%，恒生科技指数跌1.9%"
+        "恒指午间休盘跌1.93%，恒生科技指数跌3.1%"
       ]
     },
     {
@@ -128,15 +77,15 @@
       "category": "港股",
       "count": 1,
       "sample_titles": [
-        "恒指开盘跌1.93%，恒生科技指数跌1.9%"
+        "恒指午间休盘跌1.93%，恒生科技指数跌3.1%"
       ]
     },
     {
-      "keyword": "央行",
+      "keyword": "GDP",
       "category": "宏观",
       "count": 1,
       "sample_titles": [
-        "央行今日开展80亿元7天逆回购操作"
+        "TCL李东生：中国企业迈入“全球化3.0阶段”，要从追求GDP增长向注重GNP增长转变"
       ]
     }
   ]
