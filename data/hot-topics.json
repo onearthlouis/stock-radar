@@ -1,31 +1,32 @@
 {
-  "generated_at": "2026-03-23T08:05:27.095362Z",
+  "generated_at": "2026-03-23T09:39:27.259024Z",
   "window_hours": 24,
-  "total_items_analyzed": 48,
+  "total_items_analyzed": 50,
   "hot_topics": [
+    {
+      "keyword": "金融",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "中邮金融资产投资公司成立",
+        "【Fintech 周报】金融法要来了；险企抢滩低空保险；华通银行股权流拍"
+      ]
+    },
     {
       "keyword": "银行",
       "category": "板块",
       "count": 2,
       "sample_titles": [
-        "【Fintech 周报】金融法要来了；险企抢滩低空保险；华通银行股权流拍",
-        "邮储银行旗下中邮邮惠万家银行公司注销"
+        "中国银行：加强贵金属市场风险防范",
+        "【Fintech 周报】金融法要来了；险企抢滩低空保险；华通银行股权流拍"
       ]
     },
     {
-      "keyword": "芯片",
+      "keyword": "机器人",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "这些芯片能帮你活到1000岁"
-      ]
-    },
-    {
-      "keyword": "光伏",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "1分钱一度电，分布式光伏彻底“变天”了"
+        "宇树赚钱了，但人形机器人还没"
       ]
     },
     {
@@ -34,14 +35,6 @@
       "count": 1,
       "sample_titles": [
         "跑鞋卖出2600万双的李宁，手握200亿现金"
-      ]
-    },
-    {
-      "keyword": "金融",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "【Fintech 周报】金融法要来了；险企抢滩低空保险；华通银行股权流拍"
       ]
     },
     {
@@ -61,19 +54,43 @@
       ]
     },
     {
+      "keyword": "IPO",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "凯乐士香港IPO获得超2000倍超额认购"
+      ]
+    },
+    {
+      "keyword": "增持",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "通化金马：董事长张玉富已增持1000万元股份"
+      ]
+    },
+    {
+      "keyword": "恒指",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "恒指收跌3.54%，恒生科技指数跌3.28%"
+      ]
+    },
+    {
       "keyword": "恒生科技",
       "category": "港股",
       "count": 1,
       "sample_titles": [
-        "恒生科技指数跌4%"
+        "恒指收跌3.54%，恒生科技指数跌3.28%"
       ]
     },
     {
-      "keyword": "南向资金",
-      "category": "港股",
+      "keyword": "美联储",
+      "category": "宏观",
       "count": 1,
       "sample_titles": [
-        "南向资金净买入额达200亿港元"
+        "市场加大对美联储加息押注，预计今年将加息20个基点"
       ]
     },
     {
