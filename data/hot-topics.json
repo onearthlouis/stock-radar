@@ -1,16 +1,46 @@
 {
-  "generated_at": "2026-03-23T10:59:54.885073Z",
+  "generated_at": "2026-03-23T11:51:22.272676Z",
   "window_hours": 24,
-  "total_items_analyzed": 49,
+  "total_items_analyzed": 52,
   "hot_topics": [
     {
       "keyword": "IPO",
       "category": "市场",
+      "count": 6,
+      "sample_titles": [
+        "剂泰科技港股IPO获中国证监会备案",
+        "剂泰科技港股IPO获中国证监会备案",
+        "宝盖新材料港股IPO获中国证监会备案"
+      ]
+    },
+    {
+      "keyword": "港股",
+      "category": "港股",
+      "count": 4,
+      "sample_titles": [
+        "剂泰科技港股IPO获中国证监会备案",
+        "剂泰科技港股IPO获中国证监会备案",
+        "双林股份港股上市获中国证监会备案"
+      ]
+    },
+    {
+      "keyword": "证监会",
+      "category": "宏观",
+      "count": 4,
+      "sample_titles": [
+        "剂泰科技港股IPO获中国证监会备案",
+        "剂泰科技港股IPO获中国证监会备案",
+        "双林股份港股上市获中国证监会备案"
+      ]
+    },
+    {
+      "keyword": "汽车",
+      "category": "板块",
       "count": 3,
       "sample_titles": [
-        "腾讯：医疗IPO超级捕手",
-        "从世界模型到冲击IPO，Momenta走到临界点",
-        "创想三维IPO：造物平权下的版权困境"
+        "工信部公开征求《汽车数据安全保障要求》等2项汽车行业推荐性国家标准报批意见",
+        "16亿撬动千万吨级需求：工厂代替汽车将成氢能大舞台",
+        "日本汽车惨败，但中国就“赢”了吗"
       ]
     },
     {
@@ -23,11 +53,12 @@
       ]
     },
     {
-      "keyword": "新能源",
-      "category": "板块",
-      "count": 1,
+      "keyword": "回购",
+      "category": "市场",
+      "count": 2,
       "sample_titles": [
-        "德冠新材：拟投建4.2亿元电子及新能源膜材料扩能项目"
+        "均胜电子：拟回购不超1551万股H股，占已发行H股总数的10%",
+        "藏格矿业：拟以2亿-4亿元回购股份"
       ]
     },
     {
@@ -47,35 +78,11 @@
       ]
     },
     {
-      "keyword": "汽车",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "16亿撬动千万吨级需求：工厂代替汽车将成氢能大舞台"
-      ]
-    },
-    {
       "keyword": "连板",
       "category": "市场",
       "count": 1,
       "sample_titles": [
         "6连板华电辽能：10个交易日累计涨近90%，日常经营情况未发生重大变化"
-      ]
-    },
-    {
-      "keyword": "回购",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "紫金矿业：首次回购2100万股，已支付总金额为6.42亿元"
-      ]
-    },
-    {
-      "keyword": "南向资金",
-      "category": "港股",
-      "count": 1,
-      "sample_titles": [
-        "盈富基金获南向资金净买入132.69亿港元"
       ]
     }
   ]
