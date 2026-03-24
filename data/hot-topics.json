@@ -1,25 +1,72 @@
 {
-  "generated_at": "2026-03-24T23:01:17.407624Z",
+  "generated_at": "2026-03-24T23:56:45.197126Z",
   "window_hours": 24,
-  "total_items_analyzed": 47,
+  "total_items_analyzed": 50,
   "hot_topics": [
     {
-      "keyword": "减持",
-      "category": "市场",
-      "count": 3,
+      "keyword": "银行",
+      "category": "板块",
+      "count": 2,
       "sample_titles": [
-        "科泰电源：股东新疆荣旭泰拟减持不超1%公司股份",
-        "泰嘉股份：股东中联重科拟合计减持不超3%股份",
-        "大千生态：股东速源科技拟减持不超3%公司股份"
+        "银行理财加码权益投资",
+        "欧洲央行启动新一轮银行私募信贷敞口检查"
+      ]
+    },
+    {
+      "keyword": "央行",
+      "category": "宏观",
+      "count": 2,
+      "sample_titles": [
+        "欧洲央行启动新一轮银行私募信贷敞口检查",
+        "【钛晨报】5000亿元！央行今日出手，继续加量续作；激进方案遇挫，OpenClaw版本升级“翻车”；金价高位回调，周大福暂缓“一口价”产品调价"
+      ]
+    },
+    {
+      "keyword": "芯片",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "Arm将首次出售自有芯片，新业务瞄准150亿美元年收入"
       ]
     },
     {
       "keyword": "机器人",
       "category": "板块",
-      "count": 2,
+      "count": 1,
       "sample_titles": [
-        "我国首个具身智能工程机器人行业标准在成都启动编制",
         "魏哲家演讲背后的冷思考：人形机器人的胜负手正被重新定义"
+      ]
+    },
+    {
+      "keyword": "保险",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "保险资金未受短期情绪扰动，整体仓位变化不大"
+      ]
+    },
+    {
+      "keyword": "IPO",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "同比大增逾500%，港股今年以来IPO规模超千亿港元"
+      ]
+    },
+    {
+      "keyword": "港股",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "同比大增逾500%，港股今年以来IPO规模超千亿港元"
+      ]
+    },
+    {
+      "keyword": "美联储",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "美联储4月维持利率不变的概率为90.7%"
       ]
     }
   ]
