@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-03-24T12:07:00.367223Z",
+  "generated_at": "2026-03-24T13:58:21.918948Z",
   "window_hours": 24,
-  "total_items_analyzed": 46,
+  "total_items_analyzed": 50,
   "hot_topics": [
+    {
+      "keyword": "减持",
+      "category": "市场",
+      "count": 3,
+      "sample_titles": [
+        "科泰电源：股东新疆荣旭泰拟减持不超1%公司股份",
+        "泰嘉股份：股东中联重科拟合计减持不超3%股份",
+        "大千生态：股东速源科技拟减持不超3%公司股份"
+      ]
+    },
     {
       "keyword": "机器人",
       "category": "板块",
@@ -10,39 +20,6 @@
       "sample_titles": [
         "我国首个具身智能工程机器人行业标准在成都启动编制",
         "魏哲家演讲背后的冷思考：人形机器人的胜负手正被重新定义"
-      ]
-    },
-    {
-      "keyword": "回购",
-      "category": "市场",
-      "count": 2,
-      "sample_titles": [
-        "天合光能：完成回购2.31%公司股份",
-        "理想汽车宣布10亿美元股票回购计划"
-      ]
-    },
-    {
-      "keyword": "医疗",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "通策医疗：拟收购四家子公司100%股权，交易总金额6亿元"
-      ]
-    },
-    {
-      "keyword": "汽车",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "理想汽车宣布10亿美元股票回购计划"
-      ]
-    },
-    {
-      "keyword": "连板",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "7连板华电辽能：股票严重异常波动，存在短期大幅下跌的风险"
       ]
     }
   ]
