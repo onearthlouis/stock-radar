@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-03-25T09:03:21.849657Z",
+  "generated_at": "2026-03-25T10:28:15.192406Z",
   "window_hours": 24,
   "total_items_analyzed": 48,
   "hot_topics": [
     {
       "keyword": "机器人",
       "category": "板块",
-      "count": 4,
+      "count": 3,
       "sample_titles": [
         "从春晚刷屏到线下 4S 店：机器人产业，终于走出流量幻觉",
-        "特斯拉机器人最新视频曝光 马斯克称有望在2027年实现量产",
-        "从互连工程到生态协同：TE Connectivity在机器人产业链的双重角色"
+        "从互连工程到生态协同：TE Connectivity在机器人产业链的双重角色",
+        "瑞识科技实现二维可寻址VCSEL芯片量产，已落地车载激光雷达与智能机器人｜最前线"
+      ]
+    },
+    {
+      "keyword": "金融",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "AI Agent狂潮中的金融新范式：AI涨乐养了一只“金融小龙虾”，正破解投资最难一公里",
+        "从零基础到全栈Agents开发，这个金融级交易大赛中我摸清了哪些AI门道？"
       ]
     },
     {
@@ -22,35 +31,35 @@
       ]
     },
     {
-      "keyword": "金融",
+      "keyword": "汽车",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "从零基础到全栈Agents开发，这个金融级交易大赛中我摸清了哪些AI门道？"
+        "本田调整战略，索尼与本田叫停联合电动汽车发布计划"
       ]
     },
     {
-      "keyword": "港股",
-      "category": "港股",
+      "keyword": "退市",
+      "category": "市场",
       "count": 1,
       "sample_titles": [
-        "港股科网股尾盘再度上扬，美团涨超15%"
+        "长药退：股票进入退市整理期，预计4月10日为最后交易日"
       ]
     },
     {
-      "keyword": "恒指",
-      "category": "港股",
+      "keyword": "减持",
+      "category": "市场",
       "count": 1,
       "sample_titles": [
-        "恒指收涨1.09%，恒生科技指数涨1.91%"
+        "杭电股份：股东富春江通信集团及4名董高拟合计减持不超0.98%股份"
       ]
     },
     {
-      "keyword": "恒生科技",
+      "keyword": "南向资金",
       "category": "港股",
       "count": 1,
       "sample_titles": [
-        "恒指收涨1.09%，恒生科技指数涨1.91%"
+        "盈富基金获南向资金净买入113.80亿港元"
       ]
     }
   ]
