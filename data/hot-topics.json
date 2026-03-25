@@ -1,32 +1,16 @@
 {
-  "generated_at": "2026-03-24T23:56:45.197126Z",
+  "generated_at": "2026-03-25T02:56:18.739343Z",
   "window_hours": 24,
-  "total_items_analyzed": 50,
+  "total_items_analyzed": 48,
   "hot_topics": [
     {
-      "keyword": "银行",
-      "category": "板块",
-      "count": 2,
+      "keyword": "IPO",
+      "category": "市场",
+      "count": 4,
       "sample_titles": [
-        "银行理财加码权益投资",
-        "欧洲央行启动新一轮银行私募信贷敞口检查"
-      ]
-    },
-    {
-      "keyword": "央行",
-      "category": "宏观",
-      "count": 2,
-      "sample_titles": [
-        "欧洲央行启动新一轮银行私募信贷敞口检查",
-        "【钛晨报】5000亿元！央行今日出手，继续加量续作；激进方案遇挫，OpenClaw版本升级“翻车”；金价高位回调，周大福暂缓“一口价”产品调价"
-      ]
-    },
-    {
-      "keyword": "芯片",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "Arm将首次出售自有芯片，新业务瞄准150亿美元年收入"
+        "华沿机器人香港IPO获得3500倍认购",
+        "千岸科技：业绩全部来自境外，先后17次税务问题被罚，4成资产为货币资金依旧大举募资补流｜IPO观察",
+        "金戈新材：毛利率三连降，采购价与对手售价背离，资金充裕仍大举募资补流｜IPO观察"
       ]
     },
     {
@@ -34,23 +18,47 @@
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "魏哲家演讲背后的冷思考：人形机器人的胜负手正被重新定义"
+        "华沿机器人香港IPO获得3500倍认购"
       ]
     },
     {
-      "keyword": "保险",
+      "keyword": "银行",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "保险资金未受短期情绪扰动，整体仓位变化不大"
+        "蓝佛安会见世界银行运营常务副行长比耶德"
       ]
     },
     {
-      "keyword": "IPO",
+      "keyword": "汽车",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "小鹏汽车靠技术输出站上转折点"
+      ]
+    },
+    {
+      "keyword": "涨停",
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "同比大增逾500%，港股今年以来IPO规模超千亿港元"
+        "A股三大指数集体高开，铭普光磁涨停"
+      ]
+    },
+    {
+      "keyword": "退市",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "*ST步森，退市悬疑"
+      ]
+    },
+    {
+      "keyword": "回购",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "央行今日开展785亿元7天期逆回购操作"
       ]
     },
     {
@@ -58,15 +66,31 @@
       "category": "港股",
       "count": 1,
       "sample_titles": [
-        "同比大增逾500%，港股今年以来IPO规模超千亿港元"
+        "Momenta港股秘密递表，预计年内上市"
       ]
     },
     {
-      "keyword": "美联储",
+      "keyword": "恒指",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "恒指开盘涨0.87%，恒生科技指数涨0.99%"
+      ]
+    },
+    {
+      "keyword": "恒生科技",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "恒指开盘涨0.87%，恒生科技指数涨0.99%"
+      ]
+    },
+    {
+      "keyword": "央行",
       "category": "宏观",
       "count": 1,
       "sample_titles": [
-        "美联储4月维持利率不变的概率为90.7%"
+        "央行今日开展785亿元7天期逆回购操作"
       ]
     }
   ]
