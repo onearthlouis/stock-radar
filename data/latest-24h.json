@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-03-25T06:40:22.686402Z",
+  "generated_at": "2026-03-25T07:57:22.021533Z",
   "window_hours": 24,
-  "total_items": 52,
-  "total_items_raw": 52,
-  "total_items_all_mode": 52,
-  "archive_total": 1349,
-  "site_count": 3,
-  "source_count": 9,
+  "total_items": 49,
+  "total_items_raw": 49,
+  "total_items_all_mode": 49,
+  "archive_total": 1338,
+  "site_count": 2,
+  "source_count": 10,
   "site_stats": [
     {
       "site_id": "36kr",
@@ -17,14 +17,249 @@
       "site_id": "tmtpost",
       "site_name": "钛媒体",
       "count": 19
-    },
-    {
-      "site_id": "huxiu",
-      "site_name": "虎嗅网",
-      "count": 3
     }
   ],
   "items": [
+    {
+      "uid": "6839896c57040b95",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "百胜中国在江苏成立必胜客餐饮公司",
+      "url": "https://36kr.com/newsflashes/3738051594518786?f=rss",
+      "published_at": "2026-03-25T07:48:42Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
+    {
+      "uid": "11573369a0b27f17",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "港股科网股尾盘再度上扬，美团涨超15%",
+      "url": "https://36kr.com/newsflashes/3738055107543297?f=rss",
+      "published_at": "2026-03-25T07:46:17Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
+    {
+      "uid": "459447b1141409d3",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "中研股份：公司与特斯拉无直接合作",
+      "url": "https://36kr.com/newsflashes/3738051195977992?f=rss",
+      "published_at": "2026-03-25T07:42:18Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
+    {
+      "uid": "034580afa7cd8166",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "中基协：2月底公募基金资产净值合计38.61万亿元",
+      "url": "https://36kr.com/newsflashes/3738048822771719?f=rss",
+      "published_at": "2026-03-25T07:39:53Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
+    {
+      "uid": "eb5344f8f8a94e98",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "联创电子：公司不是苹果CIS供应商",
+      "url": "https://36kr.com/newsflashes/3738040319918081?f=rss",
+      "published_at": "2026-03-25T07:31:14Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
+    {
+      "uid": "2ecc806f60ccd261",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "Vol1.人才留言板｜第一期：这20家AI明星公司正在等你",
+      "url": "https://36kr.com/p/3738023110230272?f=rss",
+      "published_at": "2026-03-25T07:23:01Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
+    {
+      "uid": "f9fe82c5576b735d",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "钛媒体",
+      "title": "盈利质量全面突围，卧龙电驱迎结构性增长拐点",
+      "url": "https://www.tmtpost.com/7928114.html",
+      "published_at": "2026-03-25T07:22:37Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
+    {
+      "uid": "1c2e3bea7a1d021b",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "中上协：2月全市场总市值再创历史新高，突破116.8万亿",
+      "url": "https://36kr.com/newsflashes/3738026355802118?f=rss",
+      "published_at": "2026-03-25T07:17:02Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
+    {
+      "uid": "54fe1fd4628ae0d7",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "南宁轨道未来交通建设公司注册资本增至约29.5亿元",
+      "url": "https://36kr.com/newsflashes/3737994803560449?f=rss",
+      "published_at": "2026-03-25T07:05:55Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
+    {
+      "uid": "e5697afe992f3d53",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "A股三大指数集体收涨，沪指重返3900点",
+      "url": "https://36kr.com/newsflashes/3738011230601476?f=rss",
+      "published_at": "2026-03-25T07:01:39Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
+    {
+      "uid": "35891f5208608a4c",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "国家能源局：截至2月底全国累计发电装机容量39.5亿千瓦，同比增长15.9%",
+      "url": "https://36kr.com/newsflashes/3737995313283076?f=rss",
+      "published_at": "2026-03-25T06:52:23Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
+    {
+      "uid": "23b542d5afaedd04",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "钛媒体",
+      "title": "AI进入产业融合深水区：IBM和施耐德电气的AI落地实战心法",
+      "url": "https://www.tmtpost.com/7927102.html",
+      "published_at": "2026-03-25T06:52:00Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
+    {
+      "uid": "d1062fb35ebb9e33",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "我在酒店大堂当CEO",
+      "url": "https://www.tmtpost.com/7928218.html",
+      "published_at": "2026-03-25T06:47:45Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
+    {
+      "uid": "85a734d88e2bd4b3",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "国产人工心脏双寡头对抗",
+      "url": "https://www.tmtpost.com/7928321.html",
+      "published_at": "2026-03-25T06:47:39Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
+    {
+      "uid": "89183277c6c6ea7a",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "兰亭集势：2025年净利润830万美元，实现扭亏为盈",
+      "url": "https://36kr.com/newsflashes/3737994152575241?f=rss",
+      "published_at": "2026-03-25T06:44:17Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
+    {
+      "uid": "d947b71b62df6f1c",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "商务部：1-2月我国电子商务稳定发展，数字消费稳中向好",
+      "url": "https://36kr.com/newsflashes/3737993692004356?f=rss",
+      "published_at": "2026-03-25T06:43:49Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
+    {
+      "uid": "0e8c3a8d930319f6",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "沪深两市成交额突破2万亿元",
+      "url": "https://36kr.com/newsflashes/3737992019542024?f=rss",
+      "published_at": "2026-03-25T06:42:06Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
+    {
+      "uid": "d58ea30c4c3d1b25",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "古偶是中国版K-Pop？",
+      "url": "https://www.tmtpost.com/7928290.html",
+      "published_at": "2026-03-25T06:40:59Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
+    {
+      "uid": "855bcc430a6ac86d",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "管理",
+      "title": "张雪峰走了，他的9家公司怎么办？——IP型公司的组织陷阱",
+      "url": "https://www.tmtpost.com/7928298.html",
+      "published_at": "2026-03-25T06:40:54Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
+    {
+      "uid": "f1f40c1606203627",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "泡泡玛特：将在4月推出IP小家电产品",
+      "url": "https://36kr.com/newsflashes/3737990446563589?f=rss",
+      "published_at": "2026-03-25T06:40:30Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
     {
       "uid": "86323390dd165370",
       "site_id": "36kr",
@@ -33,20 +268,20 @@
       "title": "金山云海南洋浦信息科技公司注册资本增至7亿美元",
       "url": "https://36kr.com/newsflashes/3737985817575430?f=rss",
       "published_at": "2026-03-25T06:35:48Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
-      "uid": "059b99f3debde8d3",
+      "uid": "056ca8ededebb323",
       "site_id": "36kr",
       "site_name": "36氪",
       "source": "36氪",
-      "title": "泡泡玛特乐园二期将在2027年启动建设",
+      "title": "泡泡玛特城市乐园2025年营收及客流表现超预期，二期将在2027年启动建设",
       "url": "https://36kr.com/newsflashes/3737984169967876?f=rss",
       "published_at": "2026-03-25T06:34:07Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -57,8 +292,20 @@
       "title": "通用汽车将向韩国子公司投资6亿美元，升级生产设施",
       "url": "https://36kr.com/newsflashes/3737982678745348?f=rss",
       "published_at": "2026-03-25T06:32:36Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
+    {
+      "uid": "4943629ca086a867",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "「钛赞了」每日推荐",
+      "title": "“龙虾”的对手来了！Claude Code Channels 的野心与启示",
+      "url": "https://www.tmtpost.com/7928506.html",
+      "published_at": "2026-03-25T06:31:20Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -69,8 +316,8 @@
       "title": "MOVA割草机器人预计2026年将突破100万台",
       "url": "https://36kr.com/newsflashes/3737977599934470?f=rss",
       "published_at": "2026-03-25T06:27:26Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -81,8 +328,8 @@
       "title": "产销链错位、保荐机构子公司入股，广泰真空遭收入跨期与内控拷问 | IPO观察",
       "url": "https://www.tmtpost.com/7926943.html",
       "published_at": "2026-03-25T06:23:39Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -93,8 +340,8 @@
       "title": "泡泡玛特王宁：预计2026年实现不低于20%的增长",
       "url": "https://36kr.com/newsflashes/3737972070154241?f=rss",
       "published_at": "2026-03-25T06:21:49Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -105,8 +352,8 @@
       "title": "泡泡玛特将在今年下半年推出LABUBU 4.0系列",
       "url": "https://36kr.com/newsflashes/3737970010718473?f=rss",
       "published_at": "2026-03-25T06:19:43Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -117,8 +364,8 @@
       "title": "港股泡泡玛特跌超20%",
       "url": "https://36kr.com/newsflashes/3737962331783432?f=rss",
       "published_at": "2026-03-25T06:11:54Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -129,68 +376,32 @@
       "title": "从互连工程到生态协同：TE Connectivity在机器人产业链的双重角色",
       "url": "https://36kr.com/p/3737937096655107?f=rss",
       "published_at": "2026-03-25T06:07:59Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "0e5e7acbcaeec046",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "飞猪发布首个全品类旅行skill",
-      "url": "https://36kr.com/newsflashes/3737956908449797?f=rss",
-      "published_at": "2026-03-25T06:06:23Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "581133b406dd5d2f",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "泡泡玛特2026年将重点开发中东、南亚、欧洲、南美市场",
-      "url": "https://36kr.com/newsflashes/3737948311732229?f=rss",
-      "published_at": "2026-03-25T05:57:39Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
       "uid": "8d3fbca71009543d",
       "site_id": "tmtpost",
       "site_name": "钛媒体",
-      "source": "创新药",
+      "source": "主编精选文章",
       "title": "药明康德用一份年报，揭开CXO新竞争周期的底牌丨看财报",
       "url": "https://www.tmtpost.com/7928418.html",
       "published_at": "2026-03-25T05:54:20Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
       "uid": "e7b9bfd8a779d619",
       "site_id": "tmtpost",
       "site_name": "钛媒体",
-      "source": "Anthropic",
+      "source": "主编精选文章",
       "title": "Claude版龙虾VS OpenClaw，Anthropic又站在了OpenAI的反面",
       "url": "https://www.tmtpost.com/7928273.html",
       "published_at": "2026-03-25T05:49:40Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "d991248d892f0b10",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "泡泡玛特下个月将推出家电产品",
-      "url": "https://36kr.com/newsflashes/3737937372839941?f=rss",
-      "published_at": "2026-03-25T05:46:31Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -201,92 +412,8 @@
       "title": "Arm下场造芯：首推AGI CPU直供Meta，万亿算力市场的“越顶传球”",
       "url": "https://www.tmtpost.com/7928400.html",
       "published_at": "2026-03-25T05:44:34Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "f8e83e9ec8195837",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "美团港股涨幅扩大至10%",
-      "url": "https://36kr.com/newsflashes/3737931166613766?f=rss",
-      "published_at": "2026-03-25T05:40:12Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "1c0ea666bec4676d",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "湖南省政府与比亚迪举行工作会谈",
-      "url": "https://36kr.com/newsflashes/3737926134432005?f=rss",
-      "published_at": "2026-03-25T05:35:05Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "8a30f9ccb3f2007b",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "文德一出任泡泡玛特首席增长官",
-      "url": "https://36kr.com/newsflashes/3737919133564930?f=rss",
-      "published_at": "2026-03-25T05:27:58Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "301b46afb5be2f6a",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "三菱电机投资日本人工智能创企Sakana AI",
-      "url": "https://36kr.com/newsflashes/3737918180622338?f=rss",
-      "published_at": "2026-03-25T05:27:00Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "aa74dae478488518",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "南向资金净买入额达40亿港元",
-      "url": "https://36kr.com/newsflashes/3737909834776582?f=rss",
-      "published_at": "2026-03-25T05:18:30Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "31594c53bf6306c0",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "港股泡泡玛特午后跌超14%",
-      "url": "https://36kr.com/newsflashes/3737895291060488?f=rss",
-      "published_at": "2026-03-25T05:03:43Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "b092b47a9bb1ad6f",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "小菜园：2025年净利润7.15亿元，同比增长23.2%",
-      "url": "https://36kr.com/newsflashes/3737893206949894?f=rss",
-      "published_at": "2026-03-25T05:01:35Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -297,20 +424,8 @@
       "title": "同仁堂医养30日港股挂牌：在中医医疗服务赛道上，做时间的朋友",
       "url": "https://www.tmtpost.com/7928318.html",
       "published_at": "2026-03-25T04:55:24Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "c257ce24cfa1ce13",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "信达证券最新回应：启动内部核查，暂停左前明工作",
-      "url": "https://36kr.com/newsflashes/3737883889172743?f=rss",
-      "published_at": "2026-03-25T04:52:07Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -321,32 +436,8 @@
       "title": "宏明电子A股敲钟，四川能源发展集团旗下上市公司增至6家",
       "url": "https://www.tmtpost.com/7928357.html",
       "published_at": "2026-03-25T04:51:00Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "2e12ffcc3be9ed9f",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "英特尔和AMD告知客户上调3月和4月CPU价格",
-      "url": "https://36kr.com/newsflashes/3737881960546562?f=rss",
-      "published_at": "2026-03-25T04:50:09Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "c53d04b886d92e3a",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "“飞渡科技”完成新一轮战略融资",
-      "url": "https://36kr.com/newsflashes/3737880307482627?f=rss",
-      "published_at": "2026-03-25T04:48:28Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -357,8 +448,8 @@
       "title": "瑞识科技实现二维可寻址VCSEL芯片量产，已落地车载激光雷达与智能机器人｜最前线",
       "url": "https://36kr.com/p/3737850679377927?f=rss",
       "published_at": "2026-03-25T04:19:42Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -369,8 +460,8 @@
       "title": "瑞士信息与通信科技公司Kyan Health研发员工心理健康支持应用程序，应对职场心理健康问题",
       "url": "https://www.tmtpost.com/7928236.html",
       "published_at": "2026-03-25T03:56:08Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -381,8 +472,8 @@
       "title": "康师傅首次提出“狼性化”，营收近10年第一次“负增长”",
       "url": "https://www.tmtpost.com/7927333.html",
       "published_at": "2026-03-25T03:54:02Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -393,8 +484,8 @@
       "title": "越南物流大洗牌：绑定巨头，还是另寻出路？",
       "url": "https://www.tmtpost.com/7928063.html",
       "published_at": "2026-03-25T03:53:51Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -405,8 +496,8 @@
       "title": "马斯克造芯片，年产2000亿颗，80%将在太空运转",
       "url": "https://www.tmtpost.com/7927919.html",
       "published_at": "2026-03-25T03:53:48Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -417,8 +508,8 @@
       "title": "2026，具身智能开始「清场」",
       "url": "https://www.tmtpost.com/7928180.html",
       "published_at": "2026-03-25T03:49:08Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -429,92 +520,8 @@
       "title": "9.9元玩一天，有商家爆卖上百万，“手搓经济”又出新爆款",
       "url": "https://www.tmtpost.com/7928073.html",
       "published_at": "2026-03-25T03:49:03Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "138614730e91e532",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "投稿",
-      "title": "豪掷5000亿美元，孙正义要做“AI电力之王”？",
-      "url": "https://www.tmtpost.com/7926481.html",
-      "published_at": "2026-03-25T03:48:54Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "71f323617069d11c",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "投稿",
-      "title": "指望淘天很快交出高分，是不现实的",
-      "url": "https://www.tmtpost.com/7927292.html",
-      "published_at": "2026-03-25T03:48:50Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "393da8c7b010417b",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "投稿",
-      "title": "哈佛教授收了个AI研究生：干活猛得像学霸，撒谎精得像学渣",
-      "url": "https://www.tmtpost.com/7928131.html",
-      "published_at": "2026-03-25T03:30:25Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "a9bb978ddd1f8ea4",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "投稿",
-      "title": "武汉，涨疯了",
-      "url": "https://www.tmtpost.com/7928128.html",
-      "published_at": "2026-03-25T03:30:17Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "b3ddc778efd0d293",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "投稿",
-      "title": "30亿美元押注PI3Kα，诺华打响乳腺癌治疗夺权战",
-      "url": "https://www.tmtpost.com/7928120.html",
-      "published_at": "2026-03-25T03:30:12Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "971fc8102c478d73",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "投稿",
-      "title": "毛利50%，2平米的自拍店，正在闷声赚钱？",
-      "url": "https://www.tmtpost.com/7928052.html",
-      "published_at": "2026-03-25T03:23:00Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "8f56caf782f3a0f6",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "投稿",
-      "title": "Claude“虾化”：杀不死OpenClaw，但划定了它的天花板",
-      "url": "https://www.tmtpost.com/7928055.html",
-      "published_at": "2026-03-25T03:22:54Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -525,8 +532,8 @@
       "title": "富力10年前买下的万达酒店，快卖光了",
       "url": "https://36kr.com/p/3737788251799561?f=rss",
       "published_at": "2026-03-25T03:15:35Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -537,8 +544,8 @@
       "title": "拓竹和泡泡玛特和解，免费打印大牌IP的日子正在倒计时",
       "url": "https://36kr.com/p/3737724614213639?f=rss",
       "published_at": "2026-03-25T02:13:38Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -549,8 +556,8 @@
       "title": "从高中社团起步，三个00后天才研发网络勒索病毒“疫苗”，帮企业从黑客手中“抢”数据 | 水下项目",
       "url": "https://36kr.com/p/3737704073428992?f=rss",
       "published_at": "2026-03-25T01:54:16Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -561,8 +568,8 @@
       "title": "IDG资本领投天使轮，阿里系+清华具身项目半年融超1亿元｜36氪首发",
       "url": "https://36kr.com/p/3737667859398665?f=rss",
       "published_at": "2026-03-25T01:15:40Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -573,8 +580,8 @@
       "title": "36氪首发丨东方富海投了一个海归博导，要挑战日本高端激光设备巨头",
       "url": "https://36kr.com/p/3737670256345345?f=rss",
       "published_at": "2026-03-25T01:15:01Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -585,8 +592,8 @@
       "title": "AI智能体下场：新药开发如何告别单步解题、突破认知盲区？  | 最前线",
       "url": "https://36kr.com/p/3736278401286401?f=rss",
       "published_at": "2026-03-25T00:24:07Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -597,61 +604,253 @@
       "title": "8点1氪丨美国提出15点结束冲突方案，拟停火1个月；张雪峰因心源性猝死抢救无效去世；Token中文名定了：词元",
       "url": "https://36kr.com/p/3737612384043270?f=rss",
       "published_at": "2026-03-25T00:19:03Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "1d87ad2e4ea01cfc",
-      "site_id": "huxiu",
-      "site_name": "虎嗅网",
-      "source": "虎嗅网",
-      "title": "车企盯上有钱人，“9系”大战一触即发",
-      "url": "http://www.huxiu.com/article/4842768.html?f=wangzhan",
-      "published_at": "2026-03-24T23:14:31Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "423e265f5f6aa1b2",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "科氪 | 性能之上，圆满之作：一加 15T 深度评测",
-      "url": "https://36kr.com/p/3737032976220167?f=rss",
-      "published_at": "2026-03-24T14:51:57Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "02163b6dd57d7eac",
-      "site_id": "huxiu",
-      "site_name": "虎嗅网",
-      "source": "虎嗅网",
-      "title": "高端日料没人吃了？",
-      "url": "http://www.huxiu.com/article/4843942.html?f=wangzhan",
-      "published_at": "2026-03-24T11:00:00Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "fb52da9f4d686a9d",
-      "site_id": "huxiu",
-      "site_name": "虎嗅网",
-      "source": "虎嗅网",
-      "title": "从万众期待到路边一X，国行Switch是如何走到关服停运的呢？",
-      "url": "http://www.huxiu.com/article/4843911.html?f=wangzhan",
-      "published_at": "2026-03-24T10:00:00Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     }
   ],
   "items_all": [
     {
+      "uid": "6839896c57040b95",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "百胜中国在江苏成立必胜客餐饮公司",
+      "url": "https://36kr.com/newsflashes/3738051594518786?f=rss",
+      "published_at": "2026-03-25T07:48:42Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
+    {
+      "uid": "11573369a0b27f17",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "港股科网股尾盘再度上扬，美团涨超15%",
+      "url": "https://36kr.com/newsflashes/3738055107543297?f=rss",
+      "published_at": "2026-03-25T07:46:17Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
+    {
+      "uid": "459447b1141409d3",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "中研股份：公司与特斯拉无直接合作",
+      "url": "https://36kr.com/newsflashes/3738051195977992?f=rss",
+      "published_at": "2026-03-25T07:42:18Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
+    {
+      "uid": "034580afa7cd8166",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "中基协：2月底公募基金资产净值合计38.61万亿元",
+      "url": "https://36kr.com/newsflashes/3738048822771719?f=rss",
+      "published_at": "2026-03-25T07:39:53Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
+    {
+      "uid": "eb5344f8f8a94e98",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "联创电子：公司不是苹果CIS供应商",
+      "url": "https://36kr.com/newsflashes/3738040319918081?f=rss",
+      "published_at": "2026-03-25T07:31:14Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
+    {
+      "uid": "2ecc806f60ccd261",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "Vol1.人才留言板｜第一期：这20家AI明星公司正在等你",
+      "url": "https://36kr.com/p/3738023110230272?f=rss",
+      "published_at": "2026-03-25T07:23:01Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
+    {
+      "uid": "f9fe82c5576b735d",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "钛媒体",
+      "title": "盈利质量全面突围，卧龙电驱迎结构性增长拐点",
+      "url": "https://www.tmtpost.com/7928114.html",
+      "published_at": "2026-03-25T07:22:37Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
+    {
+      "uid": "1c2e3bea7a1d021b",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "中上协：2月全市场总市值再创历史新高，突破116.8万亿",
+      "url": "https://36kr.com/newsflashes/3738026355802118?f=rss",
+      "published_at": "2026-03-25T07:17:02Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
+    {
+      "uid": "54fe1fd4628ae0d7",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "南宁轨道未来交通建设公司注册资本增至约29.5亿元",
+      "url": "https://36kr.com/newsflashes/3737994803560449?f=rss",
+      "published_at": "2026-03-25T07:05:55Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
+    {
+      "uid": "e5697afe992f3d53",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "A股三大指数集体收涨，沪指重返3900点",
+      "url": "https://36kr.com/newsflashes/3738011230601476?f=rss",
+      "published_at": "2026-03-25T07:01:39Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
+    {
+      "uid": "35891f5208608a4c",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "国家能源局：截至2月底全国累计发电装机容量39.5亿千瓦，同比增长15.9%",
+      "url": "https://36kr.com/newsflashes/3737995313283076?f=rss",
+      "published_at": "2026-03-25T06:52:23Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
+    {
+      "uid": "23b542d5afaedd04",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "钛媒体",
+      "title": "AI进入产业融合深水区：IBM和施耐德电气的AI落地实战心法",
+      "url": "https://www.tmtpost.com/7927102.html",
+      "published_at": "2026-03-25T06:52:00Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
+    {
+      "uid": "d1062fb35ebb9e33",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "我在酒店大堂当CEO",
+      "url": "https://www.tmtpost.com/7928218.html",
+      "published_at": "2026-03-25T06:47:45Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
+    {
+      "uid": "85a734d88e2bd4b3",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "国产人工心脏双寡头对抗",
+      "url": "https://www.tmtpost.com/7928321.html",
+      "published_at": "2026-03-25T06:47:39Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
+    {
+      "uid": "89183277c6c6ea7a",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "兰亭集势：2025年净利润830万美元，实现扭亏为盈",
+      "url": "https://36kr.com/newsflashes/3737994152575241?f=rss",
+      "published_at": "2026-03-25T06:44:17Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
+    {
+      "uid": "d947b71b62df6f1c",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "商务部：1-2月我国电子商务稳定发展，数字消费稳中向好",
+      "url": "https://36kr.com/newsflashes/3737993692004356?f=rss",
+      "published_at": "2026-03-25T06:43:49Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
+    {
+      "uid": "0e8c3a8d930319f6",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "沪深两市成交额突破2万亿元",
+      "url": "https://36kr.com/newsflashes/3737992019542024?f=rss",
+      "published_at": "2026-03-25T06:42:06Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
+    {
+      "uid": "d58ea30c4c3d1b25",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "古偶是中国版K-Pop？",
+      "url": "https://www.tmtpost.com/7928290.html",
+      "published_at": "2026-03-25T06:40:59Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
+    {
+      "uid": "855bcc430a6ac86d",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "管理",
+      "title": "张雪峰走了，他的9家公司怎么办？——IP型公司的组织陷阱",
+      "url": "https://www.tmtpost.com/7928298.html",
+      "published_at": "2026-03-25T06:40:54Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
+    {
+      "uid": "f1f40c1606203627",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "泡泡玛特：将在4月推出IP小家电产品",
+      "url": "https://36kr.com/newsflashes/3737990446563589?f=rss",
+      "published_at": "2026-03-25T06:40:30Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
+    {
       "uid": "86323390dd165370",
       "site_id": "36kr",
       "site_name": "36氪",
@@ -659,20 +858,20 @@
       "title": "金山云海南洋浦信息科技公司注册资本增至7亿美元",
       "url": "https://36kr.com/newsflashes/3737985817575430?f=rss",
       "published_at": "2026-03-25T06:35:48Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
-      "uid": "059b99f3debde8d3",
+      "uid": "056ca8ededebb323",
       "site_id": "36kr",
       "site_name": "36氪",
       "source": "36氪",
-      "title": "泡泡玛特乐园二期将在2027年启动建设",
+      "title": "泡泡玛特城市乐园2025年营收及客流表现超预期，二期将在2027年启动建设",
       "url": "https://36kr.com/newsflashes/3737984169967876?f=rss",
       "published_at": "2026-03-25T06:34:07Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -683,8 +882,20 @@
       "title": "通用汽车将向韩国子公司投资6亿美元，升级生产设施",
       "url": "https://36kr.com/newsflashes/3737982678745348?f=rss",
       "published_at": "2026-03-25T06:32:36Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
+    {
+      "uid": "4943629ca086a867",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "「钛赞了」每日推荐",
+      "title": "“龙虾”的对手来了！Claude Code Channels 的野心与启示",
+      "url": "https://www.tmtpost.com/7928506.html",
+      "published_at": "2026-03-25T06:31:20Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -695,8 +906,8 @@
       "title": "MOVA割草机器人预计2026年将突破100万台",
       "url": "https://36kr.com/newsflashes/3737977599934470?f=rss",
       "published_at": "2026-03-25T06:27:26Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -707,8 +918,8 @@
       "title": "产销链错位、保荐机构子公司入股，广泰真空遭收入跨期与内控拷问 | IPO观察",
       "url": "https://www.tmtpost.com/7926943.html",
       "published_at": "2026-03-25T06:23:39Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -719,8 +930,8 @@
       "title": "泡泡玛特王宁：预计2026年实现不低于20%的增长",
       "url": "https://36kr.com/newsflashes/3737972070154241?f=rss",
       "published_at": "2026-03-25T06:21:49Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -731,8 +942,8 @@
       "title": "泡泡玛特将在今年下半年推出LABUBU 4.0系列",
       "url": "https://36kr.com/newsflashes/3737970010718473?f=rss",
       "published_at": "2026-03-25T06:19:43Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -743,8 +954,8 @@
       "title": "港股泡泡玛特跌超20%",
       "url": "https://36kr.com/newsflashes/3737962331783432?f=rss",
       "published_at": "2026-03-25T06:11:54Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -755,68 +966,32 @@
       "title": "从互连工程到生态协同：TE Connectivity在机器人产业链的双重角色",
       "url": "https://36kr.com/p/3737937096655107?f=rss",
       "published_at": "2026-03-25T06:07:59Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "0e5e7acbcaeec046",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "飞猪发布首个全品类旅行skill",
-      "url": "https://36kr.com/newsflashes/3737956908449797?f=rss",
-      "published_at": "2026-03-25T06:06:23Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "581133b406dd5d2f",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "泡泡玛特2026年将重点开发中东、南亚、欧洲、南美市场",
-      "url": "https://36kr.com/newsflashes/3737948311732229?f=rss",
-      "published_at": "2026-03-25T05:57:39Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
       "uid": "8d3fbca71009543d",
       "site_id": "tmtpost",
       "site_name": "钛媒体",
-      "source": "创新药",
+      "source": "主编精选文章",
       "title": "药明康德用一份年报，揭开CXO新竞争周期的底牌丨看财报",
       "url": "https://www.tmtpost.com/7928418.html",
       "published_at": "2026-03-25T05:54:20Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
       "uid": "e7b9bfd8a779d619",
       "site_id": "tmtpost",
       "site_name": "钛媒体",
-      "source": "Anthropic",
+      "source": "主编精选文章",
       "title": "Claude版龙虾VS OpenClaw，Anthropic又站在了OpenAI的反面",
       "url": "https://www.tmtpost.com/7928273.html",
       "published_at": "2026-03-25T05:49:40Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "d991248d892f0b10",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "泡泡玛特下个月将推出家电产品",
-      "url": "https://36kr.com/newsflashes/3737937372839941?f=rss",
-      "published_at": "2026-03-25T05:46:31Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -827,92 +1002,8 @@
       "title": "Arm下场造芯：首推AGI CPU直供Meta，万亿算力市场的“越顶传球”",
       "url": "https://www.tmtpost.com/7928400.html",
       "published_at": "2026-03-25T05:44:34Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "f8e83e9ec8195837",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "美团港股涨幅扩大至10%",
-      "url": "https://36kr.com/newsflashes/3737931166613766?f=rss",
-      "published_at": "2026-03-25T05:40:12Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "1c0ea666bec4676d",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "湖南省政府与比亚迪举行工作会谈",
-      "url": "https://36kr.com/newsflashes/3737926134432005?f=rss",
-      "published_at": "2026-03-25T05:35:05Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "8a30f9ccb3f2007b",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "文德一出任泡泡玛特首席增长官",
-      "url": "https://36kr.com/newsflashes/3737919133564930?f=rss",
-      "published_at": "2026-03-25T05:27:58Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "301b46afb5be2f6a",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "三菱电机投资日本人工智能创企Sakana AI",
-      "url": "https://36kr.com/newsflashes/3737918180622338?f=rss",
-      "published_at": "2026-03-25T05:27:00Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "aa74dae478488518",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "南向资金净买入额达40亿港元",
-      "url": "https://36kr.com/newsflashes/3737909834776582?f=rss",
-      "published_at": "2026-03-25T05:18:30Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "31594c53bf6306c0",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "港股泡泡玛特午后跌超14%",
-      "url": "https://36kr.com/newsflashes/3737895291060488?f=rss",
-      "published_at": "2026-03-25T05:03:43Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "b092b47a9bb1ad6f",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "小菜园：2025年净利润7.15亿元，同比增长23.2%",
-      "url": "https://36kr.com/newsflashes/3737893206949894?f=rss",
-      "published_at": "2026-03-25T05:01:35Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -923,20 +1014,8 @@
       "title": "同仁堂医养30日港股挂牌：在中医医疗服务赛道上，做时间的朋友",
       "url": "https://www.tmtpost.com/7928318.html",
       "published_at": "2026-03-25T04:55:24Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "c257ce24cfa1ce13",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "信达证券最新回应：启动内部核查，暂停左前明工作",
-      "url": "https://36kr.com/newsflashes/3737883889172743?f=rss",
-      "published_at": "2026-03-25T04:52:07Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -947,32 +1026,8 @@
       "title": "宏明电子A股敲钟，四川能源发展集团旗下上市公司增至6家",
       "url": "https://www.tmtpost.com/7928357.html",
       "published_at": "2026-03-25T04:51:00Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "2e12ffcc3be9ed9f",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "英特尔和AMD告知客户上调3月和4月CPU价格",
-      "url": "https://36kr.com/newsflashes/3737881960546562?f=rss",
-      "published_at": "2026-03-25T04:50:09Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "c53d04b886d92e3a",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "“飞渡科技”完成新一轮战略融资",
-      "url": "https://36kr.com/newsflashes/3737880307482627?f=rss",
-      "published_at": "2026-03-25T04:48:28Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -983,8 +1038,8 @@
       "title": "瑞识科技实现二维可寻址VCSEL芯片量产，已落地车载激光雷达与智能机器人｜最前线",
       "url": "https://36kr.com/p/3737850679377927?f=rss",
       "published_at": "2026-03-25T04:19:42Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -995,8 +1050,8 @@
       "title": "瑞士信息与通信科技公司Kyan Health研发员工心理健康支持应用程序，应对职场心理健康问题",
       "url": "https://www.tmtpost.com/7928236.html",
       "published_at": "2026-03-25T03:56:08Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -1007,8 +1062,8 @@
       "title": "康师傅首次提出“狼性化”，营收近10年第一次“负增长”",
       "url": "https://www.tmtpost.com/7927333.html",
       "published_at": "2026-03-25T03:54:02Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -1019,8 +1074,8 @@
       "title": "越南物流大洗牌：绑定巨头，还是另寻出路？",
       "url": "https://www.tmtpost.com/7928063.html",
       "published_at": "2026-03-25T03:53:51Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -1031,8 +1086,8 @@
       "title": "马斯克造芯片，年产2000亿颗，80%将在太空运转",
       "url": "https://www.tmtpost.com/7927919.html",
       "published_at": "2026-03-25T03:53:48Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -1043,8 +1098,8 @@
       "title": "2026，具身智能开始「清场」",
       "url": "https://www.tmtpost.com/7928180.html",
       "published_at": "2026-03-25T03:49:08Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -1055,92 +1110,8 @@
       "title": "9.9元玩一天，有商家爆卖上百万，“手搓经济”又出新爆款",
       "url": "https://www.tmtpost.com/7928073.html",
       "published_at": "2026-03-25T03:49:03Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "138614730e91e532",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "投稿",
-      "title": "豪掷5000亿美元，孙正义要做“AI电力之王”？",
-      "url": "https://www.tmtpost.com/7926481.html",
-      "published_at": "2026-03-25T03:48:54Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "71f323617069d11c",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "投稿",
-      "title": "指望淘天很快交出高分，是不现实的",
-      "url": "https://www.tmtpost.com/7927292.html",
-      "published_at": "2026-03-25T03:48:50Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "393da8c7b010417b",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "投稿",
-      "title": "哈佛教授收了个AI研究生：干活猛得像学霸，撒谎精得像学渣",
-      "url": "https://www.tmtpost.com/7928131.html",
-      "published_at": "2026-03-25T03:30:25Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "a9bb978ddd1f8ea4",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "投稿",
-      "title": "武汉，涨疯了",
-      "url": "https://www.tmtpost.com/7928128.html",
-      "published_at": "2026-03-25T03:30:17Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "b3ddc778efd0d293",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "投稿",
-      "title": "30亿美元押注PI3Kα，诺华打响乳腺癌治疗夺权战",
-      "url": "https://www.tmtpost.com/7928120.html",
-      "published_at": "2026-03-25T03:30:12Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "971fc8102c478d73",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "投稿",
-      "title": "毛利50%，2平米的自拍店，正在闷声赚钱？",
-      "url": "https://www.tmtpost.com/7928052.html",
-      "published_at": "2026-03-25T03:23:00Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "8f56caf782f3a0f6",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "投稿",
-      "title": "Claude“虾化”：杀不死OpenClaw，但划定了它的天花板",
-      "url": "https://www.tmtpost.com/7928055.html",
-      "published_at": "2026-03-25T03:22:54Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -1151,8 +1122,8 @@
       "title": "富力10年前买下的万达酒店，快卖光了",
       "url": "https://36kr.com/p/3737788251799561?f=rss",
       "published_at": "2026-03-25T03:15:35Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -1163,8 +1134,8 @@
       "title": "拓竹和泡泡玛特和解，免费打印大牌IP的日子正在倒计时",
       "url": "https://36kr.com/p/3737724614213639?f=rss",
       "published_at": "2026-03-25T02:13:38Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -1175,8 +1146,8 @@
       "title": "从高中社团起步，三个00后天才研发网络勒索病毒“疫苗”，帮企业从黑客手中“抢”数据 | 水下项目",
       "url": "https://36kr.com/p/3737704073428992?f=rss",
       "published_at": "2026-03-25T01:54:16Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -1187,8 +1158,8 @@
       "title": "IDG资本领投天使轮，阿里系+清华具身项目半年融超1亿元｜36氪首发",
       "url": "https://36kr.com/p/3737667859398665?f=rss",
       "published_at": "2026-03-25T01:15:40Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -1199,8 +1170,8 @@
       "title": "36氪首发丨东方富海投了一个海归博导，要挑战日本高端激光设备巨头",
       "url": "https://36kr.com/p/3737670256345345?f=rss",
       "published_at": "2026-03-25T01:15:01Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -1211,8 +1182,8 @@
       "title": "AI智能体下场：新药开发如何告别单步解题、突破认知盲区？  | 最前线",
       "url": "https://36kr.com/p/3736278401286401?f=rss",
       "published_at": "2026-03-25T00:24:07Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -1223,61 +1194,253 @@
       "title": "8点1氪丨美国提出15点结束冲突方案，拟停火1个月；张雪峰因心源性猝死抢救无效去世；Token中文名定了：词元",
       "url": "https://36kr.com/p/3737612384043270?f=rss",
       "published_at": "2026-03-25T00:19:03Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "1d87ad2e4ea01cfc",
-      "site_id": "huxiu",
-      "site_name": "虎嗅网",
-      "source": "虎嗅网",
-      "title": "车企盯上有钱人，“9系”大战一触即发",
-      "url": "http://www.huxiu.com/article/4842768.html?f=wangzhan",
-      "published_at": "2026-03-24T23:14:31Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "423e265f5f6aa1b2",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "科氪 | 性能之上，圆满之作：一加 15T 深度评测",
-      "url": "https://36kr.com/p/3737032976220167?f=rss",
-      "published_at": "2026-03-24T14:51:57Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "02163b6dd57d7eac",
-      "site_id": "huxiu",
-      "site_name": "虎嗅网",
-      "source": "虎嗅网",
-      "title": "高端日料没人吃了？",
-      "url": "http://www.huxiu.com/article/4843942.html?f=wangzhan",
-      "published_at": "2026-03-24T11:00:00Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "fb52da9f4d686a9d",
-      "site_id": "huxiu",
-      "site_name": "虎嗅网",
-      "source": "虎嗅网",
-      "title": "从万众期待到路边一X，国行Switch是如何走到关服停运的呢？",
-      "url": "http://www.huxiu.com/article/4843911.html?f=wangzhan",
-      "published_at": "2026-03-24T10:00:00Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     }
   ],
   "items_all_raw": [
     {
+      "uid": "6839896c57040b95",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "百胜中国在江苏成立必胜客餐饮公司",
+      "url": "https://36kr.com/newsflashes/3738051594518786?f=rss",
+      "published_at": "2026-03-25T07:48:42Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
+    {
+      "uid": "11573369a0b27f17",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "港股科网股尾盘再度上扬，美团涨超15%",
+      "url": "https://36kr.com/newsflashes/3738055107543297?f=rss",
+      "published_at": "2026-03-25T07:46:17Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
+    {
+      "uid": "459447b1141409d3",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "中研股份：公司与特斯拉无直接合作",
+      "url": "https://36kr.com/newsflashes/3738051195977992?f=rss",
+      "published_at": "2026-03-25T07:42:18Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
+    {
+      "uid": "034580afa7cd8166",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "中基协：2月底公募基金资产净值合计38.61万亿元",
+      "url": "https://36kr.com/newsflashes/3738048822771719?f=rss",
+      "published_at": "2026-03-25T07:39:53Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
+    {
+      "uid": "eb5344f8f8a94e98",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "联创电子：公司不是苹果CIS供应商",
+      "url": "https://36kr.com/newsflashes/3738040319918081?f=rss",
+      "published_at": "2026-03-25T07:31:14Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
+    {
+      "uid": "2ecc806f60ccd261",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "Vol1.人才留言板｜第一期：这20家AI明星公司正在等你",
+      "url": "https://36kr.com/p/3738023110230272?f=rss",
+      "published_at": "2026-03-25T07:23:01Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
+    {
+      "uid": "f9fe82c5576b735d",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "钛媒体",
+      "title": "盈利质量全面突围，卧龙电驱迎结构性增长拐点",
+      "url": "https://www.tmtpost.com/7928114.html",
+      "published_at": "2026-03-25T07:22:37Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
+    {
+      "uid": "1c2e3bea7a1d021b",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "中上协：2月全市场总市值再创历史新高，突破116.8万亿",
+      "url": "https://36kr.com/newsflashes/3738026355802118?f=rss",
+      "published_at": "2026-03-25T07:17:02Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
+    {
+      "uid": "54fe1fd4628ae0d7",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "南宁轨道未来交通建设公司注册资本增至约29.5亿元",
+      "url": "https://36kr.com/newsflashes/3737994803560449?f=rss",
+      "published_at": "2026-03-25T07:05:55Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
+    {
+      "uid": "e5697afe992f3d53",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "A股三大指数集体收涨，沪指重返3900点",
+      "url": "https://36kr.com/newsflashes/3738011230601476?f=rss",
+      "published_at": "2026-03-25T07:01:39Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
+    {
+      "uid": "35891f5208608a4c",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "国家能源局：截至2月底全国累计发电装机容量39.5亿千瓦，同比增长15.9%",
+      "url": "https://36kr.com/newsflashes/3737995313283076?f=rss",
+      "published_at": "2026-03-25T06:52:23Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
+    {
+      "uid": "23b542d5afaedd04",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "钛媒体",
+      "title": "AI进入产业融合深水区：IBM和施耐德电气的AI落地实战心法",
+      "url": "https://www.tmtpost.com/7927102.html",
+      "published_at": "2026-03-25T06:52:00Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
+    {
+      "uid": "d1062fb35ebb9e33",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "我在酒店大堂当CEO",
+      "url": "https://www.tmtpost.com/7928218.html",
+      "published_at": "2026-03-25T06:47:45Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
+    {
+      "uid": "85a734d88e2bd4b3",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "国产人工心脏双寡头对抗",
+      "url": "https://www.tmtpost.com/7928321.html",
+      "published_at": "2026-03-25T06:47:39Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
+    {
+      "uid": "89183277c6c6ea7a",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "兰亭集势：2025年净利润830万美元，实现扭亏为盈",
+      "url": "https://36kr.com/newsflashes/3737994152575241?f=rss",
+      "published_at": "2026-03-25T06:44:17Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
+    {
+      "uid": "d947b71b62df6f1c",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "商务部：1-2月我国电子商务稳定发展，数字消费稳中向好",
+      "url": "https://36kr.com/newsflashes/3737993692004356?f=rss",
+      "published_at": "2026-03-25T06:43:49Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
+    {
+      "uid": "0e8c3a8d930319f6",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "沪深两市成交额突破2万亿元",
+      "url": "https://36kr.com/newsflashes/3737992019542024?f=rss",
+      "published_at": "2026-03-25T06:42:06Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
+    {
+      "uid": "d58ea30c4c3d1b25",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "古偶是中国版K-Pop？",
+      "url": "https://www.tmtpost.com/7928290.html",
+      "published_at": "2026-03-25T06:40:59Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
+    {
+      "uid": "855bcc430a6ac86d",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "管理",
+      "title": "张雪峰走了，他的9家公司怎么办？——IP型公司的组织陷阱",
+      "url": "https://www.tmtpost.com/7928298.html",
+      "published_at": "2026-03-25T06:40:54Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
+    {
+      "uid": "f1f40c1606203627",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "泡泡玛特：将在4月推出IP小家电产品",
+      "url": "https://36kr.com/newsflashes/3737990446563589?f=rss",
+      "published_at": "2026-03-25T06:40:30Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
+    {
       "uid": "86323390dd165370",
       "site_id": "36kr",
       "site_name": "36氪",
@@ -1285,20 +1448,20 @@
       "title": "金山云海南洋浦信息科技公司注册资本增至7亿美元",
       "url": "https://36kr.com/newsflashes/3737985817575430?f=rss",
       "published_at": "2026-03-25T06:35:48Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
-      "uid": "059b99f3debde8d3",
+      "uid": "056ca8ededebb323",
       "site_id": "36kr",
       "site_name": "36氪",
       "source": "36氪",
-      "title": "泡泡玛特乐园二期将在2027年启动建设",
+      "title": "泡泡玛特城市乐园2025年营收及客流表现超预期，二期将在2027年启动建设",
       "url": "https://36kr.com/newsflashes/3737984169967876?f=rss",
       "published_at": "2026-03-25T06:34:07Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -1309,8 +1472,20 @@
       "title": "通用汽车将向韩国子公司投资6亿美元，升级生产设施",
       "url": "https://36kr.com/newsflashes/3737982678745348?f=rss",
       "published_at": "2026-03-25T06:32:36Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
+      "meta": {}
+    },
+    {
+      "uid": "4943629ca086a867",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "「钛赞了」每日推荐",
+      "title": "“龙虾”的对手来了！Claude Code Channels 的野心与启示",
+      "url": "https://www.tmtpost.com/7928506.html",
+      "published_at": "2026-03-25T06:31:20Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -1321,8 +1496,8 @@
       "title": "MOVA割草机器人预计2026年将突破100万台",
       "url": "https://36kr.com/newsflashes/3737977599934470?f=rss",
       "published_at": "2026-03-25T06:27:26Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -1333,8 +1508,8 @@
       "title": "产销链错位、保荐机构子公司入股，广泰真空遭收入跨期与内控拷问 | IPO观察",
       "url": "https://www.tmtpost.com/7926943.html",
       "published_at": "2026-03-25T06:23:39Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -1345,8 +1520,8 @@
       "title": "泡泡玛特王宁：预计2026年实现不低于20%的增长",
       "url": "https://36kr.com/newsflashes/3737972070154241?f=rss",
       "published_at": "2026-03-25T06:21:49Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -1357,8 +1532,8 @@
       "title": "泡泡玛特将在今年下半年推出LABUBU 4.0系列",
       "url": "https://36kr.com/newsflashes/3737970010718473?f=rss",
       "published_at": "2026-03-25T06:19:43Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -1369,8 +1544,8 @@
       "title": "港股泡泡玛特跌超20%",
       "url": "https://36kr.com/newsflashes/3737962331783432?f=rss",
       "published_at": "2026-03-25T06:11:54Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -1381,68 +1556,32 @@
       "title": "从互连工程到生态协同：TE Connectivity在机器人产业链的双重角色",
       "url": "https://36kr.com/p/3737937096655107?f=rss",
       "published_at": "2026-03-25T06:07:59Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "0e5e7acbcaeec046",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "飞猪发布首个全品类旅行skill",
-      "url": "https://36kr.com/newsflashes/3737956908449797?f=rss",
-      "published_at": "2026-03-25T06:06:23Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "581133b406dd5d2f",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "泡泡玛特2026年将重点开发中东、南亚、欧洲、南美市场",
-      "url": "https://36kr.com/newsflashes/3737948311732229?f=rss",
-      "published_at": "2026-03-25T05:57:39Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
       "uid": "8d3fbca71009543d",
       "site_id": "tmtpost",
       "site_name": "钛媒体",
-      "source": "创新药",
+      "source": "主编精选文章",
       "title": "药明康德用一份年报，揭开CXO新竞争周期的底牌丨看财报",
       "url": "https://www.tmtpost.com/7928418.html",
       "published_at": "2026-03-25T05:54:20Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
       "uid": "e7b9bfd8a779d619",
       "site_id": "tmtpost",
       "site_name": "钛媒体",
-      "source": "Anthropic",
+      "source": "主编精选文章",
       "title": "Claude版龙虾VS OpenClaw，Anthropic又站在了OpenAI的反面",
       "url": "https://www.tmtpost.com/7928273.html",
       "published_at": "2026-03-25T05:49:40Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "d991248d892f0b10",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "泡泡玛特下个月将推出家电产品",
-      "url": "https://36kr.com/newsflashes/3737937372839941?f=rss",
-      "published_at": "2026-03-25T05:46:31Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -1453,92 +1592,8 @@
       "title": "Arm下场造芯：首推AGI CPU直供Meta，万亿算力市场的“越顶传球”",
       "url": "https://www.tmtpost.com/7928400.html",
       "published_at": "2026-03-25T05:44:34Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "f8e83e9ec8195837",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "美团港股涨幅扩大至10%",
-      "url": "https://36kr.com/newsflashes/3737931166613766?f=rss",
-      "published_at": "2026-03-25T05:40:12Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "1c0ea666bec4676d",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "湖南省政府与比亚迪举行工作会谈",
-      "url": "https://36kr.com/newsflashes/3737926134432005?f=rss",
-      "published_at": "2026-03-25T05:35:05Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "8a30f9ccb3f2007b",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "文德一出任泡泡玛特首席增长官",
-      "url": "https://36kr.com/newsflashes/3737919133564930?f=rss",
-      "published_at": "2026-03-25T05:27:58Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "301b46afb5be2f6a",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "三菱电机投资日本人工智能创企Sakana AI",
-      "url": "https://36kr.com/newsflashes/3737918180622338?f=rss",
-      "published_at": "2026-03-25T05:27:00Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "aa74dae478488518",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "南向资金净买入额达40亿港元",
-      "url": "https://36kr.com/newsflashes/3737909834776582?f=rss",
-      "published_at": "2026-03-25T05:18:30Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "31594c53bf6306c0",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "港股泡泡玛特午后跌超14%",
-      "url": "https://36kr.com/newsflashes/3737895291060488?f=rss",
-      "published_at": "2026-03-25T05:03:43Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "b092b47a9bb1ad6f",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "小菜园：2025年净利润7.15亿元，同比增长23.2%",
-      "url": "https://36kr.com/newsflashes/3737893206949894?f=rss",
-      "published_at": "2026-03-25T05:01:35Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -1549,20 +1604,8 @@
       "title": "同仁堂医养30日港股挂牌：在中医医疗服务赛道上，做时间的朋友",
       "url": "https://www.tmtpost.com/7928318.html",
       "published_at": "2026-03-25T04:55:24Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "c257ce24cfa1ce13",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "信达证券最新回应：启动内部核查，暂停左前明工作",
-      "url": "https://36kr.com/newsflashes/3737883889172743?f=rss",
-      "published_at": "2026-03-25T04:52:07Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -1573,32 +1616,8 @@
       "title": "宏明电子A股敲钟，四川能源发展集团旗下上市公司增至6家",
       "url": "https://www.tmtpost.com/7928357.html",
       "published_at": "2026-03-25T04:51:00Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "2e12ffcc3be9ed9f",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "英特尔和AMD告知客户上调3月和4月CPU价格",
-      "url": "https://36kr.com/newsflashes/3737881960546562?f=rss",
-      "published_at": "2026-03-25T04:50:09Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "c53d04b886d92e3a",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "“飞渡科技”完成新一轮战略融资",
-      "url": "https://36kr.com/newsflashes/3737880307482627?f=rss",
-      "published_at": "2026-03-25T04:48:28Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -1609,8 +1628,8 @@
       "title": "瑞识科技实现二维可寻址VCSEL芯片量产，已落地车载激光雷达与智能机器人｜最前线",
       "url": "https://36kr.com/p/3737850679377927?f=rss",
       "published_at": "2026-03-25T04:19:42Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -1621,8 +1640,8 @@
       "title": "瑞士信息与通信科技公司Kyan Health研发员工心理健康支持应用程序，应对职场心理健康问题",
       "url": "https://www.tmtpost.com/7928236.html",
       "published_at": "2026-03-25T03:56:08Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -1633,8 +1652,8 @@
       "title": "康师傅首次提出“狼性化”，营收近10年第一次“负增长”",
       "url": "https://www.tmtpost.com/7927333.html",
       "published_at": "2026-03-25T03:54:02Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -1645,8 +1664,8 @@
       "title": "越南物流大洗牌：绑定巨头，还是另寻出路？",
       "url": "https://www.tmtpost.com/7928063.html",
       "published_at": "2026-03-25T03:53:51Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -1657,8 +1676,8 @@
       "title": "马斯克造芯片，年产2000亿颗，80%将在太空运转",
       "url": "https://www.tmtpost.com/7927919.html",
       "published_at": "2026-03-25T03:53:48Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -1669,8 +1688,8 @@
       "title": "2026，具身智能开始「清场」",
       "url": "https://www.tmtpost.com/7928180.html",
       "published_at": "2026-03-25T03:49:08Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -1681,92 +1700,8 @@
       "title": "9.9元玩一天，有商家爆卖上百万，“手搓经济”又出新爆款",
       "url": "https://www.tmtpost.com/7928073.html",
       "published_at": "2026-03-25T03:49:03Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "138614730e91e532",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "投稿",
-      "title": "豪掷5000亿美元，孙正义要做“AI电力之王”？",
-      "url": "https://www.tmtpost.com/7926481.html",
-      "published_at": "2026-03-25T03:48:54Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "71f323617069d11c",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "投稿",
-      "title": "指望淘天很快交出高分，是不现实的",
-      "url": "https://www.tmtpost.com/7927292.html",
-      "published_at": "2026-03-25T03:48:50Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "393da8c7b010417b",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "投稿",
-      "title": "哈佛教授收了个AI研究生：干活猛得像学霸，撒谎精得像学渣",
-      "url": "https://www.tmtpost.com/7928131.html",
-      "published_at": "2026-03-25T03:30:25Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "a9bb978ddd1f8ea4",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "投稿",
-      "title": "武汉，涨疯了",
-      "url": "https://www.tmtpost.com/7928128.html",
-      "published_at": "2026-03-25T03:30:17Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "b3ddc778efd0d293",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "投稿",
-      "title": "30亿美元押注PI3Kα，诺华打响乳腺癌治疗夺权战",
-      "url": "https://www.tmtpost.com/7928120.html",
-      "published_at": "2026-03-25T03:30:12Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "971fc8102c478d73",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "投稿",
-      "title": "毛利50%，2平米的自拍店，正在闷声赚钱？",
-      "url": "https://www.tmtpost.com/7928052.html",
-      "published_at": "2026-03-25T03:23:00Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "8f56caf782f3a0f6",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "投稿",
-      "title": "Claude“虾化”：杀不死OpenClaw，但划定了它的天花板",
-      "url": "https://www.tmtpost.com/7928055.html",
-      "published_at": "2026-03-25T03:22:54Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -1777,8 +1712,8 @@
       "title": "富力10年前买下的万达酒店，快卖光了",
       "url": "https://36kr.com/p/3737788251799561?f=rss",
       "published_at": "2026-03-25T03:15:35Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -1789,8 +1724,8 @@
       "title": "拓竹和泡泡玛特和解，免费打印大牌IP的日子正在倒计时",
       "url": "https://36kr.com/p/3737724614213639?f=rss",
       "published_at": "2026-03-25T02:13:38Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -1801,8 +1736,8 @@
       "title": "从高中社团起步，三个00后天才研发网络勒索病毒“疫苗”，帮企业从黑客手中“抢”数据 | 水下项目",
       "url": "https://36kr.com/p/3737704073428992?f=rss",
       "published_at": "2026-03-25T01:54:16Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -1813,8 +1748,8 @@
       "title": "IDG资本领投天使轮，阿里系+清华具身项目半年融超1亿元｜36氪首发",
       "url": "https://36kr.com/p/3737667859398665?f=rss",
       "published_at": "2026-03-25T01:15:40Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -1825,8 +1760,8 @@
       "title": "36氪首发丨东方富海投了一个海归博导，要挑战日本高端激光设备巨头",
       "url": "https://36kr.com/p/3737670256345345?f=rss",
       "published_at": "2026-03-25T01:15:01Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -1837,8 +1772,8 @@
       "title": "AI智能体下场：新药开发如何告别单步解题、突破认知盲区？  | 最前线",
       "url": "https://36kr.com/p/3736278401286401?f=rss",
       "published_at": "2026-03-25T00:24:07Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     },
     {
@@ -1849,56 +1784,8 @@
       "title": "8点1氪丨美国提出15点结束冲突方案，拟停火1个月；张雪峰因心源性猝死抢救无效去世；Token中文名定了：词元",
       "url": "https://36kr.com/p/3737612384043270?f=rss",
       "published_at": "2026-03-25T00:19:03Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "1d87ad2e4ea01cfc",
-      "site_id": "huxiu",
-      "site_name": "虎嗅网",
-      "source": "虎嗅网",
-      "title": "车企盯上有钱人，“9系”大战一触即发",
-      "url": "http://www.huxiu.com/article/4842768.html?f=wangzhan",
-      "published_at": "2026-03-24T23:14:31Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "423e265f5f6aa1b2",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "科氪 | 性能之上，圆满之作：一加 15T 深度评测",
-      "url": "https://36kr.com/p/3737032976220167?f=rss",
-      "published_at": "2026-03-24T14:51:57Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "02163b6dd57d7eac",
-      "site_id": "huxiu",
-      "site_name": "虎嗅网",
-      "source": "虎嗅网",
-      "title": "高端日料没人吃了？",
-      "url": "http://www.huxiu.com/article/4843942.html?f=wangzhan",
-      "published_at": "2026-03-24T11:00:00Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
-      "meta": {}
-    },
-    {
-      "uid": "fb52da9f4d686a9d",
-      "site_id": "huxiu",
-      "site_name": "虎嗅网",
-      "source": "虎嗅网",
-      "title": "从万众期待到路边一X，国行Switch是如何走到关服停运的呢？",
-      "url": "http://www.huxiu.com/article/4843911.html?f=wangzhan",
-      "published_at": "2026-03-24T10:00:00Z",
-      "first_seen_at": "2026-03-25T06:40:22.686402Z",
-      "last_seen_at": "2026-03-25T06:40:22.686402Z",
+      "first_seen_at": "2026-03-25T07:57:22.021533Z",
+      "last_seen_at": "2026-03-25T07:57:22.021533Z",
       "meta": {}
     }
   ]

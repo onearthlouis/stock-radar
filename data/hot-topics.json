@@ -1,18 +1,8 @@
 {
-  "generated_at": "2026-03-25T06:40:29.166005Z",
+  "generated_at": "2026-03-25T07:57:59.116365Z",
   "window_hours": 24,
-  "total_items_analyzed": 52,
+  "total_items_analyzed": 49,
   "hot_topics": [
-    {
-      "keyword": "港股",
-      "category": "港股",
-      "count": 4,
-      "sample_titles": [
-        "港股泡泡玛特跌超20%",
-        "美团港股涨幅扩大至10%",
-        "港股泡泡玛特午后跌超14%"
-      ]
-    },
     {
       "keyword": "芯片",
       "category": "板块",
@@ -44,11 +34,13 @@
       ]
     },
     {
-      "keyword": "人工智能",
-      "category": "板块",
-      "count": 1,
+      "keyword": "港股",
+      "category": "港股",
+      "count": 3,
       "sample_titles": [
-        "三菱电机投资日本人工智能创企Sakana AI"
+        "港股科网股尾盘再度上扬，美团涨超15%",
+        "港股泡泡玛特跌超20%",
+        "同仁堂医养30日港股挂牌：在中医医疗服务赛道上，做时间的朋友"
       ]
     },
     {
@@ -60,19 +52,19 @@
       ]
     },
     {
+      "keyword": "消费",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "商务部：1-2月我国电子商务稳定发展，数字消费稳中向好"
+      ]
+    },
+    {
       "keyword": "汽车",
       "category": "板块",
       "count": 1,
       "sample_titles": [
         "通用汽车将向韩国子公司投资6亿美元，升级生产设施"
-      ]
-    },
-    {
-      "keyword": "南向资金",
-      "category": "港股",
-      "count": 1,
-      "sample_titles": [
-        "南向资金净买入额达40亿港元"
       ]
     }
   ]
