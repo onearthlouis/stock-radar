@@ -1,63 +1,70 @@
 {
-  "generated_at": "2026-03-25T05:01:04.488526Z",
+  "generated_at": "2026-03-25T06:40:29.166005Z",
   "window_hours": 24,
-  "total_items_analyzed": 49,
+  "total_items_analyzed": 52,
   "hot_topics": [
+    {
+      "keyword": "港股",
+      "category": "港股",
+      "count": 4,
+      "sample_titles": [
+        "港股泡泡玛特跌超20%",
+        "美团港股涨幅扩大至10%",
+        "港股泡泡玛特午后跌超14%"
+      ]
+    },
     {
       "keyword": "芯片",
       "category": "板块",
-      "count": 2,
+      "count": 3,
       "sample_titles": [
+        "Arm下场造芯：首推AGI CPU直供Meta，万亿算力市场的“越顶传球”",
         "瑞识科技实现二维可寻址VCSEL芯片量产，已落地车载激光雷达与智能机器人｜最前线",
         "马斯克造芯片，年产2000亿颗，80%将在太空运转"
       ]
     },
     {
-      "keyword": "储能",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "瑞玛精密：公司向厦门海辰储能提供锂电池电芯结构件产品"
-      ]
-    },
-    {
       "keyword": "机器人",
       "category": "板块",
-      "count": 1,
+      "count": 3,
       "sample_titles": [
+        "MOVA割草机器人预计2026年将突破100万台",
+        "从互连工程到生态协同：TE Connectivity在机器人产业链的双重角色",
         "瑞识科技实现二维可寻址VCSEL芯片量产，已落地车载激光雷达与智能机器人｜最前线"
       ]
     },
     {
-      "keyword": "银行",
+      "keyword": "IPO",
+      "category": "市场",
+      "count": 3,
+      "sample_titles": [
+        "产销链错位、保荐机构子公司入股，广泰真空遭收入跨期与内控拷问 | IPO观察",
+        "同仁堂医养30日港股挂牌：在中医医疗服务赛道上，做时间的朋友",
+        "宏明电子A股敲钟，四川能源发展集团旗下上市公司增至6家"
+      ]
+    },
+    {
+      "keyword": "人工智能",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "交行回应拟申请撤销私行专营牌照：现有私人银行业务服务、权益、流程等均不受影响"
+        "三菱电机投资日本人工智能创企Sakana AI"
       ]
     },
     {
-      "keyword": "有色",
+      "keyword": "医疗",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "半日主力资金加仓电子股，抛售有色金属股"
+        "同仁堂医养30日港股挂牌：在中医医疗服务赛道上，做时间的朋友"
       ]
     },
     {
-      "keyword": "恒指",
-      "category": "港股",
+      "keyword": "汽车",
+      "category": "板块",
       "count": 1,
       "sample_titles": [
-        "恒指午间休盘涨0.04%，恒生科技指数跌0.48%"
-      ]
-    },
-    {
-      "keyword": "恒生科技",
-      "category": "港股",
-      "count": 1,
-      "sample_titles": [
-        "恒指午间休盘涨0.04%，恒生科技指数跌0.48%"
+        "通用汽车将向韩国子公司投资6亿美元，升级生产设施"
       ]
     },
     {
@@ -65,7 +72,7 @@
       "category": "港股",
       "count": 1,
       "sample_titles": [
-        "南向资金净买入额达30亿港元"
+        "南向资金净买入额达40亿港元"
       ]
     }
   ]
