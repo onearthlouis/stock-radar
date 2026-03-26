@@ -1,17 +1,8 @@
 {
-  "generated_at": "2026-03-26T11:00:04.936740Z",
+  "generated_at": "2026-03-26T11:57:21.850552Z",
   "window_hours": 24,
-  "total_items_analyzed": 47,
+  "total_items_analyzed": 48,
   "hot_topics": [
-    {
-      "keyword": "芯片",
-      "category": "板块",
-      "count": 2,
-      "sample_titles": [
-        "中国科学院启动下一代开源芯片与系统研发",
-        "百万GPU的双重赌局：AWS自研芯片的钢丝游戏"
-      ]
-    },
     {
       "keyword": "医疗",
       "category": "板块",
@@ -19,6 +10,22 @@
       "sample_titles": [
         "企业健管高增40%，平安好医生解锁中国版管理式医疗新范式",
         "8点1氪丨张雪峰医疗文件疑似泄露，苏州卫生健康委回应；黄仁勋谈死亡：希望在工作中突然离世；OpenAI将停止Sora视频生成服务，精简产品线"
+      ]
+    },
+    {
+      "keyword": "芯片",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "百万GPU的双重赌局：AWS自研芯片的钢丝游戏"
+      ]
+    },
+    {
+      "keyword": "机器人",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "富临精工在四川成立智能机器人公司"
       ]
     },
     {
@@ -51,22 +58,6 @@
       "count": 1,
       "sample_titles": [
         "中国人民银行行长潘功胜分别会见国际金融机构负责人"
-      ]
-    },
-    {
-      "keyword": "IPO",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "月之暗面据称考虑赴香港进行IPO"
-      ]
-    },
-    {
-      "keyword": "南向资金",
-      "category": "港股",
-      "count": 1,
-      "sample_titles": [
-        "盈富基金获南向资金净买入13.76亿港元"
       ]
     }
   ]
