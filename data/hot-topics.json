@@ -1,22 +1,14 @@
 {
-  "generated_at": "2026-03-26T08:11:49.798277Z",
+  "generated_at": "2026-03-26T09:35:47.948929Z",
   "window_hours": 24,
-  "total_items_analyzed": 46,
+  "total_items_analyzed": 47,
   "hot_topics": [
     {
-      "keyword": "人工智能",
+      "keyword": "医药",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "汉王科技刘卫红：嗅觉数字化正成为人工智能迈向多模态感知的关键突破"
-      ]
-    },
-    {
-      "keyword": "机器人",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "北京人形机器人创新中心发布开源开放生态计划"
+        "恒瑞医药：HRS9531注射液药物临床试验获批准"
       ]
     },
     {
@@ -28,11 +20,19 @@
       ]
     },
     {
-      "keyword": "地产",
+      "keyword": "金融",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "中指研究院：2025年商业地产市场延续供需偏弱态势"
+        "国家外汇管理局：2025年末我国银行业对外金融资产19775亿美元"
+      ]
+    },
+    {
+      "keyword": "银行",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "国家外汇管理局：2025年末我国银行业对外金融资产19775亿美元"
       ]
     },
     {
@@ -44,19 +44,11 @@
       ]
     },
     {
-      "keyword": "恒指",
-      "category": "港股",
+      "keyword": "回购",
+      "category": "市场",
       "count": 1,
       "sample_titles": [
-        "恒指收跌1.89%，恒生科技指数跌3.28%"
-      ]
-    },
-    {
-      "keyword": "恒生科技",
-      "category": "港股",
-      "count": 1,
-      "sample_titles": [
-        "恒指收跌1.89%，恒生科技指数跌3.28%"
+        "泡泡玛特：于3月26日回购394万股，耗资约6亿港元"
       ]
     },
     {
@@ -65,14 +57,6 @@
       "count": 1,
       "sample_titles": [
         "内存通胀“终结者”？谷歌公开最新极限压缩算法"
-      ]
-    },
-    {
-      "keyword": "央行",
-      "category": "宏观",
-      "count": 1,
-      "sample_titles": [
-        "欧洲央行管委内格尔：4月加息只是一个选项"
       ]
     }
   ]
