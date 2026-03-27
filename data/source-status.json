@@ -1,12 +1,6 @@
 {
-  "generated_at": "2026-03-27T19:42:27.477954Z",
+  "generated_at": "2026-03-27T20:48:56.589659Z",
   "sites": [
-    {
-      "site_id": "wallstreetcn",
-      "site_name": "华尔街见闻",
-      "ok": true,
-      "item_count": 0
-    },
     {
       "site_id": "eastmoney",
       "site_name": "东方财富",
@@ -14,15 +8,8 @@
       "item_count": 0
     },
     {
-      "site_id": "cs",
-      "site_name": "中国证券报",
-      "ok": false,
-      "item_count": 0,
-      "error": "404 Client Error: Not Found for url: https://www.cs.com.cn/rss/rss.xml"
-    },
-    {
-      "site_id": "cls",
-      "site_name": "财联社",
+      "site_id": "wallstreetcn",
+      "site_name": "华尔街见闻",
       "ok": true,
       "item_count": 0
     },
@@ -38,6 +25,12 @@
       "site_name": "36氪",
       "ok": true,
       "item_count": 30
+    },
+    {
+      "site_id": "cls",
+      "site_name": "财联社",
+      "ok": true,
+      "item_count": 0
     },
     {
       "site_id": "jiemian",
@@ -56,7 +49,14 @@
       "site_id": "tmtpost",
       "site_name": "钛媒体",
       "ok": true,
-      "item_count": 18
+      "item_count": 17
+    },
+    {
+      "site_id": "cs",
+      "site_name": "中国证券报",
+      "ok": false,
+      "item_count": 0,
+      "error": "404 Client Error: Not Found for url: https://www.cs.com.cn/rss/rss.xml"
     },
     {
       "site_id": "huxiu",
@@ -68,10 +68,10 @@
   ],
   "successful_sites": 6,
   "failed_sites": [
-    "cs",
     "sina_finance",
     "jiemian",
+    "cs",
     "huxiu"
   ],
-  "fetched_raw_items": 48
+  "fetched_raw_items": 47
 }
