@@ -1,9 +1,15 @@
 {
-  "generated_at": "2026-03-28T21:36:19.308426Z",
+  "generated_at": "2026-03-28T22:36:33.006258Z",
   "sites": [
     {
       "site_id": "wallstreetcn",
       "site_name": "华尔街见闻",
+      "ok": true,
+      "item_count": 0
+    },
+    {
+      "site_id": "eastmoney",
+      "site_name": "东方财富",
       "ok": true,
       "item_count": 0
     },
@@ -15,10 +21,11 @@
       "error": "404 Client Error: Not Found for url: https://www.cs.com.cn/rss/rss.xml"
     },
     {
-      "site_id": "eastmoney",
-      "site_name": "东方财富",
-      "ok": true,
-      "item_count": 0
+      "site_id": "jiemian",
+      "site_name": "界面新闻",
+      "ok": false,
+      "item_count": 0,
+      "error": "404 Client Error: Not Found for url: https://www.jiemian.com/rss/index.xml"
     },
     {
       "site_id": "cls",
@@ -52,13 +59,6 @@
       "item_count": 16
     },
     {
-      "site_id": "jiemian",
-      "site_name": "界面新闻",
-      "ok": false,
-      "item_count": 0,
-      "error": "404 Client Error: Not Found for url: https://www.jiemian.com/rss/index.xml"
-    },
-    {
       "site_id": "huxiu",
       "site_name": "虎嗅网",
       "ok": false,
@@ -69,8 +69,8 @@
   "successful_sites": 6,
   "failed_sites": [
     "cs",
-    "sina_finance",
     "jiemian",
+    "sina_finance",
     "huxiu"
   ],
   "fetched_raw_items": 40
