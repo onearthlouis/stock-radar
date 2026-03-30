@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-03-30T11:58:37.447885Z",
+  "generated_at": "2026-03-30T13:57:17.286236Z",
   "window_hours": 24,
   "total_items_analyzed": 43,
   "hot_topics": [
+    {
+      "keyword": "回购",
+      "category": "市场",
+      "count": 3,
+      "sample_titles": [
+        "美的集团：拟65亿元至130亿元回购A股股份",
+        "顺丰控股：回购资金总额调整为不低于30亿元且不超过60亿元",
+        "工业富联：完成5亿元股份回购并拟注销，本次回购已实施完毕"
+      ]
+    },
     {
       "keyword": "机器人",
       "category": "板块",
@@ -37,27 +47,11 @@
       ]
     },
     {
-      "keyword": "连板",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "2连板联环药业：LH-1801项目短期内不能取得上市批准"
-      ]
-    },
-    {
       "keyword": "IPO",
       "category": "市场",
       "count": 1,
       "sample_titles": [
         "行业天花板低、议价能力孱弱，欣兴工具对赌压身背水一战 | IPO观察"
-      ]
-    },
-    {
-      "keyword": "回购",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "工业富联：完成5亿元股份回购并拟注销，本次回购已实施完毕"
       ]
     }
   ]
