@@ -1,9 +1,34 @@
 {
-  "generated_at": "2026-03-30T16:34:20.848606Z",
+  "generated_at": "2026-03-30T17:56:52.298786Z",
   "sites": [
     {
       "site_id": "wallstreetcn",
       "site_name": "华尔街见闻",
+      "ok": true,
+      "item_count": 0
+    },
+    {
+      "site_id": "eastmoney",
+      "site_name": "东方财富",
+      "ok": true,
+      "item_count": 0
+    },
+    {
+      "site_id": "stcn",
+      "site_name": "证券时报",
+      "ok": false,
+      "item_count": 0,
+      "error": "404 Client Error: Not Found for url: https://www.stcn.com/rss/index.xml"
+    },
+    {
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "ok": true,
+      "item_count": 28
+    },
+    {
+      "site_id": "cls",
+      "site_name": "财联社",
       "ok": true,
       "item_count": 0
     },
@@ -20,30 +45,6 @@
       "ok": false,
       "item_count": 0,
       "error": "404 Client Error: Not Found for url: https://rss.sina.com.cn/news/fin_roll/01.xml"
-    },
-    {
-      "site_id": "eastmoney",
-      "site_name": "东方财富",
-      "ok": true,
-      "item_count": 0
-    },
-    {
-      "site_id": "cls",
-      "site_name": "财联社",
-      "ok": true,
-      "item_count": 0
-    },
-    {
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "ok": true,
-      "item_count": 28
-    },
-    {
-      "site_id": "stcn",
-      "site_name": "证券时报",
-      "ok": true,
-      "item_count": 0
     },
     {
       "site_id": "tmtpost",
@@ -66,8 +67,9 @@
       "error": "HTTPSConnectionPool(host='www.huxiu.com', port=443): Max retries exceeded with url: /rss/0.xml (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.huxiu.com', port=443): Read timed out. (read timeout=25)\"))"
     }
   ],
-  "successful_sites": 6,
+  "successful_sites": 5,
   "failed_sites": [
+    "stcn",
     "cs",
     "sina_finance",
     "jiemian",
