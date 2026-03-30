@@ -1,60 +1,33 @@
 {
-  "generated_at": "2026-03-30T09:22:42.520137Z",
+  "generated_at": "2026-03-30T10:47:09.469595Z",
   "window_hours": 24,
-  "total_items_analyzed": 46,
+  "total_items_analyzed": 44,
   "hot_topics": [
-    {
-      "keyword": "IPO",
-      "category": "市场",
-      "count": 3,
-      "sample_titles": [
-        "云英谷港股IPO获中国证监会备案",
-        "东方科脉港股IPO获中国证监会备案",
-        "百英生物闯关北交所：毛利率“反常”、大客户“换血”，收入准确性遭两轮拷问丨IPO观察"
-      ]
-    },
     {
       "keyword": "机器人",
       "category": "板块",
-      "count": 2,
+      "count": 3,
       "sample_titles": [
+        "松延动力仿生机器人表情控制相关专利公布",
         "清华学霸夫妻联手，造出全栈物流机器人第一股，顺丰赚了14亿",
         "36氪专访 | 秘密递表后认购超5000倍，华沿机器人CEO说想再低调一点"
       ]
     },
     {
-      "keyword": "银行",
-      "category": "板块",
+      "keyword": "回购",
+      "category": "市场",
       "count": 2,
       "sample_titles": [
-        "中国银行：2025年实现税后利润2579.36亿元，同比增长2.06%",
-        "农业银行：2025全年净利润2910.4亿元 同比增长3.2%"
+        "泡泡玛特：斥资1.99亿港元回购134万股",
+        "赛力斯：拟10亿元-20亿元回购股份，用于减少公司注册资本"
       ]
     },
     {
-      "keyword": "港股",
-      "category": "港股",
-      "count": 2,
-      "sample_titles": [
-        "云英谷港股IPO获中国证监会备案",
-        "东方科脉港股IPO获中国证监会备案"
-      ]
-    },
-    {
-      "keyword": "证监会",
-      "category": "宏观",
-      "count": 2,
-      "sample_titles": [
-        "云英谷港股IPO获中国证监会备案",
-        "东方科脉港股IPO获中国证监会备案"
-      ]
-    },
-    {
-      "keyword": "医药",
+      "keyword": "医疗",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "百花医药：筹划控制权变更事项，股票停牌"
+        "赛诺医疗：筹划发行H股并在香港联交所主板上市"
       ]
     },
     {
@@ -74,19 +47,27 @@
       ]
     },
     {
-      "keyword": "化工",
-      "category": "板块",
+      "keyword": "连板",
+      "category": "市场",
       "count": 1,
       "sample_titles": [
-        "霍尔木兹卡全球脖子，化工行业却站上周期反转的起点？"
+        "2连板联环药业：LH-1801项目短期内不能取得上市批准"
       ]
     },
     {
-      "keyword": "5G",
-      "category": "板块",
+      "keyword": "IPO",
+      "category": "市场",
       "count": 1,
       "sample_titles": [
-        "车载通信赛道的国产供应商，沦为5G新秩序下的后进生？"
+        "百英生物闯关北交所：毛利率“反常”、大客户“换血”，收入准确性遭两轮拷问丨IPO观察"
+      ]
+    },
+    {
+      "keyword": "南向资金",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "盈富基金遭南向资金净卖出38.46亿港元"
       ]
     }
   ]
