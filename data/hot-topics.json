@@ -1,33 +1,38 @@
 {
-  "generated_at": "2026-03-30T23:06:34.890318Z",
+  "generated_at": "2026-03-31T00:02:41.970580Z",
   "window_hours": 24,
-  "total_items_analyzed": 44,
+  "total_items_analyzed": 43,
   "hot_topics": [
-    {
-      "keyword": "回购",
-      "category": "市场",
-      "count": 3,
-      "sample_titles": [
-        "美的集团：拟65亿元至130亿元回购A股股份",
-        "顺丰控股：回购资金总额调整为不低于30亿元且不超过60亿元",
-        "工业富联：完成5亿元股份回购并拟注销，本次回购已实施完毕"
-      ]
-    },
-    {
-      "keyword": "机器人",
-      "category": "板块",
-      "count": 2,
-      "sample_titles": [
-        "乐聚携手东方精工建成国内首条年产能万台级人形机器人产线",
-        "36氪专访 | 秘密递表后认购超5000倍，华沿机器人CEO说想再低调一点"
-      ]
-    },
     {
       "keyword": "芯片",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "Mistral筹集8.3亿美元在欧洲建设英伟达芯片驱动的AI中心"
+        "韩国AI芯片初创公司Rebellions额外筹集4亿美元"
+      ]
+    },
+    {
+      "keyword": "储能",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "中信建投：系统运行费上涨仅个别省份较为明显，总体对储能经济性影响幅度较小"
+      ]
+    },
+    {
+      "keyword": "机器人",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "36氪专访 | 秘密递表后认购超5000倍，华沿机器人CEO说想再低调一点"
+      ]
+    },
+    {
+      "keyword": "医药",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "产业链整合提速！医药龙头斥资 3.34 亿元拿下高纯溶剂企业控股权；区域交通龙头子公司 1.15 亿元收购汽修标的；【并购一线】"
       ]
     },
     {
@@ -43,7 +48,15 @@
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "8点1氪丨全国猪价跌破5元创历史新低；雀巢12吨巧克力被盗；起诉小米汽车的“老头乐”企业致歉"
+        "通用汽车将增加重型卡车产量"
+      ]
+    },
+    {
+      "keyword": "天然气",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "卡塔尔能源：美国Golden Pass LNG项目实现液化天然气生产"
       ]
     },
     {
@@ -52,6 +65,38 @@
       "count": 1,
       "sample_titles": [
         "行业天花板低、议价能力孱弱，欣兴工具对赌压身背水一战 | IPO观察"
+      ]
+    },
+    {
+      "keyword": "回购",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "【钛晨报】单家最高130亿元！港A股上市公司密集公告回购计划；时隔逾2年，贵州茅台再度宣布涨价；爱奇艺拟赴港二次上市"
+      ]
+    },
+    {
+      "keyword": "分红",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "六大行营收净利全部双增，2025年度分红合计将超4000亿元"
+      ]
+    },
+    {
+      "keyword": "CPI",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "日本3月东京核心CPI同比上升1.7%"
+      ]
+    },
+    {
+      "keyword": "美联储",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "美联储4月维持利率不变的概率为97.4%"
       ]
     }
   ]
