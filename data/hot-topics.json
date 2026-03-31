@@ -1,15 +1,23 @@
 {
-  "generated_at": "2026-03-31T11:29:24.162892Z",
+  "generated_at": "2026-03-31T12:11:07.843914Z",
   "window_hours": 24,
-  "total_items_analyzed": 48,
+  "total_items_analyzed": 49,
   "hot_topics": [
     {
-      "keyword": "央行",
-      "category": "宏观",
+      "keyword": "IPO",
+      "category": "市场",
       "count": 2,
       "sample_titles": [
-        "央行：2月同业拆借日均成交4293.2亿元，同比增加87.1%",
-        "央行：2月上海黄金交易所黄金成交2813.9吨，同比下降52.9%"
+        "因财务数据过期，存储厂商长鑫科技IPO审核“中止”",
+        "IPO中止，蓝箭航天回应：因申报材料中财务资料已过有效期"
+      ]
+    },
+    {
+      "keyword": "人工智能",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "微软的Word、Excel及人工智能应用Copilot等产品面临英国反垄断调查"
       ]
     },
     {
@@ -18,6 +26,14 @@
       "count": 1,
       "sample_titles": [
         "追觅生态链多了家清华系公司，要用AI储能融入智能家居体系｜硬氪专访"
+      ]
+    },
+    {
+      "keyword": "机器人",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "华沿机器人赴港上市：大族激光孵化，剑指具身智能"
       ]
     },
     {
@@ -58,22 +74,6 @@
       "count": 1,
       "sample_titles": [
         "幺正量子完成数亿元Pre-A轮融资，蚂蚁、吉利、混沌、中博聚力等参投｜融资速递"
-      ]
-    },
-    {
-      "keyword": "IPO",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "IPO中止，蓝箭航天回应：因申报材料中财务资料已过有效期"
-      ]
-    },
-    {
-      "keyword": "减持",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "杭华股份：股东拟减持不超3%公司股份"
       ]
     },
     {
