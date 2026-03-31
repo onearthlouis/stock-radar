@@ -1,24 +1,16 @@
 {
-  "generated_at": "2026-03-31T22:42:03.906252Z",
+  "generated_at": "2026-03-31T23:41:44.450820Z",
   "window_hours": 24,
   "total_items_analyzed": 49,
   "hot_topics": [
     {
       "keyword": "机器人",
       "category": "板块",
-      "count": 2,
+      "count": 3,
       "sample_titles": [
+        "珞石（山东）机器人集团股份有限公司再次递表港交所",
         "四家机器人厂商，一起投了一家数据公司丨涌现新项目",
         "华沿机器人赴港上市：大族激光孵化，剑指具身智能"
-      ]
-    },
-    {
-      "keyword": "汽车",
-      "category": "板块",
-      "count": 2,
-      "sample_titles": [
-        "理想汽车OTA8.4版本更新",
-        "香港人买爆国产电动汽车"
       ]
     },
     {
@@ -43,6 +35,22 @@
       "count": 1,
       "sample_titles": [
         "幺正量子完成数亿元Pre-A轮融资，蚂蚁、吉利、混沌、中博聚力等参投｜融资速递"
+      ]
+    },
+    {
+      "keyword": "IPO",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "上交所受理中科宇航科创板IPO申请"
+      ]
+    },
+    {
+      "keyword": "央行",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "【钛晨报】央行：要继续实施适度宽松的货币政策，加大逆周期和跨周期调节力度；国行版苹果AI突然上线后又被撤回，苹果回应：正在积极推进落地中国；360智能体发现OpenClaw高危漏洞，或波及全球17万实例"
       ]
     }
   ]
