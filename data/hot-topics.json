@@ -1,8 +1,28 @@
 {
-  "generated_at": "2026-04-02T08:11:51.366763Z",
+  "generated_at": "2026-04-02T09:38:16.506581Z",
   "window_hours": 24,
-  "total_items_analyzed": 43,
+  "total_items_analyzed": 46,
   "hot_topics": [
+    {
+      "keyword": "医药",
+      "category": "板块",
+      "count": 3,
+      "sample_titles": [
+        "2连板北大医药：公司不存在创新药业务",
+        "复星医药：陈战宇辞任首席财务官职务，聘任黄智为公司首席财务官",
+        "百洋医药：商业化药品锝佩昔瑞特加肽注射液获批上市"
+      ]
+    },
+    {
+      "keyword": "IPO",
+      "category": "市场",
+      "count": 3,
+      "sample_titles": [
+        "泰诺麦博：十年烧钱26亿！产品商业化遇冷，负债率高达88%濒临资不抵债｜IPO观察",
+        "轻舟、元戎秘交上市资料，和Momenta冲刺港股IPO | 36氪独家",
+        "8点1氪丨甲骨文凌晨突发邮件裁员3万人；市监局回应张雪机车禁止新手购买；SpaceX据悉秘密提交IPO文件，估值或超过1.75万亿美元"
+      ]
+    },
     {
       "keyword": "机器人",
       "category": "板块",
@@ -13,27 +33,11 @@
       ]
     },
     {
-      "keyword": "银行",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "成都银行增资至约42.4亿元"
-      ]
-    },
-    {
       "keyword": "汽车",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "沃尔沃汽车第一季度全球销量同比下降11%"
-      ]
-    },
-    {
-      "keyword": "化工",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "华泰股份：近期部分化工类产品价格出现上涨，将对公司经营业绩和利润产生积极正面影响"
+        "广汽集团：前3月汽车销量37.99万辆，同比增长2.38%"
       ]
     },
     {
@@ -41,31 +45,39 @@
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "5连板津药药业：目前研发以仿制��为主，无在研创新药项目"
+        "2连板北大医药：公司不存在创新药业务"
       ]
     },
     {
-      "keyword": "IPO",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "8点1氪丨甲骨文凌晨突发邮件裁员3万人；市监局回应张雪机车禁止新手购买；SpaceX据悉秘密提交IPO文件，估值或超过1.75万亿美元"
-      ]
-    },
-    {
-      "keyword": "南向资金",
+      "keyword": "港股",
       "category": "港股",
       "count": 1,
       "sample_titles": [
-        "南向资金净买入额达100亿港元"
+        "轻舟、元戎秘交上市资料，和Momenta冲刺港股IPO | 36氪独家"
       ]
     },
     {
-      "keyword": "证监会",
+      "keyword": "恒指",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "恒指收跌0.7%，恒生科技指数跌1.63%"
+      ]
+    },
+    {
+      "keyword": "恒生科技",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "恒指收跌0.7%，恒生科技指数跌1.63%"
+      ]
+    },
+    {
+      "keyword": "国务院",
       "category": "宏观",
       "count": 1,
       "sample_titles": [
-        "华恒生物：发行境外上市股份（H股）获中国证监会备案"
+        "国务院：对符合条件的澳门机动车经横琴粤澳深度合作区暂时入出广东省其他区域实行免担保政策"
       ]
     }
   ]
