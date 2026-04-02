@@ -1,33 +1,47 @@
 {
-  "generated_at": "2026-04-02T06:51:44.747705Z",
+  "generated_at": "2026-04-02T08:11:51.366763Z",
   "window_hours": 24,
-  "total_items_analyzed": 45,
+  "total_items_analyzed": 43,
   "hot_topics": [
     {
       "keyword": "机器人",
       "category": "板块",
-      "count": 3,
+      "count": 2,
       "sample_titles": [
-        "港仔机器人与NVTHK订立战略合作协议，共同开发机器人RWA融资商业模式",
-        "追捧人形机器人的资本，为什么看不见能赚钱的装卸具身智能？",
+        "花了十年，周剑终于把机器人卖出去了",
         "36氪首发 | 00后交大博士做仿生飞行机器人，获启高、奇绩创坛、交大母基金等投资"
       ]
     },
     {
       "keyword": "银行",
       "category": "板块",
-      "count": 2,
+      "count": 1,
       "sample_titles": [
-        "伯克希尔·哈撒韦公司据悉聘请银行发行日元债券",
-        "浙商银行业绩大跌，新管理层加速出清历史包袱"
+        "成都银行增资至约42.4亿元"
       ]
     },
     {
-      "keyword": "医药",
+      "keyword": "汽车",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "远大医药增资至约34.3亿元"
+        "沃尔沃汽车第一季度全球销量同比下降11%"
+      ]
+    },
+    {
+      "keyword": "化工",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "华泰股份：近期部分化工类产品价格出现上涨，将对公司经营业绩和利润产生积极正面影响"
+      ]
+    },
+    {
+      "keyword": "连板",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "5连板津药药业：目前研发以仿制��为主，无在研创新药项目"
       ]
     },
     {
@@ -43,7 +57,15 @@
       "category": "港股",
       "count": 1,
       "sample_titles": [
-        "南向资金净买入额达70亿港元"
+        "南向资金净买入额达100亿港元"
+      ]
+    },
+    {
+      "keyword": "证监会",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "华恒生物：发行境外上市股份（H股）获中国证监会备案"
       ]
     }
   ]
