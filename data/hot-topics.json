@@ -1,84 +1,79 @@
 {
-  "generated_at": "2026-04-03T00:01:30.704517Z",
+  "generated_at": "2026-04-03T03:25:14.941271Z",
   "window_hours": 24,
-  "total_items_analyzed": 47,
+  "total_items_analyzed": 48,
   "hot_topics": [
     {
-      "keyword": "IPO",
-      "category": "市场",
-      "count": 4,
+      "keyword": "汽车",
+      "category": "板块",
+      "count": 2,
       "sample_titles": [
-        "一季度港股IPO募资创近五年新高，“A+H”公司为核心力量",
-        "SpaceX据悉已与沙特公共投资基金举行会谈，商讨在2026年IPO中进行基石投资事宜",
-        "轻舟、元戎秘交上市资料，和Momenta冲刺港股IPO | 36氪独家"
+        "美国电动汽车市场遇冷，车企：电气化趋势不会改变",
+        "36氪晚报｜AI大模型产品“奇趣”完成千万级融资；阶跃星辰上线Step 3.5 Flash 2603模型；沃尔沃汽车第一季度全球销量同比下降11%"
+      ]
+    },
+    {
+      "keyword": "芯片",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "受存储芯片价格影响，小米调整REDMI部分产品建议零售价"
+      ]
+    },
+    {
+      "keyword": "人工智能",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "上海交通大学人工智能学院与蚂蚁健康在上海签署合作协议"
       ]
     },
     {
       "keyword": "银行",
       "category": "板块",
-      "count": 3,
+      "count": 1,
       "sample_titles": [
-        "中小银行开启新一轮存款挂牌利率调整",
-        "【钛晨报】工信部首提“算力银行”“算力超市”，降低中小企业用算门槛；事关优思益，抖音、淘天、小红书被约谈；数字人民币业务运营机构扩容12家",
-        "浙商银行的转型：一边降速，一边失血"
+        "【钛晨报】工信部首提“算力银行”“算力超市”，降低中小企业用算门槛；事关优思益，抖音、淘天、小红书被约谈；数字人民币业务运营机构扩容12家"
+      ]
+    },
+    {
+      "keyword": "化工",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "工信部等七部门：到2029年，各地2025年已确定的石化化工老旧装置更新改造任务全面完成"
+      ]
+    },
+    {
+      "keyword": "量子",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "36氪首发 | 3个月融资近10亿，深圳量子计算公司完成C+轮融资，并已规模化盈利"
+      ]
+    },
+    {
+      "keyword": "IPO",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "轻舟、元戎秘交上市资料，和Momenta冲刺港股IPO | 36氪独家"
       ]
     },
     {
       "keyword": "港股",
       "category": "港股",
-      "count": 3,
+      "count": 1,
       "sample_titles": [
-        "三大动力驱动，港股细分龙头扎堆启动A股上市",
-        "一季度港股IPO募资创近五年新高，“A+H”公司为核心力量",
         "轻舟、元戎秘交上市资料，和Momenta冲刺港股IPO | 36氪独家"
       ]
     },
     {
-      "keyword": "新能源",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "合资新能源车用中国方案再次发力，离打动你还有多远？"
-      ]
-    },
-    {
-      "keyword": "储能",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "车企扎堆储能，因湃的“半固态”能杀出重围吗？｜钛度车库"
-      ]
-    },
-    {
-      "keyword": "机器人",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "36氪首发 | 00后交大博士做仿生飞行机器人，获启高、奇绩创坛、交大母基金等投资"
-      ]
-    },
-    {
-      "keyword": "汽车",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "36氪晚报｜AI大模型产品“奇趣”完成千万级融资；阶跃星辰上线Step 3.5 Flash 2603模型；沃尔沃汽车第一季度全球销量同比下降11%"
-      ]
-    },
-    {
-      "keyword": "新能源车",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "合资新能源车用中国方案再次发力，离打动你还有多远？"
-      ]
-    },
-    {
-      "keyword": "美联储",
+      "keyword": "PMI",
       "category": "宏观",
       "count": 1,
       "sample_titles": [
-        "美联储4月维持利率不变的概率为99.5%"
+        "中国3月RatingDog服务业PMI 52.1，前值 56.7"
       ]
     }
   ]
