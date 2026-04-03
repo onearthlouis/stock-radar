@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-04-03T09:31:58.954846Z",
+  "generated_at": "2026-04-03T10:52:34.484506Z",
   "window_hours": 24,
   "total_items_analyzed": 46,
   "hot_topics": [
     {
-      "keyword": "汽车",
-      "category": "板块",
+      "keyword": "IPO",
+      "category": "市场",
       "count": 2,
       "sample_titles": [
-        "乘联分会：2026年1-2月中国汽车出口155万辆，同比增长61%",
-        "乘联分会：2026年1-2月汽车行业利润435亿元，同比下降30%"
+        "三万亿美元IPO即将上演，市场在激动同时也在颤栗",
+        "泰诺麦博科创板IPO获上市委会议通过"
       ]
     },
     {
-      "keyword": "新能源",
+      "keyword": "人工智能",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "乘联会：3月全国乘用车新能源市场零售78.4万辆，同比下降21%"
+        "沐曦股份：联合上海人工智能实验室发布高性能GPU算子生成系统Kernel-Smith"
       ]
     },
     {
@@ -37,6 +37,14 @@
       ]
     },
     {
+      "keyword": "汽车",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "江淮汽车：2025年归母净亏损17.03亿元，亏损同比收窄"
+      ]
+    },
+    {
       "keyword": "量子",
       "category": "板块",
       "count": 1,
@@ -45,19 +53,19 @@
       ]
     },
     {
-      "keyword": "连板",
-      "category": "市场",
+      "keyword": "港股",
+      "category": "港股",
       "count": 1,
       "sample_titles": [
-        "6连板津药药业：公司股价短期内大幅连续上涨，存在快速下跌风险"
+        "增收不增利，现金流承压，3D打印龙头再冲港股"
       ]
     },
     {
-      "keyword": "IPO",
-      "category": "市场",
+      "keyword": "证监会",
+      "category": "宏观",
       "count": 1,
       "sample_titles": [
-        "泰诺麦博科创板IPO获上市委会议通过"
+        "电科数字：因涉嫌信息披露违法违规，被证监会立案"
       ]
     }
   ]
