@@ -1,47 +1,56 @@
 {
-  "generated_at": "2026-04-03T03:25:14.941271Z",
+  "generated_at": "2026-04-03T05:23:45.830518Z",
   "window_hours": 24,
-  "total_items_analyzed": 48,
+  "total_items_analyzed": 46,
   "hot_topics": [
-    {
-      "keyword": "汽车",
-      "category": "板块",
-      "count": 2,
-      "sample_titles": [
-        "美国电动汽车市场遇冷，车企：电气化趋势不会改变",
-        "36氪晚报｜AI大模型产品“奇趣”完成千万级融资；阶跃星辰上线Step 3.5 Flash 2603模型；沃尔沃汽车第一季度全球销量同比下降11%"
-      ]
-    },
-    {
-      "keyword": "芯片",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "受存储芯片价格影响，小米调整REDMI部分产品建议零售价"
-      ]
-    },
     {
       "keyword": "人工智能",
       "category": "板块",
-      "count": 1,
+      "count": 2,
       "sample_titles": [
-        "上海交通大学人工智能学院与蚂蚁健康在上海签署合作协议"
+        "韩法将在核电、人工智能、矿产供应领域开展合作",
+        "中电信人工智能科技公司增资至约33.7亿元"
       ]
     },
     {
-      "keyword": "银行",
-      "category": "板块",
-      "count": 1,
+      "keyword": "港股",
+      "category": "港股",
+      "count": 2,
       "sample_titles": [
-        "【钛晨报】工信部首提“算力银行”“算力超市”，降低中小企业用算门槛；事关优思益，抖音、淘天、小红书被约谈；数字人民币业务运营机构扩容12家"
+        "参半冲刺港股“口腔护理第一股”，第二增长曲线待破局",
+        "轻舟、元戎秘交上市资料，和Momenta冲刺港股IPO | 36氪独家"
       ]
     },
     {
-      "keyword": "化工",
+      "keyword": "新能源",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "工信部等七部门：到2029年，各地2025年已确定的石化化工老旧装置更新改造任务全面完成"
+        "赣锋锂业全资子公司等成立新能源科技公司"
+      ]
+    },
+    {
+      "keyword": "医疗",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "“纽瑞特医疗”完成10亿元E轮融资"
+      ]
+    },
+    {
+      "keyword": "保险",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "华贵人寿保险公司增资至26.15亿元"
+      ]
+    },
+    {
+      "keyword": "汽车",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "36氪晚报｜AI大模型产品“奇趣”完成千万级融资；阶跃星辰上线Step 3.5 Flash 2603模型；沃尔沃汽车第一季度全球销量同比下降11%"
       ]
     },
     {
@@ -53,27 +62,19 @@
       ]
     },
     {
+      "keyword": "涨停",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "A股三大指数午间休盘集体下跌，翠微股份涨停"
+      ]
+    },
+    {
       "keyword": "IPO",
       "category": "市场",
       "count": 1,
       "sample_titles": [
         "轻舟、元戎秘交上市资料，和Momenta冲刺港股IPO | 36氪独家"
-      ]
-    },
-    {
-      "keyword": "港股",
-      "category": "港股",
-      "count": 1,
-      "sample_titles": [
-        "轻舟、元戎秘交上市资料，和Momenta冲刺港股IPO | 36氪独家"
-      ]
-    },
-    {
-      "keyword": "PMI",
-      "category": "宏观",
-      "count": 1,
-      "sample_titles": [
-        "中国3月RatingDog服务业PMI 52.1，前值 56.7"
       ]
     }
   ]
