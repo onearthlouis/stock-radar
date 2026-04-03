@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-04-03T10:52:34.484506Z",
+  "generated_at": "2026-04-03T11:43:00.227650Z",
   "window_hours": 24,
-  "total_items_analyzed": 46,
+  "total_items_analyzed": 44,
   "hot_topics": [
     {
-      "keyword": "IPO",
-      "category": "市场",
+      "keyword": "证监会",
+      "category": "宏观",
       "count": 2,
       "sample_titles": [
-        "三万亿美元IPO即将上演，市场在激动同时也在颤栗",
-        "泰诺麦博科创板IPO获上市委会议通过"
+        "*ST观典：因涉嫌信披违规被证监会立案",
+        "电科数字：因涉嫌信息披露违法违规，被证监会立案"
       ]
     },
     {
@@ -18,14 +18,6 @@
       "count": 1,
       "sample_titles": [
         "沐曦股份：联合上海人工智能实验室发布高性能GPU算子生成系统Kernel-Smith"
-      ]
-    },
-    {
-      "keyword": "储能",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "锂价暴击、政策托底：中国储能巨头们的竞速时刻"
       ]
     },
     {
@@ -53,19 +45,19 @@
       ]
     },
     {
+      "keyword": "IPO",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "三万亿美元IPO即将上演，市场在激动同时也在颤栗"
+      ]
+    },
+    {
       "keyword": "港股",
       "category": "港股",
       "count": 1,
       "sample_titles": [
         "增收不增利，现金流承压，3D打印龙头再冲港股"
-      ]
-    },
-    {
-      "keyword": "证监会",
-      "category": "宏观",
-      "count": 1,
-      "sample_titles": [
-        "电科数字：因涉嫌信息披露违法违规，被证监会立案"
       ]
     }
   ]
