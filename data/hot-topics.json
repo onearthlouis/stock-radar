@@ -1,14 +1,31 @@
 {
-  "generated_at": "2026-04-04T08:52:53.760560Z",
+  "generated_at": "2026-04-04T09:48:42.968068Z",
   "window_hours": 24,
   "total_items_analyzed": 40,
   "hot_topics": [
+    {
+      "keyword": "央行",
+      "category": "宏观",
+      "count": 2,
+      "sample_titles": [
+        "意大利央行将2026年意大利国内生产总值增长率预期从0.6%下调至0.5%",
+        "国际货币基金组织敦促日本央行继续加息"
+      ]
+    },
     {
       "keyword": "光伏",
       "category": "板块",
       "count": 1,
       "sample_titles": [
         "跨界光伏1年亏掉8年赚的钱，天宜新材等来紫光系“白衣骑士”"
+      ]
+    },
+    {
+      "keyword": "储能",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "从价格洼地到价值高地：中国储能凭什么席卷全球？"
       ]
     },
     {
@@ -41,22 +58,6 @@
       "count": 1,
       "sample_titles": [
         "马斯克要求参与SpaceX IPO的公司购买Grok"
-      ]
-    },
-    {
-      "keyword": "PMI",
-      "category": "宏观",
-      "count": 1,
-      "sample_titles": [
-        "美国3月标普全球服务业PMI终值为49.8"
-      ]
-    },
-    {
-      "keyword": "央行",
-      "category": "宏观",
-      "count": 1,
-      "sample_titles": [
-        "国际货币基金组织敦促日本央行继续加息"
       ]
     }
   ]
