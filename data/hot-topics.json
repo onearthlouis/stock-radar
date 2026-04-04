@@ -1,17 +1,8 @@
 {
-  "generated_at": "2026-04-03T23:42:27.255445Z",
+  "generated_at": "2026-04-04T02:45:45.075108Z",
   "window_hours": 24,
   "total_items_analyzed": 44,
   "hot_topics": [
-    {
-      "keyword": "IPO",
-      "category": "市场",
-      "count": 2,
-      "sample_titles": [
-        "森合高科北交所IPO将于4月13日上会",
-        "三万亿美元IPO即将上演，市场在激动同时也在颤栗"
-      ]
-    },
     {
       "keyword": "减持",
       "category": "市场",
@@ -19,6 +10,22 @@
       "sample_titles": [
         "东方财富：目前没有并购计划，未收到新的减持计划",
         "模塑科技：控股股东拟合计减持不超3%股份"
+      ]
+    },
+    {
+      "keyword": "储能",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "从价格洼地到价值高地：中国储能凭什么席卷全球？"
+      ]
+    },
+    {
+      "keyword": "机器人",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "人形机器人卖出8亿，优必选还没走到赚钱那一步"
       ]
     },
     {
@@ -30,19 +37,27 @@
       ]
     },
     {
-      "keyword": "量子",
-      "category": "板块",
+      "keyword": "IPO",
+      "category": "市场",
       "count": 1,
       "sample_titles": [
-        "36氪首发 | 3个月融资近10亿，深圳量子计算公司完成C+轮融资，并已规模化盈利"
+        "森合高科北交所IPO将于4月13日上会"
       ]
     },
     {
-      "keyword": "港股",
-      "category": "港股",
+      "keyword": "PMI",
+      "category": "宏观",
       "count": 1,
       "sample_titles": [
-        "增收不增利，现金流承压，3D打印龙头再冲港股"
+        "美国3月标普全球服务业PMI终值为49.8"
+      ]
+    },
+    {
+      "keyword": "央行",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "意大利央行下调未来三年经济增长预期"
       ]
     }
   ]

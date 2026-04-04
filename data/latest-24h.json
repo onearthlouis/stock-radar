@@ -1,25 +1,253 @@
 {
-  "generated_at": "2026-04-03T23:41:09.976838Z",
+  "generated_at": "2026-04-04T02:44:28.008101Z",
   "window_hours": 24,
   "total_items": 44,
   "total_items_raw": 44,
   "total_items_all_mode": 44,
-  "archive_total": 1229,
+  "archive_total": 1248,
   "site_count": 2,
-  "source_count": 7,
+  "source_count": 6,
   "site_stats": [
     {
       "site_id": "36kr",
       "site_name": "36氪",
-      "count": 30
+      "count": 27
     },
     {
       "site_id": "tmtpost",
       "site_name": "钛媒体",
-      "count": 14
+      "count": 17
     }
   ],
   "items": [
+    {
+      "uid": "5174a761b493edfe",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "AR眼镜商业化，走到哪一步了？",
+      "url": "https://www.tmtpost.com/7941436.html",
+      "published_at": "2026-04-04T02:28:00Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
+      "meta": {}
+    },
+    {
+      "uid": "0e359fc67ba0327f",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "Meta超智能实验室或正在组建硬件团队",
+      "url": "https://36kr.com/newsflashes/3751810910520064?f=rss",
+      "published_at": "2026-04-04T02:23:15Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
+      "meta": {}
+    },
+    {
+      "uid": "d9dd1b8fa6c3c1e5",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "2025年我国商业航天核心产业规模超万亿元",
+      "url": "https://36kr.com/newsflashes/3751810071184129?f=rss",
+      "published_at": "2026-04-04T02:03:26Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
+      "meta": {}
+    },
+    {
+      "uid": "d72f6af4321c5dc9",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "美国3月标普全球服务业PMI终值为49.8",
+      "url": "https://36kr.com/newsflashes/3751808937214724?f=rss",
+      "published_at": "2026-04-04T01:45:13Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
+      "meta": {}
+    },
+    {
+      "uid": "a8f97dca43c719d0",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "大厂“牛马”，被迫用AI",
+      "url": "https://www.tmtpost.com/7941643.html",
+      "published_at": "2026-04-04T01:32:55Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
+      "meta": {}
+    },
+    {
+      "uid": "ca47176e882db06f",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "龙虾本纪",
+      "url": "https://www.tmtpost.com/7941278.html",
+      "published_at": "2026-04-04T01:28:41Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
+      "meta": {}
+    },
+    {
+      "uid": "a0bbae908f933dee",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "意大利央行下调未来三年经济增长预期",
+      "url": "https://36kr.com/newsflashes/3751807646695940?f=rss",
+      "published_at": "2026-04-04T01:19:56Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
+      "meta": {}
+    },
+    {
+      "uid": "72f92d3dfe2c6a9c",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "与腾讯切割后，迟来三年的《全境封锁：曙光》环大陆上线",
+      "url": "https://www.tmtpost.com/7941447.html",
+      "published_at": "2026-04-04T01:16:57Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
+      "meta": {}
+    },
+    {
+      "uid": "12f1cee55a6aa258",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "小米这次也没把价格打下来",
+      "url": "https://www.tmtpost.com/7941449.html",
+      "published_at": "2026-04-04T01:16:33Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
+      "meta": {}
+    },
+    {
+      "uid": "c03379e911e80bf4",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "中金：黄金投资需求和价格或均存向上修复空间",
+      "url": "https://36kr.com/newsflashes/3751806625628929?f=rss",
+      "published_at": "2026-04-04T01:04:48Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
+      "meta": {}
+    },
+    {
+      "uid": "33d60b3e9c55a32a",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "聊聊MiniMax和智谱财报：谁先跑通盈利模型？",
+      "url": "https://www.tmtpost.com/7941412.html",
+      "published_at": "2026-04-04T00:45:00Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
+      "meta": {}
+    },
+    {
+      "uid": "0a3cc22292cf32d0",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "一杯16.9元的椰子蛋，暴露了瑞幸最狠的生意经",
+      "url": "https://www.tmtpost.com/7941501.html",
+      "published_at": "2026-04-04T00:38:00Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
+      "meta": {}
+    },
+    {
+      "uid": "5021f644589ab76b",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "从价格洼地到价值高地：中国储能凭什么席卷全球？",
+      "url": "https://www.tmtpost.com/7941406.html",
+      "published_at": "2026-04-04T00:36:00Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
+      "meta": {}
+    },
+    {
+      "uid": "0f77ac2e538cf62f",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "短剧出海越火，为什么越难赚到钱？",
+      "url": "https://www.tmtpost.com/7941394.html",
+      "published_at": "2026-04-04T00:33:00Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
+      "meta": {}
+    },
+    {
+      "uid": "8bb70713738b0fd0",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "字节跳动",
+      "title": "57k Star霸榜GitHub！字节这款超级智能体，凭何让全球AI圈真香？",
+      "url": "https://www.tmtpost.com/7939926.html",
+      "published_at": "2026-04-04T00:30:00Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
+      "meta": {}
+    },
+    {
+      "uid": "0f7bcd244ded619c",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "人形机器人卖出8亿，优必选还没走到赚钱那一步",
+      "url": "https://www.tmtpost.com/7941464.html",
+      "published_at": "2026-04-04T00:23:03Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
+      "meta": {}
+    },
+    {
+      "uid": "a6793b6d5f1f59e8",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "叙事完美、现实残酷，瑷科缦全程抗衰为何叫好不叫座？",
+      "url": "https://www.tmtpost.com/7941468.html",
+      "published_at": "2026-04-04T00:22:54Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
+      "meta": {}
+    },
+    {
+      "uid": "1a905a9e5546cd30",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "爆品透视：爱“豆”的游戏，十亿的生意",
+      "url": "https://www.tmtpost.com/7941453.html",
+      "published_at": "2026-04-04T00:12:00Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
+      "meta": {}
+    },
+    {
+      "uid": "2527427e88651b08",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "“智能眼镜第一股”，还能守住吗",
+      "url": "https://www.tmtpost.com/7941377.html",
+      "published_at": "2026-04-04T00:07:31Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
+      "meta": {}
+    },
     {
       "uid": "38f6d46355d26bf3",
       "site_id": "36kr",
@@ -28,8 +256,8 @@
       "title": "千里科技发布2025财报：全年实现营业收入99.99亿元，同比增长42.13%",
       "url": "https://36kr.com/newsflashes/3751128551244552?f=rss",
       "published_at": "2026-04-03T13:25:17Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -40,8 +268,8 @@
       "title": "兴发集团：2025年度净利润14.92亿元，同比下降6.83%",
       "url": "https://36kr.com/newsflashes/3751093232566787?f=rss",
       "published_at": "2026-04-03T12:56:15Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -52,8 +280,8 @@
       "title": "智己汽车官宣刘翔成为品牌代言人",
       "url": "https://36kr.com/newsflashes/3751088175907585?f=rss",
       "published_at": "2026-04-03T12:44:12Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -64,8 +292,8 @@
       "title": "美国2月非农就业人数修正至减少13.3万人",
       "url": "https://36kr.com/newsflashes/3751086759772934?f=rss",
       "published_at": "2026-04-03T12:42:46Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -76,8 +304,8 @@
       "title": "强一股份：一季度净利同比预增655%-762%",
       "url": "https://36kr.com/newsflashes/3751084860949252?f=rss",
       "published_at": "2026-04-03T12:40:50Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -88,8 +316,8 @@
       "title": "美国3月失业率为4.3%",
       "url": "https://36kr.com/newsflashes/3751080017887748?f=rss",
       "published_at": "2026-04-03T12:35:54Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -100,8 +328,8 @@
       "title": "山东高速：2025年度净利润32.06亿元，同比增长0.30%",
       "url": "https://36kr.com/newsflashes/3751079688258312?f=rss",
       "published_at": "2026-04-03T12:35:34Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -112,8 +340,8 @@
       "title": "美国3月非农就业人数增加17.8万人",
       "url": "https://36kr.com/newsflashes/3751075892265730?f=rss",
       "published_at": "2026-04-03T12:31:43Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -124,8 +352,8 @@
       "title": "智飞生物“松绑”默沙东：取消千亿保底采购，百亿巨亏后终于卸下枷锁",
       "url": "https://www.tmtpost.com/7941342.html",
       "published_at": "2026-04-03T12:25:14Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -136,8 +364,8 @@
       "title": "东方财富：目前没有并购计划，未收到新的减持计划",
       "url": "https://36kr.com/newsflashes/3751068134162952?f=rss",
       "published_at": "2026-04-03T12:23:49Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -148,8 +376,8 @@
       "title": "妙可蓝多：一季度净利润同比下降8.3%",
       "url": "https://36kr.com/newsflashes/3751062048391683?f=rss",
       "published_at": "2026-04-03T12:17:38Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -160,8 +388,8 @@
       "title": "模塑科技：控股股东拟合计减持不超3%股份",
       "url": "https://36kr.com/newsflashes/3751059664339715?f=rss",
       "published_at": "2026-04-03T12:15:12Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -172,8 +400,8 @@
       "title": "神州数码2025年营收超1400亿，AI相关业务增长近五成｜最前线",
       "url": "https://36kr.com/p/3751046517129735?f=rss",
       "published_at": "2026-04-03T12:08:53Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -184,8 +412,8 @@
       "title": "*ST岩石：股票市值首次低于5亿元提示终止上市风险",
       "url": "https://36kr.com/newsflashes/3751050896818694?f=rss",
       "published_at": "2026-04-03T12:06:17Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -196,8 +424,8 @@
       "title": "森合高科北交所IPO将于4月13日上会",
       "url": "https://36kr.com/newsflashes/3751046681788937?f=rss",
       "published_at": "2026-04-03T12:02:00Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -208,8 +436,8 @@
       "title": "合富中国：目前日常经营活动一切正常，生产成本和销售等情况没有出现大幅波动",
       "url": "https://36kr.com/newsflashes/3751046370034436?f=rss",
       "published_at": "2026-04-03T12:01:41Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -220,8 +448,8 @@
       "title": "微医智能体为医保基金装上“数字天眼”，AI守护百姓“救命钱、保命钱”",
       "url": "https://www.tmtpost.com/7941316.html",
       "published_at": "2026-04-03T11:55:38Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -232,8 +460,8 @@
       "title": "5天暴涨90%，九识智能“非借壳”星辉环材的明棋与暗局",
       "url": "https://www.tmtpost.com/7941308.html",
       "published_at": "2026-04-03T11:45:30Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -244,200 +472,8 @@
       "title": "光迅科技：3.2T硅光单模NPO模块已在国内头部CSP厂商完成全系列验证",
       "url": "https://36kr.com/newsflashes/3751022605664769?f=rss",
       "published_at": "2026-04-03T11:37:30Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
-      "meta": {}
-    },
-    {
-      "uid": "3396f36d3efb2ab5",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "山东高速：2025年归母净利润32.06亿元，拟10派4.2元",
-      "url": "https://36kr.com/newsflashes/3751016033141254?f=rss",
-      "published_at": "2026-04-03T11:30:49Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
-      "meta": {}
-    },
-    {
-      "uid": "9ee311b573bc05de",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "湖南投资：2025年归母净利润同比下降48.33%，拟10派0.3元",
-      "url": "https://36kr.com/newsflashes/3751010284585472?f=rss",
-      "published_at": "2026-04-03T11:24:58Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
-      "meta": {}
-    },
-    {
-      "uid": "35933d5efa3d9054",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "云南锗业：拟投1.89亿元建设高品质磷化铟单晶片项目，以满足光通信市场需求",
-      "url": "https://36kr.com/newsflashes/3751005689021191?f=rss",
-      "published_at": "2026-04-03T11:20:18Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
-      "meta": {}
-    },
-    {
-      "uid": "02fe8b4b17bbfdc3",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "德科立：公司近两年至三年的财务预算和业绩规划中均未将OCS产品纳入预期",
-      "url": "https://36kr.com/newsflashes/3750996986397446?f=rss",
-      "published_at": "2026-04-03T11:11:27Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
-      "meta": {}
-    },
-    {
-      "uid": "2755e3add0738413",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "珠海中富：横琴兴赢将成为公司控股股东，股票4月7日起复牌",
-      "url": "https://36kr.com/newsflashes/3750994382864896?f=rss",
-      "published_at": "2026-04-03T11:08:48Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
-      "meta": {}
-    },
-    {
-      "uid": "e47b038c989e7d10",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛极客",
-      "title": "AI的「第一杯咖啡」：当具身智能走进工厂，人机协作的边界在哪里？",
-      "url": "https://www.tmtpost.com/7940661.html",
-      "published_at": "2026-04-03T10:29:47Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
-      "meta": {}
-    },
-    {
-      "uid": "2bf42cd00dd77799",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "老将“转身”：元气森林的创新方法论与行业经验“回流”",
-      "url": "https://www.tmtpost.com/7940910.html",
-      "published_at": "2026-04-03T10:08:29Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
-      "meta": {}
-    },
-    {
-      "uid": "0d45abc2d610b135",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "字节跳动",
-      "title": "当Token成为产业共识，火山引擎的好消息和坏消息",
-      "url": "https://www.tmtpost.com/7941009.html",
-      "published_at": "2026-04-03T09:56:27Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
-      "meta": {}
-    },
-    {
-      "uid": "b7da52a5b294af78",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "三万亿美元IPO即将上演，市场在激动同时也在颤栗",
-      "url": "https://www.tmtpost.com/7940984.html",
-      "published_at": "2026-04-03T09:50:53Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
-      "meta": {}
-    },
-    {
-      "uid": "660de846d0b4bf80",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "阿里AI的势能，又起来了",
-      "url": "https://www.tmtpost.com/7940968.html",
-      "published_at": "2026-04-03T09:50:51Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
-      "meta": {}
-    },
-    {
-      "uid": "49c2ed2fdd05fae6",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "增收不增利，现金流承压，3D打印龙头再冲港股",
-      "url": "https://www.tmtpost.com/7941022.html",
-      "published_at": "2026-04-03T09:50:50Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
-      "meta": {}
-    },
-    {
-      "uid": "e794dbbab13b2bca",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "主编精选文章",
-      "title": "奥特曼预言与现实相差几何？12个顶级模型“创业”一年，仅3个存活",
-      "url": "https://www.tmtpost.com/7939738.html",
-      "published_at": "2026-04-03T08:50:49Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
-      "meta": {}
-    },
-    {
-      "uid": "e6f6a526456657b6",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "谷歌推出最强手机端开源模型Gemma4 E2B/E4B",
-      "url": "https://www.tmtpost.com/7940798.html",
-      "published_at": "2026-04-03T08:29:47Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
-      "meta": {}
-    },
-    {
-      "uid": "45f33330091a1179",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "LibTV上不排队的Seedance 2.0，治好了我的抽卡焦虑",
-      "url": "https://www.tmtpost.com/7940810.html",
-      "published_at": "2026-04-03T08:29:46Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
-      "meta": {}
-    },
-    {
-      "uid": "f061c146249b511b",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "张雪的火种，与三个摩托手",
-      "url": "https://www.tmtpost.com/7940872.html",
-      "published_at": "2026-04-03T08:29:44Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
-      "meta": {}
-    },
-    {
-      "uid": "effeec5ecbba51a2",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "1.2亿招首席科学家，优必选如何避免Meta的坑",
-      "url": "https://www.tmtpost.com/7940926.html",
-      "published_at": "2026-04-03T08:29:41Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -448,8 +484,8 @@
       "title": "元气森林2044创造营背后：创新要年轻，研发要更重 | 最前线",
       "url": "https://36kr.com/p/3749467949482759?f=rss",
       "published_at": "2026-04-03T06:56:17Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -460,8 +496,8 @@
       "title": "一款运营三年的模拟经营游戏，是如何活力依旧的？",
       "url": "https://36kr.com/p/3750714899415817?f=rss",
       "published_at": "2026-04-03T06:24:51Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -472,8 +508,8 @@
       "title": "泡泡玛特，风光不再？",
       "url": "https://36kr.com/p/3750711532569350?f=rss",
       "published_at": "2026-04-03T06:21:26Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -484,8 +520,8 @@
       "title": "阅文“AI拟真人大讲堂”：好故事才是AI时代的未来",
       "url": "https://36kr.com/p/3750704146072326?f=rss",
       "published_at": "2026-04-03T06:15:06Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -496,8 +532,8 @@
       "title": "36氪首发丨前赛默飞员工创业黑灯实验室，实现国内100%交付，获近亿融资",
       "url": "https://36kr.com/p/3750417621795588?f=rss",
       "published_at": "2026-04-03T04:00:00Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -508,49 +544,241 @@
       "title": "36氪首发 | 00后上交医学博士做了款可穿戴止鼾设备，获得顺为独家投资",
       "url": "https://36kr.com/p/3750501433705224?f=rss",
       "published_at": "2026-04-03T02:47:57Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
-      "meta": {}
-    },
-    {
-      "uid": "4879ba9c3570299d",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "叽伴：用「共同经历」重新定义AI社交",
-      "url": "https://36kr.com/p/3749816005657093?f=rss",
-      "published_at": "2026-04-03T02:00:34Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
-      "meta": {}
-    },
-    {
-      "uid": "a8f0de04ef6da04f",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "36氪首发 | 3个月融资近10亿，深圳量子计算公司完成C+轮融资，并已规模化盈利",
-      "url": "https://36kr.com/p/3750411191550467?f=rss",
-      "published_at": "2026-04-03T01:15:44Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
-      "meta": {}
-    },
-    {
-      "uid": "bbb9f2c45385c96a",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "AI开发者请就位！第二届“数龙杯”新增智能体赛道，你的“龙虾”准备好了吗？",
-      "url": "https://36kr.com/p/3749811482297090?f=rss",
-      "published_at": "2026-04-03T00:30:48Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     }
   ],
   "items_all": [
     {
+      "uid": "5174a761b493edfe",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "AR眼镜商业化，走到哪一步了？",
+      "url": "https://www.tmtpost.com/7941436.html",
+      "published_at": "2026-04-04T02:28:00Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
+      "meta": {}
+    },
+    {
+      "uid": "0e359fc67ba0327f",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "Meta超智能实验室或正在组建硬件团队",
+      "url": "https://36kr.com/newsflashes/3751810910520064?f=rss",
+      "published_at": "2026-04-04T02:23:15Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
+      "meta": {}
+    },
+    {
+      "uid": "d9dd1b8fa6c3c1e5",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "2025年我国商业航天核心产业规模超万亿元",
+      "url": "https://36kr.com/newsflashes/3751810071184129?f=rss",
+      "published_at": "2026-04-04T02:03:26Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
+      "meta": {}
+    },
+    {
+      "uid": "d72f6af4321c5dc9",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "美国3月标普全球服务业PMI终值为49.8",
+      "url": "https://36kr.com/newsflashes/3751808937214724?f=rss",
+      "published_at": "2026-04-04T01:45:13Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
+      "meta": {}
+    },
+    {
+      "uid": "a8f97dca43c719d0",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "大厂“牛马”，被迫用AI",
+      "url": "https://www.tmtpost.com/7941643.html",
+      "published_at": "2026-04-04T01:32:55Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
+      "meta": {}
+    },
+    {
+      "uid": "ca47176e882db06f",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "龙虾本纪",
+      "url": "https://www.tmtpost.com/7941278.html",
+      "published_at": "2026-04-04T01:28:41Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
+      "meta": {}
+    },
+    {
+      "uid": "a0bbae908f933dee",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "意大利央行下调未来三年经济增长预期",
+      "url": "https://36kr.com/newsflashes/3751807646695940?f=rss",
+      "published_at": "2026-04-04T01:19:56Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
+      "meta": {}
+    },
+    {
+      "uid": "72f92d3dfe2c6a9c",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "与腾讯切割后，迟来三年的《全境封锁：曙光》环大陆上线",
+      "url": "https://www.tmtpost.com/7941447.html",
+      "published_at": "2026-04-04T01:16:57Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
+      "meta": {}
+    },
+    {
+      "uid": "12f1cee55a6aa258",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "小米这次也没把价格打下来",
+      "url": "https://www.tmtpost.com/7941449.html",
+      "published_at": "2026-04-04T01:16:33Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
+      "meta": {}
+    },
+    {
+      "uid": "c03379e911e80bf4",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "中金：黄金投资需求和价格或均存向上修复空间",
+      "url": "https://36kr.com/newsflashes/3751806625628929?f=rss",
+      "published_at": "2026-04-04T01:04:48Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
+      "meta": {}
+    },
+    {
+      "uid": "33d60b3e9c55a32a",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "聊聊MiniMax和智谱财报：谁先跑通盈利模型？",
+      "url": "https://www.tmtpost.com/7941412.html",
+      "published_at": "2026-04-04T00:45:00Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
+      "meta": {}
+    },
+    {
+      "uid": "0a3cc22292cf32d0",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "一杯16.9元的椰子蛋，暴露了瑞幸最狠的生意经",
+      "url": "https://www.tmtpost.com/7941501.html",
+      "published_at": "2026-04-04T00:38:00Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
+      "meta": {}
+    },
+    {
+      "uid": "5021f644589ab76b",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "从价格洼地到价值高地：中国储能凭什么席卷全球？",
+      "url": "https://www.tmtpost.com/7941406.html",
+      "published_at": "2026-04-04T00:36:00Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
+      "meta": {}
+    },
+    {
+      "uid": "0f77ac2e538cf62f",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "短剧出海越火，为什么越难赚到钱？",
+      "url": "https://www.tmtpost.com/7941394.html",
+      "published_at": "2026-04-04T00:33:00Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
+      "meta": {}
+    },
+    {
+      "uid": "8bb70713738b0fd0",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "字节跳动",
+      "title": "57k Star霸榜GitHub！字节这款超级智能体，凭何让全球AI圈真香？",
+      "url": "https://www.tmtpost.com/7939926.html",
+      "published_at": "2026-04-04T00:30:00Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
+      "meta": {}
+    },
+    {
+      "uid": "0f7bcd244ded619c",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "人形机器人卖出8亿，优必选还没走到赚钱那一步",
+      "url": "https://www.tmtpost.com/7941464.html",
+      "published_at": "2026-04-04T00:23:03Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
+      "meta": {}
+    },
+    {
+      "uid": "a6793b6d5f1f59e8",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "叙事完美、现实残酷，瑷科缦全程抗衰为何叫好不叫座？",
+      "url": "https://www.tmtpost.com/7941468.html",
+      "published_at": "2026-04-04T00:22:54Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
+      "meta": {}
+    },
+    {
+      "uid": "1a905a9e5546cd30",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "爆品透视：爱“豆”的游戏，十亿的生意",
+      "url": "https://www.tmtpost.com/7941453.html",
+      "published_at": "2026-04-04T00:12:00Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
+      "meta": {}
+    },
+    {
+      "uid": "2527427e88651b08",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "“智能眼镜第一股”，还能守住吗",
+      "url": "https://www.tmtpost.com/7941377.html",
+      "published_at": "2026-04-04T00:07:31Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
+      "meta": {}
+    },
+    {
       "uid": "38f6d46355d26bf3",
       "site_id": "36kr",
       "site_name": "36氪",
@@ -558,8 +786,8 @@
       "title": "千里科技发布2025财报：全年实现营业收入99.99亿元，同比增长42.13%",
       "url": "https://36kr.com/newsflashes/3751128551244552?f=rss",
       "published_at": "2026-04-03T13:25:17Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -570,8 +798,8 @@
       "title": "兴发集团：2025年度净利润14.92亿元，同比下降6.83%",
       "url": "https://36kr.com/newsflashes/3751093232566787?f=rss",
       "published_at": "2026-04-03T12:56:15Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -582,8 +810,8 @@
       "title": "智己汽车官宣刘翔成为品牌代言人",
       "url": "https://36kr.com/newsflashes/3751088175907585?f=rss",
       "published_at": "2026-04-03T12:44:12Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -594,8 +822,8 @@
       "title": "美国2月非农就业人数修正至减少13.3万人",
       "url": "https://36kr.com/newsflashes/3751086759772934?f=rss",
       "published_at": "2026-04-03T12:42:46Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -606,8 +834,8 @@
       "title": "强一股份：一季度净利同比预增655%-762%",
       "url": "https://36kr.com/newsflashes/3751084860949252?f=rss",
       "published_at": "2026-04-03T12:40:50Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -618,8 +846,8 @@
       "title": "美国3月失业率为4.3%",
       "url": "https://36kr.com/newsflashes/3751080017887748?f=rss",
       "published_at": "2026-04-03T12:35:54Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -630,8 +858,8 @@
       "title": "山东高速：2025年度净利润32.06亿元，同比增长0.30%",
       "url": "https://36kr.com/newsflashes/3751079688258312?f=rss",
       "published_at": "2026-04-03T12:35:34Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -642,8 +870,8 @@
       "title": "美国3月非农就业人数增加17.8万人",
       "url": "https://36kr.com/newsflashes/3751075892265730?f=rss",
       "published_at": "2026-04-03T12:31:43Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -654,8 +882,8 @@
       "title": "智飞生物“松绑”默沙东：取消千亿保底采购，百亿巨亏后终于卸下枷锁",
       "url": "https://www.tmtpost.com/7941342.html",
       "published_at": "2026-04-03T12:25:14Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -666,8 +894,8 @@
       "title": "东方财富：目前没有并购计划，未收到新的减持计划",
       "url": "https://36kr.com/newsflashes/3751068134162952?f=rss",
       "published_at": "2026-04-03T12:23:49Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -678,8 +906,8 @@
       "title": "妙可蓝多：一季度净利润同比下降8.3%",
       "url": "https://36kr.com/newsflashes/3751062048391683?f=rss",
       "published_at": "2026-04-03T12:17:38Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -690,8 +918,8 @@
       "title": "模塑科技：控股股东拟合计减持不超3%股份",
       "url": "https://36kr.com/newsflashes/3751059664339715?f=rss",
       "published_at": "2026-04-03T12:15:12Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -702,8 +930,8 @@
       "title": "神州数码2025年营收超1400亿，AI相关业务增长近五成｜最前线",
       "url": "https://36kr.com/p/3751046517129735?f=rss",
       "published_at": "2026-04-03T12:08:53Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -714,8 +942,8 @@
       "title": "*ST岩石：股票市值首次低于5亿元提示终止上市风险",
       "url": "https://36kr.com/newsflashes/3751050896818694?f=rss",
       "published_at": "2026-04-03T12:06:17Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -726,8 +954,8 @@
       "title": "森合高科北交所IPO将于4月13日上会",
       "url": "https://36kr.com/newsflashes/3751046681788937?f=rss",
       "published_at": "2026-04-03T12:02:00Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -738,8 +966,8 @@
       "title": "合富中国：目前日常经营活动一切正常，生产成本和销售等情况没有出现大幅波动",
       "url": "https://36kr.com/newsflashes/3751046370034436?f=rss",
       "published_at": "2026-04-03T12:01:41Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -750,8 +978,8 @@
       "title": "微医智能体为医保基金装上“数字天眼”，AI守护百姓“救命钱、保命钱”",
       "url": "https://www.tmtpost.com/7941316.html",
       "published_at": "2026-04-03T11:55:38Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -762,8 +990,8 @@
       "title": "5天暴涨90%，九识智能“非借壳”星辉环材的明棋与暗局",
       "url": "https://www.tmtpost.com/7941308.html",
       "published_at": "2026-04-03T11:45:30Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -774,200 +1002,8 @@
       "title": "光迅科技：3.2T硅光单模NPO模块已在国内头部CSP厂商完成全系列验证",
       "url": "https://36kr.com/newsflashes/3751022605664769?f=rss",
       "published_at": "2026-04-03T11:37:30Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
-      "meta": {}
-    },
-    {
-      "uid": "3396f36d3efb2ab5",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "山东高速：2025年归母净利润32.06亿元，拟10派4.2元",
-      "url": "https://36kr.com/newsflashes/3751016033141254?f=rss",
-      "published_at": "2026-04-03T11:30:49Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
-      "meta": {}
-    },
-    {
-      "uid": "9ee311b573bc05de",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "湖南投资：2025年归母净利润同比下降48.33%，拟10派0.3元",
-      "url": "https://36kr.com/newsflashes/3751010284585472?f=rss",
-      "published_at": "2026-04-03T11:24:58Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
-      "meta": {}
-    },
-    {
-      "uid": "35933d5efa3d9054",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "云南锗业：拟投1.89亿元建设高品质磷化铟单晶片项目，以满足光通信市场需求",
-      "url": "https://36kr.com/newsflashes/3751005689021191?f=rss",
-      "published_at": "2026-04-03T11:20:18Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
-      "meta": {}
-    },
-    {
-      "uid": "02fe8b4b17bbfdc3",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "德科立：公司近两年至三年的财务预算和业绩规划中均未将OCS产品纳入预期",
-      "url": "https://36kr.com/newsflashes/3750996986397446?f=rss",
-      "published_at": "2026-04-03T11:11:27Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
-      "meta": {}
-    },
-    {
-      "uid": "2755e3add0738413",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "珠海中富：横琴兴赢将成为公司控股股东，股票4月7日起复牌",
-      "url": "https://36kr.com/newsflashes/3750994382864896?f=rss",
-      "published_at": "2026-04-03T11:08:48Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
-      "meta": {}
-    },
-    {
-      "uid": "e47b038c989e7d10",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛极客",
-      "title": "AI的「第一杯咖啡」：当具身智能走进工厂，人机协作的边界在哪里？",
-      "url": "https://www.tmtpost.com/7940661.html",
-      "published_at": "2026-04-03T10:29:47Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
-      "meta": {}
-    },
-    {
-      "uid": "2bf42cd00dd77799",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "老将“转身”：元气森林的创新方法论与行业经验“回流”",
-      "url": "https://www.tmtpost.com/7940910.html",
-      "published_at": "2026-04-03T10:08:29Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
-      "meta": {}
-    },
-    {
-      "uid": "0d45abc2d610b135",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "字节跳动",
-      "title": "当Token成为产业共识，火山引擎的好消息和坏消息",
-      "url": "https://www.tmtpost.com/7941009.html",
-      "published_at": "2026-04-03T09:56:27Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
-      "meta": {}
-    },
-    {
-      "uid": "b7da52a5b294af78",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "三万亿美元IPO即将上演，市场在激动同时也在颤栗",
-      "url": "https://www.tmtpost.com/7940984.html",
-      "published_at": "2026-04-03T09:50:53Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
-      "meta": {}
-    },
-    {
-      "uid": "660de846d0b4bf80",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "阿里AI的势能，又起来了",
-      "url": "https://www.tmtpost.com/7940968.html",
-      "published_at": "2026-04-03T09:50:51Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
-      "meta": {}
-    },
-    {
-      "uid": "49c2ed2fdd05fae6",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "增收不增利，现金流承压，3D打印龙头再冲港股",
-      "url": "https://www.tmtpost.com/7941022.html",
-      "published_at": "2026-04-03T09:50:50Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
-      "meta": {}
-    },
-    {
-      "uid": "e794dbbab13b2bca",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "主编精选文章",
-      "title": "奥特曼预言与现实相差几何？12个顶级模型“创业”一年，仅3个存活",
-      "url": "https://www.tmtpost.com/7939738.html",
-      "published_at": "2026-04-03T08:50:49Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
-      "meta": {}
-    },
-    {
-      "uid": "e6f6a526456657b6",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "谷歌推出最强手机端开源模型Gemma4 E2B/E4B",
-      "url": "https://www.tmtpost.com/7940798.html",
-      "published_at": "2026-04-03T08:29:47Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
-      "meta": {}
-    },
-    {
-      "uid": "45f33330091a1179",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "LibTV上不排队的Seedance 2.0，治好了我的抽卡焦虑",
-      "url": "https://www.tmtpost.com/7940810.html",
-      "published_at": "2026-04-03T08:29:46Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
-      "meta": {}
-    },
-    {
-      "uid": "f061c146249b511b",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "张雪的火种，与三个摩托手",
-      "url": "https://www.tmtpost.com/7940872.html",
-      "published_at": "2026-04-03T08:29:44Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
-      "meta": {}
-    },
-    {
-      "uid": "effeec5ecbba51a2",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "1.2亿招首席科学家，优必选如何避免Meta的坑",
-      "url": "https://www.tmtpost.com/7940926.html",
-      "published_at": "2026-04-03T08:29:41Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -978,8 +1014,8 @@
       "title": "元气森林2044创造营背后：创新要年轻，研发要更重 | 最前线",
       "url": "https://36kr.com/p/3749467949482759?f=rss",
       "published_at": "2026-04-03T06:56:17Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -990,8 +1026,8 @@
       "title": "一款运营三年的模拟经营游戏，是如何活力依旧的？",
       "url": "https://36kr.com/p/3750714899415817?f=rss",
       "published_at": "2026-04-03T06:24:51Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -1002,8 +1038,8 @@
       "title": "泡泡玛特，风光不再？",
       "url": "https://36kr.com/p/3750711532569350?f=rss",
       "published_at": "2026-04-03T06:21:26Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -1014,8 +1050,8 @@
       "title": "阅文“AI拟真人大讲堂”：好故事才是AI时代的未来",
       "url": "https://36kr.com/p/3750704146072326?f=rss",
       "published_at": "2026-04-03T06:15:06Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -1026,8 +1062,8 @@
       "title": "36氪首发丨前赛默飞员工创业黑灯实验室，实现国内100%交付，获近亿融资",
       "url": "https://36kr.com/p/3750417621795588?f=rss",
       "published_at": "2026-04-03T04:00:00Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -1038,49 +1074,241 @@
       "title": "36氪首发 | 00后上交医学博士做了款可穿戴止鼾设备，获得顺为独家投资",
       "url": "https://36kr.com/p/3750501433705224?f=rss",
       "published_at": "2026-04-03T02:47:57Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
-      "meta": {}
-    },
-    {
-      "uid": "4879ba9c3570299d",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "叽伴：用「共同经历」重新定义AI社交",
-      "url": "https://36kr.com/p/3749816005657093?f=rss",
-      "published_at": "2026-04-03T02:00:34Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
-      "meta": {}
-    },
-    {
-      "uid": "a8f0de04ef6da04f",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "36氪首发 | 3个月融资近10亿，深圳量子计算公司完成C+轮融资，并已规模化盈利",
-      "url": "https://36kr.com/p/3750411191550467?f=rss",
-      "published_at": "2026-04-03T01:15:44Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
-      "meta": {}
-    },
-    {
-      "uid": "bbb9f2c45385c96a",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "AI开发者请就位！第二届“数龙杯”新增智能体赛道，你的“龙虾”准备好了吗？",
-      "url": "https://36kr.com/p/3749811482297090?f=rss",
-      "published_at": "2026-04-03T00:30:48Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     }
   ],
   "items_all_raw": [
     {
+      "uid": "5174a761b493edfe",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "AR眼镜商业化，走到哪一步了？",
+      "url": "https://www.tmtpost.com/7941436.html",
+      "published_at": "2026-04-04T02:28:00Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
+      "meta": {}
+    },
+    {
+      "uid": "0e359fc67ba0327f",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "Meta超智能实验室或正在组建硬件团队",
+      "url": "https://36kr.com/newsflashes/3751810910520064?f=rss",
+      "published_at": "2026-04-04T02:23:15Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
+      "meta": {}
+    },
+    {
+      "uid": "d9dd1b8fa6c3c1e5",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "2025年我国商业航天核心产业规模超万亿元",
+      "url": "https://36kr.com/newsflashes/3751810071184129?f=rss",
+      "published_at": "2026-04-04T02:03:26Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
+      "meta": {}
+    },
+    {
+      "uid": "d72f6af4321c5dc9",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "美国3月标普全球服务业PMI终值为49.8",
+      "url": "https://36kr.com/newsflashes/3751808937214724?f=rss",
+      "published_at": "2026-04-04T01:45:13Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
+      "meta": {}
+    },
+    {
+      "uid": "a8f97dca43c719d0",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "大厂“牛马”，被迫用AI",
+      "url": "https://www.tmtpost.com/7941643.html",
+      "published_at": "2026-04-04T01:32:55Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
+      "meta": {}
+    },
+    {
+      "uid": "ca47176e882db06f",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "龙虾本纪",
+      "url": "https://www.tmtpost.com/7941278.html",
+      "published_at": "2026-04-04T01:28:41Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
+      "meta": {}
+    },
+    {
+      "uid": "a0bbae908f933dee",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "意大利央行下调未来三年经济增长预期",
+      "url": "https://36kr.com/newsflashes/3751807646695940?f=rss",
+      "published_at": "2026-04-04T01:19:56Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
+      "meta": {}
+    },
+    {
+      "uid": "72f92d3dfe2c6a9c",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "与腾讯切割后，迟来三年的《全境封锁：曙光》环大陆上线",
+      "url": "https://www.tmtpost.com/7941447.html",
+      "published_at": "2026-04-04T01:16:57Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
+      "meta": {}
+    },
+    {
+      "uid": "12f1cee55a6aa258",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "小米这次也没把价格打下来",
+      "url": "https://www.tmtpost.com/7941449.html",
+      "published_at": "2026-04-04T01:16:33Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
+      "meta": {}
+    },
+    {
+      "uid": "c03379e911e80bf4",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "中金：黄金投资需求和价格或均存向上修复空间",
+      "url": "https://36kr.com/newsflashes/3751806625628929?f=rss",
+      "published_at": "2026-04-04T01:04:48Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
+      "meta": {}
+    },
+    {
+      "uid": "33d60b3e9c55a32a",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "聊聊MiniMax和智谱财报：谁先跑通盈利模型？",
+      "url": "https://www.tmtpost.com/7941412.html",
+      "published_at": "2026-04-04T00:45:00Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
+      "meta": {}
+    },
+    {
+      "uid": "0a3cc22292cf32d0",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "一杯16.9元的椰子蛋，暴露了瑞幸最狠的生意经",
+      "url": "https://www.tmtpost.com/7941501.html",
+      "published_at": "2026-04-04T00:38:00Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
+      "meta": {}
+    },
+    {
+      "uid": "5021f644589ab76b",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "从价格洼地到价值高地：中国储能凭什么席卷全球？",
+      "url": "https://www.tmtpost.com/7941406.html",
+      "published_at": "2026-04-04T00:36:00Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
+      "meta": {}
+    },
+    {
+      "uid": "0f77ac2e538cf62f",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "短剧出海越火，为什么越难赚到钱？",
+      "url": "https://www.tmtpost.com/7941394.html",
+      "published_at": "2026-04-04T00:33:00Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
+      "meta": {}
+    },
+    {
+      "uid": "8bb70713738b0fd0",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "字节跳动",
+      "title": "57k Star霸榜GitHub！字节这款超级智能体，凭何让全球AI圈真香？",
+      "url": "https://www.tmtpost.com/7939926.html",
+      "published_at": "2026-04-04T00:30:00Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
+      "meta": {}
+    },
+    {
+      "uid": "0f7bcd244ded619c",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "人形机器人卖出8亿，优必选还没走到赚钱那一步",
+      "url": "https://www.tmtpost.com/7941464.html",
+      "published_at": "2026-04-04T00:23:03Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
+      "meta": {}
+    },
+    {
+      "uid": "a6793b6d5f1f59e8",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "叙事完美、现实残酷，瑷科缦全程抗衰为何叫好不叫座？",
+      "url": "https://www.tmtpost.com/7941468.html",
+      "published_at": "2026-04-04T00:22:54Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
+      "meta": {}
+    },
+    {
+      "uid": "1a905a9e5546cd30",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "爆品透视：爱“豆”的游戏，十亿的生意",
+      "url": "https://www.tmtpost.com/7941453.html",
+      "published_at": "2026-04-04T00:12:00Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
+      "meta": {}
+    },
+    {
+      "uid": "2527427e88651b08",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "“智能眼镜第一股”，还能守住吗",
+      "url": "https://www.tmtpost.com/7941377.html",
+      "published_at": "2026-04-04T00:07:31Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
+      "meta": {}
+    },
+    {
       "uid": "38f6d46355d26bf3",
       "site_id": "36kr",
       "site_name": "36氪",
@@ -1088,8 +1316,8 @@
       "title": "千里科技发布2025财报：全年实现营业收入99.99亿元，同比增长42.13%",
       "url": "https://36kr.com/newsflashes/3751128551244552?f=rss",
       "published_at": "2026-04-03T13:25:17Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -1100,8 +1328,8 @@
       "title": "兴发集团：2025年度净利润14.92亿元，同比下降6.83%",
       "url": "https://36kr.com/newsflashes/3751093232566787?f=rss",
       "published_at": "2026-04-03T12:56:15Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -1112,8 +1340,8 @@
       "title": "智己汽车官宣刘翔成为品牌代言人",
       "url": "https://36kr.com/newsflashes/3751088175907585?f=rss",
       "published_at": "2026-04-03T12:44:12Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -1124,8 +1352,8 @@
       "title": "美国2月非农就业人数修正至减少13.3万人",
       "url": "https://36kr.com/newsflashes/3751086759772934?f=rss",
       "published_at": "2026-04-03T12:42:46Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -1136,8 +1364,8 @@
       "title": "强一股份：一季度净利同比预增655%-762%",
       "url": "https://36kr.com/newsflashes/3751084860949252?f=rss",
       "published_at": "2026-04-03T12:40:50Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -1148,8 +1376,8 @@
       "title": "美国3月失业率为4.3%",
       "url": "https://36kr.com/newsflashes/3751080017887748?f=rss",
       "published_at": "2026-04-03T12:35:54Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -1160,8 +1388,8 @@
       "title": "山东高速：2025年度净利润32.06亿元，同比增长0.30%",
       "url": "https://36kr.com/newsflashes/3751079688258312?f=rss",
       "published_at": "2026-04-03T12:35:34Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -1172,8 +1400,8 @@
       "title": "美国3月非农就业人数增加17.8万人",
       "url": "https://36kr.com/newsflashes/3751075892265730?f=rss",
       "published_at": "2026-04-03T12:31:43Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -1184,8 +1412,8 @@
       "title": "智飞生物“松绑”默沙东：取消千亿保底采购，百亿巨亏后终于卸下枷锁",
       "url": "https://www.tmtpost.com/7941342.html",
       "published_at": "2026-04-03T12:25:14Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -1196,8 +1424,8 @@
       "title": "东方财富：目前没有并购计划，未收到新的减持计划",
       "url": "https://36kr.com/newsflashes/3751068134162952?f=rss",
       "published_at": "2026-04-03T12:23:49Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -1208,8 +1436,8 @@
       "title": "妙可蓝多：一季度净利润同比下降8.3%",
       "url": "https://36kr.com/newsflashes/3751062048391683?f=rss",
       "published_at": "2026-04-03T12:17:38Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -1220,8 +1448,8 @@
       "title": "模塑科技：控股股东拟合计减持不超3%股份",
       "url": "https://36kr.com/newsflashes/3751059664339715?f=rss",
       "published_at": "2026-04-03T12:15:12Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -1232,8 +1460,8 @@
       "title": "神州数码2025年营收超1400亿，AI相关业务增长近五成｜最前线",
       "url": "https://36kr.com/p/3751046517129735?f=rss",
       "published_at": "2026-04-03T12:08:53Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -1244,8 +1472,8 @@
       "title": "*ST岩石：股票市值首次低于5亿元提示终止上市风险",
       "url": "https://36kr.com/newsflashes/3751050896818694?f=rss",
       "published_at": "2026-04-03T12:06:17Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -1256,8 +1484,8 @@
       "title": "森合高科北交所IPO将于4月13日上会",
       "url": "https://36kr.com/newsflashes/3751046681788937?f=rss",
       "published_at": "2026-04-03T12:02:00Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -1268,8 +1496,8 @@
       "title": "合富中国：目前日常经营活动一切正常，生产成本和销售等情况没有出现大幅波动",
       "url": "https://36kr.com/newsflashes/3751046370034436?f=rss",
       "published_at": "2026-04-03T12:01:41Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -1280,8 +1508,8 @@
       "title": "微医智能体为医保基金装上“数字天眼”，AI守护百姓“救命钱、保命钱”",
       "url": "https://www.tmtpost.com/7941316.html",
       "published_at": "2026-04-03T11:55:38Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -1292,8 +1520,8 @@
       "title": "5天暴涨90%，九识智能“非借壳”星辉环材的明棋与暗局",
       "url": "https://www.tmtpost.com/7941308.html",
       "published_at": "2026-04-03T11:45:30Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -1304,200 +1532,8 @@
       "title": "光迅科技：3.2T硅光单模NPO模块已在国内头部CSP厂商完成全系列验证",
       "url": "https://36kr.com/newsflashes/3751022605664769?f=rss",
       "published_at": "2026-04-03T11:37:30Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
-      "meta": {}
-    },
-    {
-      "uid": "3396f36d3efb2ab5",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "山东高速：2025年归母净利润32.06亿元，拟10派4.2元",
-      "url": "https://36kr.com/newsflashes/3751016033141254?f=rss",
-      "published_at": "2026-04-03T11:30:49Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
-      "meta": {}
-    },
-    {
-      "uid": "9ee311b573bc05de",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "湖南投资：2025年归母净利润同比下降48.33%，拟10派0.3元",
-      "url": "https://36kr.com/newsflashes/3751010284585472?f=rss",
-      "published_at": "2026-04-03T11:24:58Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
-      "meta": {}
-    },
-    {
-      "uid": "35933d5efa3d9054",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "云南锗业：拟投1.89亿元建设高品质磷化铟单晶片项目，以满足光通信市场需求",
-      "url": "https://36kr.com/newsflashes/3751005689021191?f=rss",
-      "published_at": "2026-04-03T11:20:18Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
-      "meta": {}
-    },
-    {
-      "uid": "02fe8b4b17bbfdc3",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "德科立：公司近两年至三年的财务预算和业绩规划中均未将OCS产品纳入预期",
-      "url": "https://36kr.com/newsflashes/3750996986397446?f=rss",
-      "published_at": "2026-04-03T11:11:27Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
-      "meta": {}
-    },
-    {
-      "uid": "2755e3add0738413",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "珠海中富：横琴兴赢将成为公司控股股东，股票4月7日起复牌",
-      "url": "https://36kr.com/newsflashes/3750994382864896?f=rss",
-      "published_at": "2026-04-03T11:08:48Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
-      "meta": {}
-    },
-    {
-      "uid": "e47b038c989e7d10",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛极客",
-      "title": "AI的「第一杯咖啡」：当具身智能走进工厂，人机协作的边界在哪里？",
-      "url": "https://www.tmtpost.com/7940661.html",
-      "published_at": "2026-04-03T10:29:47Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
-      "meta": {}
-    },
-    {
-      "uid": "2bf42cd00dd77799",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "老将“转身”：元气森林的创新方法论与行业经验“回流”",
-      "url": "https://www.tmtpost.com/7940910.html",
-      "published_at": "2026-04-03T10:08:29Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
-      "meta": {}
-    },
-    {
-      "uid": "0d45abc2d610b135",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "字节跳动",
-      "title": "当Token成为产业共识，火山引擎的好消息和坏消息",
-      "url": "https://www.tmtpost.com/7941009.html",
-      "published_at": "2026-04-03T09:56:27Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
-      "meta": {}
-    },
-    {
-      "uid": "b7da52a5b294af78",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "三万亿美元IPO即将上演，市场在激动同时也在颤栗",
-      "url": "https://www.tmtpost.com/7940984.html",
-      "published_at": "2026-04-03T09:50:53Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
-      "meta": {}
-    },
-    {
-      "uid": "660de846d0b4bf80",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "阿里AI的势能，又起来了",
-      "url": "https://www.tmtpost.com/7940968.html",
-      "published_at": "2026-04-03T09:50:51Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
-      "meta": {}
-    },
-    {
-      "uid": "49c2ed2fdd05fae6",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "增收不增利，现金流承压，3D打印龙头再冲港股",
-      "url": "https://www.tmtpost.com/7941022.html",
-      "published_at": "2026-04-03T09:50:50Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
-      "meta": {}
-    },
-    {
-      "uid": "e794dbbab13b2bca",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "主编精选文章",
-      "title": "奥特曼预言与现实相差几何？12个顶级模型“创业”一年，仅3个存活",
-      "url": "https://www.tmtpost.com/7939738.html",
-      "published_at": "2026-04-03T08:50:49Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
-      "meta": {}
-    },
-    {
-      "uid": "e6f6a526456657b6",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "谷歌推出最强手机端开源模型Gemma4 E2B/E4B",
-      "url": "https://www.tmtpost.com/7940798.html",
-      "published_at": "2026-04-03T08:29:47Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
-      "meta": {}
-    },
-    {
-      "uid": "45f33330091a1179",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "LibTV上不排队的Seedance 2.0，治好了我的抽卡焦虑",
-      "url": "https://www.tmtpost.com/7940810.html",
-      "published_at": "2026-04-03T08:29:46Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
-      "meta": {}
-    },
-    {
-      "uid": "f061c146249b511b",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "张雪的火种，与三个摩托手",
-      "url": "https://www.tmtpost.com/7940872.html",
-      "published_at": "2026-04-03T08:29:44Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
-      "meta": {}
-    },
-    {
-      "uid": "effeec5ecbba51a2",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "1.2亿招首席科学家，优必选如何避免Meta的坑",
-      "url": "https://www.tmtpost.com/7940926.html",
-      "published_at": "2026-04-03T08:29:41Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -1508,8 +1544,8 @@
       "title": "元气森林2044创造营背后：创新要年轻，研发要更重 | 最前线",
       "url": "https://36kr.com/p/3749467949482759?f=rss",
       "published_at": "2026-04-03T06:56:17Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -1520,8 +1556,8 @@
       "title": "一款运营三年的模拟经营游戏，是如何活力依旧的？",
       "url": "https://36kr.com/p/3750714899415817?f=rss",
       "published_at": "2026-04-03T06:24:51Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -1532,8 +1568,8 @@
       "title": "泡泡玛特，风光不再？",
       "url": "https://36kr.com/p/3750711532569350?f=rss",
       "published_at": "2026-04-03T06:21:26Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -1544,8 +1580,8 @@
       "title": "阅文“AI拟真人大讲堂”：好故事才是AI时代的未来",
       "url": "https://36kr.com/p/3750704146072326?f=rss",
       "published_at": "2026-04-03T06:15:06Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -1556,8 +1592,8 @@
       "title": "36氪首发丨前赛默飞员工创业黑灯实验室，实现国内100%交付，获近亿融资",
       "url": "https://36kr.com/p/3750417621795588?f=rss",
       "published_at": "2026-04-03T04:00:00Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     },
     {
@@ -1568,44 +1604,8 @@
       "title": "36氪首发 | 00后上交医学博士做了款可穿戴止鼾设备，获得顺为独家投资",
       "url": "https://36kr.com/p/3750501433705224?f=rss",
       "published_at": "2026-04-03T02:47:57Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
-      "meta": {}
-    },
-    {
-      "uid": "4879ba9c3570299d",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "叽伴：用「共同经历」重新定义AI社交",
-      "url": "https://36kr.com/p/3749816005657093?f=rss",
-      "published_at": "2026-04-03T02:00:34Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
-      "meta": {}
-    },
-    {
-      "uid": "a8f0de04ef6da04f",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "36氪首发 | 3个月融资近10亿，深圳量子计算公司完成C+轮融资，并已规模化盈利",
-      "url": "https://36kr.com/p/3750411191550467?f=rss",
-      "published_at": "2026-04-03T01:15:44Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
-      "meta": {}
-    },
-    {
-      "uid": "bbb9f2c45385c96a",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "AI开发者请就位！第二届“数龙杯”新增智能体赛道，你的“龙虾”准备好了吗？",
-      "url": "https://36kr.com/p/3749811482297090?f=rss",
-      "published_at": "2026-04-03T00:30:48Z",
-      "first_seen_at": "2026-04-03T23:41:09.976838Z",
-      "last_seen_at": "2026-04-03T23:41:09.976838Z",
+      "first_seen_at": "2026-04-04T02:44:28.008101Z",
+      "last_seen_at": "2026-04-04T02:44:28.008101Z",
       "meta": {}
     }
   ]
