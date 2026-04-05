@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-05T10:43:22.864479Z",
+  "generated_at": "2026-04-05T11:37:33.695675Z",
   "window_hours": 24,
-  "total_items_analyzed": 40,
+  "total_items_analyzed": 38,
   "hot_topics": [
     {
       "keyword": "储能",
@@ -28,6 +28,14 @@
       ]
     },
     {
+      "keyword": "涨停",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "价值判断：涨停板的投资机会和风险提示（4月3日）｜证券市场观察"
+      ]
+    },
+    {
       "keyword": "跌停",
       "category": "市场",
       "count": 1,
@@ -49,6 +57,14 @@
       "count": 1,
       "sample_titles": [
         "陈茂波：3月港股日均成交额超3000亿港元，同比增加逾8%"
+      ]
+    },
+    {
+      "keyword": "证监会",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "从1亿失踪到证监会立案，喜临门的“5天闪电战”真的是偶发吗？"
       ]
     }
   ]
