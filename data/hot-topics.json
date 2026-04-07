@@ -1,16 +1,24 @@
 {
-  "generated_at": "2026-04-07T07:42:58.688008Z",
+  "generated_at": "2026-04-07T09:14:07.099064Z",
   "window_hours": 24,
-  "total_items_analyzed": 41,
+  "total_items_analyzed": 47,
   "hot_topics": [
     {
       "keyword": "机器人",
       "category": "板块",
-      "count": 3,
+      "count": 2,
       "sample_titles": [
-        "宇树科技移动机器人新专利获授权",
         "前迪士尼工程师和Midjourney联创，要做一款“会呼吸”的DIY仿生机器人｜硬氪专访",
         "科氪 | 荣耀与京东签订战略合作协议 推进AI、机器人、C2M共创合作"
+      ]
+    },
+    {
+      "keyword": "汽车",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "福特因雨刮器问题在美召回超42万辆汽车",
+        "特斯拉前员工出任小米汽车欧洲交付与物流负责人"
       ]
     },
     {
@@ -22,19 +30,19 @@
       ]
     },
     {
-      "keyword": "消费",
-      "category": "板块",
+      "keyword": "退市",
+      "category": "市场",
       "count": 1,
       "sample_titles": [
-        "日本实际家庭消费连续3个月同比下滑"
+        "*ST波导：申请撤销公司股票退市风险警示"
       ]
     },
     {
-      "keyword": "券商",
-      "category": "板块",
+      "keyword": "增持",
+      "category": "市场",
       "count": 1,
       "sample_titles": [
-        "中证协：去年约15%券商亏损"
+        "中国央行连续第17个月增持黄金"
       ]
     },
     {
@@ -42,7 +50,7 @@
       "category": "宏观",
       "count": 1,
       "sample_titles": [
-        "法国央行卖出所有在美托管金条"
+        "中国央行连续第17个月增持黄金"
       ]
     }
   ]
