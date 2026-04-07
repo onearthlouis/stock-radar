@@ -1,8 +1,26 @@
 {
-  "generated_at": "2026-04-06T23:06:56.844849Z",
+  "generated_at": "2026-04-07T00:02:24.225464Z",
   "window_hours": 24,
-  "total_items_analyzed": 36,
+  "total_items_analyzed": 37,
   "hot_topics": [
+    {
+      "keyword": "IPO",
+      "category": "市场",
+      "count": 4,
+      "sample_titles": [
+        "IPO、再融资、并购重组三大业务持续回暖，推动投行人才需求增长",
+        "Madison Air申请22.3亿美元IPO，将成为自1999年以来最大工业类上市交易",
+        "OpenAI据悉有望最早于第四季度进行IPO"
+      ]
+    },
+    {
+      "keyword": "芯片",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "英特尔与亚马逊和谷歌洽谈AI芯片封装"
+      ]
+    },
     {
       "keyword": "机器人",
       "category": "板块",
@@ -12,11 +30,51 @@
       ]
     },
     {
-      "keyword": "IPO",
-      "category": "市场",
+      "keyword": "医疗",
+      "category": "板块",
       "count": 1,
       "sample_titles": [
-        "OpenAI IPO前夜：CFO说不，COO被调走"
+        "“木头姐”研判： AI对医疗健康领域影响深远"
+      ]
+    },
+    {
+      "keyword": "金融",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "三井住友金融集团与日本生命保险商讨设立5000亿日元私募信贷基金"
+      ]
+    },
+    {
+      "keyword": "银行",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "银行年报数据显示净息差今年有望企稳"
+      ]
+    },
+    {
+      "keyword": "保险",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "三井住友金融集团与日本生命保险商讨设立5000亿日元私募信贷基金"
+      ]
+    },
+    {
+      "keyword": "汽车",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "美汽车安全监管机构结束对特斯拉高级智能召唤功能的调查"
+      ]
+    },
+    {
+      "keyword": "美联储",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "美联储4月维持利率不变的概率为98.4%"
       ]
     }
   ]
