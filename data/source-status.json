@@ -1,13 +1,6 @@
 {
-  "generated_at": "2026-04-08T18:48:00.274548Z",
+  "generated_at": "2026-04-08T19:59:57.480557Z",
   "sites": [
-    {
-      "site_id": "cs",
-      "site_name": "中国证券报",
-      "ok": false,
-      "item_count": 0,
-      "error": "404 Client Error: Not Found for url: https://www.cs.com.cn/rss/rss.xml"
-    },
     {
       "site_id": "wallstreetcn",
       "site_name": "华尔街见闻",
@@ -21,10 +14,11 @@
       "item_count": 0
     },
     {
-      "site_id": "cls",
-      "site_name": "财联社",
-      "ok": true,
-      "item_count": 0
+      "site_id": "cs",
+      "site_name": "中国证券报",
+      "ok": false,
+      "item_count": 0,
+      "error": "404 Client Error: Not Found for url: https://www.cs.com.cn/rss/rss.xml"
     },
     {
       "site_id": "stcn",
@@ -45,6 +39,12 @@
       "ok": false,
       "item_count": 0,
       "error": "404 Client Error: Not Found for url: https://www.jiemian.com/rss/index.xml"
+    },
+    {
+      "site_id": "cls",
+      "site_name": "财联社",
+      "ok": true,
+      "item_count": 0
     },
     {
       "site_id": "sina_finance",
