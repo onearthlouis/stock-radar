@@ -1,16 +1,42 @@
 {
-  "generated_at": "2026-04-08T03:17:17.541252Z",
+  "generated_at": "2026-04-08T05:28:09.505868Z",
   "window_hours": 24,
-  "total_items_analyzed": 47,
+  "total_items_analyzed": 46,
   "hot_topics": [
     {
-      "keyword": "机器人",
+      "keyword": "医药",
       "category": "板块",
-      "count": 3,
+      "count": 2,
       "sample_titles": [
-        "“双派机器人”完成A轮融资，深耕适老化出行场景",
-        "蔚来资本旗下企业等入股灵猴机器人",
-        "“地瓜机器人”宣布完成1.5亿美元B2轮融资"
+        "穿越割裂周期：南下内资正在布局哪些医药标的？",
+        "半日主力资金加仓电子板块，抛售医药生物板块"
+      ]
+    },
+    {
+      "keyword": "IPO",
+      "category": "市场",
+      "count": 2,
+      "sample_titles": [
+        "12年10轮融资、背后站满地方国资，这家药企冲刺IPO",
+        "上海985，批量生产千亿IPO"
+      ]
+    },
+    {
+      "keyword": "港股",
+      "category": "港股",
+      "count": 2,
+      "sample_titles": [
+        "抢滩港股上市窗口：Momenta、轻舟、元戎同台竞速",
+        "新乳业，冲刺港股补“鲜”血"
+      ]
+    },
+    {
+      "keyword": "恒生科技",
+      "category": "港股",
+      "count": 2,
+      "sample_titles": [
+        "恒生科技指数涨幅扩大至5%",
+        "恒指午间休盘涨2.82%，恒生科技指数涨4.42%"
       ]
     },
     {
@@ -18,48 +44,32 @@
       "category": "宏观",
       "count": 2,
       "sample_titles": [
-        "新西兰央行维持关键利率不变",
+        "印度央行行长预计今年CPI通胀率为4.6%",
         "氪星晚报｜潘兴广场拟94亿欧元现金加股票收购环球音乐集团；高盛策略师：当前科技股估值带来投资机会；中国央行连续第17个月增持黄金"
       ]
     },
     {
-      "keyword": "半导体",
+      "keyword": "新能源",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "A股三大指数均大幅高开，半导体板块领涨"
+        "最强基石天团护航，全球顶级资本聚力，思格新能源(6656.HK)启动招股"
       ]
     },
     {
-      "keyword": "人工智能",
+      "keyword": "芯片",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "SK海力士将为戴尔供应专为人工智能PC设计的先进存储解决方案"
+        "苹果自研AI服务器芯片Baltra曝光，直接采购三星玻璃基板"
       ]
     },
     {
-      "keyword": "光伏",
+      "keyword": "汽车",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "阿特斯：近期光伏组件价格较此前低点已有明显回升"
-      ]
-    },
-    {
-      "keyword": "银行",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "同城攻防战：渝农商行守擂，重庆银行猛攻"
-      ]
-    },
-    {
-      "keyword": "低空经济",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "深圳前海合作区：探索与香港交易所建立低空经济企业上市快速通道"
+        "本田中国3月终端汽车销量36201辆，同比下降34.34%"
       ]
     },
     {
@@ -71,19 +81,19 @@
       ]
     },
     {
-      "keyword": "港股",
-      "category": "港股",
+      "keyword": "分红",
+      "category": "市场",
       "count": 1,
       "sample_titles": [
-        "新乳业，冲刺港股补“鲜”血"
+        "净利下滑却“清仓式分红”，苏泊尔成法国股东“提款机”？"
       ]
     },
     {
-      "keyword": "恒生科技",
+      "keyword": "恒指",
       "category": "港股",
       "count": 1,
       "sample_titles": [
-        "恒生科技指数涨幅扩大至4%"
+        "恒指午间休盘涨2.82%，恒生科技指数涨4.42%"
       ]
     },
     {
@@ -91,7 +101,23 @@
       "category": "港股",
       "count": 1,
       "sample_titles": [
-        "南向资金净卖出额达50亿港元"
+        "南向资金净卖出额达100亿港元"
+      ]
+    },
+    {
+      "keyword": "CPI",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "印度央行行长预计今年CPI通胀率为4.6%"
+      ]
+    },
+    {
+      "keyword": "通胀",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "印度央行行长预计今年CPI通胀率为4.6%"
       ]
     }
   ]
