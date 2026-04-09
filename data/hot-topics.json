@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-04-09T06:58:44.542141Z",
+  "generated_at": "2026-04-09T08:25:18.359358Z",
   "window_hours": 24,
-  "total_items_analyzed": 47,
+  "total_items_analyzed": 49,
   "hot_topics": [
+    {
+      "keyword": "机器人",
+      "category": "板块",
+      "count": 3,
+      "sample_titles": [
+        "机器人融资狂潮里，有人闷声发大财",
+        "“开普勒机器人”完成亿元级A++轮融资",
+        "36氪首发 | 牛津博士后跨界创业融资两轮，用光学重构机器人传感器"
+      ]
+    },
     {
       "keyword": "芯片",
       "category": "板块",
@@ -13,21 +23,29 @@
       ]
     },
     {
-      "keyword": "机器人",
-      "category": "板块",
-      "count": 2,
-      "sample_titles": [
-        "报告：预估2026年中国人形机器人市场产量将年增94%",
-        "36氪首发 | 牛津博士后跨界创业融资两轮，用光学重构机器人传感器"
-      ]
-    },
-    {
       "keyword": "汽车",
       "category": "板块",
       "count": 2,
       "sample_titles": [
-        "后视摄像头存在故障，通用在美召回超27万辆汽车",
-        "起亚将2030年电动汽车销售目标下调约20%"
+        "吉利远程汽车换帅完成工商变更",
+        "后视摄像头存在故障，通用在美召回超27万辆汽车"
+      ]
+    },
+    {
+      "keyword": "南向资金",
+      "category": "港股",
+      "count": 2,
+      "sample_titles": [
+        "南向资金净买入额达100亿港元",
+        "南向资金净买入额达70亿港元"
+      ]
+    },
+    {
+      "keyword": "新能源",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "乘联分会：3月新能源乘用车市场零售84.8万辆，同比下降14.4%"
       ]
     },
     {
@@ -47,19 +65,51 @@
       ]
     },
     {
-      "keyword": "医疗",
+      "keyword": "金融",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "“阿迈特医疗”获超2亿元D轮融资"
+        "武汉光谷金融控股集团增资至约215.9亿元"
       ]
     },
     {
-      "keyword": "石油",
+      "keyword": "券商",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "日本考虑再释放合20天需求量的石油储备"
+        "A股三大指数集体收跌，券商股下挫"
+      ]
+    },
+    {
+      "keyword": "跌停",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "业绩预告“大变脸”，股价跌停，中化岩土回应"
+      ]
+    },
+    {
+      "keyword": "港股",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "Momenta 闯关，曹旭东的港股时刻"
+      ]
+    },
+    {
+      "keyword": "恒指",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "恒指收跌0.54%，恒生科技指数跌2.06%"
+      ]
+    },
+    {
+      "keyword": "恒生科技",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "恒指收跌0.54%，恒生科技指数跌2.06%"
       ]
     }
   ]
