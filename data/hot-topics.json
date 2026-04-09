@@ -1,43 +1,15 @@
 {
-  "generated_at": "2026-04-09T08:25:18.359358Z",
+  "generated_at": "2026-04-09T09:52:59.873475Z",
   "window_hours": 24,
   "total_items_analyzed": 49,
   "hot_topics": [
     {
       "keyword": "机器人",
       "category": "板块",
-      "count": 3,
+      "count": 2,
       "sample_titles": [
         "机器人融资狂潮里，有人闷声发大财",
-        "“开普勒机器人”完成亿元级A++轮融资",
         "36氪首发 | 牛津博士后跨界创业融资两轮，用光学重构机器人传感器"
-      ]
-    },
-    {
-      "keyword": "芯片",
-      "category": "板块",
-      "count": 2,
-      "sample_titles": [
-        "铜、制冷剂、芯片三重暴击，家电涨价势在必行？",
-        "耀速科技获2亿人民币融资，将“AI+器官芯片”嵌入新药开发流程"
-      ]
-    },
-    {
-      "keyword": "汽车",
-      "category": "板块",
-      "count": 2,
-      "sample_titles": [
-        "吉利远程汽车换帅完成工商变更",
-        "后视摄像头存在故障，通用在美召回超27万辆汽车"
-      ]
-    },
-    {
-      "keyword": "南向资金",
-      "category": "港股",
-      "count": 2,
-      "sample_titles": [
-        "南向资金净买入额达100亿港元",
-        "南向资金净买入额达70亿港元"
       ]
     },
     {
@@ -45,7 +17,23 @@
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "乘联分会：3月新能源乘用车市场零售84.8万辆，同比下降14.4%"
+        "​乘联分会：3月新能源乘用车出口34.9万辆，同比增长139.9%"
+      ]
+    },
+    {
+      "keyword": "半导体",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "美银：预计到2030年，半导体市场规模达2万亿美元"
+      ]
+    },
+    {
+      "keyword": "芯片",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "耀速科技获2亿人民币融资，将“AI+器官芯片”嵌入新药开发流程"
       ]
     },
     {
@@ -53,7 +41,7 @@
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "临界之前：核能与人工智能的链式反应开始了"
+        "英伟达收购告吹后，Nebius正洽谈收购以色列人工智能初创公司AI21"
       ]
     },
     {
@@ -65,30 +53,6 @@
       ]
     },
     {
-      "keyword": "金融",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "武汉光谷金融控股集团增资至约215.9亿元"
-      ]
-    },
-    {
-      "keyword": "券商",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "A股三大指数集体收跌，券商股下挫"
-      ]
-    },
-    {
-      "keyword": "跌停",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "业绩预告“大变脸”，股价跌停，中化岩土回应"
-      ]
-    },
-    {
       "keyword": "港股",
       "category": "港股",
       "count": 1,
@@ -97,19 +61,11 @@
       ]
     },
     {
-      "keyword": "恒指",
-      "category": "港股",
+      "keyword": "国务院",
+      "category": "宏观",
       "count": 1,
       "sample_titles": [
-        "恒指收跌0.54%，恒生科技指数跌2.06%"
-      ]
-    },
-    {
-      "keyword": "恒生科技",
-      "category": "港股",
-      "count": 1,
-      "sample_titles": [
-        "恒指收跌0.54%，恒生科技指数跌2.06%"
+        "国务院印发《中国（内蒙古）自由贸易试验区总体方案》"
       ]
     }
   ]
