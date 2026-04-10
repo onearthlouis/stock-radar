@@ -1,38 +1,72 @@
 {
-  "generated_at": "2026-04-10T03:49:59.532958Z",
+  "generated_at": "2026-04-10T06:03:43.332071Z",
   "window_hours": 24,
-  "total_items_analyzed": 47,
+  "total_items_analyzed": 46,
   "hot_topics": [
+    {
+      "keyword": "芯片",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "周期反转，模拟芯片步入上行期",
+        "卖芯片还是卖平台？地平线与黑芝麻智能悄然走出分水岭"
+      ]
+    },
+    {
+      "keyword": "汽车",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "大众汽车将在美国停产纯电车型",
+        "悦达汽车集团：奇瑞汽车全面接手高合汽车盐城工厂消息不实"
+      ]
+    },
+    {
+      "keyword": "人工智能",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "阿里巴巴任命周靖人领导人工智能事业部"
+      ]
+    },
+    {
+      "keyword": "储能",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "AI带火了储能，但“升咖”之路依然漫长"
+      ]
+    },
     {
       "keyword": "机器人",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "三瑞智能A股敲钟，剑指“无人机+机器人”万亿级赛道"
+        "智元机器人等在深圳成立智元酷拓科技公司"
       ]
     },
     {
-      "keyword": "白酒",
+      "keyword": "医药",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "A股三大指数午间休盘集体上涨，白酒股走弱"
+        "战争与医药"
       ]
     },
     {
-      "keyword": "银行",
-      "category": "板块",
+      "keyword": "增持",
+      "category": "市场",
       "count": 1,
       "sample_titles": [
-        "印度央行强制银行平仓卢比空头头寸，银行面临数亿美元潜在亏损"
+        "海底捞：控股股东张勇拟增持不少于1亿港元"
       ]
     },
     {
-      "keyword": "港股",
+      "keyword": "恒指",
       "category": "港股",
       "count": 1,
       "sample_titles": [
-        "港股恒生科技指数涨超2%"
+        "恒指午间休盘涨0.61%，恒生科技指数涨1.07%"
       ]
     },
     {
@@ -40,15 +74,7 @@
       "category": "港股",
       "count": 1,
       "sample_titles": [
-        "港股恒生科技指数涨超2%"
-      ]
-    },
-    {
-      "keyword": "央行",
-      "category": "宏观",
-      "count": 1,
-      "sample_titles": [
-        "印度央行强制银行平仓卢比空头头寸，银行面临数亿美元潜在亏损"
+        "恒指午间休盘涨0.61%，恒生科技指数涨1.07%"
       ]
     }
   ]
