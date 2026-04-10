@@ -1,25 +1,15 @@
 {
-  "generated_at": "2026-04-09T23:12:31.709191Z",
+  "generated_at": "2026-04-10T00:04:39.363074Z",
   "window_hours": 24,
-  "total_items_analyzed": 46,
+  "total_items_analyzed": 47,
   "hot_topics": [
     {
       "keyword": "芯片",
       "category": "板块",
-      "count": 3,
-      "sample_titles": [
-        "亚马逊考虑向其他公司出售其人工智能芯片",
-        "Anthropic据称考虑自主设计芯片的可能性",
-        "耀速科技获2亿人民币融资，将“AI+器官芯片”嵌入新药开发流程"
-      ]
-    },
-    {
-      "keyword": "人工智能",
-      "category": "板块",
       "count": 2,
       "sample_titles": [
-        "亚马逊考虑向其他公司出售其人工智能芯片",
-        "马斯克的xAI就科罗拉多州新的人工智能法律提起诉讼"
+        "AI超级周期推动需求激增，多家存储芯片企业一季度业绩预喜",
+        "耀速科技获2亿人民币融资，将“AI+器官芯片”嵌入新药开发流程"
       ]
     },
     {
@@ -32,12 +22,21 @@
       ]
     },
     {
-      "keyword": "汽车",
-      "category": "板块",
+      "keyword": "IPO",
+      "category": "市场",
       "count": 2,
       "sample_titles": [
-        "上海：持续开展汽车以旧换新活动，全面释放汽车消费潜力",
-        "保价争议毁口碑，深蓝汽车月销3万仍难摆脱困境"
+        "Avalyn Pharma在完成1亿美元超募融资后申请IPO",
+        "江波龙关联公司再诉佰维存储，港股IPO关键期突遭5000万索赔"
+      ]
+    },
+    {
+      "keyword": "美联储",
+      "category": "宏观",
+      "count": 2,
+      "sample_titles": [
+        "美联储主席提名人选凯文·沃什的参议院听证会或推迟举行",
+        "美联储4月维持利率不变的概率为98.4%"
       ]
     },
     {
@@ -61,23 +60,31 @@
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "上海：持续开展汽车以旧换新活动，全面释放汽车消费潜力"
+        "内存涨价终端承压，消费电子产业链差异化应对"
       ]
     },
     {
-      "keyword": "天然气",
+      "keyword": "银行",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "美国至4月3日当周EIA天然气库存500亿立方英尺"
+        "上市银行一季报前瞻：净息差边际企稳，盈利表现有望再上台阶"
       ]
     },
     {
-      "keyword": "IPO",
-      "category": "市场",
+      "keyword": "券商",
+      "category": "板块",
       "count": 1,
       "sample_titles": [
-        "江波龙关联公司再诉佰维存储，港股IPO关键期突遭5000万索赔"
+        "上市券商2025年投行业务迎来复苏，竞争逻辑从规模通道转向生态赋能"
+      ]
+    },
+    {
+      "keyword": "汽车",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "保价争议毁口碑，深蓝汽车月销3万仍难摆脱困境"
       ]
     },
     {
@@ -86,6 +93,22 @@
       "count": 1,
       "sample_titles": [
         "江波龙关联公司再诉佰维存储，港股IPO关键期突遭5000万索赔"
+      ]
+    },
+    {
+      "keyword": "通胀",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "欧洲央行管委Sleijpen称必要时将采取行动，以确保通胀达标"
+      ]
+    },
+    {
+      "keyword": "央行",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "欧洲央行管委Sleijpen称必要时将采取行动，以确保通胀达标"
       ]
     }
   ]
