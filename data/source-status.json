@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-04-11T20:41:54.245193Z",
+  "generated_at": "2026-04-11T21:40:05.915429Z",
   "sites": [
     {
       "site_id": "wallstreetcn",
       "site_name": "华尔街见闻",
-      "ok": true,
-      "item_count": 0
+      "ok": false,
+      "item_count": 0,
+      "error": "404 Client Error: Not Found for url: https://wallstreetcn.com/rss"
     },
     {
       "site_id": "eastmoney",
@@ -28,17 +29,10 @@
       "error": "404 Client Error: Not Found for url: https://www.jiemian.com/rss/index.xml"
     },
     {
-      "site_id": "sina_finance",
-      "site_name": "新浪财经",
-      "ok": false,
-      "item_count": 0,
-      "error": "404 Client Error: Not Found for url: https://rss.sina.com.cn/news/fin_roll/01.xml"
-    },
-    {
-      "site_id": "cls",
-      "site_name": "财联社",
+      "site_id": "36kr",
+      "site_name": "36氪",
       "ok": true,
-      "item_count": 0
+      "item_count": 30
     },
     {
       "site_id": "cs",
@@ -48,16 +42,23 @@
       "error": "404 Client Error: Not Found for url: https://www.cs.com.cn/rss/rss.xml"
     },
     {
-      "site_id": "36kr",
-      "site_name": "36氪",
+      "site_id": "cls",
+      "site_name": "财联社",
       "ok": true,
-      "item_count": 30
+      "item_count": 0
     },
     {
       "site_id": "tmtpost",
       "site_name": "钛媒体",
       "ok": true,
       "item_count": 18
+    },
+    {
+      "site_id": "sina_finance",
+      "site_name": "新浪财经",
+      "ok": false,
+      "item_count": 0,
+      "error": "404 Client Error: Not Found for url: https://rss.sina.com.cn/news/fin_roll/01.xml"
     },
     {
       "site_id": "huxiu",
@@ -67,12 +68,13 @@
       "error": "HTTPSConnectionPool(host='www.huxiu.com', port=443): Max retries exceeded with url: /rss/0.xml (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.huxiu.com', port=443): Read timed out. (read timeout=25)\"))"
     }
   ],
-  "successful_sites": 5,
+  "successful_sites": 4,
   "failed_sites": [
+    "wallstreetcn",
     "stcn",
     "jiemian",
-    "sina_finance",
     "cs",
+    "sina_finance",
     "huxiu"
   ],
   "fetched_raw_items": 48
