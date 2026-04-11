@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-11T08:55:01.344670Z",
+  "generated_at": "2026-04-11T09:51:43.662849Z",
   "window_hours": 24,
-  "total_items_analyzed": 48,
+  "total_items_analyzed": 49,
   "hot_topics": [
     {
       "keyword": "芯片",
@@ -14,6 +14,15 @@
       ]
     },
     {
+      "keyword": "人工智能",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "工业和信息化部将发布一批“人工智能+”高价值场景",
+        "日本投入160亿美元，力推初创企业Rapidus进军人工智能芯片领域"
+      ]
+    },
+    {
       "keyword": "半导体",
       "category": "板块",
       "count": 1,
@@ -22,11 +31,19 @@
       ]
     },
     {
-      "keyword": "人工智能",
+      "keyword": "光伏",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "日本投入160亿美元，力推初创企业Rapidus进军人工智能芯片领域"
+        "国家下场反储能内卷，风电光伏的“学费”不能白交"
+      ]
+    },
+    {
+      "keyword": "储能",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "国家下场反储能内卷，风电光伏的“学费”不能白交"
       ]
     },
     {
