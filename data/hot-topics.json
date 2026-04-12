@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-04-12T03:29:55.185974Z",
+  "generated_at": "2026-04-12T05:37:07.567472Z",
   "window_hours": 24,
-  "total_items_analyzed": 42,
+  "total_items_analyzed": 41,
   "hot_topics": [
+    {
+      "keyword": "汽车",
+      "category": "板块",
+      "count": 3,
+      "sample_titles": [
+        "长城汽车佘士东：当前智能座舱界面高度同质化，200多款车型相似度达95%以上",
+        "新版“海南省智能网联汽车管理办法”拟4、5月发布",
+        "长安汽车，赚着钱转型有多难"
+      ]
+    },
     {
       "keyword": "机器人",
       "category": "板块",
@@ -21,35 +31,11 @@
       ]
     },
     {
-      "keyword": "汽车",
+      "keyword": "低空经济",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "长安汽车，赚着钱转型有多难"
-      ]
-    },
-    {
-      "keyword": "涨停",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "价值判断：涨停板的投资机会和风险提示（4月10日）｜证券市场观察"
-      ]
-    },
-    {
-      "keyword": "跌停",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "价值判断：跌停板的投资机会和风险提示（4月10日）｜济安学派"
-      ]
-    },
-    {
-      "keyword": "美联储",
-      "category": "宏观",
-      "count": 1,
-      "sample_titles": [
-        "凯文沃什获特朗普提名出任下一任美联储主席，提名确认程序恐遭延误"
+        "海南自贸港全球产业招商大会低空经济专场将于14日举办"
       ]
     }
   ]
