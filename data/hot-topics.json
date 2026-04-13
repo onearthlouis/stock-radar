@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-04-13T08:31:22.120275Z",
+  "generated_at": "2026-04-13T10:20:09.512600Z",
   "window_hours": 24,
-  "total_items_analyzed": 47,
+  "total_items_analyzed": 48,
   "hot_topics": [
+    {
+      "keyword": "央行",
+      "category": "宏观",
+      "count": 3,
+      "sample_titles": [
+        "央行主管媒体金融时报：当前银行间市场流动性保持充裕",
+        "央行：一季度人民币贷款增加8.6万亿元",
+        "央行：3月末社会融资规模存量同比增长7.9%"
+      ]
+    },
     {
       "keyword": "芯片",
       "category": "板块",
@@ -21,19 +31,19 @@
       ]
     },
     {
-      "keyword": "医药",
+      "keyword": "金融",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "君实生物在珠海成立生物医药科技新公司"
+        "央行主管媒体金融时报：当前银行间市场流动性保持充裕"
       ]
     },
     {
-      "keyword": "医疗",
+      "keyword": "银行",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "覆盖99%县城，年入38亿，医疗版拼多多冲刺IPO！"
+        "央行主管媒体金融时报：当前银行间市场流动性保持充裕"
       ]
     },
     {
@@ -41,7 +51,7 @@
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "京东汽车与深蓝汽车达成战略合作"
+        "荷兰汽车电动化进程加速"
       ]
     },
     {
@@ -49,31 +59,7 @@
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "覆盖99%县城，年入38亿，医疗版拼多多冲刺IPO！"
-      ]
-    },
-    {
-      "keyword": "恒指",
-      "category": "港股",
-      "count": 1,
-      "sample_titles": [
-        "恒指收跌0.9%，恒生科技指数跌0.79%"
-      ]
-    },
-    {
-      "keyword": "恒生科技",
-      "category": "港股",
-      "count": 1,
-      "sample_titles": [
-        "恒指收跌0.9%，恒生科技指数跌0.79%"
-      ]
-    },
-    {
-      "keyword": "证监会",
-      "category": "宏观",
-      "count": 1,
-      "sample_titles": [
-        "新宙邦：发行H股备案申请材料获中国证监会接收"
+        "上周无新增IPO受理企业"
       ]
     }
   ]
