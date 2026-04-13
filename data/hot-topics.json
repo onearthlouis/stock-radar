@@ -1,65 +1,47 @@
 {
-  "generated_at": "2026-04-13T10:20:09.512600Z",
+  "generated_at": "2026-04-13T11:53:16.309139Z",
   "window_hours": 24,
-  "total_items_analyzed": 48,
+  "total_items_analyzed": 49,
   "hot_topics": [
-    {
-      "keyword": "央行",
-      "category": "宏观",
-      "count": 3,
-      "sample_titles": [
-        "央行主管媒体金融时报：当前银行间市场流动性保持充裕",
-        "央行：一季度人民币贷款增加8.6万亿元",
-        "央行：3月末社会融资规模存量同比增长7.9%"
-      ]
-    },
-    {
-      "keyword": "芯片",
-      "category": "板块",
-      "count": 2,
-      "sample_titles": [
-        "这些芯片供应商，深陷降价泥潭",
-        "智驾芯片，更卷了"
-      ]
-    },
     {
       "keyword": "机器人",
       "category": "板块",
-      "count": 1,
+      "count": 2,
       "sample_titles": [
+        "小米机器人控制专利获授权",
         "早期项目 | 前大疆工程师创业陪伴机器人，李泽湘连投三轮，产品即将登陆众筹"
       ]
     },
     {
-      "keyword": "金融",
+      "keyword": "人工智能",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "央行主管媒体金融时报：当前银行间市场流动性保持充裕"
+        "2连板天普股份：无开展人工智能相关业务计划"
       ]
     },
     {
-      "keyword": "银行",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "央行主管媒体金融时报：当前银行间市场流动性保持充裕"
-      ]
-    },
-    {
-      "keyword": "汽车",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "荷兰汽车电动化进程加速"
-      ]
-    },
-    {
-      "keyword": "IPO",
+      "keyword": "连板",
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "上周无新增IPO受理企业"
+        "2连板天普股份：无开展人工智能相关业务计划"
+      ]
+    },
+    {
+      "keyword": "退市",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "*ST沐邦：股票可能被终止上市，多项退市风险待解"
+      ]
+    },
+    {
+      "keyword": "减持",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "国际复材：股东云南云熹计划减持不超4.00%公司股份"
       ]
     }
   ]
