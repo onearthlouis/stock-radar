@@ -1,27 +1,8 @@
 {
-  "generated_at": "2026-04-13T06:22:57.066073Z",
+  "generated_at": "2026-04-13T08:31:22.120275Z",
   "window_hours": 24,
-  "total_items_analyzed": 44,
+  "total_items_analyzed": 47,
   "hot_topics": [
-    {
-      "keyword": "机器人",
-      "category": "板块",
-      "count": 4,
-      "sample_titles": [
-        "东方电热：公司机器人热管理已有相关产品，已少量出货",
-        "早期项目 | 前大疆工程师创业陪伴机器人，李泽湘连投三轮，产品即将登陆众筹",
-        "速腾聚创机器人视觉品类获欧洲头部人形机器人企业规模化订单"
-      ]
-    },
-    {
-      "keyword": "新能源",
-      "category": "板块",
-      "count": 2,
-      "sample_titles": [
-        "保变电气：目前公司已经不再涉足与风电、多晶硅相关的新能源业���",
-        "一季度新疆新能源发电量同比增长28.3%"
-      ]
-    },
     {
       "keyword": "芯片",
       "category": "板块",
@@ -32,12 +13,19 @@
       ]
     },
     {
-      "keyword": "人工智能",
+      "keyword": "机器人",
       "category": "板块",
-      "count": 2,
+      "count": 1,
       "sample_titles": [
-        "中国16家科技社团联合倡议共促全球人工智能治理",
-        "Meta打造人工智能版马克·扎克伯格"
+        "早期项目 | 前大疆工程师创业陪伴机器人，李泽湘连投三轮，产品即将登陆众筹"
+      ]
+    },
+    {
+      "keyword": "医药",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "君实生物在珠海成立生物医药科技新公司"
       ]
     },
     {
@@ -49,6 +37,14 @@
       ]
     },
     {
+      "keyword": "汽车",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "京东汽车与深蓝汽车达成战略合作"
+      ]
+    },
+    {
       "keyword": "IPO",
       "category": "市场",
       "count": 1,
@@ -57,11 +53,27 @@
       ]
     },
     {
-      "keyword": "央行",
+      "keyword": "恒指",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "恒指收跌0.9%，恒生科技指数跌0.79%"
+      ]
+    },
+    {
+      "keyword": "恒生科技",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "恒指收跌0.9%，恒生科技指数跌0.79%"
+      ]
+    },
+    {
+      "keyword": "证监会",
       "category": "宏观",
       "count": 1,
       "sample_titles": [
-        "韩国央行呼吁为加密货币交易所引入熔断机制"
+        "新宙邦：发行H股备案申请材料获中国证监会接收"
       ]
     }
   ]
