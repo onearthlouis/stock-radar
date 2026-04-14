@@ -1,25 +1,15 @@
 {
-  "generated_at": "2026-04-14T08:13:21.008853Z",
+  "generated_at": "2026-04-14T09:57:42.225090Z",
   "window_hours": 24,
-  "total_items_analyzed": 46,
+  "total_items_analyzed": 47,
   "hot_topics": [
     {
       "keyword": "机器人",
       "category": "板块",
-      "count": 3,
-      "sample_titles": [
-        "高德首款具身机器人将亮相",
-        "半年融资近2亿，他要用AI发球机器人解决全球1亿人的训练难题｜硬氪专访",
-        "图速科技发布三款新品：其具身打磨机器人全栈自研，打磨效率为人工3-4倍丨最前线"
-      ]
-    },
-    {
-      "keyword": "IPO",
-      "category": "市场",
       "count": 2,
       "sample_titles": [
-        "核微反应堆开发商Nuclea Energy申请美股IPO，拟筹资5000万美元",
-        "飞鹤伊利围剿，业绩下滑、库存高企的宜品二次冲刺IPO还有戏吗？"
+        "半年融资近2亿，他要用AI发球机器人解决全球1亿人的训练难题｜硬氪专访",
+        "图速科技发布三款新品：其具身打磨机器人全栈自研，打磨效率为人工3-4倍丨最前线"
       ]
     },
     {
@@ -31,11 +21,27 @@
       ]
     },
     {
-      "keyword": "金融",
+      "keyword": "消费",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "CREAO AI完成千万美金融资"
+        "AI裁员，裁到了“消费”这根大动脉？"
+      ]
+    },
+    {
+      "keyword": "银行",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "中国人民银行：将开展5000亿买断式逆回购操作，期限为6个月"
+      ]
+    },
+    {
+      "keyword": "券商",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "群核科技结束招股，券商统计获千倍超额认购"
       ]
     },
     {
@@ -43,23 +49,31 @@
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "中国汽车流通协会：3月汽车经销商库存系数为1.76，环比下降9.7%"
+        "宝马一季度欧洲纯电动汽车订单增长约40%"
       ]
     },
     {
-      "keyword": "恒指",
-      "category": "港股",
+      "keyword": "跌停",
+      "category": "市场",
       "count": 1,
       "sample_titles": [
-        "恒指收涨0.82%，恒生科技指数涨0.62%"
+        "上期所：调整黄金等期货相关合约涨跌停板幅度和交易保证金比例"
       ]
     },
     {
-      "keyword": "恒生科技",
-      "category": "港股",
+      "keyword": "IPO",
+      "category": "市场",
       "count": 1,
       "sample_titles": [
-        "恒指收涨0.82%，恒生科技指数涨0.62%"
+        "飞鹤伊利围剿，业绩下滑、库存高企的宜品二次冲刺IPO还有戏吗？"
+      ]
+    },
+    {
+      "keyword": "回购",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "中国人民银行：将开展5000亿买断式逆回购操作，期限为6个月"
       ]
     }
   ]
