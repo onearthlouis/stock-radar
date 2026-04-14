@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-14T12:41:27.159047Z",
+  "generated_at": "2026-04-14T14:54:37.891112Z",
   "window_hours": 24,
-  "total_items_analyzed": 45,
+  "total_items_analyzed": 47,
   "hot_topics": [
     {
       "keyword": "机器人",
@@ -32,6 +32,15 @@
       ]
     },
     {
+      "keyword": "IPO",
+      "category": "市场",
+      "count": 2,
+      "sample_titles": [
+        "双英集团：三次对赌失败，八成收入靠大客户，低研发低毛利难破｜IPO观察",
+        "吉和昌：高毛利难掩研发短板，扩产、补流募投项目合理性存疑｜IPO观察"
+      ]
+    },
+    {
       "keyword": "光伏",
       "category": "板块",
       "count": 1,
@@ -48,11 +57,11 @@
       ]
     },
     {
-      "keyword": "金融",
-      "category": "板块",
+      "keyword": "美联储",
+      "category": "宏观",
       "count": 1,
       "sample_titles": [
-        "上海市浦东新区副区长徐欣：加快把浦东打造成为跨境金融创新高地"
+        "美联储主席提名人选凯文·沃什的参议院听证会或21日举行"
       ]
     }
   ]
