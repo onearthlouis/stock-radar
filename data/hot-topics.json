@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-04-14T03:51:36.447789Z",
+  "generated_at": "2026-04-14T06:05:43.436825Z",
   "window_hours": 24,
-  "total_items_analyzed": 50,
+  "total_items_analyzed": 48,
   "hot_topics": [
+    {
+      "keyword": "芯片",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "韩国人工智能芯片初创公司DeepX准备在韩国进行IPO",
+        "最前线 | 远见智存发布HBM3/3e高带宽存储芯片，带宽迈入800GB/s级别"
+      ]
+    },
     {
       "keyword": "机器人",
       "category": "板块",
@@ -10,6 +19,24 @@
       "sample_titles": [
         "半年融资近2亿，他要用AI发球机器人解决全球1亿人的训练难题｜硬氪专访",
         "图速科技发布三款新品：其具身打磨机器人全栈自研，打磨效率为人工3-4倍丨最前线"
+      ]
+    },
+    {
+      "keyword": "汽车",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "联想助力理想汽车打造的PPAP文档审核智能体正式发布",
+        "韩国将在周末和节假日为电动汽车充电提供折扣"
+      ]
+    },
+    {
+      "keyword": "IPO",
+      "category": "市场",
+      "count": 2,
+      "sample_titles": [
+        "飞鹤伊利围剿，业绩下滑、库存高企的宜品二次冲刺IPO还有戏吗？",
+        "韩国人工智能芯片初创公司DeepX准备在韩国进行IPO"
       ]
     },
     {
@@ -21,11 +48,19 @@
       ]
     },
     {
-      "keyword": "芯片",
+      "keyword": "人工智能",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "最前线 | 远见智存发布HBM3/3e高带宽存储芯片，带宽迈入800GB/s级别"
+        "韩国人工智能芯片初创公司DeepX准备在韩国进行IPO"
+      ]
+    },
+    {
+      "keyword": "医药",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "半日主力资金加仓电子板块，抛售医药生物板块"
       ]
     },
     {
@@ -37,43 +72,35 @@
       ]
     },
     {
-      "keyword": "银行",
+      "keyword": "地产",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "美国财长贝森特称正在制定要求银行核验公民身份的行政令"
+        "恒大集团、恒大地产及许家印案一审开庭"
       ]
     },
     {
-      "keyword": "汽车",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "懂车帝冲刺IPO，汽车之家告别“躺赚”"
-      ]
-    },
-    {
-      "keyword": "低空经济",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "香港拟出台低空经济发展纲领，已对接内地推动跨境低空试飞尽快开展"
-      ]
-    },
-    {
-      "keyword": "IPO",
+      "keyword": "增持",
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "懂车帝冲刺IPO，汽车之家告别“躺赚”"
+        "小米增持墨睿科技公司，后者为石墨烯材料研发商"
       ]
     },
     {
-      "keyword": "港股",
+      "keyword": "恒指",
       "category": "港股",
       "count": 1,
       "sample_titles": [
-        "宁德时代港股跌幅扩大至7%"
+        "恒指午间休盘涨0.43%，恒生科技指数涨0.17%"
+      ]
+    },
+    {
+      "keyword": "恒生科技",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "恒指午间休盘涨0.43%，恒生科技指数涨0.17%"
       ]
     }
   ]
