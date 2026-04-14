@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-14T21:56:39.550878Z",
+  "generated_at": "2026-04-14T22:54:47.111833Z",
   "sites": [
     {
       "site_id": "wallstreetcn",
@@ -14,19 +14,6 @@
       "item_count": 0
     },
     {
-      "site_id": "stcn",
-      "site_name": "证券时报",
-      "ok": false,
-      "item_count": 0,
-      "error": "404 Client Error: Not Found for url: https://www.stcn.com/rss/index.xml"
-    },
-    {
-      "site_id": "cls",
-      "site_name": "财联社",
-      "ok": true,
-      "item_count": 0
-    },
-    {
       "site_id": "cs",
       "site_name": "中国证券报",
       "ok": false,
@@ -34,11 +21,11 @@
       "error": "404 Client Error: Not Found for url: https://www.cs.com.cn/rss/rss.xml"
     },
     {
-      "site_id": "sina_finance",
-      "site_name": "新浪财经",
+      "site_id": "stcn",
+      "site_name": "证券时报",
       "ok": false,
       "item_count": 0,
-      "error": "404 Client Error: Not Found for url: https://rss.sina.com.cn/news/fin_roll/01.xml"
+      "error": "404 Client Error: Not Found for url: https://www.stcn.com/rss/index.xml"
     },
     {
       "site_id": "jiemian",
@@ -60,6 +47,19 @@
       "item_count": 19
     },
     {
+      "site_id": "sina_finance",
+      "site_name": "新浪财经",
+      "ok": false,
+      "item_count": 0,
+      "error": "404 Client Error: Not Found for url: https://rss.sina.com.cn/news/fin_roll/01.xml"
+    },
+    {
+      "site_id": "cls",
+      "site_name": "财联社",
+      "ok": true,
+      "item_count": 0
+    },
+    {
       "site_id": "huxiu",
       "site_name": "虎嗅网",
       "ok": false,
@@ -69,10 +69,10 @@
   ],
   "successful_sites": 5,
   "failed_sites": [
-    "stcn",
     "cs",
-    "sina_finance",
+    "stcn",
     "jiemian",
+    "sina_finance",
     "huxiu"
   ],
   "fetched_raw_items": 46
