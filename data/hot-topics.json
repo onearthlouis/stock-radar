@@ -1,56 +1,38 @@
 {
-  "generated_at": "2026-04-15T09:46:22.099625Z",
+  "generated_at": "2026-04-15T11:07:27.802568Z",
   "window_hours": 24,
-  "total_items_analyzed": 43,
+  "total_items_analyzed": 42,
   "hot_topics": [
     {
       "keyword": "新能源",
       "category": "板块",
-      "count": 2,
+      "count": 1,
       "sample_titles": [
-        "“最牛风投城市”合肥：用一张新能源汽车产业链地图，撬动万亿市场",
         "8点1氪丨许家印一审当庭认罪悔罪；交管部门回应新能源车牌绿色变白色；生成内容涉黄，哩布哩布AI回应"
+      ]
+    },
+    {
+      "keyword": "芯片",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "国产AI芯片崛起：三大门派、瓜分英伟达"
+      ]
+    },
+    {
+      "keyword": "消费",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "2026年以来消费品以旧换新销售额突破5000亿元"
       ]
     },
     {
       "keyword": "汽车",
       "category": "板块",
-      "count": 2,
-      "sample_titles": [
-        "李成钢会见美国福特汽车公司全球执行副总裁兼首席政务官柯立",
-        "“最牛风投城市”合肥：用一张新能源汽车产业链地图，撬动万亿市场"
-      ]
-    },
-    {
-      "keyword": "人工智能",
-      "category": "板块",
       "count": 1,
       "sample_titles": [
-        "广州：组建人工智能产业投资基金，总规模200亿元"
-      ]
-    },
-    {
-      "keyword": "机器人",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "氪星晚报｜高德首款具身机器人将亮相；日产发布转型计划：削减20%车型，冲刺中美百万销量；随着战略转向，OpenAI的8520亿美元估值遭投资者质疑"
-      ]
-    },
-    {
-      "keyword": "银行",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "国家外汇局：3月银行结汇18889亿元人民币，售汇17786亿元人民币"
-      ]
-    },
-    {
-      "keyword": "保险",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "荷兰全球保险集团将以27亿美元向标准人寿出售英国子公司"
+        "广州：争取率先实现燃料电池汽车推广突破10000辆"
       ]
     },
     {
@@ -62,14 +44,6 @@
       ]
     },
     {
-      "keyword": "涨停",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "硅料困局中的情绪核爆：反内卷下的多晶硅从腰斩到涨停"
-      ]
-    },
-    {
       "keyword": "IPO",
       "category": "市场",
       "count": 1,
@@ -78,11 +52,11 @@
       ]
     },
     {
-      "keyword": "国务院",
-      "category": "宏观",
+      "keyword": "回购",
+      "category": "市场",
       "count": 1,
       "sample_titles": [
-        "国务院办公厅印发《关于深化投资审批制度改革的意见》"
+        "字节启动新一轮期权回购"
       ]
     }
   ]
