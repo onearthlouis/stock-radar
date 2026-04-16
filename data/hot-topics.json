@@ -1,28 +1,8 @@
 {
-  "generated_at": "2026-04-16T22:52:18.134685Z",
+  "generated_at": "2026-04-16T23:51:58.126903Z",
   "window_hours": 24,
   "total_items_analyzed": 48,
   "hot_topics": [
-    {
-      "keyword": "银行",
-      "category": "板块",
-      "count": 3,
-      "sample_titles": [
-        "美国4月份费城联邦储备银行制造业指数升至26.7，预估为10",
-        "Anthropico计划下周向英国银行业发布其Mythos模型",
-        "8点1氪丨美国将退还超1万亿元关税；多家银行密集停发信用卡；滴露回应使用宠物消毒液后5只幼猫死亡"
-      ]
-    },
-    {
-      "keyword": "减持",
-      "category": "市场",
-      "count": 3,
-      "sample_titles": [
-        "神火股份：股东普天工贸拟减持不超1.30%公司股份",
-        "佰维存储：股东孙静等拟合计减持不超2.00%股份",
-        "致远新能：股东王然拟合计减持不超3%公司股份"
-      ]
-    },
     {
       "keyword": "机器人",
       "category": "板块",
@@ -33,35 +13,37 @@
       ]
     },
     {
-      "keyword": "医药",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "恒瑞医药：子公司药物SHR-A2102纳入突破性治疗品种"
-      ]
-    },
-    {
       "keyword": "地产",
       "category": "板块",
-      "count": 1,
+      "count": 2,
       "sample_titles": [
+        "中信建投：房地产行业整体发展持续受政策支撑，继续看好物管及经营服务赛道",
         "一线城市房地产率先出现企稳迹象"
       ]
     },
     {
       "keyword": "房地产",
       "category": "板块",
-      "count": 1,
+      "count": 2,
       "sample_titles": [
+        "中信建投：房地产行业整体发展持续受政策支撑，继续看好物管及经营服务赛道",
         "一线城市房地产率先出现企稳迹象"
       ]
     },
     {
-      "keyword": "连板",
-      "category": "市场",
+      "keyword": "人工智能",
+      "category": "板块",
       "count": 1,
       "sample_titles": [
-        "3连板*ST观典：股票短期内涨幅较大，明起停牌核查"
+        "谷歌推出用于生成合成人工智能数据集的Simula"
+      ]
+    },
+    {
+      "keyword": "银行",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "8点1氪丨美国将退还超1万亿元关税；多家银行密集停发信用卡；滴露回应使用宠物消毒液后5只幼猫死亡"
       ]
     },
     {
@@ -70,6 +52,30 @@
       "count": 1,
       "sample_titles": [
         "亚马逊支持的X-Energy计划IPO融资8亿美元"
+      ]
+    },
+    {
+      "keyword": "港股",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "港股科技板块强势反弹，专家对后市投资前景表示乐观"
+      ]
+    },
+    {
+      "keyword": "GDP",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "【钛晨报】一季度国民经济运行情况一览：GDP同比增长5.0%，社零总额同比增长2.4%；市场监管总局：动态调整CCC认证目录，避免低价低质“内卷式”竞争；贵州茅台、台积电财报出炉"
+      ]
+    },
+    {
+      "keyword": "美联储",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "调查：美联储4月维持利率不变的概率为99.5%"
       ]
     }
   ]
