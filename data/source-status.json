@@ -1,36 +1,9 @@
 {
-  "generated_at": "2026-04-16T15:01:15.654383Z",
+  "generated_at": "2026-04-16T16:54:40.720170Z",
   "sites": [
     {
       "site_id": "wallstreetcn",
       "site_name": "华尔街见闻",
-      "ok": true,
-      "item_count": 0
-    },
-    {
-      "site_id": "sina_finance",
-      "site_name": "新浪财经",
-      "ok": false,
-      "item_count": 0,
-      "error": "404 Client Error: Not Found for url: https://rss.sina.com.cn/news/fin_roll/01.xml"
-    },
-    {
-      "site_id": "stcn",
-      "site_name": "证券时报",
-      "ok": false,
-      "item_count": 0,
-      "error": "404 Client Error: Not Found for url: https://www.stcn.com/rss/index.xml"
-    },
-    {
-      "site_id": "cs",
-      "site_name": "中国证券报",
-      "ok": false,
-      "item_count": 0,
-      "error": "404 Client Error: Not Found for url: https://www.cs.com.cn/rss/rss.xml"
-    },
-    {
-      "site_id": "cls",
-      "site_name": "财联社",
       "ok": true,
       "item_count": 0
     },
@@ -41,10 +14,37 @@
       "item_count": 0
     },
     {
+      "site_id": "stcn",
+      "site_name": "证券时报",
+      "ok": false,
+      "item_count": 0,
+      "error": "404 Client Error: Not Found for url: https://www.stcn.com/rss/index.xml"
+    },
+    {
+      "site_id": "cls",
+      "site_name": "财联社",
+      "ok": true,
+      "item_count": 0
+    },
+    {
+      "site_id": "cs",
+      "site_name": "中国证券报",
+      "ok": false,
+      "item_count": 0,
+      "error": "404 Client Error: Not Found for url: https://www.cs.com.cn/rss/rss.xml"
+    },
+    {
       "site_id": "36kr",
       "site_name": "36氪",
       "ok": true,
       "item_count": 28
+    },
+    {
+      "site_id": "sina_finance",
+      "site_name": "新浪财经",
+      "ok": false,
+      "item_count": 0,
+      "error": "404 Client Error: Not Found for url: https://rss.sina.com.cn/news/fin_roll/01.xml"
     },
     {
       "site_id": "jiemian",
@@ -69,9 +69,9 @@
   ],
   "successful_sites": 5,
   "failed_sites": [
-    "sina_finance",
     "stcn",
     "cs",
+    "sina_finance",
     "jiemian",
     "huxiu"
   ],
