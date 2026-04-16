@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-16T03:57:03.877684Z",
+  "generated_at": "2026-04-16T06:09:56.175929Z",
   "window_hours": 24,
-  "total_items_analyzed": 43,
+  "total_items_analyzed": 44,
   "hot_topics": [
     {
       "keyword": "银行",
@@ -13,37 +13,11 @@
       ]
     },
     {
-      "keyword": "地产",
-      "category": "板块",
-      "count": 2,
-      "sample_titles": [
-        "一线城市房地产率先出现企稳迹象",
-        "国家统计局：1—3月份全国房地产开发投资17720亿元，同比下降11.2%"
-      ]
-    },
-    {
-      "keyword": "房地产",
-      "category": "板块",
-      "count": 2,
-      "sample_titles": [
-        "一线城市房地产率先出现企稳迹象",
-        "国家统计局：1—3月份全国房地产开发投资17720亿元，同比下降11.2%"
-      ]
-    },
-    {
-      "keyword": "芯片",
+      "keyword": "半导体",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "英特尔发布AI高静游戏本Plus，启动“AI游戏助手生态开放计划”"
-      ]
-    },
-    {
-      "keyword": "光伏",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "电芯不再“一芯难求”，锂电会否成为下一个光伏？"
+        "闻泰科技在上海成立闻世芯半导体公司"
       ]
     },
     {
@@ -59,7 +33,7 @@
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "95后“千金”进入博瑞医药董事会，“药二代”接连台前亮相"
+        "金铉集团战略入股香港医药分销商朗辉医药"
       ]
     },
     {
@@ -67,15 +41,39 @@
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "国家统计局：一季度全国居民人均消费支出比上年同期名义增长3.6%"
+        "暴跌40% vs 暴涨120%，消费龙头的冰火两重天"
       ]
     },
     {
-      "keyword": "IPO",
-      "category": "市场",
+      "keyword": "地产",
+      "category": "板块",
       "count": 1,
       "sample_titles": [
-        "四页纸的精准狙击：OpenAI先搞臭对手，再给自己的IPO铺路"
+        "一线城市房地产率先出现企稳迹象"
+      ]
+    },
+    {
+      "keyword": "房地产",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "一线城市房地产率先出现企稳迹象"
+      ]
+    },
+    {
+      "keyword": "汽车",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "安森美该急了，国产汽车CMOS又进一步"
+      ]
+    },
+    {
+      "keyword": "低空经济",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "国务院国资委：国资央企要因地制宜、稳妥有序推动低空经济高质量发展，加快低空航空装备创新迭代"
       ]
     },
     {
@@ -100,6 +98,30 @@
       "count": 1,
       "sample_titles": [
         "千元股背后：港股AI行情的叙事驱动与估值重构"
+      ]
+    },
+    {
+      "keyword": "恒指",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "恒指午间休盘涨1.38%，恒生科技指数涨2.98%"
+      ]
+    },
+    {
+      "keyword": "恒生科技",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "恒指午间休盘涨1.38%，恒生科技指数涨2.98%"
+      ]
+    },
+    {
+      "keyword": "国务院",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "国务院国资委：国资央企要因地制宜、稳妥有序推动低空经济高质量发展，加快低空航空装备创新迭代"
       ]
     }
   ]
