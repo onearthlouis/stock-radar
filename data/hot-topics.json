@@ -1,18 +1,8 @@
 {
-  "generated_at": "2026-04-17T11:05:01.360688Z",
+  "generated_at": "2026-04-17T12:11:47.821243Z",
   "window_hours": 24,
-  "total_items_analyzed": 45,
+  "total_items_analyzed": 48,
   "hot_topics": [
-    {
-      "keyword": "IPO",
-      "category": "市场",
-      "count": 4,
-      "sample_titles": [
-        "托伦斯创业板IPO定于4月24日上会",
-        "远景动力或考虑通过港股IPO至多募资20亿美元",
-        "益坤电气：拟募资缩水、补流项目删除，资金紧张仍大举分工｜IPO观察"
-      ]
-    },
     {
       "keyword": "机器人",
       "category": "板块",
@@ -36,10 +26,20 @@
     {
       "keyword": "连板",
       "category": "市场",
-      "count": 2,
+      "count": 3,
       "sample_titles": [
+        "3连板均瑶健康：公司业务不涉及保健食品的注册及生产，AKK菌粉销售目前对公司利润影响极小",
         "5连板博云新材：股东高创投4月14日至4月16日减持407.2万股 持股比例降至5%以下",
         "2连板可川科技：全资子公司可川光子正在积极地进行市场开拓工作，暂未形成营收"
+      ]
+    },
+    {
+      "keyword": "IPO",
+      "category": "市场",
+      "count": 2,
+      "sample_titles": [
+        "48小时，高瓴送三家公司去IPO",
+        "托伦斯创业板IPO定于4月24日上会"
       ]
     },
     {
@@ -48,6 +48,30 @@
       "count": 1,
       "sample_titles": [
         "36氪首发 | “华为天才少年”创业连融超4亿元，做新一代推理芯片重构显存成本"
+      ]
+    },
+    {
+      "keyword": "医疗",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "瑞士医疗科技公司Clee Medical研发面向脑外科的实时术中成像与导航设备，提升手术精准度"
+      ]
+    },
+    {
+      "keyword": "汽车",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "小米汽车重磅任命：胡峥楠任CTO，宋钢任参谋长｜36氪独家"
+      ]
+    },
+    {
+      "keyword": "退市",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "*ST天微：撤销退市风险警示，4月21日起证券简称由“*ST天微”变更为“天微电子”"
       ]
     },
     {
@@ -64,22 +88,6 @@
       "count": 1,
       "sample_titles": [
         "蓝思科技：实际控制人拟增持不低于1亿元公司股份"
-      ]
-    },
-    {
-      "keyword": "港股",
-      "category": "港股",
-      "count": 1,
-      "sample_titles": [
-        "远景动力或考虑通过港股IPO至多募资20亿美元"
-      ]
-    },
-    {
-      "keyword": "南向资金",
-      "category": "港股",
-      "count": 1,
-      "sample_titles": [
-        "南向资金今日净买入170.10亿港元"
       ]
     }
   ]
