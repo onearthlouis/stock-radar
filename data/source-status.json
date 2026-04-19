@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-19T03:33:27.400297Z",
+  "generated_at": "2026-04-19T06:02:55.210842Z",
   "sites": [
     {
       "site_id": "wallstreetcn",
@@ -9,43 +9,10 @@
       "error": "404 Client Error: Not Found for url: https://wallstreetcn.com/rss"
     },
     {
-      "site_id": "stcn",
-      "site_name": "证券时报",
-      "ok": false,
-      "item_count": 0,
-      "error": "404 Client Error: Not Found for url: https://www.stcn.com/rss/index.xml"
-    },
-    {
-      "site_id": "sina_finance",
-      "site_name": "新浪财经",
-      "ok": false,
-      "item_count": 0,
-      "error": "404 Client Error: Not Found for url: https://rss.sina.com.cn/news/fin_roll/01.xml"
-    },
-    {
-      "site_id": "cls",
-      "site_name": "财联社",
-      "ok": true,
-      "item_count": 0
-    },
-    {
       "site_id": "eastmoney",
       "site_name": "东方财富",
       "ok": true,
       "item_count": 0
-    },
-    {
-      "site_id": "cs",
-      "site_name": "中国证券报",
-      "ok": false,
-      "item_count": 0,
-      "error": "404 Client Error: Not Found for url: https://www.cs.com.cn/rss/rss.xml"
-    },
-    {
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "ok": true,
-      "item_count": 21
     },
     {
       "site_id": "jiemian",
@@ -55,10 +22,43 @@
       "error": "404 Client Error: Not Found for url: https://www.jiemian.com/rss/index.xml"
     },
     {
+      "site_id": "stcn",
+      "site_name": "证券时报",
+      "ok": false,
+      "item_count": 0,
+      "error": "404 Client Error: Not Found for url: https://www.stcn.com/rss/index.xml"
+    },
+    {
+      "site_id": "cs",
+      "site_name": "中国证券报",
+      "ok": false,
+      "item_count": 0,
+      "error": "404 Client Error: Not Found for url: https://www.cs.com.cn/rss/rss.xml"
+    },
+    {
+      "site_id": "cls",
+      "site_name": "财联社",
+      "ok": true,
+      "item_count": 0
+    },
+    {
+      "site_id": "sina_finance",
+      "site_name": "新浪财经",
+      "ok": false,
+      "item_count": 0,
+      "error": "404 Client Error: Not Found for url: https://rss.sina.com.cn/news/fin_roll/01.xml"
+    },
+    {
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "ok": true,
+      "item_count": 21
+    },
+    {
       "site_id": "tmtpost",
       "site_name": "钛媒体",
       "ok": true,
-      "item_count": 19
+      "item_count": 17
     },
     {
       "site_id": "huxiu",
@@ -71,11 +71,11 @@
   "successful_sites": 4,
   "failed_sites": [
     "wallstreetcn",
-    "stcn",
-    "sina_finance",
-    "cs",
     "jiemian",
+    "stcn",
+    "cs",
+    "sina_finance",
     "huxiu"
   ],
-  "fetched_raw_items": 40
+  "fetched_raw_items": 38
 }
