@@ -1,25 +1,17 @@
 {
-  "generated_at": "2026-04-19T23:05:21.480183Z",
+  "generated_at": "2026-04-20T00:03:49.796885Z",
   "sites": [
     {
       "site_id": "wallstreetcn",
       "site_name": "华尔街见闻",
-      "ok": false,
-      "item_count": 0,
-      "error": "404 Client Error: Not Found for url: https://wallstreetcn.com/rss"
+      "ok": true,
+      "item_count": 0
     },
     {
       "site_id": "eastmoney",
       "site_name": "东方财富",
       "ok": true,
       "item_count": 0
-    },
-    {
-      "site_id": "cs",
-      "site_name": "中国证券报",
-      "ok": false,
-      "item_count": 0,
-      "error": "404 Client Error: Not Found for url: https://www.cs.com.cn/rss/rss.xml"
     },
     {
       "site_id": "stcn",
@@ -45,7 +37,7 @@
       "site_id": "36kr",
       "site_name": "36氪",
       "ok": true,
-      "item_count": 22
+      "item_count": 23
     },
     {
       "site_id": "sina_finance",
@@ -58,24 +50,30 @@
       "site_id": "tmtpost",
       "site_name": "钛媒体",
       "ok": true,
-      "item_count": 18
+      "item_count": 19
+    },
+    {
+      "site_id": "cs",
+      "site_name": "中国证券报",
+      "ok": false,
+      "item_count": 0,
+      "error": "404 Client Error: Not Found for url: https://www.cs.com.cn/rss/rss.xml"
     },
     {
       "site_id": "huxiu",
       "site_name": "虎嗅网",
       "ok": false,
       "item_count": 0,
-      "error": "HTTPSConnectionPool(host='www.huxiu.com', port=443): Max retries exceeded with url: /rss/0.xml (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.huxiu.com', port=443): Read timed out. (read timeout=25)\"))"
+      "error": "HTTPSConnectionPool(host='www.huxiu.com', port=443): Max retries exceeded with url: /rss/0.xml (Caused by ResponseError('too many 502 error responses'))"
     }
   ],
-  "successful_sites": 4,
+  "successful_sites": 5,
   "failed_sites": [
-    "wallstreetcn",
-    "cs",
     "stcn",
     "jiemian",
     "sina_finance",
+    "cs",
     "huxiu"
   ],
-  "fetched_raw_items": 40
+  "fetched_raw_items": 42
 }
