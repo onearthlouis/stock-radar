@@ -1,41 +1,15 @@
 {
-  "generated_at": "2026-04-20T06:25:40.504883Z",
+  "generated_at": "2026-04-20T08:36:45.037565Z",
   "window_hours": 24,
-  "total_items_analyzed": 48,
+  "total_items_analyzed": 47,
   "hot_topics": [
     {
-      "keyword": "机器人",
-      "category": "板块",
-      "count": 4,
-      "sample_titles": [
-        "IDC：2030年全球人形机器人出货量将突破51万台，年复合增长率近95%",
-        "荣耀机器人夺冠，只是“应试”高手？",
-        "自变量机器人完成近20亿元B轮融资，小米战投、红杉中国领投丨智能涌现独家"
-      ]
-    },
-    {
-      "keyword": "汽车",
-      "category": "板块",
+      "keyword": "IPO",
+      "category": "市场",
       "count": 2,
       "sample_titles": [
-        "三星SDI与梅赛德斯-奔驰签署电动汽车电池供应协议",
-        "越南计划将电动汽车税收优惠政策延长至2030年"
-      ]
-    },
-    {
-      "keyword": "新能源",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "新能源车全球普及的历史节点到来了"
-      ]
-    },
-    {
-      "keyword": "半导体",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "泰国寻求三家美国半导体企业赴泰投资"
+        "月之暗面IPO，杨植麟不急股东急",
+        "OpenAI的浮士德交易：8520亿估值下的组织转型与IPO选择"
       ]
     },
     {
@@ -47,11 +21,19 @@
       ]
     },
     {
+      "keyword": "机器人",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "自变量机器人完成近20亿元B轮融资，小米战投、红杉中国领投丨智能涌现独家"
+      ]
+    },
+    {
       "keyword": "银行",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "Mythos引发网络攻防新焦虑，新加坡金管局要求银行补上安全漏洞"
+        "高盛聘任前花旗银行高管，执掌亚洲债务资本市场业务"
       ]
     },
     {
@@ -59,39 +41,31 @@
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "地产一哥业绩“大洗澡”，舍利润稳保现金流"
+        "地产一哥业绩“大洗澡”，舍利润保现金流"
       ]
     },
     {
-      "keyword": "新能源车",
-      "category": "板块",
+      "keyword": "恒指",
+      "category": "港股",
       "count": 1,
       "sample_titles": [
-        "新能源车全球普及的历史节点到来了"
+        "恒指收涨0.77%，恒生科技指数涨0.46%"
       ]
     },
     {
-      "keyword": "石油",
-      "category": "板块",
+      "keyword": "恒生科技",
+      "category": "港股",
       "count": 1,
       "sample_titles": [
-        "印尼国家石油公司将与丰田合作开发生物乙醇"
+        "恒指收涨0.77%，恒生科技指数涨0.46%"
       ]
     },
     {
-      "keyword": "IPO",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "OpenAI的浮士德交易：8520亿估值下的组织转型与IPO选择"
-      ]
-    },
-    {
-      "keyword": "央行",
+      "keyword": "GDP",
       "category": "宏观",
       "count": 1,
       "sample_titles": [
-        "日本央行报告：物价上涨开始挤压日本家庭"
+        "北京一季度GDP同比增长5.9%"
       ]
     }
   ]
