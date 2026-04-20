@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-04-20T21:26:14.802910Z",
+  "generated_at": "2026-04-20T22:12:00.890639Z",
   "window_hours": 24,
   "total_items_analyzed": 48,
   "hot_topics": [
+    {
+      "keyword": "银行",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "中国人民银行行长潘功胜会见国际金融机构负责人",
+        "【Fintech 周报】智驾险要来了；中小银行短期产品迈入“0字头”；微信分付灰度上线转账功能"
+      ]
+    },
     {
       "keyword": "IPO",
       "category": "市场",
@@ -14,14 +23,6 @@
     },
     {
       "keyword": "金融",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "中国人民银行行长潘功胜会见国际金融机构负责人"
-      ]
-    },
-    {
-      "keyword": "银行",
       "category": "板块",
       "count": 1,
       "sample_titles": [
