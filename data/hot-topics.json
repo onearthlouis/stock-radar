@@ -1,23 +1,43 @@
 {
-  "generated_at": "2026-04-20T08:36:45.037565Z",
+  "generated_at": "2026-04-20T10:55:11.355219Z",
   "window_hours": 24,
-  "total_items_analyzed": 47,
+  "total_items_analyzed": 46,
   "hot_topics": [
     {
       "keyword": "IPO",
       "category": "市场",
-      "count": 2,
+      "count": 3,
       "sample_titles": [
-        "月之暗面IPO，杨植麟不急股东急",
-        "OpenAI的浮士德交易：8520亿估值下的组织转型与IPO选择"
+        "上周新增2家IPO受理企业",
+        "AI 芯片格局生变：Cerebras 再迎IPO大考，英伟达真正的对手来了｜IPO观察",
+        "月之暗面IPO，杨植麟不急股东急"
       ]
     },
     {
       "keyword": "芯片",
       "category": "板块",
-      "count": 1,
+      "count": 2,
       "sample_titles": [
+        "AI 芯片格局生变：Cerebras 再迎IPO大考，英伟达真正的对手来了｜IPO观察",
         "AI芯片初创公司，进入“斩杀线”？"
+      ]
+    },
+    {
+      "keyword": "银行",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "【Fintech 周报】智驾险要来了；中小银行短期产品迈入“0字头”；微信分付灰度上线转账功能",
+        "平安银行：管理层变动系谣言，已经向公安机关报案"
+      ]
+    },
+    {
+      "keyword": "央行",
+      "category": "宏观",
+      "count": 2,
+      "sample_titles": [
+        "央行：3月沪深两市日均成交额23141.2亿元，环比增加0.9%",
+        "央行：3月上海黄金交易所黄金成交5675.4吨，同比减少6.3%"
       ]
     },
     {
@@ -29,11 +49,11 @@
       ]
     },
     {
-      "keyword": "银行",
+      "keyword": "医药",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "高盛聘任前花旗银行高管，执掌亚洲债务资本市场业务"
+        "福元医药：获得乙酰半胱氨酸片药品注册证书"
       ]
     },
     {
@@ -45,27 +65,27 @@
       ]
     },
     {
-      "keyword": "恒指",
-      "category": "港股",
+      "keyword": "连板",
+      "category": "市场",
       "count": 1,
       "sample_titles": [
-        "恒指收涨0.77%，恒生科技指数涨0.46%"
+        "2连板天通股份澄清：公司不生产光模块产品、不生产商业卫星"
       ]
     },
     {
-      "keyword": "恒生科技",
-      "category": "港股",
+      "keyword": "退市",
+      "category": "市场",
       "count": 1,
       "sample_titles": [
-        "恒指收涨0.77%，恒生科技指数涨0.46%"
+        "退市叫停频发：ADC终于正视这一命门"
       ]
     },
     {
-      "keyword": "GDP",
+      "keyword": "证监会",
       "category": "宏观",
       "count": 1,
       "sample_titles": [
-        "北京一季度GDP同比增长5.9%"
+        "长江证券：公开发行不超50亿元次级债券获证监会同意注册批复"
       ]
     }
   ]
