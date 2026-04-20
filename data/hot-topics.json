@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T12:09:36.975566Z",
+  "generated_at": "2026-04-20T14:21:00.814497Z",
   "window_hours": 24,
   "total_items_analyzed": 49,
   "hot_topics": [
@@ -14,12 +14,12 @@
       ]
     },
     {
-      "keyword": "央行",
-      "category": "宏观",
+      "keyword": "银行",
+      "category": "板块",
       "count": 2,
       "sample_titles": [
-        "央行：3月沪深两市日均成交额23141.2亿元，环比增加0.9%",
-        "央行：3月上海黄金交易所黄金成交5675.4吨，同比减少6.3%"
+        "中国人民银行行长潘功胜会见国际金融机构负责人",
+        "【Fintech 周报】智驾险要来了；中小银行短期产品迈入“0字头”；微信分付灰度上线转账功能"
       ]
     },
     {
@@ -31,27 +31,11 @@
       ]
     },
     {
-      "keyword": "机器人",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "自变量机器人完成近20亿元B轮融资，小米战投、红杉中国领投丨智能涌现独家"
-      ]
-    },
-    {
       "keyword": "金融",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "腾讯入股哈萨克斯坦金融科技公司Kaspi.kz"
-      ]
-    },
-    {
-      "keyword": "银行",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "【Fintech 周报】智驾险要来了；中小银行短期产品迈入“0字头”；微信分付灰度上线转账功能"
+        "中国人民银行行长潘功胜会见国际金融机构负责人"
       ]
     },
     {
@@ -63,6 +47,14 @@
       ]
     },
     {
+      "keyword": "汽车",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "热门中概股美股盘前多数下跌，理想汽车��超1%"
+      ]
+    },
+    {
       "keyword": "退市",
       "category": "市场",
       "count": 1,
@@ -71,19 +63,19 @@
       ]
     },
     {
+      "keyword": "增持",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "Strategy斥资25.4亿美元增持比特币，持仓量逾81万枚"
+      ]
+    },
+    {
       "keyword": "回购",
       "category": "市场",
       "count": 1,
       "sample_titles": [
         "纳尔股份：拟1500万元—3000万元回购股份"
-      ]
-    },
-    {
-      "keyword": "证监会",
-      "category": "宏观",
-      "count": 1,
-      "sample_titles": [
-        "长江证券：公开发行不超50亿元次级债券获证监会同意注册批复"
       ]
     }
   ]
