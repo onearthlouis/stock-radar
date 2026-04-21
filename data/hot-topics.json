@@ -1,47 +1,49 @@
 {
-  "generated_at": "2026-04-21T06:08:40.215714Z",
+  "generated_at": "2026-04-21T08:19:11.056743Z",
   "window_hours": 24,
   "total_items_analyzed": 48,
   "hot_topics": [
     {
-      "keyword": "IPO",
-      "category": "市场",
-      "count": 2,
+      "keyword": "汽车",
+      "category": "板块",
+      "count": 6,
       "sample_titles": [
-        "消息人士：SpaceX 本周举办为期三天的分析师会议，积极拉拢华尔街备战IPO",
-        "启明系入主天迈科技百日，火速注入自投曾拟IPO标的 | 并购一线"
+        "长安汽车朱华荣：将战略性整合阿维塔和深蓝汽车",
+        "猛士汽车携手华为乾崑发布智能越野黑科技",
+        "长安汽车朱华荣：2030年力争实现营收6000亿元"
       ]
     },
     {
       "keyword": "新能源",
       "category": "板块",
-      "count": 1,
+      "count": 2,
       "sample_titles": [
-        "赣锋锂业在甘肃成立锋桥新能源公司"
+        "长安汽车朱华荣：2030年公司年产销目标400万辆，新能源占比超60%",
+        "中创新航在自贡成立科技新公司，含新能源汽车业务"
       ]
     },
     {
-      "keyword": "人工智能",
+      "keyword": "芯片",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "北京市新增2款已完成备案的生成式人工智能服务"
+        "黄仁勋公开叫板谷歌、亚马逊，芯片业务全靠Anthropic养活？"
       ]
     },
     {
-      "keyword": "化工",
+      "keyword": "地产",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "半日主力资金加仓基础化工板块，抛售计算机板块"
+        "地产中介“二当家”去年亏损9663万，租赁业务成了压舱石"
       ]
     },
     {
-      "keyword": "量子",
+      "keyword": "5G",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "上海：加速脑机接口、第六代移动通信（6G）、量子计算等技术应用试点及产品化"
+        "可达5G的10倍，全国首个Pre6G试验网在江苏南京投入运行"
       ]
     },
     {
@@ -49,7 +51,23 @@
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "股价“一”字跌停，液冷龙头股英维克回应"
+        "千亿液冷龙头“急刹车”，英维克一字跌停，光环与泡沫显现"
+      ]
+    },
+    {
+      "keyword": "IPO",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "文件：马斯克和内部人士将在IPO后保留对SpaceX的投票控制权"
+      ]
+    },
+    {
+      "keyword": "增持",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "马斯克去年增持14亿美元SpaceX股份"
       ]
     },
     {
@@ -57,15 +75,7 @@
       "category": "港股",
       "count": 1,
       "sample_titles": [
-        "恒指午间休盘涨0.13%，恒生科技指数跌0.74%"
-      ]
-    },
-    {
-      "keyword": "恒生科技",
-      "category": "港股",
-      "count": 1,
-      "sample_titles": [
-        "恒指午间休盘涨0.13%，恒生科技指数跌0.74%"
+        "恒指收涨0.48%，宁德时代涨超4%"
       ]
     }
   ]
