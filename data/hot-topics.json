@@ -1,33 +1,24 @@
 {
-  "generated_at": "2026-04-21T08:19:11.056743Z",
+  "generated_at": "2026-04-21T10:03:32.824257Z",
   "window_hours": 24,
-  "total_items_analyzed": 48,
+  "total_items_analyzed": 47,
   "hot_topics": [
     {
-      "keyword": "汽车",
-      "category": "板块",
-      "count": 6,
+      "keyword": "国务院",
+      "category": "宏观",
+      "count": 5,
       "sample_titles": [
-        "长安汽车朱华荣：将战略性整合阿维塔和深蓝汽车",
-        "猛士汽车携手华为乾崑发布智能越野黑科技",
-        "长安汽车朱华荣：2030年力争实现营收6000亿元"
+        "国务院：加快培育服务业骨干企业，支持符合条件的上市融资、并购重组",
+        "国务院：进一步扩大增值电信、生物技术、外商独资医院等领域开放试点",
+        "国务院：深入实施“人工智能+”行动，支持采购大模型、智能体服务"
       ]
     },
     {
-      "keyword": "新能源",
-      "category": "板块",
-      "count": 2,
-      "sample_titles": [
-        "长安汽车朱华荣：2030年公司年产销目标400万辆，新能源占比超60%",
-        "中创新航在自贡成立科技新公司，含新能源汽车业务"
-      ]
-    },
-    {
-      "keyword": "芯片",
+      "keyword": "人工智能",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "黄仁勋公开叫板谷歌、亚马逊，芯片业务全靠Anthropic养活？"
+        "国务院：深入实施“人工智能+”行动，支持采购大模型、智能体服务"
       ]
     },
     {
@@ -39,43 +30,11 @@
       ]
     },
     {
-      "keyword": "5G",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "可达5G的10倍，全国首个Pre6G试验网在江苏南京投入运行"
-      ]
-    },
-    {
       "keyword": "跌停",
       "category": "市场",
       "count": 1,
       "sample_titles": [
         "千亿液冷龙头“急刹车”，英维克一字跌停，光环与泡沫显现"
-      ]
-    },
-    {
-      "keyword": "IPO",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "文件：马斯克和内部人士将在IPO后保留对SpaceX的投票控制权"
-      ]
-    },
-    {
-      "keyword": "增持",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "马斯克去年增持14亿美元SpaceX股份"
-      ]
-    },
-    {
-      "keyword": "恒指",
-      "category": "港股",
-      "count": 1,
-      "sample_titles": [
-        "恒指收涨0.48%，宁德时代涨超4%"
       ]
     }
   ]
