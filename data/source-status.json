@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T11:40:35.775507Z",
+  "generated_at": "2026-04-21T13:58:32.745337Z",
   "sites": [
     {
       "site_id": "wallstreetcn",
@@ -15,31 +15,11 @@
       "item_count": 0
     },
     {
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "ok": false,
-      "item_count": 0,
-      "error": "404 Client Error: Not Found for url: https://36kr.com/feed"
-    },
-    {
       "site_id": "cs",
       "site_name": "中国证券报",
       "ok": false,
       "item_count": 0,
       "error": "404 Client Error: Not Found for url: https://www.cs.com.cn/rss/rss.xml"
-    },
-    {
-      "site_id": "stcn",
-      "site_name": "证券时报",
-      "ok": false,
-      "item_count": 0,
-      "error": "404 Client Error: Not Found for url: https://www.stcn.com/rss/index.xml"
-    },
-    {
-      "site_id": "cls",
-      "site_name": "财联社",
-      "ok": true,
-      "item_count": 0
     },
     {
       "site_id": "sina_finance",
@@ -49,10 +29,11 @@
       "error": "404 Client Error: Not Found for url: https://rss.sina.com.cn/news/fin_roll/01.xml"
     },
     {
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "ok": true,
-      "item_count": 16
+      "site_id": "stcn",
+      "site_name": "证券时报",
+      "ok": false,
+      "item_count": 0,
+      "error": "404 Client Error: Not Found for url: https://www.stcn.com/rss/index.xml"
     },
     {
       "site_id": "jiemian",
@@ -62,6 +43,24 @@
       "error": "404 Client Error: Not Found for url: https://www.jiemian.com/rss/index.xml"
     },
     {
+      "site_id": "cls",
+      "site_name": "财联社",
+      "ok": true,
+      "item_count": 0
+    },
+    {
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "ok": true,
+      "item_count": 28
+    },
+    {
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "ok": true,
+      "item_count": 16
+    },
+    {
       "site_id": "huxiu",
       "site_name": "虎嗅网",
       "ok": false,
@@ -69,15 +68,14 @@
       "error": "HTTPSConnectionPool(host='www.huxiu.com', port=443): Max retries exceeded with url: /rss/0.xml (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.huxiu.com', port=443): Read timed out. (read timeout=25)\"))"
     }
   ],
-  "successful_sites": 3,
+  "successful_sites": 4,
   "failed_sites": [
     "wallstreetcn",
-    "36kr",
     "cs",
-    "stcn",
     "sina_finance",
+    "stcn",
     "jiemian",
     "huxiu"
   ],
-  "fetched_raw_items": 16
+  "fetched_raw_items": 44
 }
