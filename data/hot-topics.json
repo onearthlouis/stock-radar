@@ -1,23 +1,22 @@
 {
-  "generated_at": "2026-04-22T09:47:44.789133Z",
+  "generated_at": "2026-04-22T11:14:25.044289Z",
   "window_hours": 24,
-  "total_items_analyzed": 43,
+  "total_items_analyzed": 42,
   "hot_topics": [
     {
-      "keyword": "人工智能",
-      "category": "板块",
-      "count": 2,
-      "sample_titles": [
-        "广东：推动脑机接口和具身智能等人工智能前沿技术的融合",
-        "广东：开发高能效人工智能芯片和异构计算架构"
-      ]
-    },
-    {
-      "keyword": "芯片",
+      "keyword": "半导体",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "广东：开发高能效人工智能芯片和异构计算架构"
+        "半导体IP，变得炙手可热"
+      ]
+    },
+    {
+      "keyword": "消费",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "德赛电池：拟投不超25亿开展消费电芯业务，项目达产后将形成年产2亿只消费类软包锂离子电芯产能"
       ]
     },
     {
@@ -25,23 +24,31 @@
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "600亿期权锁定Cursor：SpaceX在IPO前下了一手重注"
+        "马斯克百亿锁定Cursor，博的是IPO那1.75万亿"
       ]
     },
     {
-      "keyword": "退市",
+      "keyword": "减持",
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "南京化纤：股票将于4月24日被实施退市风险警示"
+        "雪龙集团：股东贺频艳、贺群艳及宁波联展拟合计减持不超4.00%股份"
       ]
     },
     {
-      "keyword": "港股",
-      "category": "港股",
+      "keyword": "GDP",
+      "category": "宏观",
       "count": 1,
       "sample_titles": [
-        "空港股份：2025年归母净利润亏损1.02亿元，同比亏损扩大"
+        "深圳一季度GDP同比增长5.8%"
+      ]
+    },
+    {
+      "keyword": "通胀",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "告别价格战，大模型共迎通胀时代"
       ]
     }
   ]
