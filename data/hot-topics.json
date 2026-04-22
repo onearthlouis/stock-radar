@@ -1,8 +1,44 @@
 {
-  "generated_at": "2026-04-22T11:14:25.044289Z",
+  "generated_at": "2026-04-22T12:42:04.129036Z",
   "window_hours": 24,
-  "total_items_analyzed": 42,
+  "total_items_analyzed": 44,
   "hot_topics": [
+    {
+      "keyword": "芯片",
+      "category": "板块",
+      "count": 3,
+      "sample_titles": [
+        "谷歌云发布用于人工智能的新型TPU芯片",
+        "地平线发布舱驾融合芯片星空Starry 6P/6H",
+        "永鼎股份：100G EML及硅光高功率芯片具备批量生产能力，启动扩产计划"
+      ]
+    },
+    {
+      "keyword": "人工智能",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "谷歌云发布用于人工智能的新型TPU芯片",
+        "谷歌云推出7.5亿美元基金，助力合作伙伴加速智能体人工智能开发"
+      ]
+    },
+    {
+      "keyword": "IPO",
+      "category": "市场",
+      "count": 2,
+      "sample_titles": [
+        "被「南孚电池」救下的重庆AI独角兽，能否顺利IPO？",
+        "马斯克百亿锁定Cursor，博的是IPO那1.75万亿"
+      ]
+    },
+    {
+      "keyword": "新能源",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "晶核能源与阳光新能源正式达成战略合作"
+      ]
+    },
     {
       "keyword": "半导体",
       "category": "板块",
@@ -12,43 +48,19 @@
       ]
     },
     {
-      "keyword": "消费",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "德赛电池：拟投不超25亿开展消费电芯业务，项目达产后将形成年产2亿只消费类软包锂离子电芯产能"
-      ]
-    },
-    {
-      "keyword": "IPO",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "马斯克百亿锁定Cursor，博的是IPO那1.75万亿"
-      ]
-    },
-    {
-      "keyword": "减持",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "雪龙集团：股东贺频艳、贺群艳及宁波联展拟合计减持不超4.00%股份"
-      ]
-    },
-    {
-      "keyword": "GDP",
-      "category": "宏观",
-      "count": 1,
-      "sample_titles": [
-        "深圳一季度GDP同比增长5.8%"
-      ]
-    },
-    {
       "keyword": "通胀",
       "category": "宏观",
       "count": 1,
       "sample_titles": [
         "告别价格战，大模型共迎通胀时代"
+      ]
+    },
+    {
+      "keyword": "证监会",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "欢瑞世纪：因涉嫌信息披露违法违规被证监会立案"
       ]
     }
   ]
