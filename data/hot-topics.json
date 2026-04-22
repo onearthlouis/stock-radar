@@ -1,57 +1,49 @@
 {
-  "generated_at": "2026-04-22T22:56:22.493271Z",
+  "generated_at": "2026-04-22T23:53:44.773032Z",
   "window_hours": 24,
-  "total_items_analyzed": 45,
+  "total_items_analyzed": 43,
   "hot_topics": [
     {
-      "keyword": "芯片",
-      "category": "板块",
-      "count": 3,
-      "sample_titles": [
-        "谷歌云发布用于人工智能的新型TPU芯片",
-        "地平线发布舱驾融合芯片星空Starry 6P/6H",
-        "永鼎股份：100G EML及硅光高功率芯片具备批量生产能力，启动扩产计划"
-      ]
-    },
-    {
-      "keyword": "人工智能",
+      "keyword": "半导体",
       "category": "板块",
       "count": 2,
       "sample_titles": [
-        "谷歌云发布用于人工智能的新型TPU芯片",
-        "谷歌云推出7.5亿美元基金，助力合作伙伴加速智能体人工智能开发"
+        "中信建投：半导体设备零部件空间广阔，海外限制下国产替代加速推进",
+        "半导体IP，变得炙手可热"
       ]
     },
     {
-      "keyword": "新能源",
+      "keyword": "芯片",
       "category": "板块",
-      "count": 1,
+      "count": 2,
       "sample_titles": [
-        "晶核能源与阳光新能源正式达成战略合作"
-      ]
-    },
-    {
-      "keyword": "涨停",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "价值判断：涨停板的投资机会和风险提示（4月21日）｜证券市场观察"
-      ]
-    },
-    {
-      "keyword": "跌停",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "价值判断：跌停板的投资机会和风险提示（4月21日）｜证券市场观察"
+        "台积电高管称亚利桑那州芯片工厂将于2029年投产",
+        "马斯克宣布Terafab项目将采用英特尔14A芯片技术"
       ]
     },
     {
       "keyword": "IPO",
       "category": "市场",
+      "count": 2,
+      "sample_titles": [
+        "【钛晨报】事关节能降碳工作，中办、国办重磅文件对外发布；腾讯、阿里等科技巨头洽谈投资DeepSeek，估值超过200亿美元；SpaceX放出“IPO重磅炸弹”：公司太空AI技术未经验证，未必能商业化",
+        "被「南孚电池」救下的重庆AI独角兽，能否顺利IPO？"
+      ]
+    },
+    {
+      "keyword": "银行",
+      "category": "板块",
       "count": 1,
       "sample_titles": [
-        "被「南孚电池」救下的重庆AI独角兽，能否顺利IPO？"
+        "向综合化转型打造增长新引擎，上市银行非息收入占比稳步提高"
+      ]
+    },
+    {
+      "keyword": "保险",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "苏黎世保险获股东批准，109亿美元收购Beazley"
       ]
     },
     {
@@ -60,14 +52,6 @@
       "count": 1,
       "sample_titles": [
         "告别价格战，大模型共迎通胀时代"
-      ]
-    },
-    {
-      "keyword": "证监会",
-      "category": "宏观",
-      "count": 1,
-      "sample_titles": [
-        "欢瑞世纪：因涉嫌信息披露违法违规被证监会立案"
       ]
     }
   ]
