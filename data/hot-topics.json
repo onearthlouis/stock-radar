@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-04-22T08:01:00.083747Z",
+  "generated_at": "2026-04-22T09:47:44.789133Z",
   "window_hours": 24,
-  "total_items_analyzed": 47,
+  "total_items_analyzed": 43,
   "hot_topics": [
+    {
+      "keyword": "人工智能",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "广东：推动脑机接口和具身智能等人工智能前沿技术的融合",
+        "广东：开发高能效人工智能芯片和异构计算架构"
+      ]
+    },
     {
       "keyword": "芯片",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "两大芯片巨头，双双重仓中国"
-      ]
-    },
-    {
-      "keyword": "医疗",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "华康医疗：中标1.06亿元下一代异构集成先进封装技术及DDIC项目工程总承包"
+        "广东：开发高能效人工智能芯片和异构计算架构"
       ]
     },
     {
@@ -24,23 +25,23 @@
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "市占率第一，“AI全病程管理”公司冲刺IPO"
+        "600亿期权锁定Cursor：SpaceX在IPO前下了一手重注"
       ]
     },
     {
-      "keyword": "CPI",
-      "category": "宏观",
+      "keyword": "退市",
+      "category": "市场",
       "count": 1,
       "sample_titles": [
-        "英国3月CPI同比上涨3.3%"
+        "南京化纤：股票将于4月24日被实施退市风险警示"
       ]
     },
     {
-      "keyword": "央行",
-      "category": "宏观",
+      "keyword": "港股",
+      "category": "港股",
       "count": 1,
       "sample_titles": [
-        "印尼央行关键利率维持在4.75%"
+        "空港股份：2025年归母净利润亏损1.02亿元，同比亏损扩大"
       ]
     }
   ]
