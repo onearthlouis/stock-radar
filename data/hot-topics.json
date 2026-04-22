@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-04-22T03:26:28.480398Z",
+  "generated_at": "2026-04-22T05:39:55.853878Z",
   "window_hours": 24,
-  "total_items_analyzed": 45,
+  "total_items_analyzed": 46,
   "hot_topics": [
+    {
+      "keyword": "芯片",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "SK海力士将投资19万亿韩元建设新的芯片工厂",
+        "两大芯片巨头，双双重仓中国"
+      ]
+    },
+    {
+      "keyword": "银行",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "消息人士：Anthropic计划很快向欧洲的银行开放Mythos使用权限"
+      ]
+    },
     {
       "keyword": "地产",
       "category": "板块",
@@ -16,7 +33,23 @@
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "清陶能源的IPO生死局：出货量全球第一之下，是每卖1元倒贴1.1元"
+        "市占率第一，“AI全病程管理”公司冲刺IPO"
+      ]
+    },
+    {
+      "keyword": "恒指",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "恒指午间休盘跌1.31%，恒生科技指数跌2.19%"
+      ]
+    },
+    {
+      "keyword": "恒生科技",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "恒指午间休盘跌1.31%，恒生科技指数跌2.19%"
       ]
     }
   ]
