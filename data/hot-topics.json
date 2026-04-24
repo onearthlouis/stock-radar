@@ -1,15 +1,25 @@
 {
-  "generated_at": "2026-04-24T08:33:33.383812Z",
+  "generated_at": "2026-04-24T10:27:58.862297Z",
   "window_hours": 24,
-  "total_items_analyzed": 47,
+  "total_items_analyzed": 49,
   "hot_topics": [
     {
-      "keyword": "消费",
+      "keyword": "IPO",
+      "category": "市场",
+      "count": 4,
+      "sample_titles": [
+        "托伦斯创业板IPO过会",
+        "大搜车美股IPO获中国证监会备案",
+        "IPO前夜，云鲸开始紧急「补课」"
+      ]
+    },
+    {
+      "keyword": "芯片",
       "category": "板块",
       "count": 2,
       "sample_titles": [
-        "歌尔股份：公司MEMS传感器产品在消费电子和汽车电子领域内均有较多应用场景",
-        "财政部：截至上周，消费品以旧换新带动销售额超5400亿元，惠及近7500万人次"
+        "安克创新发布首款存算一体AI芯片Thus™",
+        "马斯克“豪赌”Terafab：不造芯片，就没有未来"
       ]
     },
     {
@@ -17,32 +27,75 @@
       "category": "板块",
       "count": 2,
       "sample_titles": [
-        "歌尔股份：公司MEMS传感器产品在消费电子和汽车电子领域内均有较多应用场景",
-        "天猫与长安汽车达成合作，正式入局整车销售"
+        "长城汽车：第一季度净利润9.45亿元，同比下降46.01%",
+        "“泰国之战”：中国汽车如何攻破日系车后花园？"
       ]
     },
     {
-      "keyword": "石油",
+      "keyword": "退市",
+      "category": "市场",
+      "count": 2,
+      "sample_titles": [
+        "中国高科：触及财务类强制退市情形，4月28日起被实施退市风险警示股票简称变更为“*ST高科”",
+        "东珠生态：预计2025年净亏损9.35亿元-11.35亿元，股票可能被实施退市风险警示"
+      ]
+    },
+    {
+      "keyword": "央行",
+      "category": "宏观",
+      "count": 2,
+      "sample_titles": [
+        "央行：2026年4月27日，将中标方式开展4000亿元MLF操作",
+        "央行等八部门发布金融产品网络营销管理办法"
+      ]
+    },
+    {
+      "keyword": "证监会",
+      "category": "宏观",
+      "count": 2,
+      "sample_titles": [
+        "中国证监会相关派出机构拟对中能粮科境外上市备案违法违规行为作出行政处罚",
+        "大搜车美股IPO获中国证监会备案"
+      ]
+    },
+    {
+      "keyword": "人工智能",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "日本将从5月1日起释放第二批石油储备"
+        "Cohere收购德国人工智能企业Aleph Alpha，加速欧洲业务扩张"
       ]
     },
     {
-      "keyword": "恒指",
-      "category": "港股",
+      "keyword": "机器人",
+      "category": "板块",
       "count": 1,
       "sample_titles": [
-        "恒指收涨0.24%，恒生科技指数涨0.75%"
+        "割草机器人增长63.8%，行业增速拐点逼近下Yarbo能否突出重围？｜出海爆品先知"
       ]
     },
     {
-      "keyword": "恒生科技",
-      "category": "港股",
+      "keyword": "金融",
+      "category": "板块",
       "count": 1,
       "sample_titles": [
-        "恒指收涨0.24%，恒生科技指数涨0.75%"
+        "央行等八部门发布金融产品网络营销管理办法"
+      ]
+    },
+    {
+      "keyword": "银行",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "罕见领涨银行股，贵阳银行“触底”了？"
+      ]
+    },
+    {
+      "keyword": "量子",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "科大讯飞联合清华系团队，如何做一家“AI+量子”公司"
       ]
     }
   ]
