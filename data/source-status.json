@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T13:52:58.542614Z",
+  "generated_at": "2026-04-24T15:13:57.159524Z",
   "sites": [
     {
       "site_id": "wallstreetcn",
@@ -9,8 +9,15 @@
       "error": "404 Client Error: Not Found for url: https://wallstreetcn.com/rss"
     },
     {
-      "site_id": "eastmoney",
-      "site_name": "东方财富",
+      "site_id": "sina_finance",
+      "site_name": "新浪财经",
+      "ok": false,
+      "item_count": 0,
+      "error": "404 Client Error: Not Found for url: https://rss.sina.com.cn/news/fin_roll/01.xml"
+    },
+    {
+      "site_id": "cls",
+      "site_name": "财联社",
       "ok": true,
       "item_count": 0
     },
@@ -22,13 +29,6 @@
       "error": "404 Client Error: Not Found for url: https://www.stcn.com/rss/index.xml"
     },
     {
-      "site_id": "jiemian",
-      "site_name": "界面新闻",
-      "ok": false,
-      "item_count": 0,
-      "error": "404 Client Error: Not Found for url: https://www.jiemian.com/rss/index.xml"
-    },
-    {
       "site_id": "cs",
       "site_name": "中国证券报",
       "ok": false,
@@ -36,23 +36,23 @@
       "error": "404 Client Error: Not Found for url: https://www.cs.com.cn/rss/rss.xml"
     },
     {
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "ok": true,
-      "item_count": 30
+      "site_id": "jiemian",
+      "site_name": "界面新闻",
+      "ok": false,
+      "item_count": 0,
+      "error": "404 Client Error: Not Found for url: https://www.jiemian.com/rss/index.xml"
     },
     {
-      "site_id": "cls",
-      "site_name": "财联社",
+      "site_id": "eastmoney",
+      "site_name": "东方财富",
       "ok": true,
       "item_count": 0
     },
     {
-      "site_id": "sina_finance",
-      "site_name": "新浪财经",
-      "ok": false,
-      "item_count": 0,
-      "error": "404 Client Error: Not Found for url: https://rss.sina.com.cn/news/fin_roll/01.xml"
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "ok": true,
+      "item_count": 30
     },
     {
       "site_id": "tmtpost",
@@ -71,10 +71,10 @@
   "successful_sites": 4,
   "failed_sites": [
     "wallstreetcn",
-    "stcn",
-    "jiemian",
-    "cs",
     "sina_finance",
+    "stcn",
+    "cs",
+    "jiemian",
     "huxiu"
   ],
   "fetched_raw_items": 48
