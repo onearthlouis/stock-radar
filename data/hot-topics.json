@@ -1,34 +1,22 @@
 {
-  "generated_at": "2026-04-24T11:43:38.546588Z",
+  "generated_at": "2026-04-24T13:54:22.298797Z",
   "window_hours": 24,
-  "total_items_analyzed": 50,
+  "total_items_analyzed": 48,
   "hot_topics": [
     {
-      "keyword": "证监会",
-      "category": "宏观",
-      "count": 3,
-      "sample_titles": [
-        "神马股份：因涉嫌信息披露违法违规被证监会立案",
-        "黑芝麻：公司及董事长韦清文因涉嫌信披违规被证监会立案",
-        "证监会：要求上市公司建立董事会秘书履职定期评价及责任追究机制，严格采取监管措施或者实施处罚"
-      ]
-    },
-    {
-      "keyword": "汽车",
+      "keyword": "芯片",
       "category": "板块",
-      "count": 2,
+      "count": 1,
       "sample_titles": [
-        "三菱电机考虑与鸿海建立联盟，联合运营汽车设备业务",
-        "深蓝汽车L06系列新品上市"
+        "Meta与亚马逊达成数十亿美元合作，采用其CPU芯片支撑人工智能业务"
       ]
     },
     {
-      "keyword": "减持",
-      "category": "市场",
-      "count": 2,
+      "keyword": "人工智能",
+      "category": "板块",
+      "count": 1,
       "sample_titles": [
-        "智微智能：控股股东、实际控制人郭旭辉4月24日减持451.12万股",
-        "剑桥科技：董事及高管拟合计减持不超5.1万股"
+        "Meta与亚马逊达成数十亿美元合作，采用其CPU芯片支撑人工智能业务"
       ]
     },
     {
@@ -64,6 +52,14 @@
       ]
     },
     {
+      "keyword": "汽车",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "热门中概股美股盘前多数上涨，理想汽车跌近4%"
+      ]
+    },
+    {
       "keyword": "量子",
       "category": "板块",
       "count": 1,
@@ -80,11 +76,19 @@
       ]
     },
     {
+      "keyword": "减持",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "鹏鼎控股：控股股东及一致行动人拟合计减持不超1.73%股份"
+      ]
+    },
+    {
       "keyword": "回购",
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "赛力斯：首次回购股份55.06万股，耗资约4997万元"
+        "找钢网集团以4000万港币回购"
       ]
     },
     {
