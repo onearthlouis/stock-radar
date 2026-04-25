@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T05:53:06.895865Z",
+  "generated_at": "2026-04-25T07:40:11.267397Z",
   "window_hours": 24,
   "total_items_analyzed": 45,
   "hot_topics": [
@@ -13,12 +13,20 @@
       ]
     },
     {
-      "keyword": "IPO",
-      "category": "市场",
+      "keyword": "汽车",
+      "category": "板块",
       "count": 2,
       "sample_titles": [
-        "超聚变完成A股IPO辅导",
-        "数据中心提供商Csquare秘密提交美国IPO申请"
+        "越南延长电动汽车特别消费税优惠政策",
+        "市场消息：日产汽车已完成旗下电动汽车全固态电池组原型机的性能指标考核"
+      ]
+    },
+    {
+      "keyword": "消费",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "越南延长电动汽车特别消费税优惠政策"
       ]
     },
     {
@@ -30,11 +38,11 @@
       ]
     },
     {
-      "keyword": "汽车",
-      "category": "板块",
+      "keyword": "IPO",
+      "category": "市场",
       "count": 1,
       "sample_titles": [
-        "市场消息：日产汽车已完成旗下电动汽车全固态电池组原型机的性能指标考核"
+        "超聚变完成A股IPO辅导"
       ]
     },
     {
