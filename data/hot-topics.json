@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-04-25T03:41:53.213569Z",
+  "generated_at": "2026-04-25T05:53:06.895865Z",
   "window_hours": 24,
-  "total_items_analyzed": 30,
+  "total_items_analyzed": 45,
   "hot_topics": [
+    {
+      "keyword": "金融",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "潘功胜：持续整治金融机构“内卷式”竞争，高质量统筹做好金融“五篇大文章”",
+        "氪星晚报｜美团万亿级参数大模型开放测试，训练全程由国产算力集群完成；百度联盟正式发布海外App业务；央行等八部门发布金融产品网络营销管理办法"
+      ]
+    },
     {
       "keyword": "IPO",
       "category": "市场",
@@ -10,30 +19,6 @@
       "sample_titles": [
         "超聚变完成A股IPO辅导",
         "数据中心提供商Csquare秘密提交美国IPO申请"
-      ]
-    },
-    {
-      "keyword": "芯片",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "Meta与亚马逊达成数十亿美元合作，采用其CPU芯片支撑人工智能业务"
-      ]
-    },
-    {
-      "keyword": "人工智能",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "Meta与亚马逊达成数十亿美元合作，采用其CPU芯片支撑人工智能业务"
-      ]
-    },
-    {
-      "keyword": "金融",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "氪星晚报｜美团万亿级参数大模型开放测试，训练全程由国产算力集群完成；百度联盟正式发布海外App业务；央行等八部门发布金融产品网络营销管理办法"
       ]
     },
     {
@@ -49,7 +34,15 @@
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "热门中概股美股盘前多数上涨，理想汽车跌近4%"
+        "市场消息：日产汽车已完成旗下电动汽车全固态电池组原型机的性能指标考核"
+      ]
+    },
+    {
+      "keyword": "减持",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "阿塞拜疆主权财富基金第一季度抛售约22吨黄金，十多年来首次减持"
       ]
     },
     {
