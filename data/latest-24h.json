@@ -1,25 +1,181 @@
 {
-  "generated_at": "2026-04-25T07:38:46.452320Z",
+  "generated_at": "2026-04-25T09:01:47.359500Z",
   "window_hours": 24,
-  "total_items": 45,
-  "total_items_raw": 45,
-  "total_items_all_mode": 45,
-  "archive_total": 1187,
+  "total_items": 42,
+  "total_items_raw": 42,
+  "total_items_all_mode": 42,
+  "archive_total": 1192,
   "site_count": 2,
-  "source_count": 6,
+  "source_count": 4,
   "site_stats": [
     {
       "site_id": "36kr",
       "site_name": "36氪",
-      "count": 27
+      "count": 26
     },
     {
       "site_id": "tmtpost",
       "site_name": "钛媒体",
-      "count": 18
+      "count": 16
     }
   ],
   "items": [
+    {
+      "uid": "60a169b8ffc30d1b",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "巨星农牧：一季度公司的商品肥猪完全成本约为6.35元/斤",
+      "url": "https://36kr.com/newsflashes/3782000516635648?f=rss",
+      "published_at": "2026-04-25T08:49:52Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
+      "meta": {}
+    },
+    {
+      "uid": "0c40da969163b06d",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "钛媒体",
+      "title": "字节养的“虾”与1500亿账本背后",
+      "url": "https://www.tmtpost.com/7967099.html",
+      "published_at": "2026-04-25T08:33:16Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
+      "meta": {}
+    },
+    {
+      "uid": "2ade76670aba1715",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "钛媒体",
+      "title": "最激进的“AI先锋”多邻国，已经放过员工了",
+      "url": "https://www.tmtpost.com/7967030.html",
+      "published_at": "2026-04-25T08:20:13Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
+      "meta": {}
+    },
+    {
+      "uid": "669667467d7b44f2",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "Momenta一年间量产搭载量逾80万台",
+      "url": "https://36kr.com/newsflashes/3781966595234825?f=rss",
+      "published_at": "2026-04-25T08:15:22Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
+      "meta": {}
+    },
+    {
+      "uid": "11fd54bb89777f13",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "钛媒体",
+      "title": "已求证！阿维塔高端定位不变，持续向上",
+      "url": "https://www.tmtpost.com/7967007.html",
+      "published_at": "2026-04-25T08:08:01Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
+      "meta": {}
+    },
+    {
+      "uid": "d54f28b964191fb6",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "钛媒体",
+      "title": "DeepSeek V4的真正价值，不在参数里",
+      "url": "https://www.tmtpost.com/7966576.html",
+      "published_at": "2026-04-25T07:59:33Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
+      "meta": {}
+    },
+    {
+      "uid": "893b8e382df62e46",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "钛媒体",
+      "title": "DeepSeek再放大招，国产大模型坐不住了",
+      "url": "https://www.tmtpost.com/7966592.html",
+      "published_at": "2026-04-25T07:59:31Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
+      "meta": {}
+    },
+    {
+      "uid": "3d0cc4d63a753133",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "钛媒体",
+      "title": "大疆与影石，一场中国硬件的「边界」交锋",
+      "url": "https://www.tmtpost.com/7966626.html",
+      "published_at": "2026-04-25T07:59:24Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
+      "meta": {}
+    },
+    {
+      "uid": "716758d9fbbda632",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "钛媒体",
+      "title": "V4“上桌”，DeepSeek的故事更热血了",
+      "url": "https://www.tmtpost.com/7966641.html",
+      "published_at": "2026-04-25T07:59:20Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
+      "meta": {}
+    },
+    {
+      "uid": "604d1bef99fafc8c",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "钛媒体",
+      "title": "不只DeepSeek，大厂都想“抛弃”英伟达",
+      "url": "https://www.tmtpost.com/7966656.html",
+      "published_at": "2026-04-25T07:59:17Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
+      "meta": {}
+    },
+    {
+      "uid": "ddb01b8e41202272",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "钛媒体",
+      "title": "字节也入局了，世界模型到底是一门怎样的生意？",
+      "url": "https://www.tmtpost.com/7967028.html",
+      "published_at": "2026-04-25T07:59:12Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
+      "meta": {}
+    },
+    {
+      "uid": "ff432e1cf7aaf7fb",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "钛媒体",
+      "title": "看了腾讯的Hy3 preview，我读懂了姚顺雨",
+      "url": "https://www.tmtpost.com/7967029.html",
+      "published_at": "2026-04-25T07:59:09Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
+      "meta": {}
+    },
+    {
+      "uid": "31535616ec8c41a6",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "百度智能云上线DeepSeek-V4",
+      "url": "https://36kr.com/newsflashes/3781942204128513?f=rss",
+      "published_at": "2026-04-25T07:50:33Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
+      "meta": {}
+    },
     {
       "uid": "c72b9e16afd13768",
       "site_id": "36kr",
@@ -28,20 +184,20 @@
       "title": "我国单机容量最大“超级充电宝”3号机组顺利投运",
       "url": "https://36kr.com/newsflashes/3781921407507459?f=rss",
       "published_at": "2026-04-25T07:29:24Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
       "uid": "9e5564a4980e36d7",
       "site_id": "tmtpost",
       "site_name": "钛媒体",
-      "source": "钛媒体",
+      "source": "主编精选文章",
       "title": "谁在假冒开市客？",
       "url": "https://www.tmtpost.com/7966971.html",
       "published_at": "2026-04-25T07:17:50Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -52,8 +208,8 @@
       "title": "越南延长电动汽车特别消费税优惠政策",
       "url": "https://36kr.com/newsflashes/3781899851406339?f=rss",
       "published_at": "2026-04-25T07:07:28Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -64,8 +220,8 @@
       "title": "本田在华研发转向中方主导",
       "url": "https://36kr.com/newsflashes/3781884274318344?f=rss",
       "published_at": "2026-04-25T06:51:37Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -76,8 +232,8 @@
       "title": "【数智周报】  月之暗面新模型Kimi K2.6发布并开源；Deepseek官网公布deepseek-v4接口文档；中国软件产业规模有望突破20万亿元大关；特斯拉中国车机将接入豆包大模型；OpenAI发布ChatGPT Images 2.0生图工具",
       "url": "https://www.tmtpost.com/7967024.html",
       "published_at": "2026-04-25T06:35:23Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -88,8 +244,8 @@
       "title": "下游需求激增，CPU重回AI核心，A股布局公司梳理",
       "url": "https://36kr.com/newsflashes/3781844281007361?f=rss",
       "published_at": "2026-04-25T06:21:51Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -100,8 +256,8 @@
       "title": "五菱与华为乾崑签署深化战略合作协议，华境S 5月8日正式上市",
       "url": "https://36kr.com/newsflashes/3781847846264071?f=rss",
       "published_at": "2026-04-25T06:14:34Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -112,8 +268,8 @@
       "title": "百型智能创始人韩美：Agent成了“销冠”，人类才能更专注策略",
       "url": "https://www.tmtpost.com/7966271.html",
       "published_at": "2026-04-25T06:14:25Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -124,8 +280,8 @@
       "title": "司美格鲁肽专利到期月余未见“国产首证”，多家申报企业称审批因数据保护期“暂缓”",
       "url": "https://36kr.com/newsflashes/3781834150976773?f=rss",
       "published_at": "2026-04-25T06:00:38Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -136,8 +292,8 @@
       "title": "市场消息：日产汽车已完成旗下电动汽车全固态电池组原型机的性能指标考核",
       "url": "https://36kr.com/newsflashes/3781787983813890?f=rss",
       "published_at": "2026-04-25T05:40:36Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -148,8 +304,8 @@
       "title": "亚洲首个盐穴储氢工程投产运行",
       "url": "https://36kr.com/newsflashes/3781785011412226?f=rss",
       "published_at": "2026-04-25T05:10:39Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -160,8 +316,8 @@
       "title": "首个全国产控制系统水光互补项目今天投运",
       "url": "https://36kr.com/newsflashes/3781761309400068?f=rss",
       "published_at": "2026-04-25T04:46:32Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -172,8 +328,8 @@
       "title": "天猫618推家电\"送装一体\"，覆盖全国95%区域",
       "url": "https://36kr.com/newsflashes/3781735819222022?f=rss",
       "published_at": "2026-04-25T04:33:31Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -184,8 +340,8 @@
       "title": "潘功胜：持续整治金融机构“内卷式”竞争，高质量统筹做好金融“五篇大文章”",
       "url": "https://36kr.com/newsflashes/3781734984473856?f=rss",
       "published_at": "2026-04-25T04:19:45Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -196,8 +352,8 @@
       "title": "美图立方视觉艺术中心开工，预计2028年投入使用",
       "url": "https://36kr.com/newsflashes/3781662685371396?f=rss",
       "published_at": "2026-04-25T04:11:08Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -208,8 +364,8 @@
       "title": "全球变压器超级缺口，激活中国特高压产业机会",
       "url": "https://www.tmtpost.com/7966566.html",
       "published_at": "2026-04-25T03:53:16Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -220,8 +376,8 @@
       "title": "阿塞拜疆主权财富基金第一季度抛售约22吨黄金，十多年来首次减持",
       "url": "https://36kr.com/newsflashes/3781654300450048?f=rss",
       "published_at": "2026-04-25T03:50:34Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -232,8 +388,8 @@
       "title": "smart亮相2026北京车展",
       "url": "https://36kr.com/newsflashes/3781618197453828?f=rss",
       "published_at": "2026-04-25T03:25:52Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -244,8 +400,8 @@
       "title": "“固收+”基金规模突破3万亿元",
       "url": "https://36kr.com/newsflashes/3781603152780293?f=rss",
       "published_at": "2026-04-25T03:20:33Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -256,8 +412,8 @@
       "title": "中国进出口银行一季度投放外贸领域贷款超3000亿元",
       "url": "https://36kr.com/newsflashes/3781601726586119?f=rss",
       "published_at": "2026-04-25T02:55:03Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -268,32 +424,8 @@
       "title": "甲骨文密歇根数据中心获160亿美元融资",
       "url": "https://36kr.com/newsflashes/3781600900176901?f=rss",
       "published_at": "2026-04-25T02:44:13Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
-      "meta": {}
-    },
-    {
-      "uid": "6ff5e641bfafc58e",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "本周多只市场热门股接受超百家机构调研",
-      "url": "https://36kr.com/newsflashes/3781599264480520?f=rss",
-      "published_at": "2026-04-25T02:30:35Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
-      "meta": {}
-    },
-    {
-      "uid": "52eb1e8943922018",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "华泰证券：中国方便面企业出海有望迎来新机遇",
-      "url": "https://36kr.com/newsflashes/3781578196360198?f=rss",
-      "published_at": "2026-04-25T02:22:09Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -304,8 +436,8 @@
       "title": "2026北京车展：从七大黑科技看全球最大车展",
       "url": "https://www.tmtpost.com/7966574.html",
       "published_at": "2026-04-25T02:16:06Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -316,104 +448,8 @@
       "title": "DeepSeek V4、GPT5.5会师：通向AGI的门票只有Coding？",
       "url": "https://www.tmtpost.com/7966538.html",
       "published_at": "2026-04-25T02:16:02Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
-      "meta": {}
-    },
-    {
-      "uid": "1b65928a58eaf7c9",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "超聚变完成A股IPO辅导",
-      "url": "https://36kr.com/newsflashes/3781599814589702?f=rss",
-      "published_at": "2026-04-25T02:02:15Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
-      "meta": {}
-    },
-    {
-      "uid": "3e7e94e11a33d52b",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "抖音本地生活“断舍离”",
-      "url": "https://www.tmtpost.com/7966611.html",
-      "published_at": "2026-04-25T01:54:23Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
-      "meta": {}
-    },
-    {
-      "uid": "e847d3cd1a0ca5af",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "DeepSeek-V4发布，黄仁勋的担忧成真了",
-      "url": "https://www.tmtpost.com/7966555.html",
-      "published_at": "2026-04-25T01:47:53Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
-      "meta": {}
-    },
-    {
-      "uid": "8ad60990fc84129b",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "GPT-5.5实测：更聪明，也更爱“说谎”",
-      "url": "https://www.tmtpost.com/7966667.html",
-      "published_at": "2026-04-25T01:47:50Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
-      "meta": {}
-    },
-    {
-      "uid": "b04563fa3c672fe2",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "月暗与DeepSeek的“听牌”时刻",
-      "url": "https://www.tmtpost.com/7966608.html",
-      "published_at": "2026-04-25T01:47:46Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
-      "meta": {}
-    },
-    {
-      "uid": "016782db836a85ab",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "DeepSeek不想只做大模型了",
-      "url": "https://www.tmtpost.com/7966836.html",
-      "published_at": "2026-04-25T01:31:13Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
-      "meta": {}
-    },
-    {
-      "uid": "50fda97c8dc2dafb",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "腾讯大模型重回牌桌了吗？",
-      "url": "https://www.tmtpost.com/7966804.html",
-      "published_at": "2026-04-25T01:31:11Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
-      "meta": {}
-    },
-    {
-      "uid": "901bcf3eba84d86a",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "AI打倒了英特尔，AI又救了英特尔",
-      "url": "https://www.tmtpost.com/7966888.html",
-      "published_at": "2026-04-25T01:22:26Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -424,8 +460,8 @@
       "title": "36氪首发 | 核心团队来自微软，获近亿投资，要打通AI进厂最后一公里",
       "url": "https://36kr.com/p/3781548853533959?f=rss",
       "published_at": "2026-04-25T01:10:38Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -436,32 +472,8 @@
       "title": "9点1氪丨马斯克花4000多亿买下00后公司；世界杯决赛门票转手价近230万美元",
       "url": "https://36kr.com/p/3781532841581576?f=rss",
       "published_at": "2026-04-25T01:01:05Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
-      "meta": {}
-    },
-    {
-      "uid": "5fb70e2413c10201",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "主编精选文章",
-      "title": "南大最新研究：年化40%的骗局面前，AI比人类更清醒",
-      "url": "https://www.tmtpost.com/7964880.html",
-      "published_at": "2026-04-25T00:49:56Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
-      "meta": {}
-    },
-    {
-      "uid": "d6b2e917b98d268f",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "AGI",
-      "title": "Edge AI Daily 早报（4月25日）",
-      "url": "https://www.tmtpost.com/7966852.html",
-      "published_at": "2026-04-25T00:39:10Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -472,32 +484,8 @@
       "title": "低头是日常，抬头是阅读",
       "url": "https://36kr.com/p/3780986341153798?f=rss",
       "published_at": "2026-04-24T15:38:53Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
-      "meta": {}
-    },
-    {
-      "uid": "8190a964541abc28",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "独家对话帕西尼许晋诚：一颗199的触觉传感器如何撑起百亿估值",
-      "url": "https://www.tmtpost.com/7966743.html",
-      "published_at": "2026-04-24T15:27:38Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
-      "meta": {}
-    },
-    {
-      "uid": "6b0e01f8edf721a7",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "上市即变脸，并购再“续命”：北方长龙4亿\"接盘\"顺义科技，押注智能检测",
-      "url": "https://www.tmtpost.com/7966754.html",
-      "published_at": "2026-04-24T14:59:50Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -508,8 +496,8 @@
       "title": "最前线｜AI+激光通信，中科天塔要用「太空智驾」体系实现卫星管理模式的三级跨越",
       "url": "https://36kr.com/p/3780910411193602?f=rss",
       "published_at": "2026-04-24T14:21:58Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -520,20 +508,8 @@
       "title": "氪星晚报｜美团万亿级参数大模型开放测试，训练全程由国产算力集群完成；百度联盟正式发布海外App业务；央行等八部门发布金融产品网络营销管理办法",
       "url": "https://36kr.com/p/3777694346548482?f=rss",
       "published_at": "2026-04-24T11:32:16Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
-      "meta": {}
-    },
-    {
-      "uid": "a5829f562680b3c2",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "投稿",
-      "title": "美股燃气轮机龙头订单爆满，中国厂商有哪些机会",
-      "url": "https://www.tmtpost.com/7966472.html",
-      "published_at": "2026-04-24T11:07:38Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -544,25 +520,169 @@
       "title": "科氪|高配不溢价，20万内首选！国民好车2.0深蓝L06增程版折后价低至127155元起",
       "url": "https://36kr.com/p/3780654186535941?f=rss",
       "published_at": "2026-04-24T10:09:31Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
-      "meta": {}
-    },
-    {
-      "uid": "3ade3da7dcf580f4",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "最前线｜AI收入破亿后的路径选择：微盟推行AI First战略与B端交付的挑战",
-      "url": "https://36kr.com/p/3780556402531330?f=rss",
-      "published_at": "2026-04-24T08:21:20Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     }
   ],
   "items_all": [
     {
+      "uid": "60a169b8ffc30d1b",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "巨星农牧：一季度公司的商品肥猪完全成本约为6.35元/斤",
+      "url": "https://36kr.com/newsflashes/3782000516635648?f=rss",
+      "published_at": "2026-04-25T08:49:52Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
+      "meta": {}
+    },
+    {
+      "uid": "0c40da969163b06d",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "钛媒体",
+      "title": "字节养的“虾”与1500亿账本背后",
+      "url": "https://www.tmtpost.com/7967099.html",
+      "published_at": "2026-04-25T08:33:16Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
+      "meta": {}
+    },
+    {
+      "uid": "2ade76670aba1715",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "钛媒体",
+      "title": "最激进的“AI先锋”多邻国，已经放过员工了",
+      "url": "https://www.tmtpost.com/7967030.html",
+      "published_at": "2026-04-25T08:20:13Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
+      "meta": {}
+    },
+    {
+      "uid": "669667467d7b44f2",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "Momenta一年间量产搭载量逾80万台",
+      "url": "https://36kr.com/newsflashes/3781966595234825?f=rss",
+      "published_at": "2026-04-25T08:15:22Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
+      "meta": {}
+    },
+    {
+      "uid": "11fd54bb89777f13",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "钛媒体",
+      "title": "已求证！阿维塔高端定位不变，持续向上",
+      "url": "https://www.tmtpost.com/7967007.html",
+      "published_at": "2026-04-25T08:08:01Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
+      "meta": {}
+    },
+    {
+      "uid": "d54f28b964191fb6",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "钛媒体",
+      "title": "DeepSeek V4的真正价值，不在参数里",
+      "url": "https://www.tmtpost.com/7966576.html",
+      "published_at": "2026-04-25T07:59:33Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
+      "meta": {}
+    },
+    {
+      "uid": "893b8e382df62e46",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "钛媒体",
+      "title": "DeepSeek再放大招，国产大模型坐不住了",
+      "url": "https://www.tmtpost.com/7966592.html",
+      "published_at": "2026-04-25T07:59:31Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
+      "meta": {}
+    },
+    {
+      "uid": "3d0cc4d63a753133",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "钛媒体",
+      "title": "大疆与影石，一场中国硬件的「边界」交锋",
+      "url": "https://www.tmtpost.com/7966626.html",
+      "published_at": "2026-04-25T07:59:24Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
+      "meta": {}
+    },
+    {
+      "uid": "716758d9fbbda632",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "钛媒体",
+      "title": "V4“上桌”，DeepSeek的故事更热血了",
+      "url": "https://www.tmtpost.com/7966641.html",
+      "published_at": "2026-04-25T07:59:20Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
+      "meta": {}
+    },
+    {
+      "uid": "604d1bef99fafc8c",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "钛媒体",
+      "title": "不只DeepSeek，大厂都想“抛弃”英伟达",
+      "url": "https://www.tmtpost.com/7966656.html",
+      "published_at": "2026-04-25T07:59:17Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
+      "meta": {}
+    },
+    {
+      "uid": "ddb01b8e41202272",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "钛媒体",
+      "title": "字节也入局了，世界模型到底是一门怎样的生意？",
+      "url": "https://www.tmtpost.com/7967028.html",
+      "published_at": "2026-04-25T07:59:12Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
+      "meta": {}
+    },
+    {
+      "uid": "ff432e1cf7aaf7fb",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "钛媒体",
+      "title": "看了腾讯的Hy3 preview，我读懂了姚顺雨",
+      "url": "https://www.tmtpost.com/7967029.html",
+      "published_at": "2026-04-25T07:59:09Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
+      "meta": {}
+    },
+    {
+      "uid": "31535616ec8c41a6",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "百度智能云上线DeepSeek-V4",
+      "url": "https://36kr.com/newsflashes/3781942204128513?f=rss",
+      "published_at": "2026-04-25T07:50:33Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
+      "meta": {}
+    },
+    {
       "uid": "c72b9e16afd13768",
       "site_id": "36kr",
       "site_name": "36氪",
@@ -570,20 +690,20 @@
       "title": "我国单机容量最大“超级充电宝”3号机组顺利投运",
       "url": "https://36kr.com/newsflashes/3781921407507459?f=rss",
       "published_at": "2026-04-25T07:29:24Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
       "uid": "9e5564a4980e36d7",
       "site_id": "tmtpost",
       "site_name": "钛媒体",
-      "source": "钛媒体",
+      "source": "主编精选文章",
       "title": "谁在假冒开市客？",
       "url": "https://www.tmtpost.com/7966971.html",
       "published_at": "2026-04-25T07:17:50Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -594,8 +714,8 @@
       "title": "越南延长电动汽车特别消费税优惠政策",
       "url": "https://36kr.com/newsflashes/3781899851406339?f=rss",
       "published_at": "2026-04-25T07:07:28Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -606,8 +726,8 @@
       "title": "本田在华研发转向中方主导",
       "url": "https://36kr.com/newsflashes/3781884274318344?f=rss",
       "published_at": "2026-04-25T06:51:37Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -618,8 +738,8 @@
       "title": "【数智周报】  月之暗面新模型Kimi K2.6发布并开源；Deepseek官网公布deepseek-v4接口文档；中国软件产业规模有望突破20万亿元大关；特斯拉中国车机将接入豆包大模型；OpenAI发布ChatGPT Images 2.0生图工具",
       "url": "https://www.tmtpost.com/7967024.html",
       "published_at": "2026-04-25T06:35:23Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -630,8 +750,8 @@
       "title": "下游需求激增，CPU重回AI核心，A股布局公司梳理",
       "url": "https://36kr.com/newsflashes/3781844281007361?f=rss",
       "published_at": "2026-04-25T06:21:51Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -642,8 +762,8 @@
       "title": "五菱与华为乾崑签署深化战略合作协议，华境S 5月8日正式上市",
       "url": "https://36kr.com/newsflashes/3781847846264071?f=rss",
       "published_at": "2026-04-25T06:14:34Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -654,8 +774,8 @@
       "title": "百型智能创始人韩美：Agent成了“销冠”，人类才能更专注策略",
       "url": "https://www.tmtpost.com/7966271.html",
       "published_at": "2026-04-25T06:14:25Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -666,8 +786,8 @@
       "title": "司美格鲁肽专利到期月余未见“国产首证”，多家申报企业称审批因数据保护期“暂缓”",
       "url": "https://36kr.com/newsflashes/3781834150976773?f=rss",
       "published_at": "2026-04-25T06:00:38Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -678,8 +798,8 @@
       "title": "市场消息：日产汽车已完成旗下电动汽车全固态电池组原型机的性能指标考核",
       "url": "https://36kr.com/newsflashes/3781787983813890?f=rss",
       "published_at": "2026-04-25T05:40:36Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -690,8 +810,8 @@
       "title": "亚洲首个盐穴储氢工程投产运行",
       "url": "https://36kr.com/newsflashes/3781785011412226?f=rss",
       "published_at": "2026-04-25T05:10:39Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -702,8 +822,8 @@
       "title": "首个全国产控制系统水光互补项目今天投运",
       "url": "https://36kr.com/newsflashes/3781761309400068?f=rss",
       "published_at": "2026-04-25T04:46:32Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -714,8 +834,8 @@
       "title": "天猫618推家电\"送装一体\"，覆盖全国95%区域",
       "url": "https://36kr.com/newsflashes/3781735819222022?f=rss",
       "published_at": "2026-04-25T04:33:31Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -726,8 +846,8 @@
       "title": "潘功胜：持续整治金融机构“内卷式”竞争，高质量统筹做好金融“五篇大文章”",
       "url": "https://36kr.com/newsflashes/3781734984473856?f=rss",
       "published_at": "2026-04-25T04:19:45Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -738,8 +858,8 @@
       "title": "美图立方视觉艺术中心开工，预计2028年投入使用",
       "url": "https://36kr.com/newsflashes/3781662685371396?f=rss",
       "published_at": "2026-04-25T04:11:08Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -750,8 +870,8 @@
       "title": "全球变压器超级缺口，激活中国特高压产业机会",
       "url": "https://www.tmtpost.com/7966566.html",
       "published_at": "2026-04-25T03:53:16Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -762,8 +882,8 @@
       "title": "阿塞拜疆主权财富基金第一季度抛售约22吨黄金，十多年来首次减持",
       "url": "https://36kr.com/newsflashes/3781654300450048?f=rss",
       "published_at": "2026-04-25T03:50:34Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -774,8 +894,8 @@
       "title": "smart亮相2026北京车展",
       "url": "https://36kr.com/newsflashes/3781618197453828?f=rss",
       "published_at": "2026-04-25T03:25:52Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -786,8 +906,8 @@
       "title": "“固收+”基金规模突破3万亿元",
       "url": "https://36kr.com/newsflashes/3781603152780293?f=rss",
       "published_at": "2026-04-25T03:20:33Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -798,8 +918,8 @@
       "title": "中国进出口银行一季度投放外贸领域贷款超3000亿元",
       "url": "https://36kr.com/newsflashes/3781601726586119?f=rss",
       "published_at": "2026-04-25T02:55:03Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -810,32 +930,8 @@
       "title": "甲骨文密歇根数据中心获160亿美元融资",
       "url": "https://36kr.com/newsflashes/3781600900176901?f=rss",
       "published_at": "2026-04-25T02:44:13Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
-      "meta": {}
-    },
-    {
-      "uid": "6ff5e641bfafc58e",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "本周多只市场热门股接受超百家机构调研",
-      "url": "https://36kr.com/newsflashes/3781599264480520?f=rss",
-      "published_at": "2026-04-25T02:30:35Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
-      "meta": {}
-    },
-    {
-      "uid": "52eb1e8943922018",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "华泰证券：中国方便面企业出海有望迎来新机遇",
-      "url": "https://36kr.com/newsflashes/3781578196360198?f=rss",
-      "published_at": "2026-04-25T02:22:09Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -846,8 +942,8 @@
       "title": "2026北京车展：从七大黑科技看全球最大车展",
       "url": "https://www.tmtpost.com/7966574.html",
       "published_at": "2026-04-25T02:16:06Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -858,104 +954,8 @@
       "title": "DeepSeek V4、GPT5.5会师：通向AGI的门票只有Coding？",
       "url": "https://www.tmtpost.com/7966538.html",
       "published_at": "2026-04-25T02:16:02Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
-      "meta": {}
-    },
-    {
-      "uid": "1b65928a58eaf7c9",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "超聚变完成A股IPO辅导",
-      "url": "https://36kr.com/newsflashes/3781599814589702?f=rss",
-      "published_at": "2026-04-25T02:02:15Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
-      "meta": {}
-    },
-    {
-      "uid": "3e7e94e11a33d52b",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "抖音本地生活“断舍离”",
-      "url": "https://www.tmtpost.com/7966611.html",
-      "published_at": "2026-04-25T01:54:23Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
-      "meta": {}
-    },
-    {
-      "uid": "e847d3cd1a0ca5af",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "DeepSeek-V4发布，黄仁勋的担忧成真了",
-      "url": "https://www.tmtpost.com/7966555.html",
-      "published_at": "2026-04-25T01:47:53Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
-      "meta": {}
-    },
-    {
-      "uid": "8ad60990fc84129b",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "GPT-5.5实测：更聪明，也更爱“说谎”",
-      "url": "https://www.tmtpost.com/7966667.html",
-      "published_at": "2026-04-25T01:47:50Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
-      "meta": {}
-    },
-    {
-      "uid": "b04563fa3c672fe2",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "月暗与DeepSeek的“听牌”时刻",
-      "url": "https://www.tmtpost.com/7966608.html",
-      "published_at": "2026-04-25T01:47:46Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
-      "meta": {}
-    },
-    {
-      "uid": "016782db836a85ab",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "DeepSeek不想只做大模型了",
-      "url": "https://www.tmtpost.com/7966836.html",
-      "published_at": "2026-04-25T01:31:13Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
-      "meta": {}
-    },
-    {
-      "uid": "50fda97c8dc2dafb",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "腾讯大模型重回牌桌了吗？",
-      "url": "https://www.tmtpost.com/7966804.html",
-      "published_at": "2026-04-25T01:31:11Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
-      "meta": {}
-    },
-    {
-      "uid": "901bcf3eba84d86a",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "AI打倒了英特尔，AI又救了英特尔",
-      "url": "https://www.tmtpost.com/7966888.html",
-      "published_at": "2026-04-25T01:22:26Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -966,8 +966,8 @@
       "title": "36氪首发 | 核心团队来自微软，获近亿投资，要打通AI进厂最后一公里",
       "url": "https://36kr.com/p/3781548853533959?f=rss",
       "published_at": "2026-04-25T01:10:38Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -978,32 +978,8 @@
       "title": "9点1氪丨马斯克花4000多亿买下00后公司；世界杯决赛门票转手价近230万美元",
       "url": "https://36kr.com/p/3781532841581576?f=rss",
       "published_at": "2026-04-25T01:01:05Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
-      "meta": {}
-    },
-    {
-      "uid": "5fb70e2413c10201",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "主编精选文章",
-      "title": "南大最新研究：年化40%的骗局面前，AI比人类更清醒",
-      "url": "https://www.tmtpost.com/7964880.html",
-      "published_at": "2026-04-25T00:49:56Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
-      "meta": {}
-    },
-    {
-      "uid": "d6b2e917b98d268f",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "AGI",
-      "title": "Edge AI Daily 早报（4月25日）",
-      "url": "https://www.tmtpost.com/7966852.html",
-      "published_at": "2026-04-25T00:39:10Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -1014,32 +990,8 @@
       "title": "低头是日常，抬头是阅读",
       "url": "https://36kr.com/p/3780986341153798?f=rss",
       "published_at": "2026-04-24T15:38:53Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
-      "meta": {}
-    },
-    {
-      "uid": "8190a964541abc28",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "独家对话帕西尼许晋诚：一颗199的触觉传感器如何撑起百亿估值",
-      "url": "https://www.tmtpost.com/7966743.html",
-      "published_at": "2026-04-24T15:27:38Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
-      "meta": {}
-    },
-    {
-      "uid": "6b0e01f8edf721a7",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "上市即变脸，并购再“续命”：北方长龙4亿\"接盘\"顺义科技，押注智能检测",
-      "url": "https://www.tmtpost.com/7966754.html",
-      "published_at": "2026-04-24T14:59:50Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -1050,8 +1002,8 @@
       "title": "最前线｜AI+激光通信，中科天塔要用「太空智驾」体系实现卫星管理模式的三级跨越",
       "url": "https://36kr.com/p/3780910411193602?f=rss",
       "published_at": "2026-04-24T14:21:58Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -1062,20 +1014,8 @@
       "title": "氪星晚报｜美团万亿级参数大模型开放测试，训练全程由国产算力集群完成；百度联盟正式发布海外App业务；央行等八部门发布金融产品网络营销管理办法",
       "url": "https://36kr.com/p/3777694346548482?f=rss",
       "published_at": "2026-04-24T11:32:16Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
-      "meta": {}
-    },
-    {
-      "uid": "a5829f562680b3c2",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "投稿",
-      "title": "美股燃气轮机龙头订单爆满，中国厂商有哪些机会",
-      "url": "https://www.tmtpost.com/7966472.html",
-      "published_at": "2026-04-24T11:07:38Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -1086,25 +1026,169 @@
       "title": "科氪|高配不溢价，20万内首选！国民好车2.0深蓝L06增程版折后价低至127155元起",
       "url": "https://36kr.com/p/3780654186535941?f=rss",
       "published_at": "2026-04-24T10:09:31Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
-      "meta": {}
-    },
-    {
-      "uid": "3ade3da7dcf580f4",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "最前线｜AI收入破亿后的路径选择：微盟推行AI First战略与B端交付的挑战",
-      "url": "https://36kr.com/p/3780556402531330?f=rss",
-      "published_at": "2026-04-24T08:21:20Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     }
   ],
   "items_all_raw": [
     {
+      "uid": "60a169b8ffc30d1b",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "巨星农牧：一季度公司的商品肥猪完全成本约为6.35元/斤",
+      "url": "https://36kr.com/newsflashes/3782000516635648?f=rss",
+      "published_at": "2026-04-25T08:49:52Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
+      "meta": {}
+    },
+    {
+      "uid": "0c40da969163b06d",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "钛媒体",
+      "title": "字节养的“虾”与1500亿账本背后",
+      "url": "https://www.tmtpost.com/7967099.html",
+      "published_at": "2026-04-25T08:33:16Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
+      "meta": {}
+    },
+    {
+      "uid": "2ade76670aba1715",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "钛媒体",
+      "title": "最激进的“AI先锋”多邻国，已经放过员工了",
+      "url": "https://www.tmtpost.com/7967030.html",
+      "published_at": "2026-04-25T08:20:13Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
+      "meta": {}
+    },
+    {
+      "uid": "669667467d7b44f2",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "Momenta一年间量产搭载量逾80万台",
+      "url": "https://36kr.com/newsflashes/3781966595234825?f=rss",
+      "published_at": "2026-04-25T08:15:22Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
+      "meta": {}
+    },
+    {
+      "uid": "11fd54bb89777f13",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "钛媒体",
+      "title": "已求证！阿维塔高端定位不变，持续向上",
+      "url": "https://www.tmtpost.com/7967007.html",
+      "published_at": "2026-04-25T08:08:01Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
+      "meta": {}
+    },
+    {
+      "uid": "d54f28b964191fb6",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "钛媒体",
+      "title": "DeepSeek V4的真正价值，不在参数里",
+      "url": "https://www.tmtpost.com/7966576.html",
+      "published_at": "2026-04-25T07:59:33Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
+      "meta": {}
+    },
+    {
+      "uid": "893b8e382df62e46",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "钛媒体",
+      "title": "DeepSeek再放大招，国产大模型坐不住了",
+      "url": "https://www.tmtpost.com/7966592.html",
+      "published_at": "2026-04-25T07:59:31Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
+      "meta": {}
+    },
+    {
+      "uid": "3d0cc4d63a753133",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "钛媒体",
+      "title": "大疆与影石，一场中国硬件的「边界」交锋",
+      "url": "https://www.tmtpost.com/7966626.html",
+      "published_at": "2026-04-25T07:59:24Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
+      "meta": {}
+    },
+    {
+      "uid": "716758d9fbbda632",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "钛媒体",
+      "title": "V4“上桌”，DeepSeek的故事更热血了",
+      "url": "https://www.tmtpost.com/7966641.html",
+      "published_at": "2026-04-25T07:59:20Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
+      "meta": {}
+    },
+    {
+      "uid": "604d1bef99fafc8c",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "钛媒体",
+      "title": "不只DeepSeek，大厂都想“抛弃”英伟达",
+      "url": "https://www.tmtpost.com/7966656.html",
+      "published_at": "2026-04-25T07:59:17Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
+      "meta": {}
+    },
+    {
+      "uid": "ddb01b8e41202272",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "钛媒体",
+      "title": "字节也入局了，世界模型到底是一门怎样的生意？",
+      "url": "https://www.tmtpost.com/7967028.html",
+      "published_at": "2026-04-25T07:59:12Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
+      "meta": {}
+    },
+    {
+      "uid": "ff432e1cf7aaf7fb",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "钛媒体",
+      "title": "看了腾讯的Hy3 preview，我读懂了姚顺雨",
+      "url": "https://www.tmtpost.com/7967029.html",
+      "published_at": "2026-04-25T07:59:09Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
+      "meta": {}
+    },
+    {
+      "uid": "31535616ec8c41a6",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "百度智能云上线DeepSeek-V4",
+      "url": "https://36kr.com/newsflashes/3781942204128513?f=rss",
+      "published_at": "2026-04-25T07:50:33Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
+      "meta": {}
+    },
+    {
       "uid": "c72b9e16afd13768",
       "site_id": "36kr",
       "site_name": "36氪",
@@ -1112,20 +1196,20 @@
       "title": "我国单机容量最大“超级充电宝”3号机组顺利投运",
       "url": "https://36kr.com/newsflashes/3781921407507459?f=rss",
       "published_at": "2026-04-25T07:29:24Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
       "uid": "9e5564a4980e36d7",
       "site_id": "tmtpost",
       "site_name": "钛媒体",
-      "source": "钛媒体",
+      "source": "主编精选文章",
       "title": "谁在假冒开市客？",
       "url": "https://www.tmtpost.com/7966971.html",
       "published_at": "2026-04-25T07:17:50Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -1136,8 +1220,8 @@
       "title": "越南延长电动汽车特别消费税优惠政策",
       "url": "https://36kr.com/newsflashes/3781899851406339?f=rss",
       "published_at": "2026-04-25T07:07:28Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -1148,8 +1232,8 @@
       "title": "本田在华研发转向中方主导",
       "url": "https://36kr.com/newsflashes/3781884274318344?f=rss",
       "published_at": "2026-04-25T06:51:37Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -1160,8 +1244,8 @@
       "title": "【数智周报】  月之暗面新模型Kimi K2.6发布并开源；Deepseek官网公布deepseek-v4接口文档；中国软件产业规模有望突破20万亿元大关；特斯拉中国车机将接入豆包大模型；OpenAI发布ChatGPT Images 2.0生图工具",
       "url": "https://www.tmtpost.com/7967024.html",
       "published_at": "2026-04-25T06:35:23Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -1172,8 +1256,8 @@
       "title": "下游需求激增，CPU重回AI核心，A股布局公司梳理",
       "url": "https://36kr.com/newsflashes/3781844281007361?f=rss",
       "published_at": "2026-04-25T06:21:51Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -1184,8 +1268,8 @@
       "title": "五菱与华为乾崑签署深化战略合作协议，华境S 5月8日正式上市",
       "url": "https://36kr.com/newsflashes/3781847846264071?f=rss",
       "published_at": "2026-04-25T06:14:34Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -1196,8 +1280,8 @@
       "title": "百型智能创始人韩美：Agent成了“销冠”，人类才能更专注策略",
       "url": "https://www.tmtpost.com/7966271.html",
       "published_at": "2026-04-25T06:14:25Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -1208,8 +1292,8 @@
       "title": "司美格鲁肽专利到期月余未见“国产首证”，多家申报企业称审批因数据保护期“暂缓”",
       "url": "https://36kr.com/newsflashes/3781834150976773?f=rss",
       "published_at": "2026-04-25T06:00:38Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -1220,8 +1304,8 @@
       "title": "市场消息：日产汽车已完成旗下电动汽车全固态电池组原型机的性能指标考核",
       "url": "https://36kr.com/newsflashes/3781787983813890?f=rss",
       "published_at": "2026-04-25T05:40:36Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -1232,8 +1316,8 @@
       "title": "亚洲首个盐穴储氢工程投产运行",
       "url": "https://36kr.com/newsflashes/3781785011412226?f=rss",
       "published_at": "2026-04-25T05:10:39Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -1244,8 +1328,8 @@
       "title": "首个全国产控制系统水光互补项目今天投运",
       "url": "https://36kr.com/newsflashes/3781761309400068?f=rss",
       "published_at": "2026-04-25T04:46:32Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -1256,8 +1340,8 @@
       "title": "天猫618推家电\"送装一体\"，覆盖全国95%区域",
       "url": "https://36kr.com/newsflashes/3781735819222022?f=rss",
       "published_at": "2026-04-25T04:33:31Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -1268,8 +1352,8 @@
       "title": "潘功胜：持续整治金融机构“内卷式”竞争，高质量统筹做好金融“五篇大文章”",
       "url": "https://36kr.com/newsflashes/3781734984473856?f=rss",
       "published_at": "2026-04-25T04:19:45Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -1280,8 +1364,8 @@
       "title": "美图立方视觉艺术中心开工，预计2028年投入使用",
       "url": "https://36kr.com/newsflashes/3781662685371396?f=rss",
       "published_at": "2026-04-25T04:11:08Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -1292,8 +1376,8 @@
       "title": "全球变压器超级缺口，激活中国特高压产业机会",
       "url": "https://www.tmtpost.com/7966566.html",
       "published_at": "2026-04-25T03:53:16Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -1304,8 +1388,8 @@
       "title": "阿塞拜疆主权财富基金第一季度抛售约22吨黄金，十多年来首次减持",
       "url": "https://36kr.com/newsflashes/3781654300450048?f=rss",
       "published_at": "2026-04-25T03:50:34Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -1316,8 +1400,8 @@
       "title": "smart亮相2026北京车展",
       "url": "https://36kr.com/newsflashes/3781618197453828?f=rss",
       "published_at": "2026-04-25T03:25:52Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -1328,8 +1412,8 @@
       "title": "“固收+”基金规模突破3万亿元",
       "url": "https://36kr.com/newsflashes/3781603152780293?f=rss",
       "published_at": "2026-04-25T03:20:33Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -1340,8 +1424,8 @@
       "title": "中国进出口银行一季度投放外贸领域贷款超3000亿元",
       "url": "https://36kr.com/newsflashes/3781601726586119?f=rss",
       "published_at": "2026-04-25T02:55:03Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -1352,32 +1436,8 @@
       "title": "甲骨文密歇根数据中心获160亿美元融资",
       "url": "https://36kr.com/newsflashes/3781600900176901?f=rss",
       "published_at": "2026-04-25T02:44:13Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
-      "meta": {}
-    },
-    {
-      "uid": "6ff5e641bfafc58e",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "本周多只市场热门股接受超百家机构调研",
-      "url": "https://36kr.com/newsflashes/3781599264480520?f=rss",
-      "published_at": "2026-04-25T02:30:35Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
-      "meta": {}
-    },
-    {
-      "uid": "52eb1e8943922018",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "华泰证券：中国方便面企业出海有望迎来新机遇",
-      "url": "https://36kr.com/newsflashes/3781578196360198?f=rss",
-      "published_at": "2026-04-25T02:22:09Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -1388,8 +1448,8 @@
       "title": "2026北京车展：从七大黑科技看全球最大车展",
       "url": "https://www.tmtpost.com/7966574.html",
       "published_at": "2026-04-25T02:16:06Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -1400,104 +1460,8 @@
       "title": "DeepSeek V4、GPT5.5会师：通向AGI的门票只有Coding？",
       "url": "https://www.tmtpost.com/7966538.html",
       "published_at": "2026-04-25T02:16:02Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
-      "meta": {}
-    },
-    {
-      "uid": "1b65928a58eaf7c9",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "超聚变完成A股IPO辅导",
-      "url": "https://36kr.com/newsflashes/3781599814589702?f=rss",
-      "published_at": "2026-04-25T02:02:15Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
-      "meta": {}
-    },
-    {
-      "uid": "3e7e94e11a33d52b",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "抖音本地生活“断舍离”",
-      "url": "https://www.tmtpost.com/7966611.html",
-      "published_at": "2026-04-25T01:54:23Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
-      "meta": {}
-    },
-    {
-      "uid": "e847d3cd1a0ca5af",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "DeepSeek-V4发布，黄仁勋的担忧成真了",
-      "url": "https://www.tmtpost.com/7966555.html",
-      "published_at": "2026-04-25T01:47:53Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
-      "meta": {}
-    },
-    {
-      "uid": "8ad60990fc84129b",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "GPT-5.5实测：更聪明，也更爱“说谎”",
-      "url": "https://www.tmtpost.com/7966667.html",
-      "published_at": "2026-04-25T01:47:50Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
-      "meta": {}
-    },
-    {
-      "uid": "b04563fa3c672fe2",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "月暗与DeepSeek的“听牌”时刻",
-      "url": "https://www.tmtpost.com/7966608.html",
-      "published_at": "2026-04-25T01:47:46Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
-      "meta": {}
-    },
-    {
-      "uid": "016782db836a85ab",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "DeepSeek不想只做大模型了",
-      "url": "https://www.tmtpost.com/7966836.html",
-      "published_at": "2026-04-25T01:31:13Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
-      "meta": {}
-    },
-    {
-      "uid": "50fda97c8dc2dafb",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "腾讯大模型重回牌桌了吗？",
-      "url": "https://www.tmtpost.com/7966804.html",
-      "published_at": "2026-04-25T01:31:11Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
-      "meta": {}
-    },
-    {
-      "uid": "901bcf3eba84d86a",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "AI打倒了英特尔，AI又救了英特尔",
-      "url": "https://www.tmtpost.com/7966888.html",
-      "published_at": "2026-04-25T01:22:26Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -1508,8 +1472,8 @@
       "title": "36氪首发 | 核心团队来自微软，获近亿投资，要打通AI进厂最后一公里",
       "url": "https://36kr.com/p/3781548853533959?f=rss",
       "published_at": "2026-04-25T01:10:38Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -1520,32 +1484,8 @@
       "title": "9点1氪丨马斯克花4000多亿买下00后公司；世界杯决赛门票转手价近230万美元",
       "url": "https://36kr.com/p/3781532841581576?f=rss",
       "published_at": "2026-04-25T01:01:05Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
-      "meta": {}
-    },
-    {
-      "uid": "5fb70e2413c10201",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "主编精选文章",
-      "title": "南大最新研究：年化40%的骗局面前，AI比人类更清醒",
-      "url": "https://www.tmtpost.com/7964880.html",
-      "published_at": "2026-04-25T00:49:56Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
-      "meta": {}
-    },
-    {
-      "uid": "d6b2e917b98d268f",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "AGI",
-      "title": "Edge AI Daily 早报（4月25日）",
-      "url": "https://www.tmtpost.com/7966852.html",
-      "published_at": "2026-04-25T00:39:10Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -1556,32 +1496,8 @@
       "title": "低头是日常，抬头是阅读",
       "url": "https://36kr.com/p/3780986341153798?f=rss",
       "published_at": "2026-04-24T15:38:53Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
-      "meta": {}
-    },
-    {
-      "uid": "8190a964541abc28",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "独家对话帕西尼许晋诚：一颗199的触觉传感器如何撑起百亿估值",
-      "url": "https://www.tmtpost.com/7966743.html",
-      "published_at": "2026-04-24T15:27:38Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
-      "meta": {}
-    },
-    {
-      "uid": "6b0e01f8edf721a7",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "上市即变脸，并购再“续命”：北方长龙4亿\"接盘\"顺义科技，押注智能检测",
-      "url": "https://www.tmtpost.com/7966754.html",
-      "published_at": "2026-04-24T14:59:50Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -1592,8 +1508,8 @@
       "title": "最前线｜AI+激光通信，中科天塔要用「太空智驾」体系实现卫星管理模式的三级跨越",
       "url": "https://36kr.com/p/3780910411193602?f=rss",
       "published_at": "2026-04-24T14:21:58Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -1604,20 +1520,8 @@
       "title": "氪星晚报｜美团万亿级参数大模型开放测试，训练全程由国产算力集群完成；百度联盟正式发布海外App业务；央行等八部门发布金融产品网络营销管理办法",
       "url": "https://36kr.com/p/3777694346548482?f=rss",
       "published_at": "2026-04-24T11:32:16Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
-      "meta": {}
-    },
-    {
-      "uid": "a5829f562680b3c2",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "投稿",
-      "title": "美股燃气轮机龙头订单爆满，中国厂商有哪些机会",
-      "url": "https://www.tmtpost.com/7966472.html",
-      "published_at": "2026-04-24T11:07:38Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     },
     {
@@ -1628,20 +1532,8 @@
       "title": "科氪|高配不溢价，20万内首选！国民好车2.0深蓝L06增程版折后价低至127155元起",
       "url": "https://36kr.com/p/3780654186535941?f=rss",
       "published_at": "2026-04-24T10:09:31Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
-      "meta": {}
-    },
-    {
-      "uid": "3ade3da7dcf580f4",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "最前线｜AI收入破亿后的路径选择：微盟推行AI First战略与B端交付的挑战",
-      "url": "https://36kr.com/p/3780556402531330?f=rss",
-      "published_at": "2026-04-24T08:21:20Z",
-      "first_seen_at": "2026-04-25T07:38:46.452320Z",
-      "last_seen_at": "2026-04-25T07:38:46.452320Z",
+      "first_seen_at": "2026-04-25T09:01:47.359500Z",
+      "last_seen_at": "2026-04-25T09:01:47.359500Z",
       "meta": {}
     }
   ]
