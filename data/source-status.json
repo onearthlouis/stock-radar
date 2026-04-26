@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-04-26T13:20:15.334776Z",
+  "generated_at": "2026-04-26T14:24:00.744752Z",
   "sites": [
     {
       "site_id": "wallstreetcn",
       "site_name": "华尔街见闻",
-      "ok": true,
-      "item_count": 0
+      "ok": false,
+      "item_count": 0,
+      "error": "404 Client Error: Not Found for url: https://wallstreetcn.com/rss"
     },
     {
       "site_id": "cs",
@@ -13,6 +14,12 @@
       "ok": false,
       "item_count": 0,
       "error": "404 Client Error: Not Found for url: https://www.cs.com.cn/rss/rss.xml"
+    },
+    {
+      "site_id": "eastmoney",
+      "site_name": "东方财富",
+      "ok": true,
+      "item_count": 0
     },
     {
       "site_id": "stcn",
@@ -28,10 +35,11 @@
       "item_count": 25
     },
     {
-      "site_id": "cls",
-      "site_name": "财联社",
-      "ok": true,
-      "item_count": 0
+      "site_id": "jiemian",
+      "site_name": "界面新闻",
+      "ok": false,
+      "item_count": 0,
+      "error": "404 Client Error: Not Found for url: https://www.jiemian.com/rss/index.xml"
     },
     {
       "site_id": "sina_finance",
@@ -41,8 +49,8 @@
       "error": "404 Client Error: Not Found for url: https://rss.sina.com.cn/news/fin_roll/01.xml"
     },
     {
-      "site_id": "eastmoney",
-      "site_name": "东方财富",
+      "site_id": "cls",
+      "site_name": "财联社",
       "ok": true,
       "item_count": 0
     },
@@ -53,13 +61,6 @@
       "item_count": 18
     },
     {
-      "site_id": "jiemian",
-      "site_name": "界面新闻",
-      "ok": false,
-      "item_count": 0,
-      "error": "404 Client Error: Not Found for url: https://www.jiemian.com/rss/index.xml"
-    },
-    {
       "site_id": "huxiu",
       "site_name": "虎嗅网",
       "ok": false,
@@ -67,12 +68,13 @@
       "error": "HTTPSConnectionPool(host='www.huxiu.com', port=443): Max retries exceeded with url: /rss/0.xml (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.huxiu.com', port=443): Read timed out. (read timeout=25)\"))"
     }
   ],
-  "successful_sites": 5,
+  "successful_sites": 4,
   "failed_sites": [
+    "wallstreetcn",
     "cs",
     "stcn",
-    "sina_finance",
     "jiemian",
+    "sina_finance",
     "huxiu"
   ],
   "fetched_raw_items": 43
