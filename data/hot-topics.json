@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T11:51:18.083498Z",
+  "generated_at": "2026-04-27T14:12:29.264623Z",
   "window_hours": 24,
   "total_items_analyzed": 45,
   "hot_topics": [
@@ -23,12 +23,19 @@
       ]
     },
     {
-      "keyword": "IPO",
-      "category": "市场",
-      "count": 2,
+      "keyword": "金融",
+      "category": "板块",
+      "count": 1,
       "sample_titles": [
-        "拆解托伦斯116天“闪电IPO”的技术底牌",
-        "思仪科技：供销绑定大股东中国电科，手握16亿现金仍募巨资补流｜IPO观察"
+        "北京银行：科技金融贷款“十四五”期间增长178%"
+      ]
+    },
+    {
+      "keyword": "银行",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "北京银行：科技金融贷款“十四五”期间增长178%"
       ]
     },
     {
@@ -40,11 +47,11 @@
       ]
     },
     {
-      "keyword": "退市",
+      "keyword": "IPO",
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "亿晶光电：股票将被实施退市风险警示 股票停牌"
+        "拆解托伦斯116天“闪电IPO”的技术底牌"
       ]
     },
     {
@@ -53,6 +60,14 @@
       "count": 1,
       "sample_titles": [
         "多国央行集体甩卖黄金"
+      ]
+    },
+    {
+      "keyword": "证监会",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "中坚科技：因涉嫌信披违规被证监会立案"
       ]
     }
   ]
