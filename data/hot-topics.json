@@ -1,13 +1,14 @@
 {
-  "generated_at": "2026-04-28T05:01:25.418446Z",
+  "generated_at": "2026-04-28T07:39:52.640725Z",
   "window_hours": 24,
-  "total_items_analyzed": 47,
+  "total_items_analyzed": 48,
   "hot_topics": [
     {
       "keyword": "机器人",
       "category": "板块",
-      "count": 2,
+      "count": 3,
       "sample_titles": [
+        "瑞士机器人科技企业Mimic Robotics研发通用人形机械手，提升工业自动化水平",
         "36氪首发 | 韩国现代、微光创投押注焊接机器人，营收预计破数亿，拿下船厂数千万订单",
         "未岚大陆第100万台智能割草机器人下线，马来西亚产线已完成、全面启动生产｜最前线"
       ]
@@ -29,19 +30,11 @@
       ]
     },
     {
-      "keyword": "金融",
+      "keyword": "军工",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "半日主力资金加仓非银金融股，抛售通信股"
-      ]
-    },
-    {
-      "keyword": "银行",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "华夏银行：刀刃向内，阵痛未消"
+        "A股三大指数集体收跌，航天军工板块领跌"
       ]
     },
     {
@@ -49,15 +42,15 @@
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "小鹏汽车旗下公司成立鹏禹汽车贸易新公司"
+        "谷歌DeepMind首席执行官访韩，会见现代汽车和LG集团负责人"
       ]
     },
     {
-      "keyword": "涨停",
-      "category": "市场",
+      "keyword": "石油",
+      "category": "板块",
       "count": 1,
       "sample_titles": [
-        "A股三大指数午间收盘集体下跌，药明康德涨停"
+        "英国石油一季度调整后净利润32亿美元，高于预期"
       ]
     },
     {
@@ -69,19 +62,27 @@
       ]
     },
     {
-      "keyword": "恒指",
+      "keyword": "南向资金",
       "category": "港股",
       "count": 1,
       "sample_titles": [
-        "恒指午间休盘跌0.66%，恒生科技指数跌1.23%"
+        "南向资金净买入额达100亿港元"
       ]
     },
     {
-      "keyword": "恒生科技",
-      "category": "港股",
+      "keyword": "通胀",
+      "category": "宏观",
       "count": 1,
       "sample_titles": [
-        "恒指午间休盘跌0.66%，恒生科技指数跌1.23%"
+        "日本央行大幅上调通胀预期"
+      ]
+    },
+    {
+      "keyword": "央行",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "日本央行大幅上调通胀预期"
       ]
     }
   ]
