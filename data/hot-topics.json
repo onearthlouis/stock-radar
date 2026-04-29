@@ -1,24 +1,41 @@
 {
-  "generated_at": "2026-04-29T04:57:47.259057Z",
+  "generated_at": "2026-04-29T07:30:38.183369Z",
   "window_hours": 24,
-  "total_items_analyzed": 47,
+  "total_items_analyzed": 49,
   "hot_topics": [
     {
-      "keyword": "新能源",
+      "keyword": "医疗",
       "category": "板块",
       "count": 2,
       "sample_titles": [
-        "A股三大指数午间休盘集体上涨，新能源产业链大涨",
-        "国轩高科旗下江苏新能源科技公司增资至约26.8亿元"
+        "开立医疗：一季度营业收入4.81亿元，同比增长11.79%",
+        "独家对谈｜缘启智慧CEO邓江，一个80后银行码农出身的AI医疗创业者"
       ]
     },
     {
-      "keyword": "银行",
+      "keyword": "汽车",
       "category": "板块",
       "count": 2,
       "sample_titles": [
-        "半日主力资金加仓电力设备股，抛售银行股",
-        "独家对谈｜缘启智慧CEO邓江，一个80后银行码农出身的AI医疗创业者"
+        "仪表盘显示故障，克莱斯勒在美召回20271辆汽车",
+        "2026北京车展：外资退守，中资进击，中国汽车进入“主场时代”"
+      ]
+    },
+    {
+      "keyword": "涨停",
+      "category": "市场",
+      "count": 2,
+      "sample_titles": [
+        "价值判断：涨停板的投资机会和风险提示（4月28日）｜证券市场观察",
+        "锂电产业链涨势扩大，鹏辉能源等十余股涨停"
+      ]
+    },
+    {
+      "keyword": "芯片",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "国产车规芯片，走入深水区"
       ]
     },
     {
@@ -26,19 +43,11 @@
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "英伟达高管将与三星、SK海力士高管会面，洽谈实体人工智能合作事宜"
+        "高盛称，这8只服务类股票将成为人工智能赢家"
       ]
     },
     {
-      "keyword": "机器人",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "智元新增人形机器人生产订单超万台，具身本体路线还能卷多久？ | 独家"
-      ]
-    },
-    {
-      "keyword": "医疗",
+      "keyword": "银行",
       "category": "板块",
       "count": 1,
       "sample_titles": [
@@ -46,51 +55,35 @@
       ]
     },
     {
-      "keyword": "白酒",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "透过财报看古井贡酒韧性：主动谋变，穿越周期"
-      ]
-    },
-    {
-      "keyword": "保险",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "友邦保险据报聘麦肯锡、美世等顾问公司进行全面业务评估"
-      ]
-    },
-    {
-      "keyword": "汽车",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "吉利汽车：第一季度母公司拥有人应占利润为人民币41.7亿元，同比下降27%"
-      ]
-    },
-    {
-      "keyword": "IPO",
+      "keyword": "跌停",
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "商业卫星公司微纳星空完成IPO辅导验收"
+        "价值判断：跌停板的投资机会和风险提示（4月28日）｜证券市场观察"
       ]
     },
     {
-      "keyword": "恒指",
-      "category": "港股",
+      "keyword": "外资",
+      "category": "市场",
       "count": 1,
       "sample_titles": [
-        "恒指午间休盘涨1.23%，恒生科技指数涨1.07%"
+        "2026北京车展：外资退守，中资进击，中国汽车进入“主场时代”"
       ]
     },
     {
-      "keyword": "恒生科技",
-      "category": "港股",
+      "keyword": "央行",
+      "category": "宏观",
       "count": 1,
       "sample_titles": [
-        "恒指午间休盘涨1.23%，恒生科技指数涨1.07%"
+        "央行北京市分行：一季度北京社会融资规模增量为6488.1亿元"
+      ]
+    },
+    {
+      "keyword": "证监会",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "香港证监会：离岸国债期货准备工作已进入最后阶段，推出时间将适时公布"
       ]
     }
   ]
