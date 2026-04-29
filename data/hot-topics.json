@@ -1,35 +1,23 @@
 {
-  "generated_at": "2026-04-29T11:45:03.295332Z",
+  "generated_at": "2026-04-29T14:18:21.035017Z",
   "window_hours": 24,
   "total_items_analyzed": 46,
   "hot_topics": [
     {
-      "keyword": "银行",
-      "category": "板块",
-      "count": 3,
-      "sample_titles": [
-        "交通银行：一季度净利润261.62亿元，同比增长3.11%",
-        "中国银行：一季度净利润566.31亿元，同比增长4.17%",
-        "农业银行：一季度净利润751.85亿元，同比增长4.52%"
-      ]
-    },
-    {
       "keyword": "IPO",
       "category": "市场",
-      "count": 3,
+      "count": 2,
       "sample_titles": [
-        "徐工集团回应徐工汽车被曝筹划港股IPO",
         "业绩光鲜难掩子业务亏损黑洞，康美特科技三闯资本市场风险暗涌 | IPO观察",
         "拿下“谷歌系”公司6亿美元大单：这家药企成功IPO，市值超120亿"
       ]
     },
     {
-      "keyword": "汽车",
+      "keyword": "人工智能",
       "category": "板块",
-      "count": 2,
+      "count": 1,
       "sample_titles": [
-        "徐工集团回应徐工汽车被曝筹划港股IPO",
-        "智能电动时代，谁“杀死”了汽车的利润？"
+        "谷歌推出可将其他人工智能提供商的人工智能聊天历史记录导入Gemini的工具"
       ]
     },
     {
@@ -41,6 +29,14 @@
       ]
     },
     {
+      "keyword": "汽车",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "智能电动时代，谁“杀死”了汽车的利润？"
+      ]
+    },
+    {
       "keyword": "量子",
       "category": "板块",
       "count": 1,
@@ -49,11 +45,11 @@
       ]
     },
     {
-      "keyword": "港股",
-      "category": "港股",
+      "keyword": "减持",
+      "category": "市场",
       "count": 1,
       "sample_titles": [
-        "徐工集团回应徐工汽车被曝筹划港股IPO"
+        "利欧股份抄底*ST创兴踩雷，业绩变脸牵出信披拷问与减持算计"
       ]
     }
   ]
