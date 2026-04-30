@@ -1,57 +1,92 @@
 {
-  "generated_at": "2026-04-30T07:11:34.093579Z",
+  "generated_at": "2026-04-30T09:36:18.284985Z",
   "window_hours": 24,
-  "total_items_analyzed": 48,
+  "total_items_analyzed": 46,
   "hot_topics": [
     {
-      "keyword": "汽车",
-      "category": "板块",
+      "keyword": "减持",
+      "category": "市场",
       "count": 3,
       "sample_titles": [
-        "AI时代的汽车，我们可能低估了这件事",
-        "中国汽车流通协会：4月中国汽车经销商库存预警指数为62.1%",
-        "大众汽车第一季度营业利润低于预估"
-      ]
-    },
-    {
-      "keyword": "涨停",
-      "category": "市场",
-      "count": 2,
-      "sample_titles": [
-        "A股三大指数收盘涨跌不一，寒武纪涨停",
-        "寒武纪午后触及20cm涨停，股价逼近1700元"
-      ]
-    },
-    {
-      "keyword": "储能",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "阳光电源一季度利润骤降40%，储能行业“变天”了？"
+        "兰剑智能：股东济南创投拟减持不超1%公司股份",
+        "天通股份：实际控制人及其一致行动人拟合计减持不超1.56%股份",
+        "三安光电：控股股东被动减持股份达到1%"
       ]
     },
     {
       "keyword": "机器人",
       "category": "板块",
-      "count": 1,
+      "count": 2,
       "sample_titles": [
+        "银河通用拉着英伟达，把人形机器人最大的谎言拆穿了",
         "「优时科技」完成数亿元B2轮融资，从L4视觉自动驾驶延展至人形机器人，打造数据飞轮｜36氪首发"
       ]
     },
     {
-      "keyword": "IPO",
-      "category": "市场",
-      "count": 1,
+      "keyword": "消费",
+      "category": "板块",
+      "count": 2,
       "sample_titles": [
-        "深交所最大IPO刚刚诞生"
+        "欧莱雅中国提出“AI向美”战略；薇诺娜发布妆械联合解决方案；阿麦斯港交所递表；锦江酒店一季度营收净利双升｜消研所周报",
+        "京东京喜宣布2026年百亿战略计划"
       ]
     },
     {
-      "keyword": "南向资金",
+      "keyword": "GDP",
+      "category": "宏观",
+      "count": 2,
+      "sample_titles": [
+        "氪星晚报｜澳门一季度GDP按年实质增长7.1%；小红书发内部信：加大AI投入，柯南出任总裁",
+        "澳门一季度GDP按年实质增长7.1%"
+      ]
+    },
+    {
+      "keyword": "证监会",
+      "category": "宏观",
+      "count": 2,
+      "sample_titles": [
+        "广信股份：因涉嫌持股变动信息披露违法违规，控股股东被证监会立案",
+        "S佳通：因涉嫌信息披露违法违规，证监会决定对公司立案"
+      ]
+    },
+    {
+      "keyword": "回购",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "央行：5月6日开展3000亿元买断式逆回购操作，期限为3个月"
+      ]
+    },
+    {
+      "keyword": "恒指",
       "category": "港股",
       "count": 1,
       "sample_titles": [
-        "南向资金净买入额达100亿港元"
+        "恒指收跌1.28%，恒生科技指数跌0.79%"
+      ]
+    },
+    {
+      "keyword": "恒生科技",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "恒指收跌1.28%，恒生科技指数跌0.79%"
+      ]
+    },
+    {
+      "keyword": "CPI",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "欧元区4月CPI同比上涨3.0%"
+      ]
+    },
+    {
+      "keyword": "央行",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "央行：5月6日开展3000亿元买断式逆回购操作，期限为3个月"
       ]
     }
   ]
