@@ -1,82 +1,92 @@
 {
-  "generated_at": "2026-04-30T00:01:32.935769Z",
+  "generated_at": "2026-04-30T04:13:13.024631Z",
   "window_hours": 24,
-  "total_items_analyzed": 46,
+  "total_items_analyzed": 47,
   "hot_topics": [
+    {
+      "keyword": "机器人",
+      "category": "板块",
+      "count": 3,
+      "sample_titles": [
+        "宇树发布宇树双臂人形机器人",
+        "Figure：生产效率大幅提升，可每小时生产1台机器人",
+        "「优时科技」完成数亿元B2轮融资，从L4视觉自动驾驶延展至人形机器人，打造数据飞轮｜36氪首发"
+      ]
+    },
     {
       "keyword": "汽车",
       "category": "板块",
       "count": 3,
       "sample_titles": [
-        "福特汽车第一季度总营收433亿美元，同比增长6.4%",
-        "汽车供应商Tenneco准备今年IPO",
-        "智能电动时代，谁“杀死”了汽车的利润？"
+        "问界M8荣膺中国电动汽车火灾安全指数五星级成绩，为行业首证",
+        "智界汽车完成变更，郭锐出任法定代表人",
+        "俞浩：追觅智能汽车正按640亿估值推进融资"
+      ]
+    },
+    {
+      "keyword": "医药",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "暴跌30%，医药界“迪士尼”益方生物扛不住了？",
+        "业绩回暖，医药CXO股价集体暴涨"
+      ]
+    },
+    {
+      "keyword": "银行",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "市场消息：软银寻求400亿美元贷款用于投资OpenAI的计划吸引了更多银行参与",
+        "区域深耕铸就白马底色，成都银行以稳健穿越周期｜看财报"
+      ]
+    },
+    {
+      "keyword": "金融",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "区域深耕铸就白马底色，成都银行以稳健穿越周期｜看财报"
+      ]
+    },
+    {
+      "keyword": "保险",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "区域深耕铸就白马底色，成都银行以稳健穿越周期｜看财报"
+      ]
+    },
+    {
+      "keyword": "涨停",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "开盘涨停封板，鹏辉能源净利润涨了819%，但真正的钱去哪了？"
       ]
     },
     {
       "keyword": "IPO",
       "category": "市场",
-      "count": 3,
+      "count": 1,
       "sample_titles": [
-        "汽车供应商Tenneco准备今年IPO",
-        "业绩光鲜难掩子业务亏损黑洞，康美特科技三闯资本市场风险暗涌 | IPO观察",
-        "拿下“谷歌系”公司6亿美元大单：这家药企成功IPO，市值超120亿"
+        "微脉二闯港交所：对赌悬顶、负债率畸高，三年累亏6亿的“绝地闯关”丨IPO观察"
       ]
     },
     {
-      "keyword": "人工智能",
-      "category": "板块",
+      "keyword": "恒指",
+      "category": "港股",
       "count": 1,
       "sample_titles": [
-        "报道称软银计划将其人工智能公司ROZE上市"
+        "恒指午间休盘跌1.23%，恒生科技指数跌0.97%"
       ]
     },
     {
-      "keyword": "消费",
-      "category": "板块",
+      "keyword": "恒生科技",
+      "category": "港股",
       "count": 1,
       "sample_titles": [
-        "泡泡玛特城市乐园升级开放：“盈利不是乐园现阶段最重要的事”"
-      ]
-    },
-    {
-      "keyword": "券商",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "近七成上市券商一季度营收、净利润双增长"
-      ]
-    },
-    {
-      "keyword": "量子",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "量子计算掀起上市潮，黄仁勋的“野心”藏不住了"
-      ]
-    },
-    {
-      "keyword": "减持",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "利欧股份抄底*ST创兴踩雷，业绩变脸牵出信披拷问与减持算计"
-      ]
-    },
-    {
-      "keyword": "回购",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "环球音乐将出售半数Spotify持股，回购股票并回馈艺人"
-      ]
-    },
-    {
-      "keyword": "分红",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "近2.4万亿元，A股公司年度现金分红创新高"
+        "恒指午间休盘跌1.23%，恒生科技指数跌0.97%"
       ]
     },
     {
@@ -84,7 +94,7 @@
       "category": "宏观",
       "count": 1,
       "sample_titles": [
-        "美联储6月维持利率不变的概率为99%"
+        "摩根资产管理认为美联储加息的门槛很高"
       ]
     }
   ]
