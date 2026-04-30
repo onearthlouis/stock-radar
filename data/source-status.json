@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-04-29T22:32:57.952217Z",
+  "generated_at": "2026-04-30T00:00:16.063993Z",
   "sites": [
     {
       "site_id": "wallstreetcn",
       "site_name": "华尔街见闻",
-      "ok": true,
-      "item_count": 0
+      "ok": false,
+      "item_count": 0,
+      "error": "404 Client Error: Not Found for url: https://wallstreetcn.com/rss"
     },
     {
       "site_id": "eastmoney",
@@ -14,17 +15,17 @@
       "item_count": 0
     },
     {
-      "site_id": "sina_finance",
-      "site_name": "新浪财经",
-      "ok": false,
-      "item_count": 0,
-      "error": "404 Client Error: Not Found for url: https://rss.sina.com.cn/news/fin_roll/01.xml"
-    },
-    {
       "site_id": "cls",
       "site_name": "财联社",
       "ok": true,
       "item_count": 0
+    },
+    {
+      "site_id": "cs",
+      "site_name": "中国证券报",
+      "ok": false,
+      "item_count": 0,
+      "error": "404 Client Error: Not Found for url: https://www.cs.com.cn/rss/rss.xml"
     },
     {
       "site_id": "stcn",
@@ -47,11 +48,11 @@
       "item_count": 30
     },
     {
-      "site_id": "cs",
-      "site_name": "中国证券报",
+      "site_id": "sina_finance",
+      "site_name": "新浪财经",
       "ok": false,
       "item_count": 0,
-      "error": "404 Client Error: Not Found for url: https://www.cs.com.cn/rss/rss.xml"
+      "error": "404 Client Error: Not Found for url: https://rss.sina.com.cn/news/fin_roll/01.xml"
     },
     {
       "site_id": "tmtpost",
@@ -67,12 +68,13 @@
       "error": "HTTPSConnectionPool(host='www.huxiu.com', port=443): Max retries exceeded with url: /rss/0.xml (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.huxiu.com', port=443): Read timed out. (read timeout=25)\"))"
     }
   ],
-  "successful_sites": 5,
+  "successful_sites": 4,
   "failed_sites": [
-    "sina_finance",
+    "wallstreetcn",
+    "cs",
     "stcn",
     "jiemian",
-    "cs",
+    "sina_finance",
     "huxiu"
   ],
   "fetched_raw_items": 46

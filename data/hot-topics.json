@@ -1,13 +1,24 @@
 {
-  "generated_at": "2026-04-29T22:34:14.274431Z",
+  "generated_at": "2026-04-30T00:01:32.935769Z",
   "window_hours": 24,
   "total_items_analyzed": 46,
   "hot_topics": [
     {
+      "keyword": "汽车",
+      "category": "板块",
+      "count": 3,
+      "sample_titles": [
+        "福特汽车第一季度总营收433亿美元，同比增长6.4%",
+        "汽车供应商Tenneco准备今年IPO",
+        "智能电动时代，谁“杀死”了汽车的利润？"
+      ]
+    },
+    {
       "keyword": "IPO",
       "category": "市场",
-      "count": 2,
+      "count": 3,
       "sample_titles": [
+        "汽车供应商Tenneco准备今年IPO",
         "业绩光鲜难掩子业务亏损黑洞，康美特科技三闯资本市场风险暗涌 | IPO观察",
         "拿下“谷歌系”公司6亿美元大单：这家药企成功IPO，市值超120亿"
       ]
@@ -17,7 +28,7 @@
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "谷歌推出可将其他人工智能提供商的人工智能聊天历史记录导入Gemini的工具"
+        "报道称软银计划将其人工智能公司ROZE上市"
       ]
     },
     {
@@ -29,11 +40,11 @@
       ]
     },
     {
-      "keyword": "汽车",
+      "keyword": "券商",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "智能电动时代，谁“杀死”了汽车的利润？"
+        "近七成上市券商一季度营收、净利润双增长"
       ]
     },
     {
@@ -50,6 +61,30 @@
       "count": 1,
       "sample_titles": [
         "利欧股份抄底*ST创兴踩雷，业绩变脸牵出信披拷问与减持算计"
+      ]
+    },
+    {
+      "keyword": "回购",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "环球音乐将出售半数Spotify持股，回购股票并回馈艺人"
+      ]
+    },
+    {
+      "keyword": "分红",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "近2.4万亿元，A股公司年度现金分红创新高"
+      ]
+    },
+    {
+      "keyword": "美联储",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "美联储6月维持利率不变的概率为99%"
       ]
     }
   ]
