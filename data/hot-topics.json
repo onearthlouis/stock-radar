@@ -1,24 +1,16 @@
 {
-  "generated_at": "2026-05-02T07:04:33.454501Z",
+  "generated_at": "2026-05-02T08:51:35.599616Z",
   "window_hours": 24,
-  "total_items_analyzed": 41,
+  "total_items_analyzed": 43,
   "hot_topics": [
     {
       "keyword": "IPO",
       "category": "市场",
-      "count": 2,
+      "count": 3,
       "sample_titles": [
+        "又一算力独角兽，冲击IPO",
         "全球第四大黄金矿业公司据悉暂停IPO计划",
         "股价一年涨450%，三年累亏超2亿，华盛锂电赴港上市能打赢产能翻身仗吗？｜IPO观察"
-      ]
-    },
-    {
-      "keyword": "美联储",
-      "category": "宏观",
-      "count": 2,
-      "sample_titles": [
-        "美联储副主席鲍曼：监管机构必须考虑如何应对Mythos等新技术",
-        "美联储6月维持利率不变的概率为92.8%"
       ]
     },
     {
@@ -43,6 +35,22 @@
       "count": 1,
       "sample_titles": [
         "巴西石油公司第一季度对美出口降至零"
+      ]
+    },
+    {
+      "keyword": "通胀",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "日本央行前行长黑田东彦称2%的通胀目标已实现"
+      ]
+    },
+    {
+      "keyword": "央行",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "日本央行前行长黑田东彦称2%的通胀目标已实现"
       ]
     }
   ]
