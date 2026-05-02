@@ -1,22 +1,14 @@
 {
-  "generated_at": "2026-05-01T23:31:27.290208Z",
+  "generated_at": "2026-05-02T01:16:05.505332Z",
   "window_hours": 24,
-  "total_items_analyzed": 38,
+  "total_items_analyzed": 41,
   "hot_topics": [
-    {
-      "keyword": "机器人",
-      "category": "板块",
-      "count": 2,
-      "sample_titles": [
-        "杭州为具身智能机器人立法，今起施行",
-        "北京人形将发布天工Omni机器人"
-      ]
-    },
     {
       "keyword": "汽车",
       "category": "板块",
-      "count": 2,
+      "count": 3,
       "sample_titles": [
+        "特朗普：将于下周对欧盟输美汽车和卡车加征25%关税",
         "4月车市分化加深，规模、出口和新能源转型决定座次",
         "岚图汽车4月交付15146辆，同比增长51%"
       ]
@@ -38,6 +30,14 @@
       ]
     },
     {
+      "keyword": "机器人",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "杭州为具身智能机器人立法，今起施行"
+      ]
+    },
+    {
       "keyword": "云计算",
       "category": "板块",
       "count": 1,
@@ -51,6 +51,14 @@
       "count": 1,
       "sample_titles": [
         "云深处科技完成IPO辅导"
+      ]
+    },
+    {
+      "keyword": "美联储",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "沃什执掌美联储后交易难度或上升"
       ]
     }
   ]
