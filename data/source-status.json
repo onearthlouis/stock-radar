@@ -1,12 +1,11 @@
 {
-  "generated_at": "2026-05-02T14:54:56.435386Z",
+  "generated_at": "2026-05-02T15:54:04.068452Z",
   "sites": [
     {
-      "site_id": "cs",
-      "site_name": "中国证券报",
-      "ok": false,
-      "item_count": 0,
-      "error": "404 Client Error: Not Found for url: https://www.cs.com.cn/rss/rss.xml"
+      "site_id": "wallstreetcn",
+      "site_name": "华尔街见闻",
+      "ok": true,
+      "item_count": 0
     },
     {
       "site_id": "eastmoney",
@@ -20,6 +19,13 @@
       "ok": false,
       "item_count": 0,
       "error": "404 Client Error: Not Found for url: https://www.stcn.com/rss/index.xml"
+    },
+    {
+      "site_id": "cs",
+      "site_name": "中国证券报",
+      "ok": false,
+      "item_count": 0,
+      "error": "404 Client Error: Not Found for url: https://www.cs.com.cn/rss/rss.xml"
     },
     {
       "site_id": "sina_finance",
@@ -39,12 +45,6 @@
       "site_name": "36氪",
       "ok": true,
       "item_count": 30
-    },
-    {
-      "site_id": "wallstreetcn",
-      "site_name": "华尔街见闻",
-      "ok": true,
-      "item_count": 0
     },
     {
       "site_id": "tmtpost",
@@ -69,8 +69,8 @@
   ],
   "successful_sites": 5,
   "failed_sites": [
-    "cs",
     "stcn",
+    "cs",
     "sina_finance",
     "jiemian",
     "huxiu"
