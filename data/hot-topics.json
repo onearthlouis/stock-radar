@@ -1,24 +1,50 @@
 {
-  "generated_at": "2026-05-04T07:37:24.786672Z",
+  "generated_at": "2026-05-04T10:20:50.103148Z",
   "window_hours": 24,
-  "total_items_analyzed": 27,
+  "total_items_analyzed": 36,
   "hot_topics": [
     {
       "keyword": "恒生科技",
       "category": "港股",
       "count": 3,
       "sample_titles": [
+        "恒指收涨1.24%，恒生科技指数涨2.16%",
         "恒指午间休盘涨1.7%，恒生科技指数涨2.86%",
-        "恒生科技指数涨近4%，小米集团涨逾10%",
-        "恒生科技指数涨3%，升破5000点关口"
+        "恒生科技指数涨近4%，小米集团涨逾10%"
       ]
     },
     {
       "keyword": "机器人",
       "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "擎天租30亿，租机器人的值两成",
+        "精锻科技：当前公司机器人业务尚未形成销售收入"
+      ]
+    },
+    {
+      "keyword": "恒指",
+      "category": "港股",
+      "count": 2,
+      "sample_titles": [
+        "恒指收涨1.24%，恒生科技指数涨2.16%",
+        "恒指午间休盘涨1.7%，恒生科技指数涨2.86%"
+      ]
+    },
+    {
+      "keyword": "汽车",
+      "category": "板块",
       "count": 1,
       "sample_titles": [
-        "精锻科技：当前公司机器人业务尚未形成销售收入"
+        "全球最大汽车滚装船首靠上海港"
+      ]
+    },
+    {
+      "keyword": "IPO",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "印度数据中心公司Yotta：公司在IPO前寻求60亿美元的估值"
       ]
     },
     {
@@ -26,15 +52,7 @@
       "category": "港股",
       "count": 1,
       "sample_titles": [
-        "潍柴动力港股涨近14%，股价再创历史新高"
-      ]
-    },
-    {
-      "keyword": "恒指",
-      "category": "港股",
-      "count": 1,
-      "sample_titles": [
-        "恒指午间休盘涨1.7%，恒生科技指数涨2.86%"
+        "狂飙与逆风：合成生物学龙头冲刺港股"
       ]
     },
     {
