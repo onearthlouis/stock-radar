@@ -1,25 +1,16 @@
 {
-  "generated_at": "2026-05-04T04:29:33.583273Z",
+  "generated_at": "2026-05-04T07:37:24.786672Z",
   "window_hours": 24,
-  "total_items_analyzed": 28,
+  "total_items_analyzed": 27,
   "hot_topics": [
     {
       "keyword": "恒生科技",
       "category": "港股",
-      "count": 5,
+      "count": 3,
       "sample_titles": [
         "恒指午间休盘涨1.7%，恒生科技指数涨2.86%",
         "恒生科技指数涨近4%，小米集团涨逾10%",
         "恒生科技指数涨3%，升破5000点关口"
-      ]
-    },
-    {
-      "keyword": "恒指",
-      "category": "港股",
-      "count": 2,
-      "sample_titles": [
-        "恒指午间休盘涨1.7%，恒生科技指数涨2.86%",
-        "恒指开盘涨1.4%，恒生科技指数涨1.58%"
       ]
     },
     {
@@ -36,6 +27,22 @@
       "count": 1,
       "sample_titles": [
         "潍柴动力港股涨近14%，股价再创历史新高"
+      ]
+    },
+    {
+      "keyword": "恒指",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "恒指午间休盘涨1.7%，恒生科技指数涨2.86%"
+      ]
+    },
+    {
+      "keyword": "美联储",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "巴克莱预计美联储将在2026年维持利率不变"
       ]
     }
   ]
