@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-04T23:01:34.097831Z",
+  "generated_at": "2026-05-05T01:13:08.372654Z",
   "window_hours": 24,
-  "total_items_analyzed": 39,
+  "total_items_analyzed": 41,
   "hot_topics": [
     {
       "keyword": "恒生科技",
@@ -23,6 +23,15 @@
       ]
     },
     {
+      "keyword": "IPO",
+      "category": "市场",
+      "count": 2,
+      "sample_titles": [
+        "Anthropic启动500亿美元IPO前融资，估值剑指9000亿美元",
+        "印度数据中心公司Yotta：公司在IPO前寻求60亿美元的估值"
+      ]
+    },
+    {
       "keyword": "恒指",
       "category": "港股",
       "count": 2,
@@ -40,19 +49,19 @@
       ]
     },
     {
-      "keyword": "IPO",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "印度数据中心公司Yotta：公司在IPO前寻求60亿美元的估值"
-      ]
-    },
-    {
       "keyword": "港股",
       "category": "港股",
       "count": 1,
       "sample_titles": [
         "狂飙与逆风：合成生物学龙头冲刺港股"
+      ]
+    },
+    {
+      "keyword": "通胀",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "算力走强，茅台走弱：硅基通胀，碳基通缩｜财经峰评"
       ]
     },
     {
