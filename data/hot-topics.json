@@ -1,14 +1,50 @@
 {
-  "generated_at": "2026-05-07T01:20:38.167838Z",
+  "generated_at": "2026-05-07T05:01:51.312723Z",
   "window_hours": 24,
   "total_items_analyzed": 45,
   "hot_topics": [
+    {
+      "keyword": "机器人",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "Anthropic在消费级市场发力，提升Claude聊天机器人对普通用户吸引力",
+        "亚华电子战略投资全球化具身养老机器人公司“骅羲科技”"
+      ]
+    },
+    {
+      "keyword": "消费",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "Anthropic在消费级市场发力，提升Claude聊天机器人对普通用户吸引力",
+        "五一消费图鉴：低通胀年代，所有人都在追求安全感"
+      ]
+    },
+    {
+      "keyword": "汽车",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "奇瑞商用车等在安徽成立嘉途汽车公司，注册资本19.2亿",
+        "淋浴房、衣帽间、大床房，为什么汽车公司依然在比拼这些？"
+      ]
+    },
+    {
+      "keyword": "恒生科技",
+      "category": "港股",
+      "count": 2,
+      "sample_titles": [
+        "恒指午间休盘涨1.57%，恒生科技指数涨3.09%",
+        "恒生科技指数盘中涨超3%"
+      ]
+    },
     {
       "keyword": "半导体",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "产业趋势和自主可控共振，机构强力掘金半导体板块"
+        "A股三大指数午间休盘集体上涨，半导体板块走强"
       ]
     },
     {
@@ -16,23 +52,31 @@
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "兆驰股份：成功搭建光芯片、光器件、光模块垂直产业链布局"
+        "纳芯微发布ASIL D隔离驱动芯片"
       ]
     },
     {
-      "keyword": "券商",
+      "keyword": "人工智能",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "中信证券：头部券商优势进一步巩固，关注头部券商以及中型券商"
+        "国家人工智能产业投资基金等入股云脉芯联"
       ]
     },
     {
-      "keyword": "地产",
-      "category": "板块",
+      "keyword": "恒指",
+      "category": "港股",
       "count": 1,
       "sample_titles": [
-        "华泰证券：地产板块估值筑底、配置价值凸显"
+        "恒指午间休盘涨1.57%，恒生科技指数涨3.09%"
+      ]
+    },
+    {
+      "keyword": "通胀",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "五一消费图鉴：低通胀年代，所有人都在追求安全感"
       ]
     }
   ]
