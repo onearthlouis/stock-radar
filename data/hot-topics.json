@@ -1,15 +1,34 @@
 {
-  "generated_at": "2026-05-07T10:41:59.860811Z",
+  "generated_at": "2026-05-07T13:00:20.742648Z",
   "window_hours": 24,
-  "total_items_analyzed": 42,
+  "total_items_analyzed": 43,
   "hot_topics": [
     {
-      "keyword": "IPO",
+      "keyword": "减持",
       "category": "市场",
+      "count": 3,
+      "sample_titles": [
+        "易明医药：股东周战拟减持公司不超1%股份",
+        "希荻微：重庆唯纯拟减持公司不超1%股份",
+        "中大力德：控股股东及其一致行动人拟合计减持不超3%股份"
+      ]
+    },
+    {
+      "keyword": "医药",
+      "category": "板块",
       "count": 2,
       "sample_titles": [
-        "中国最大康复辅具企业刚刚在港股IPO，市值近86亿",
-        "美银：SpaceX和Anthropic的大型IPO可能标志着牛市“落幕”"
+        "易明医药：股东周战拟减持公司不超1%股份",
+        "43个仿制药被拒，别再误判医药反内卷的国家意志"
+      ]
+    },
+    {
+      "keyword": "汽车",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "重庆出台智能汽车高速公路测试新规，规范L3级以上自动驾驶测试",
+        "江铃汽车：4月汽车销量34948辆，同比增长14.59%"
       ]
     },
     {
@@ -29,14 +48,6 @@
       ]
     },
     {
-      "keyword": "医药",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "43个仿制药被拒，别再误判医药反内卷的国家意志"
-      ]
-    },
-    {
       "keyword": "金融",
       "category": "板块",
       "count": 1,
@@ -45,19 +56,19 @@
       ]
     },
     {
-      "keyword": "银行",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "央行公布4月中央银行各项工具流动性投放情况"
-      ]
-    },
-    {
-      "keyword": "减持",
+      "keyword": "IPO",
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "浩瀚深度：股东雷振明拟减持公司不超3%股份"
+        "中国最大康复辅具企业刚刚在港股IPO，市值近86亿"
+      ]
+    },
+    {
+      "keyword": "回购",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "贵州茅台：4月公司累计回购股份28.91万股"
       ]
     },
     {
@@ -66,14 +77,6 @@
       "count": 1,
       "sample_titles": [
         "中国最大康复辅具企业刚刚在港股IPO，市值近86亿"
-      ]
-    },
-    {
-      "keyword": "央行",
-      "category": "宏观",
-      "count": 1,
-      "sample_titles": [
-        "央行公布4月中央银行各项工具流动性投放情况"
       ]
     }
   ]
