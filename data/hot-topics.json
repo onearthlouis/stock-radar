@@ -1,55 +1,56 @@
 {
-  "generated_at": "2026-05-08T10:06:16.373163Z",
+  "generated_at": "2026-05-08T11:56:13.051121Z",
   "window_hours": 24,
-  "total_items_analyzed": 46,
+  "total_items_analyzed": 44,
   "hot_topics": [
-    {
-      "keyword": "证监会",
-      "category": "宏观",
-      "count": 2,
-      "sample_titles": [
-        "证监会同意托伦斯精密制造（江苏）股份有限公司首次公开发行股票注册",
-        "长城证券：香港子公司获香港证监会颁发业务牌照"
-      ]
-    },
     {
       "keyword": "新能源",
       "category": "板块",
-      "count": 1,
+      "count": 2,
       "sample_titles": [
+        "佛塑科技：拟向全资子公司金力新能源增资3亿元",
         "第一代全固态电池迈入规模化市场，「纯锂新能源」完成数千万元Pre-A+轮融资 | 36氪首发"
       ]
     },
     {
       "keyword": "芯片",
       "category": "板块",
-      "count": 1,
+      "count": 2,
       "sample_titles": [
+        "上交所：本周对*ST正平、国晟科技等股票以及全球芯片LOF等基金进行重点监控",
         "昆仑芯A+H双线冲刺，百度芯片“断奶”倒计时"
       ]
     },
     {
-      "keyword": "医药",
+      "keyword": "机器人",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "恒瑞医药：HRS-3005片获临床试验批准通知书"
+        "浙江人形机器人创新中心与杰克科技达成战略合作"
       ]
     },
     {
-      "keyword": "医疗",
+      "keyword": "消费",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "75岁李西廷扛旗，迈瑞医疗的复苏还要熬多久？"
+        "高梵入驻北京三里屯，获顺为资本、挑战者创投战投；Brooks Q1中国市场销售额增长136%；Songmont山下有松品牌展于上海揭幕｜消研所周报"
       ]
     },
     {
-      "keyword": "IPO",
+      "keyword": "连板",
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "贝特利创业板IPO获上市委会议通过"
+        "2连板南威软件：智算运营相关的AI工具仍处于测试阶段"
+      ]
+    },
+    {
+      "keyword": "退市",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "ST清越：公司股票可能被实施重大违法强制退市"
       ]
     },
     {
@@ -57,7 +58,7 @@
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "通富微电：近期国家集成电路产业投资基金减持0.71%公司股份"
+        "世纪华通：股东王佶及其一致行动人拟合计减持不超3%股份"
       ]
     }
   ]
