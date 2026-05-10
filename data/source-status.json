@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-05-10T21:25:15.216791Z",
+  "generated_at": "2026-05-10T22:11:55.285423Z",
   "sites": [
     {
       "site_id": "wallstreetcn",
       "site_name": "华尔街见闻",
-      "ok": true,
-      "item_count": 0
+      "ok": false,
+      "item_count": 0,
+      "error": "404 Client Error: Not Found for url: https://wallstreetcn.com/rss"
     },
     {
       "site_id": "eastmoney",
@@ -67,8 +68,9 @@
       "error": "HTTPSConnectionPool(host='www.huxiu.com', port=443): Max retries exceeded with url: /rss/0.xml (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.huxiu.com', port=443): Read timed out. (read timeout=25)\"))"
     }
   ],
-  "successful_sites": 5,
+  "successful_sites": 4,
   "failed_sites": [
+    "wallstreetcn",
     "stcn",
     "cs",
     "jiemian",
