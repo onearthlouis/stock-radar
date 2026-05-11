@@ -1,50 +1,42 @@
 {
-  "generated_at": "2026-05-11T05:40:45.255313Z",
+  "generated_at": "2026-05-11T09:53:57.659014Z",
   "window_hours": 24,
-  "total_items_analyzed": 40,
+  "total_items_analyzed": 42,
   "hot_topics": [
     {
-      "keyword": "汽车",
-      "category": "板块",
-      "count": 4,
+      "keyword": "IPO",
+      "category": "市场",
+      "count": 5,
       "sample_titles": [
-        "丰田据悉将在印度新建一家汽车制造工厂",
-        "段建军任沃尔沃汽车大中华区新任总裁兼CEO",
-        "小米汽车碰撞风险检测专利公布"
+        "国仪量子科创板IPO过会",
+        "阿里CEO，又收获一个IPO",
+        "昆仑芯IPO，百度卖了14年的芯片故事"
+      ]
+    },
+    {
+      "keyword": "减持",
+      "category": "市场",
+      "count": 3,
+      "sample_titles": [
+        "港迪技术：股东嘉兴力鼎、松禾成长拟合计减持不超4.99%股份",
+        "键凯科技：股东吴凯庭拟减持不超3%股份",
+        "中巨芯：股东远致富海拟减持不超2.89%股份"
       ]
     },
     {
       "keyword": "芯片",
       "category": "板块",
-      "count": 2,
+      "count": 1,
       "sample_titles": [
-        "芯片产业的最大金主们，花钱逻辑变了",
-        "暴涨358%，存储芯片背后的“隐形血液”，快藏不住了"
+        "昆仑芯IPO，百度卖了14年的芯片故事"
       ]
     },
     {
       "keyword": "机器人",
       "category": "板块",
-      "count": 2,
-      "sample_titles": [
-        "恒指午间休盘跌0.29%，乐动机器人涨128%",
-        "“鹿明机器人”完成数亿元A1及A2轮融资"
-      ]
-    },
-    {
-      "keyword": "半导体",
-      "category": "板块",
       "count": 1,
       "sample_titles": [
-        "A股三大指数午间休盘集体上涨，半导体板块走强"
-      ]
-    },
-    {
-      "keyword": "医药",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "思派、镁信、圆心：曾经的“医药险”三巨头，如今走到命运分叉"
+        "第一代机器人公司等到了IPO时刻"
       ]
     },
     {
@@ -52,23 +44,63 @@
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "土耳其瓦基弗银行与阿波罗完成13亿美元DPR证券化交易"
+        "江苏有线：拟不超过9亿元购买常熟银行不超过3.5%股份"
       ]
     },
     {
-      "keyword": "IPO",
+      "keyword": "钢铁",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "英国首相斯塔默：英国钢铁公司将实现全面国有化"
+      ]
+    },
+    {
+      "keyword": "量子",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "国仪量子科创板IPO过会"
+      ]
+    },
+    {
+      "keyword": "连板",
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "3年亏31亿、负债率达165%，清华教授创立固态电池“独角兽”冲刺IPO"
+        "5连板福达合金：主营业务未发生调整，整体经营态势稳定"
       ]
     },
     {
-      "keyword": "恒指",
+      "keyword": "增持",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "ST兴化：兴化集团拟以4000万元至7000万元增持公司股份"
+      ]
+    },
+    {
+      "keyword": "南向资金",
       "category": "港股",
       "count": 1,
       "sample_titles": [
-        "恒指午间休盘跌0.29%，乐动机器人涨128%"
+        "阿里巴巴-W获南向资金净买入10.74亿港元"
+      ]
+    },
+    {
+      "keyword": "通胀",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "欧洲央行科赫尔：若通胀前景未见改善，将调整利率"
+      ]
+    },
+    {
+      "keyword": "央行",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "欧洲央行科赫尔：若通胀前景未见改善，将调整利率"
       ]
     }
   ]
