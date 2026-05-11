@@ -1,17 +1,8 @@
 {
-  "generated_at": "2026-05-10T23:29:58.231947Z",
+  "generated_at": "2026-05-11T01:27:33.027634Z",
   "window_hours": 24,
-  "total_items_analyzed": 41,
+  "total_items_analyzed": 43,
   "hot_topics": [
-    {
-      "keyword": "银行",
-      "category": "板块",
-      "count": 2,
-      "sample_titles": [
-        "一季度银行不良率与净息差倒挂局面缓解，风险安全垫得到修复",
-        "一年翻倍，六年未归——徽商银行的A股“围城”"
-      ]
-    },
     {
       "keyword": "芯片",
       "category": "板块",
@@ -45,22 +36,6 @@
       ]
     },
     {
-      "keyword": "医药",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "复星医药：控股子公司药品新增适应症获欧盟批准"
-      ]
-    },
-    {
-      "keyword": "量子",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "量子温度计可深入单细胞内测温"
-      ]
-    },
-    {
       "keyword": "涨停",
       "category": "市场",
       "count": 1,
@@ -69,19 +44,35 @@
       ]
     },
     {
-      "keyword": "连板",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "2连板通鼎互联：海南康宁仅作为公司的光棒供应商 不存在其他合作模式"
-      ]
-    },
-    {
       "keyword": "IPO",
       "category": "市场",
       "count": 1,
       "sample_titles": [
         "3年亏31亿、负债率达165%，清华教授创立固态电池“独角兽”冲刺IPO"
+      ]
+    },
+    {
+      "keyword": "恒指",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "恒指开盘跌0.31%，恒生科技指数跌0.48%"
+      ]
+    },
+    {
+      "keyword": "恒生科技",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "恒指开盘跌0.31%，恒生科技指数跌0.48%"
+      ]
+    },
+    {
+      "keyword": "证监会",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "香港证监会拟重组首席财务总监职位"
       ]
     }
   ]
