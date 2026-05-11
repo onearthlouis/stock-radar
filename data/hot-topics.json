@@ -1,18 +1,8 @@
 {
-  "generated_at": "2026-05-11T12:43:49.497101Z",
+  "generated_at": "2026-05-11T16:08:04.756599Z",
   "window_hours": 24,
   "total_items_analyzed": 41,
   "hot_topics": [
-    {
-      "keyword": "IPO",
-      "category": "市场",
-      "count": 5,
-      "sample_titles": [
-        "微纳星空科创板IPO获受理",
-        "人工智能芯片公司Cerebras Systems目前寻求IPO募资高达48亿美元",
-        "绿控传动：十年累亏1.18亿，应收账款暴增，“纸面盈利”难掩资金链危局｜IPO观察"
-      ]
-    },
     {
       "keyword": "央行",
       "category": "宏观",
@@ -24,6 +14,16 @@
       ]
     },
     {
+      "keyword": "IPO",
+      "category": "市场",
+      "count": 4,
+      "sample_titles": [
+        "微纳星空科创板IPO获受理",
+        "人工智能芯片公司Cerebras Systems目前寻求IPO募资高达48亿美元",
+        "绿控传动：十年累亏1.18亿，应收账款暴增，“纸面盈利”难掩资金链危局｜IPO观察"
+      ]
+    },
+    {
       "keyword": "人工智能",
       "category": "板块",
       "count": 3,
@@ -31,6 +31,24 @@
         "软银孙正义拟在法国投资数十亿美元建设人工智能数据中心",
         "人工智能芯片公司Cerebras Systems目前寻求IPO募资高达48亿美元",
         "央行：展望未来，人工智能行业将为经济高质量发展注入更多动能"
+      ]
+    },
+    {
+      "keyword": "消费",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "OPPO的代价：“本分”缺席的三天",
+        "5亿元Pre-A轮融资，Vbot维他动力创消费级具身智能赛道纪录"
+      ]
+    },
+    {
+      "keyword": "汽车",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "完全体线控底盘上车，智能汽车开始争夺“身体控制权”",
+        "热门中概股美股盘前涨跌互现，理想汽车涨超4%"
       ]
     },
     {
@@ -58,27 +76,11 @@
       ]
     },
     {
-      "keyword": "消费",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "5亿元Pre-A轮融资，Vbot维他动力创消费级具身智能赛道纪录"
-      ]
-    },
-    {
       "keyword": "金融",
       "category": "板块",
       "count": 1,
       "sample_titles": [
         "央行：截至3月末，金融机构股票回购增持贷款已发放超1800亿元"
-      ]
-    },
-    {
-      "keyword": "退市",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "清研环境：股票撤销退市风险警示，5月13日起复牌"
       ]
     },
     {
