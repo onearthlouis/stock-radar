@@ -1,46 +1,58 @@
 {
-  "generated_at": "2026-05-11T01:27:33.027634Z",
+  "generated_at": "2026-05-11T05:40:45.255313Z",
   "window_hours": 24,
-  "total_items_analyzed": 43,
+  "total_items_analyzed": 40,
   "hot_topics": [
+    {
+      "keyword": "汽车",
+      "category": "板块",
+      "count": 4,
+      "sample_titles": [
+        "丰田据悉将在印度新建一家汽车制造工厂",
+        "段建军任沃尔沃汽车大中华区新任总裁兼CEO",
+        "小米汽车碰撞风险检测专利公布"
+      ]
+    },
     {
       "keyword": "芯片",
       "category": "板块",
-      "count": 1,
+      "count": 2,
       "sample_titles": [
+        "芯片产业的最大金主们，花钱逻辑变了",
         "暴涨358%，存储芯片背后的“隐形血液”，快藏不住了"
-      ]
-    },
-    {
-      "keyword": "光伏",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "光伏教父施正荣回归：一只年赚13亿的“下蛋金鸡”，1.92亿美元，晶科把它卖了"
-      ]
-    },
-    {
-      "keyword": "储能",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "储能大洗牌已开始，21家上市公司，谁先被淘汰？"
       ]
     },
     {
       "keyword": "机器人",
       "category": "板块",
-      "count": 1,
+      "count": 2,
       "sample_titles": [
-        "融资超亿元、割草机器人公司拿下数亿订单，瞄准庭院具身终端｜硬氪首发"
+        "恒指午间休盘跌0.29%，乐动机器人涨128%",
+        "“鹿明机器人”完成数亿元A1及A2轮融资"
       ]
     },
     {
-      "keyword": "涨停",
-      "category": "市场",
+      "keyword": "半导体",
+      "category": "板块",
       "count": 1,
       "sample_titles": [
-        "价值判断：涨停板的投资机会和风险提示（5月8日）｜证券市场观察"
+        "A股三大指数午间休盘集体上涨，半导体板块走强"
+      ]
+    },
+    {
+      "keyword": "医药",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "思派、镁信、圆心：曾经的“医药险”三巨头，如今走到命运分叉"
+      ]
+    },
+    {
+      "keyword": "银行",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "土耳其瓦基弗银行与阿波罗完成13亿美元DPR证券化交易"
       ]
     },
     {
@@ -56,23 +68,7 @@
       "category": "港股",
       "count": 1,
       "sample_titles": [
-        "恒指开盘跌0.31%，恒生科技指数跌0.48%"
-      ]
-    },
-    {
-      "keyword": "恒生科技",
-      "category": "港股",
-      "count": 1,
-      "sample_titles": [
-        "恒指开盘跌0.31%，恒生科技指数跌0.48%"
-      ]
-    },
-    {
-      "keyword": "证监会",
-      "category": "宏观",
-      "count": 1,
-      "sample_titles": [
-        "香港证监会拟重组首席财务总监职位"
+        "恒指午间休盘跌0.29%，乐动机器人涨128%"
       ]
     }
   ]
