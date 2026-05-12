@@ -1,24 +1,32 @@
 {
-  "generated_at": "2026-05-12T08:10:46.099554Z",
+  "generated_at": "2026-05-12T11:00:52.555647Z",
   "window_hours": 24,
-  "total_items_analyzed": 43,
+  "total_items_analyzed": 39,
   "hot_topics": [
     {
-      "keyword": "汽车",
+      "keyword": "半导体",
       "category": "板块",
       "count": 2,
       "sample_titles": [
-        "Waymo将在美召回3791辆汽车",
-        "哪吒汽车崩塌前夜"
+        "华虹半导体逆势遭南向资金净卖出6.60亿港元",
+        "三连板蒙娜丽莎：2025年未因半导体材料业务产生收入和利润"
       ]
     },
     {
-      "keyword": "量子",
+      "keyword": "医疗",
       "category": "板块",
       "count": 2,
       "sample_titles": [
-        "湖北长江量子科技投资基金登记成立，出资额1亿",
-        "量子计算走出“科幻片”，「波色量子」在肿瘤、脑机等领域交出百余个落地案例"
+        "中标即投诉，投诉即废标，医疗设备集采乱象如何解？",
+        "九安医疗：一家被医药耽误的风投公司"
+      ]
+    },
+    {
+      "keyword": "储能",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "亿纬锂能与印度GNEPL签署8GWh储能大电池订单"
       ]
     },
     {
@@ -30,27 +38,35 @@
       ]
     },
     {
-      "keyword": "医疗",
+      "keyword": "金融",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "九安医疗：一家被医药耽误的风投公司"
+        "监管要求金融机构完善非法金融活动监测模型，排查重点领域"
       ]
     },
     {
-      "keyword": "券商",
+      "keyword": "汽车",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "中证协“把脉”券商合规评估实效，探索AI赋能等破局新路径"
+        "启境汽车完成超10亿元增资，宁德时代等参投"
       ]
     },
     {
-      "keyword": "涨停",
+      "keyword": "量子",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "量子计算走出“科幻片”，「波色量子」在肿瘤、脑机等领域交出百余个落地案例"
+      ]
+    },
+    {
+      "keyword": "连板",
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "A股三大指数收盘涨跌不一，华正新材涨停"
+        "三连板蒙娜丽莎：2025年未因半导体材料业务产生收入和利润"
       ]
     },
     {
@@ -59,6 +75,30 @@
       "count": 1,
       "sample_titles": [
         "T3出行冲刺IPO：网约车老三要讲Robotaxi新故事"
+      ]
+    },
+    {
+      "keyword": "减持",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "瑞芯微：股东黄旭拟减持公司不超1.53%股份"
+      ]
+    },
+    {
+      "keyword": "回购",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "ST文峰：董事长提议以8000万元—1.2亿元回购股份"
+      ]
+    },
+    {
+      "keyword": "南向资金",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "华虹半导体逆势遭南向资金净卖出6.60亿港元"
       ]
     }
   ]
