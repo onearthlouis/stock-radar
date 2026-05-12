@@ -1,38 +1,56 @@
 {
-  "generated_at": "2026-05-12T05:07:08.752763Z",
+  "generated_at": "2026-05-12T08:10:46.099554Z",
   "window_hours": 24,
   "total_items_analyzed": 43,
   "hot_topics": [
     {
-      "keyword": "半导体",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "A股三大指数午间休盘集体下跌，半导体设备大涨"
-      ]
-    },
-    {
       "keyword": "汽车",
       "category": "板块",
-      "count": 1,
+      "count": 2,
       "sample_titles": [
-        "集结特斯拉+北汽两大车企老将，小米汽车出海棋局浮出水面"
-      ]
-    },
-    {
-      "keyword": "有色",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "半日主力资金加仓公用事业股，抛售电子、有色金属股"
+        "Waymo将在美召回3791辆汽车",
+        "哪吒汽车崩塌前夜"
       ]
     },
     {
       "keyword": "量子",
       "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "湖北长江量子科技投资基金登记成立，出资额1亿",
+        "量子计算走出“科幻片”，「波色量子」在肿瘤、脑机等领域交出百余个落地案例"
+      ]
+    },
+    {
+      "keyword": "医药",
+      "category": "板块",
       "count": 1,
       "sample_titles": [
-        "量子计算走出“科幻片”，「波色量子」在肿瘤、脑机等领域交出百余个落地案例"
+        "九安医疗：一家被医药耽误的风投公司"
+      ]
+    },
+    {
+      "keyword": "医疗",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "九安医疗：一家被医药耽误的风投公司"
+      ]
+    },
+    {
+      "keyword": "券商",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "中证协“把脉”券商合规评估实效，探索AI赋能等破局新路径"
+      ]
+    },
+    {
+      "keyword": "涨停",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "A股三大指数收盘涨跌不一，华正新材涨停"
       ]
     },
     {
@@ -40,31 +58,7 @@
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "美股IPO在即，美众议院监督委员会对OpenAI首席执行官展开调查"
-      ]
-    },
-    {
-      "keyword": "港股",
-      "category": "港股",
-      "count": 1,
-      "sample_titles": [
-        "汉朔科技：暂无港股上市计划"
-      ]
-    },
-    {
-      "keyword": "恒指",
-      "category": "港股",
-      "count": 1,
-      "sample_titles": [
-        "恒指午间休盘涨0.3%，恒生科技指数跌0.39%"
-      ]
-    },
-    {
-      "keyword": "恒生科技",
-      "category": "港股",
-      "count": 1,
-      "sample_titles": [
-        "恒指午间休盘涨0.3%，恒生科技指数跌0.39%"
+        "T3出行冲刺IPO：网约车老三要讲Robotaxi新故事"
       ]
     }
   ]
