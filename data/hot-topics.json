@@ -1,15 +1,25 @@
 {
-  "generated_at": "2026-05-12T11:00:52.555647Z",
+  "generated_at": "2026-05-12T13:12:06.814661Z",
   "window_hours": 24,
   "total_items_analyzed": 39,
   "hot_topics": [
     {
-      "keyword": "半导体",
+      "keyword": "减持",
+      "category": "市场",
+      "count": 4,
+      "sample_titles": [
+        "杭州园林：股东拟减持公司不超2.73%股份",
+        "赣锋锂业：副总裁傅利华拟减持公司不超4万股股份",
+        "先锋电子：控股股东拟减持公司不超1%股份"
+      ]
+    },
+    {
+      "keyword": "医药",
       "category": "板块",
       "count": 2,
       "sample_titles": [
-        "华虹半导体逆势遭南向资金净卖出6.60亿港元",
-        "三连板蒙娜丽莎：2025年未因半导体材料业务产生收入和利润"
+        "泰格医药：实控人因涉嫌持股变动相关信息披露违法违规被立案",
+        "九安医疗：一家被医药耽误的风投公司"
       ]
     },
     {
@@ -22,35 +32,28 @@
       ]
     },
     {
-      "keyword": "储能",
-      "category": "板块",
-      "count": 1,
+      "keyword": "CPI",
+      "category": "宏观",
+      "count": 2,
       "sample_titles": [
-        "亿纬锂能与印度GNEPL签署8GWh储能大电池订单"
+        "美国4月核心CPI同比增长2.8%",
+        "美国4月CPI同比增长3.8%"
       ]
     },
     {
-      "keyword": "医药",
+      "keyword": "半导体",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "九安医疗：一家被医药耽误的风投公司"
+        "云南锗业：2025年度化合物半导体材料产品营收约1.38亿元，占比较低"
       ]
     },
     {
-      "keyword": "金融",
+      "keyword": "人工智能",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "监管要求金融机构完善非法金融活动监测模型，排查重点领域"
-      ]
-    },
-    {
-      "keyword": "汽车",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "启境汽车完成超10亿元增资，宁德时代等参投"
+        "3M加入行业联盟，推进人工智能数据中心光互联技术发展"
       ]
     },
     {
@@ -66,39 +69,15 @@
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "三连板蒙娜丽莎：2025年未因半导体材料业务产生收入和利润"
+        "4连板宝鼎科技：目前未有高速覆铜板M7和M9产品销售"
       ]
     },
     {
-      "keyword": "IPO",
+      "keyword": "退市",
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "T3出行冲刺IPO：网约车老三要讲Robotaxi新故事"
-      ]
-    },
-    {
-      "keyword": "减持",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "瑞芯微：股东黄旭拟减持公司不超1.53%股份"
-      ]
-    },
-    {
-      "keyword": "回购",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "ST文峰：董事长提议以8000万元—1.2亿元回购股份"
-      ]
-    },
-    {
-      "keyword": "南向资金",
-      "category": "港股",
-      "count": 1,
-      "sample_titles": [
-        "华虹半导体逆势遭南向资金净卖出6.60亿港元"
+        "*ST凯鑫：股票交易撤销退市风险警示，明起停牌一天"
       ]
     }
   ]
