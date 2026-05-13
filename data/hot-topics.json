@@ -1,8 +1,33 @@
 {
-  "generated_at": "2026-05-13T01:25:16.506450Z",
+  "generated_at": "2026-05-13T05:29:29.974937Z",
   "window_hours": 24,
-  "total_items_analyzed": 39,
+  "total_items_analyzed": 45,
   "hot_topics": [
+    {
+      "keyword": "机器人",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "众擎机器人增资至3206.8万，增幅900%",
+        "深耕“具身智能+建筑大模型”底座，重构万亿建筑业，「方石机器人」完成近亿元A轮融资 | 36氪首发"
+      ]
+    },
+    {
+      "keyword": "芯片",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "36氪首发 | 清华系光计算芯片企业完成数千万天使轮融资，瞄准全波光计算架构"
+      ]
+    },
+    {
+      "keyword": "储能",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "海辰储能王鹏程：2027年将成为AIDC储能商业化应用元年"
+      ]
+    },
     {
       "keyword": "医疗",
       "category": "板块",
@@ -12,11 +37,27 @@
       ]
     },
     {
+      "keyword": "白酒",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "A股三大指数午间休盘集体上涨，白酒股领跌"
+      ]
+    },
+    {
+      "keyword": "金融",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "半日主力资金加仓电子股，抛售非银金融股"
+      ]
+    },
+    {
       "keyword": "银行",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "银行渠道积极发力，FOF发行规模大幅增长"
+        "日本大型银行最快将于本月开始使用Anthropic公司的Mythos系统"
       ]
     },
     {
@@ -24,15 +65,7 @@
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "岚图汽车：东风香港增持2019.20万股H股"
-      ]
-    },
-    {
-      "keyword": "煤炭",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "国金证券：煤炭二季度业绩有望超预期，底部配置机会显现"
+        "韩国将从7月起实施电动汽车补贴评估制度"
       ]
     },
     {
@@ -44,19 +77,11 @@
       ]
     },
     {
-      "keyword": "增持",
+      "keyword": "IPO",
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "岚图汽车：东风香港增持2019.20万股H股"
-      ]
-    },
-    {
-      "keyword": "回购",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "央行今日开展5亿元7天逆回购操作"
+        "长鹰硬科的奇特现象：“买对手原料、做对手产品、赚比对手更高利润”｜IPO观察"
       ]
     },
     {
@@ -64,7 +89,7 @@
       "category": "港股",
       "count": 1,
       "sample_titles": [
-        "恒指开盘涨0.08%，恒生科技指数跌0.3%"
+        "恒指午间休盘涨0.26%，恒生科技指数涨0.52%"
       ]
     },
     {
@@ -72,39 +97,7 @@
       "category": "港股",
       "count": 1,
       "sample_titles": [
-        "恒指开盘涨0.08%，恒生科技指数跌0.3%"
-      ]
-    },
-    {
-      "keyword": "降息",
-      "category": "宏观",
-      "count": 1,
-      "sample_titles": [
-        "中信证券：美国二次通胀风险较小，基准情形下仍预计美联储年内降息25bps"
-      ]
-    },
-    {
-      "keyword": "通胀",
-      "category": "宏观",
-      "count": 1,
-      "sample_titles": [
-        "中信证券：美国二次通胀风险较小，基准情形下仍预计美联储年内降息25bps"
-      ]
-    },
-    {
-      "keyword": "美联储",
-      "category": "宏观",
-      "count": 1,
-      "sample_titles": [
-        "中信证券：美国二次通胀风险较小，基准情形下仍预计美联储年内降息25bps"
-      ]
-    },
-    {
-      "keyword": "央行",
-      "category": "宏观",
-      "count": 1,
-      "sample_titles": [
-        "央行今日开展5亿元7天逆回购操作"
+        "恒指午间休盘涨0.26%，恒生科技指数涨0.52%"
       ]
     }
   ]
