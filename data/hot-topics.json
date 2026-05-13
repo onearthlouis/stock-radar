@@ -1,23 +1,24 @@
 {
-  "generated_at": "2026-05-13T05:29:29.974937Z",
+  "generated_at": "2026-05-13T08:18:30.977128Z",
   "window_hours": 24,
-  "total_items_analyzed": 45,
+  "total_items_analyzed": 47,
   "hot_topics": [
+    {
+      "keyword": "芯片",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "芯片厂商联发科发布AI智能体化引擎2.0，与多家手机厂商合作系统原生Claw",
+        "36氪首发 | 清华系光计算芯片企业完成数千万天使轮融资，瞄准全波光计算架构"
+      ]
+    },
     {
       "keyword": "机器人",
       "category": "板块",
       "count": 2,
       "sample_titles": [
-        "众擎机器人增资至3206.8万，增幅900%",
+        "机器人公司岚江科技扩建8000平米生产基地，整体产能翻倍",
         "深耕“具身智能+建筑大模型”底座，重构万亿建筑业，「方石机器人」完成近亿元A轮融资 | 36氪首发"
-      ]
-    },
-    {
-      "keyword": "芯片",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "36氪首发 | 清华系光计算芯片企业完成数千万天使轮融资，瞄准全波光计算架构"
       ]
     },
     {
@@ -29,43 +30,11 @@
       ]
     },
     {
-      "keyword": "医疗",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "中标即投诉，投诉即废标，医疗设备集采乱象如何解？"
-      ]
-    },
-    {
-      "keyword": "白酒",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "A股三大指数午间休盘集体上涨，白酒股领跌"
-      ]
-    },
-    {
       "keyword": "金融",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "半日主力资金加仓电子股，抛售非银金融股"
-      ]
-    },
-    {
-      "keyword": "银行",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "日本大型银行最快将于本月开始使用Anthropic公司的Mythos系统"
-      ]
-    },
-    {
-      "keyword": "汽车",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "韩国将从7月起实施电动汽车补贴评估制度"
+        "很遗憾，OpenAI 和 Anthropic 开始玩金融工程了"
       ]
     },
     {
@@ -85,11 +54,19 @@
       ]
     },
     {
+      "keyword": "回购",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "西门子启动70亿美元新一轮股票回购计划"
+      ]
+    },
+    {
       "keyword": "恒指",
       "category": "港股",
       "count": 1,
       "sample_titles": [
-        "恒指午间休盘涨0.26%，恒生科技指数涨0.52%"
+        "恒指收涨0.15%，恒生科技指数涨0.46%"
       ]
     },
     {
@@ -97,7 +74,7 @@
       "category": "港股",
       "count": 1,
       "sample_titles": [
-        "恒指午间休盘涨0.26%，恒生科技指数涨0.52%"
+        "恒指收涨0.15%，恒生科技指数涨0.46%"
       ]
     }
   ]
