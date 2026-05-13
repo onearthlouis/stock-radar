@@ -1,48 +1,72 @@
 {
-  "generated_at": "2026-05-13T08:18:30.977128Z",
+  "generated_at": "2026-05-13T11:11:01.210821Z",
   "window_hours": 24,
-  "total_items_analyzed": 47,
+  "total_items_analyzed": 46,
   "hot_topics": [
-    {
-      "keyword": "芯片",
-      "category": "板块",
-      "count": 2,
-      "sample_titles": [
-        "芯片厂商联发科发布AI智能体化引擎2.0，与多家手机厂商合作系统原生Claw",
-        "36氪首发 | 清华系光计算芯片企业完成数千万天使轮融资，瞄准全波光计算架构"
-      ]
-    },
     {
       "keyword": "机器人",
       "category": "板块",
       "count": 2,
       "sample_titles": [
-        "机器人公司岚江科技扩建8000平米生产基地，整体产能翻倍",
+        "机器人行业最缺的，已经不是想象力了",
         "深耕“具身智能+建筑大模型”底座，重构万亿建筑业，「方石机器人」完成近亿元A轮融资 | 36氪首发"
       ]
     },
     {
-      "keyword": "储能",
-      "category": "板块",
-      "count": 1,
+      "keyword": "减持",
+      "category": "市场",
+      "count": 2,
       "sample_titles": [
-        "海辰储能王鹏程：2027年将成为AIDC储能商业化应用元年"
+        "北纬科技：控股股东傅乐民拟减持不超3%股份",
+        "展鹏科技：股东、董事及高级管理人员拟合计减持不超过4.97%股份"
       ]
     },
     {
-      "keyword": "金融",
+      "keyword": "半导体",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "很遗憾，OpenAI 和 Anthropic 开始玩金融工程了"
+        "太极实业：2025年度半导体业务收入占比15.15%"
       ]
     },
     {
-      "keyword": "量子",
+      "keyword": "芯片",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "200亿美元押注量子计算“iPhone时刻”：复刻AI，还是重演SPAC？"
+        "36氪首发 | 清华系光计算芯片企业完成数千万天使轮融资，瞄准全波光计算架构"
+      ]
+    },
+    {
+      "keyword": "人工智能",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "欧洲央行敦促欧元区银行业加强防范人工智能网络攻击"
+      ]
+    },
+    {
+      "keyword": "医药",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "迪安诊断：公司董事叶小平因涉嫌泰格医药持股变动信息披露违规被证监会立案调查"
+      ]
+    },
+    {
+      "keyword": "银行",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "欧洲央行敦促欧元区银行业加强防范人工智能网络攻击"
+      ]
+    },
+    {
+      "keyword": "地产",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "突击入股、清空主业、关联并购，3倍地产股跨界追光的勇与谋"
       ]
     },
     {
@@ -50,31 +74,23 @@
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "长鹰硬科的奇特现象：“买对手原料、做对手产品、赚比对手更高利润”｜IPO观察"
+        "红杉坐阵，收获一个330亿IPO"
       ]
     },
     {
-      "keyword": "回购",
-      "category": "市场",
+      "keyword": "央行",
+      "category": "宏观",
       "count": 1,
       "sample_titles": [
-        "西门子启动70亿美元新一轮股票回购计划"
+        "欧洲央行敦促欧元区银行业加强防范人工智能网络攻击"
       ]
     },
     {
-      "keyword": "恒指",
-      "category": "港股",
+      "keyword": "证监会",
+      "category": "宏观",
       "count": 1,
       "sample_titles": [
-        "恒指收涨0.15%，恒生科技指数涨0.46%"
-      ]
-    },
-    {
-      "keyword": "恒生科技",
-      "category": "港股",
-      "count": 1,
-      "sample_titles": [
-        "恒指收涨0.15%，恒生科技指数涨0.46%"
+        "迪安诊断：公司董事叶小平因涉嫌泰格医药持股变动信息披露违规被证监会立案调查"
       ]
     }
   ]
