@@ -1,38 +1,39 @@
 {
-  "generated_at": "2026-05-14T01:28:06.042419Z",
+  "generated_at": "2026-05-14T05:29:45.091974Z",
   "window_hours": 24,
-  "total_items_analyzed": 45,
+  "total_items_analyzed": 48,
   "hot_topics": [
-    {
-      "keyword": "芯片",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "模拟芯片新周期之下，谁能抢占红利？"
-      ]
-    },
-    {
-      "keyword": "光伏",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "光伏巨头13亿“割肉”美国工厂，前中国首富妻子接手？"
-      ]
-    },
     {
       "keyword": "机器人",
       "category": "板块",
-      "count": 1,
+      "count": 2,
       "sample_titles": [
+        "字节跳动、上汽等入股自变量机器人",
         "8点1氪丨林俊旸新公司估值20亿美金；贾跃亭宣布转战机器人业务；网红糖果被发现掺超高剂量伟哥"
       ]
     },
     {
-      "keyword": "医药",
+      "keyword": "半导体",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "机械设备和医药板块关注度升温，机构5月调研挖掘结构性机遇"
+        "A股三大指数午间休盘集体下跌，半导体走弱"
+      ]
+    },
+    {
+      "keyword": "医疗",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "九安医疗，已经长成了大资本"
+      ]
+    },
+    {
+      "keyword": "银行",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "中信银行增资至556.5亿，增幅约14%"
       ]
     },
     {
@@ -44,11 +45,19 @@
       ]
     },
     {
-      "keyword": "回购",
-      "category": "市场",
+      "keyword": "汽车",
+      "category": "板块",
       "count": 1,
       "sample_titles": [
-        "央行公开市场开展5亿元7天期逆回购操作"
+        "本田汽车第四财季销售净额5.82万亿日元"
+      ]
+    },
+    {
+      "keyword": "石油",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "日本Eneos斥资22亿美元收购雪佛龙部分亚洲石油资产"
       ]
     },
     {
@@ -56,7 +65,7 @@
       "category": "港股",
       "count": 1,
       "sample_titles": [
-        "恒指开盘涨1.7%，恒生科技指数涨3.23%"
+        "恒指午间休盘涨0.34%，恒生科技指数涨0.3%"
       ]
     },
     {
@@ -64,23 +73,7 @@
       "category": "港股",
       "count": 1,
       "sample_titles": [
-        "恒指开盘涨1.7%，恒生科技指数涨3.23%"
-      ]
-    },
-    {
-      "keyword": "美联储",
-      "category": "宏观",
-      "count": 1,
-      "sample_titles": [
-        "美联储再次大幅削减国库券购买规模"
-      ]
-    },
-    {
-      "keyword": "央行",
-      "category": "宏观",
-      "count": 1,
-      "sample_titles": [
-        "央行公开市场开展5亿元7天期逆回购操作"
+        "恒指午间休盘涨0.34%，恒生科技指数涨0.3%"
       ]
     }
   ]
