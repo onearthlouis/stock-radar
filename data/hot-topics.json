@@ -1,23 +1,30 @@
 {
-  "generated_at": "2026-05-14T08:13:18.915156Z",
+  "generated_at": "2026-05-14T10:59:15.544783Z",
   "window_hours": 24,
-  "total_items_analyzed": 49,
+  "total_items_analyzed": 46,
   "hot_topics": [
+    {
+      "keyword": "半导体",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "天岳先进：碳化硅半导体衬底行业近年来市场竞争日趋激烈，产品价格面临一定下行压力"
+      ]
+    },
     {
       "keyword": "机器人",
       "category": "板块",
-      "count": 2,
+      "count": 1,
       "sample_titles": [
-        "美国机器人三巨头特斯拉、Figure、1X，正在把竞争带向“Physical AI”",
         "8点1氪丨林俊旸新公司估值20亿美金；贾跃亭宣布转战机器人业务；网红糖果被发现掺超高剂量伟哥"
       ]
     },
     {
-      "keyword": "军工",
+      "keyword": "医疗",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "A股三大指数集体收跌，航天军工板块领跌"
+        "东星医疗最大并购案：溢价三倍豪掷7.7亿，一口气把商誉堆到近10亿"
       ]
     },
     {
@@ -29,27 +36,35 @@
       ]
     },
     {
-      "keyword": "IPO",
+      "keyword": "地产",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "ST龙韵：全资子公司拟挂牌出售投资性房地产"
+      ]
+    },
+    {
+      "keyword": "房地产",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "ST龙韵：全资子公司拟挂牌出售投资性房地产"
+      ]
+    },
+    {
+      "keyword": "连板",
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "上海科创基金投资组合IPO数量增至202家"
+        "3连板可川科技：可川光子相关产品后续市场接受度、市场份额存在重大不确定性"
       ]
     },
     {
-      "keyword": "恒指",
-      "category": "港股",
+      "keyword": "回购",
+      "category": "市场",
       "count": 1,
       "sample_titles": [
-        "恒指平收，恒生科技指数跌0.35%"
-      ]
-    },
-    {
-      "keyword": "恒生科技",
-      "category": "港股",
-      "count": 1,
-      "sample_titles": [
-        "恒指平收，恒生科技指数跌0.35%"
+        "曹操出行拟启动最高2亿港元股份回购计划，称当前股价未充分反映公司价值"
       ]
     }
   ]
