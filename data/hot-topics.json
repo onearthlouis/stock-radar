@@ -1,64 +1,79 @@
 {
-  "generated_at": "2026-05-15T07:43:05.844252Z",
+  "generated_at": "2026-05-15T10:33:41.136938Z",
   "window_hours": 24,
   "total_items_analyzed": 49,
   "hot_topics": [
     {
-      "keyword": "消费",
-      "category": "板块",
-      "count": 2,
+      "keyword": "证监会",
+      "category": "宏观",
+      "count": 6,
       "sample_titles": [
-        "消费企业的年报里，写清了品牌迁徙真相",
-        "36氪首发 | 前大疆核心成员做消费级CNC，获美团、昆仑资本、奇绩创坛投资近亿元"
+        "齐云山食品港股IPO获中国证监会备案",
+        "仙工智能港股IPO获中国证监会备案",
+        "瑞为技术港股IPO获中国证监会备案"
       ]
     },
     {
       "keyword": "IPO",
       "category": "市场",
+      "count": 5,
+      "sample_titles": [
+        "齐云山食品港股IPO获中国证监会备案",
+        "仙工智能港股IPO获中国证监会备案",
+        "瑞为技术港股IPO获中国证监会备案"
+      ]
+    },
+    {
+      "keyword": "港股",
+      "category": "港股",
+      "count": 4,
+      "sample_titles": [
+        "齐云山食品港股IPO获中国证监会备案",
+        "仙工智能港股IPO获中国证监会备案",
+        "瑞为技术港股IPO获中国证监会备案"
+      ]
+    },
+    {
+      "keyword": "消费",
+      "category": "板块",
+      "count": 3,
+      "sample_titles": [
+        "证监会召开资本市场支持现代服务业和新型消费企业发展座谈会",
+        "36氪联合PureblueAI清蓝发布「2026消费品牌AI推荐力名册」丨AI时代，品牌如何抢占「推荐力」新战场？",
+        "36氪首发 | 前大疆核心成员做消费级CNC，获美团、昆仑资本、奇绩创坛投资近亿元"
+      ]
+    },
+    {
+      "keyword": "减持",
+      "category": "市场",
       "count": 2,
       "sample_titles": [
-        "淘车车：八年累亏 43.79 亿，社保公积金合规短板凸显｜IPO观察",
-        "SpaceX下月冲刺万亿IPO，马斯克设规则确保不被罢免"
+        "白银有色：股东中信集团拟减持不超1%股份",
+        "盛科通信：股东大基金拟减持不超2.50%股份"
       ]
     },
     {
-      "keyword": "半导体",
+      "keyword": "新能源",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "全球半导体TOP10，Q1赚疯了"
+        "证监会同意华润新能源深市主板IPO注册"
       ]
     },
     {
-      "keyword": "储能",
+      "keyword": "汽车",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "亿纬锂能：储能电池业务订单饱满，满产满销"
+        "零跑汽车：一季度营收达108.2亿元"
       ]
     },
     {
-      "keyword": "机器人",
+      "keyword": "有色",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "曾经全球第一的日本机器人，迎来「黄昏时刻」"
-      ]
-    },
-    {
-      "keyword": "医药",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "910亿医药大佬，签下千亿大单"
-      ]
-    },
-    {
-      "keyword": "石油",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "阿联酋东西输油管道或明年投运，将提高阿布扎比国家石油公司出口能力"
+        "白银有色：股东中信集团拟减持不超1%股份"
       ]
     }
   ]
