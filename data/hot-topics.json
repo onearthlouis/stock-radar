@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T23:30:20.543571Z",
+  "generated_at": "2026-05-16T01:20:17.657249Z",
   "window_hours": 24,
   "total_items_analyzed": 47,
   "hot_topics": [
@@ -23,12 +23,39 @@
       ]
     },
     {
+      "keyword": "IPO",
+      "category": "市场",
+      "count": 2,
+      "sample_titles": [
+        "下海造卫星，又一位北理工校友要IPO敲钟了",
+        "营收缩水，分红6.9亿募资15.83亿，保伦股份IPO怎么看"
+      ]
+    },
+    {
       "keyword": "减持",
       "category": "市场",
       "count": 2,
       "sample_titles": [
         "同花顺：股东拟合计减持不超0.54%股份",
         "奥比中光：控股股东及其一致行动人等拟减持公司不超1.5421%股份"
+      ]
+    },
+    {
+      "keyword": "增持",
+      "category": "市场",
+      "count": 2,
+      "sample_titles": [
+        "高瓴增持英伟达、英特尔、台积电、Lumentum",
+        "招商轮船：子公司拟追加8.03亿元增持安通控股股份"
+      ]
+    },
+    {
+      "keyword": "分红",
+      "category": "市场",
+      "count": 2,
+      "sample_titles": [
+        "营收缩水，分红6.9亿募资15.83亿，保伦股份IPO怎么看",
+        "麦肯锡推行人工智能时代薪酬改革，削减合伙人现金分红比例"
       ]
     },
     {
@@ -72,27 +99,19 @@
       ]
     },
     {
-      "keyword": "IPO",
-      "category": "市场",
+      "keyword": "GDP",
+      "category": "宏观",
       "count": 1,
       "sample_titles": [
-        "5个月9个IPO，雷军投出4000亿"
+        "9点1氪丨央视6000万美元获得世界杯版权；英伟达总市值超过德国GDP；iPhone 17 Pro系列全线下调1000元"
       ]
     },
     {
-      "keyword": "增持",
-      "category": "市场",
+      "keyword": "美联储",
+      "category": "宏观",
       "count": 1,
       "sample_titles": [
-        "招商轮船：子公司拟追加8.03亿元增持安通控股股份"
-      ]
-    },
-    {
-      "keyword": "分红",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "麦肯锡推行人工智能时代薪酬改革，削减合伙人现金分红比例"
+        "美联储：沃什正式就任前鲍威尔将暂任“临时主席”"
       ]
     },
     {
