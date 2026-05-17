@@ -1,24 +1,25 @@
 {
-  "generated_at": "2026-05-17T05:32:02.566352Z",
+  "generated_at": "2026-05-17T08:29:31.250757Z",
   "window_hours": 24,
-  "total_items_analyzed": 41,
+  "total_items_analyzed": 46,
   "hot_topics": [
+    {
+      "keyword": "IPO",
+      "category": "市场",
+      "count": 3,
+      "sample_titles": [
+        "阿麦斯冲刺IPO，“中国软糖第一股”要来了？",
+        "史上最大IPO来袭，SpaceX加速驶入纳斯达克",
+        "四次IPO铩羽而归，被腾讯收购是喜马拉雅最好的“归宿”"
+      ]
+    },
     {
       "keyword": "半导体",
       "category": "板块",
       "count": 2,
       "sample_titles": [
-        "光力科技：长期来看公司半导体业务毛利率将会得到提升",
-        "中微半导体董事长：希望国内客户给设备公司更多机会"
-      ]
-    },
-    {
-      "keyword": "IPO",
-      "category": "市场",
-      "count": 2,
-      "sample_titles": [
-        "史上最大IPO来袭，SpaceX加速驶入纳斯达克",
-        "四次IPO铩羽而归，被腾讯收购是喜马拉雅最好的“归宿”"
+        "韩国将投入超1亿美元扶持中小企业，覆盖半导体产业",
+        "光力科技：长期来看公司半导体业务毛利率将会得到提升"
       ]
     },
     {
@@ -26,15 +27,7 @@
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "反杀英伟达！亏损多年却一夜千亿，这家 AI 芯片公司凭什么炸翻美股？"
-      ]
-    },
-    {
-      "keyword": "人工智能",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "印度股市市值蒸发9240亿美元，错失人工智能浪潮"
+        "传三星Exynos 2700芯片正考虑放弃FOWLP先进封装工艺"
       ]
     },
     {
@@ -42,31 +35,23 @@
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "走进数采工厂：深聊机器人数据荒漠、四层金字塔与种树人"
+        "杭州机器人展吸引全球客商“淘”宝，意向合作总金额突破213亿元"
       ]
     },
     {
-      "keyword": "金融",
+      "keyword": "消费",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "招商策略：A股非金融上市企业开启新一轮产能扩张周期"
+        "日本2025财年人均大米消费量下滑6%，创七年新低"
       ]
     },
     {
-      "keyword": "银行",
-      "category": "板块",
+      "keyword": "连板",
+      "category": "市场",
       "count": 1,
       "sample_titles": [
-        "美国银行就7-11网点ATM手续费争议达成诉讼和解"
-      ]
-    },
-    {
-      "keyword": "汽车",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "长安汽车否认与千里科技合作"
+        "九连板*ST准油：公司、控股股东和实际控制人并无注入算力资产的计划"
       ]
     }
   ]
