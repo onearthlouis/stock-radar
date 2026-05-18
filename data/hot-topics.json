@@ -1,50 +1,87 @@
 {
-  "generated_at": "2026-05-17T23:33:28.880079Z",
+  "generated_at": "2026-05-18T04:16:13.722677Z",
   "window_hours": 24,
-  "total_items_analyzed": 47,
+  "total_items_analyzed": 48,
   "hot_topics": [
+    {
+      "keyword": "医药",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "半日主力资金加仓电子、机械设备股，抛售医药生物股",
+        "上海市市长龚正：更大力度赋能集成电路、生物医药、人工智能等十大千亿级硬核产业集群发展"
+      ]
+    },
+    {
+      "keyword": "芯片",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "存储的盛宴里，CIS芯片却有了N种方向"
+      ]
+    },
+    {
+      "keyword": "人工智能",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "上海市市长龚正：更大力度赋能集成电路、生物医药、人工智能等十大千亿级硬核产业集群发展"
+      ]
+    },
+    {
+      "keyword": "机器人",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "上海市经济信息化委主任汤文侃：到“十五五”末推动10万台人形机器人进工厂"
+      ]
+    },
     {
       "keyword": "消费",
       "category": "板块",
-      "count": 3,
+      "count": 1,
       "sample_titles": [
-        "离境退税优化举措推出在即，持续激活入境消费潜力",
-        "为破解净值困局，部分“消费”基金转投科技",
-        "阿根廷牛肉消费量降至20年来最低水平"
+        "国家统计局：文旅热赛事热成为服务消费发展的新亮点"
+      ]
+    },
+    {
+      "keyword": "石油",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "A股三大指数午间休盘集体下跌，中曼石油涨超4%"
       ]
     },
     {
       "keyword": "IPO",
       "category": "市场",
-      "count": 3,
-      "sample_titles": [
-        "阿麦斯冲刺IPO，“中国软糖第一股”要来了？",
-        "史上最大IPO来袭，SpaceX加速驶入纳斯达克",
-        "四次IPO铩羽而归，被腾讯收购是喜马拉雅最好的“归宿”"
-      ]
-    },
-    {
-      "keyword": "半导体",
-      "category": "板块",
       "count": 1,
       "sample_titles": [
-        "华泰证券：科技内部切换可考虑半导体设备、分立器件等方向"
+        "史上最大IPO来袭，SpaceX加速驶入纳斯达克"
       ]
     },
     {
-      "keyword": "通胀",
+      "keyword": "恒指",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "恒指午间休盘跌1.35%，恒生科技指数跌2.08%"
+      ]
+    },
+    {
+      "keyword": "恒生科技",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "恒指午间休盘跌1.35%，恒生科技指数跌2.08%"
+      ]
+    },
+    {
+      "keyword": "GDP",
       "category": "宏观",
       "count": 1,
       "sample_titles": [
-        "欧洲国债收益率高企，通胀攀升或推动央行加息"
-      ]
-    },
-    {
-      "keyword": "央行",
-      "category": "宏观",
-      "count": 1,
-      "sample_titles": [
-        "欧洲国债收益率高企，通胀攀升或推动央行加息"
+        "上海市市长龚正：到2030年全社会研发经费支出GDP占比提高到5%以上"
       ]
     }
   ]
