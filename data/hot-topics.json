@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-05-20T04:49:15.751374Z",
+  "generated_at": "2026-05-20T08:31:51.159523Z",
   "window_hours": 24,
-  "total_items_analyzed": 49,
+  "total_items_analyzed": 47,
   "hot_topics": [
-    {
-      "keyword": "芯片",
-      "category": "板块",
-      "count": 2,
-      "sample_titles": [
-        "平头哥AI芯片真武M890首次亮相，性能提升至3倍",
-        "拆掉Token暴利墙，云厂商下场造芯 | 企服国际观察"
-      ]
-    },
     {
       "keyword": "机器人",
       "category": "板块",
       "count": 2,
       "sample_titles": [
-        "地瓜机器人与千寻智能达成战略合作",
+        "VLA已死，WAM当立：机器人的GPT时刻到了吗？",
         "做出百万台割草机器人后，未岚大陆CEO决定让自己变得“不重要”｜硬氪专访"
+      ]
+    },
+    {
+      "keyword": "汽车",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "韩国4月汽车出口总额61.7 亿美元，同比下降5.5%",
+        "长安汽车在南昌成立新销售公司，注册资本1000万"
       ]
     },
     {
@@ -26,15 +26,39 @@
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "A股三大指数午间休盘涨跌不一，半导体产业链走强"
+        "A股三大指数收盘涨跌不一，半导体板块走强"
       ]
     },
     {
-      "keyword": "金融",
+      "keyword": "芯片",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "Token生死线：金融AI企业的降本狂奔"
+        "AI进入万亿Token时代，国产芯片如何构建行业壁垒？"
+      ]
+    },
+    {
+      "keyword": "医药",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "A股暴跌近12%，单日市值蒸发约20亿元，CRO龙头泰格医药为何业绩崩盘？"
+      ]
+    },
+    {
+      "keyword": "银行",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "新交所与中国银行签署新版战略合作备忘录"
+      ]
+    },
+    {
+      "keyword": "分红",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "“文胸大王”汇洁股份：高分红、吃老本"
       ]
     },
     {
@@ -42,7 +66,7 @@
       "category": "港股",
       "count": 1,
       "sample_titles": [
-        "恒指午间休盘跌0.55%，恒生科技指数涨0.17%"
+        "恒指收跌0.57%，恒生科技指数涨0.34%"
       ]
     },
     {
@@ -50,7 +74,15 @@
       "category": "港股",
       "count": 1,
       "sample_titles": [
-        "恒指午间休盘跌0.55%，恒生科技指数涨0.17%"
+        "恒指收跌0.57%，恒生科技指数涨0.34%"
+      ]
+    },
+    {
+      "keyword": "CPI",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "英国4月CPI同比上涨2.8%"
       ]
     }
   ]
