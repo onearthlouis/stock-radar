@@ -1,97 +1,56 @@
 {
-  "generated_at": "2026-05-20T00:13:49.789661Z",
+  "generated_at": "2026-05-20T04:49:15.751374Z",
   "window_hours": 24,
-  "total_items_analyzed": 39,
+  "total_items_analyzed": 49,
   "hot_topics": [
+    {
+      "keyword": "芯片",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "平头哥AI芯片真武M890首次亮相，性能提升至3倍",
+        "拆掉Token暴利墙，云厂商下场造芯 | 企服国际观察"
+      ]
+    },
+    {
+      "keyword": "机器人",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "地瓜机器人与千寻智能达成战略合作",
+        "做出百万台割草机器人后，未岚大陆CEO决定让自己变得“不重要”｜硬氪专访"
+      ]
+    },
+    {
+      "keyword": "半导体",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "A股三大指数午间休盘涨跌不一，半导体产业链走强"
+      ]
+    },
     {
       "keyword": "金融",
       "category": "板块",
-      "count": 2,
-      "sample_titles": [
-        "汽车金融公司龙头再易主",
-        "【钛晨报】事关小微企业金融服务工作，国家金融监督管理总局最新部署；DeepSeek:特殊字符引发模型幻觉，不涉及安全问题或隐私泄露；长江存储发布首次公开发行股票并上市辅导备案报告"
-      ]
-    },
-    {
-      "keyword": "银行",
-      "category": "板块",
-      "count": 2,
-      "sample_titles": [
-        "美国监管机构提议对银行评级体系进行全面改革",
-        "高盛据称领衔SpaceX首次公开募股银行阵容"
-      ]
-    },
-    {
-      "keyword": "汽车",
-      "category": "板块",
-      "count": 2,
-      "sample_titles": [
-        "消息称Stellantis将与东风汽车成立合资企业，在法国工厂生产岚图汽车",
-        "汽车金融公司龙头再易主"
-      ]
-    },
-    {
-      "keyword": "新能源",
-      "category": "板块",
       "count": 1,
       "sample_titles": [
-        "超10家主流车企部分车型涨价，新能源车市转向价值竞争新阶段"
+        "Token生死线：金融AI企业的降本狂奔"
       ]
     },
     {
-      "keyword": "储能",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "独家一线调研：碳酸锂涨到多少，储能就玩不动了？"
-      ]
-    },
-    {
-      "keyword": "地产",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "华泰证券：房价边际改善态势延续，有望带来地产股布局机遇"
-      ]
-    },
-    {
-      "keyword": "新能源车",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "超10家主流车企部分车型涨价，新能源车市转向价值竞争新阶段"
-      ]
-    },
-    {
-      "keyword": "IPO",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "SpaceX据悉打算在美国IPO过后30天收购初创公司Cursor"
-      ]
-    },
-    {
-      "keyword": "回购",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "“忽悠式”回购“翻车”，广汇能源与“新疆首富”仍在困局之中"
-      ]
-    },
-    {
-      "keyword": "港股",
+      "keyword": "恒指",
       "category": "港股",
       "count": 1,
       "sample_titles": [
-        "万倍认购股再现，港股“打新”持续火热"
+        "恒指午间休盘跌0.55%，恒生科技指数涨0.17%"
       ]
     },
     {
-      "keyword": "美联储",
-      "category": "宏观",
+      "keyword": "恒生科技",
+      "category": "港股",
       "count": 1,
       "sample_titles": [
-        "美联储年内加息概率升至80%，互换市场定价彻底转向鹰派"
+        "恒指午间休盘跌0.55%，恒生科技指数涨0.17%"
       ]
     }
   ]
