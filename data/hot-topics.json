@@ -1,15 +1,34 @@
 {
-  "generated_at": "2026-05-21T08:09:35.909663Z",
+  "generated_at": "2026-05-21T11:49:35.947811Z",
   "window_hours": 24,
-  "total_items_analyzed": 45,
+  "total_items_analyzed": 46,
   "hot_topics": [
     {
-      "keyword": "IPO",
-      "category": "市场",
-      "count": 2,
+      "keyword": "机器人",
+      "category": "板块",
+      "count": 3,
       "sample_titles": [
-        "Tencent-backed Leju Robot Files for an IPO in Shenzhen",
-        "4550 亿，“存储双雄”冲刺IPO，带富两座城"
+        "中鼎股份：拟发行不超19.2亿元可转债用于智能机器人等项目",
+        "菜鸟副总裁毕江华：仓库人效提升100%，攀爬机器人ZeeBot启动全球交付",
+        "城市级AI服务：从试点到常态化，机器人的实景作战与规模化落地| 2026AI Partner·北京亦庄AI+产业大会"
+      ]
+    },
+    {
+      "keyword": "减持",
+      "category": "市场",
+      "count": 3,
+      "sample_titles": [
+        "翔丰华：股东钟英浩拟减持公司不超过2.00%股份",
+        "浙江新能：股东新能发展拟减持不超3%股份",
+        "神马电力：股东陈小琴拟减持不超3%股份"
+      ]
+    },
+    {
+      "keyword": "半导体",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "沃格光电：公司在泛半导体领域的业务尚处于早期阶段，营收规模占比极低"
       ]
     },
     {
@@ -17,15 +36,23 @@
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "氪星晚报｜2026福布斯中国人工智能科技企业TOP 50发布，中关村科金入选；三星劳资谈判破裂，威刚董事长称DRAM、NAND恐再掀涨价潮；新交所与中国银行签署新版战略合作备忘录"
+        "开场致辞 建设“全域人工智能之城” | 2026AI Partner·北京亦庄AI+产业大会"
       ]
     },
     {
-      "keyword": "金融",
+      "keyword": "储能",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "深圳金融监管局：2025年深圳辖内外资行境内外协作服务客户约1.5万户"
+        "华电校友王君生出任晶澳储能事业部老大， 换人能解决这家组件龙头企业的难题吗？"
+      ]
+    },
+    {
+      "keyword": "消费",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "36氪x PureblueAI清蓝战略合作启动仪式暨《2026消费品牌AI推荐力名册》发布 | 2026 AI Partner·北京亦庄AI+产业大会"
       ]
     },
     {
@@ -33,7 +60,39 @@
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "氪星晚报｜2026福布斯中国人工智能科技企业TOP 50发布，中关村科金入选；三星劳资谈判破裂，威刚董事长称DRAM、NAND恐再掀涨价潮；新交所与中国银行签署新版战略合作备忘录"
+        "浙江东方：拟9.29亿元收购杭州联合银行4%股份"
+      ]
+    },
+    {
+      "keyword": "石油",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "沙特3月石油出口额飙升至三年新高"
+      ]
+    },
+    {
+      "keyword": "量子",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "特朗普政府将向九家量子计算企业发放总额20亿美元补助"
+      ]
+    },
+    {
+      "keyword": "低空经济",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "声迅股份：公司在低空经济领域整体业务规模较小"
+      ]
+    },
+    {
+      "keyword": "连板",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "7连板威龙股份：无注入“算力”计划"
       ]
     },
     {
@@ -41,15 +100,23 @@
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "深圳金融监管局：2025年深圳辖内外资行境内外协作服务客户约1.5万户"
+        "报告显示去年中国成为德国最大外资项目来源国"
       ]
     },
     {
-      "keyword": "恒生科技",
-      "category": "港股",
+      "keyword": "IPO",
+      "category": "市场",
       "count": 1,
       "sample_titles": [
-        "恒生科技指数跌幅扩大至2%"
+        "格林生物创业板IPO定于5月28日上会"
+      ]
+    },
+    {
+      "keyword": "PMI",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "欧元区5月综合PMI跌至31个月新低"
       ]
     }
   ]
