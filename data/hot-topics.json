@@ -1,82 +1,72 @@
 {
-  "generated_at": "2026-05-22T04:15:29.872815Z",
+  "generated_at": "2026-05-22T08:00:05.279022Z",
   "window_hours": 24,
   "total_items_analyzed": 48,
   "hot_topics": [
     {
-      "keyword": "IPO",
-      "category": "市场",
-      "count": 4,
+      "keyword": "机器人",
+      "category": "板块",
+      "count": 2,
       "sample_titles": [
-        "SpaceX在设计其IPO时就考虑到了普通投资者，但仍需谨慎",
-        "SpaceX的IPO申报，正在带动Rocket Lab、CoreWeave及其他股票上涨",
-        "突发！创始人融资回购 Manus，拟赴港股 IPO"
+        "智元西南具身智能产业基地首批200台机器人正式下线",
+        "人形机器人走进工业制造：共育新质生产力"
+      ]
+    },
+    {
+      "keyword": "银行",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "杭州银行增资至72.5亿，增幅约22%",
+        "银行年报里的中国经济真实图景"
+      ]
+    },
+    {
+      "keyword": "医疗",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "圆桌对话：看见实效：从技术到处方，AI +医疗的场景落地与价值闭环| 2026AI Partner·北京亦庄AI+产业大会"
+      ]
+    },
+    {
+      "keyword": "金融",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "圆桌对话：降本增效 风控提智：数字员工驱动金融数智化转型的实战样本| 2026AI Partner·北京亦庄AI+产业大会"
+      ]
+    },
+    {
+      "keyword": "地产",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "韩国邮政拟加码AI数据中心和欧美地产投资"
       ]
     },
     {
       "keyword": "汽车",
       "category": "板块",
-      "count": 2,
-      "sample_titles": [
-        "从Demo到生产力：阿尔特太乙如何让AI走进汽车设计研发深水区| 2026AI Partner·北京亦庄AI+产业大会",
-        "广汇汽车被冻结58亿股权"
-      ]
-    },
-    {
-      "keyword": "港股",
-      "category": "港股",
-      "count": 2,
-      "sample_titles": [
-        "港股AI应用板块持续走强，智谱涨超21%",
-        "突发！创始人融资回购 Manus，拟赴港股 IPO"
-      ]
-    },
-    {
-      "keyword": "芯片",
-      "category": "板块",
       "count": 1,
       "sample_titles": [
-        "国家发改委：指导国产大模型加大力度适配国产算力芯片"
+        "因前置摄像头存在软件缺陷，现代在美召回超42万辆汽车"
       ]
     },
     {
-      "keyword": "人工智能",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "国家发改委：正在谋划出台加快人工智能落地的配套文件"
-      ]
-    },
-    {
-      "keyword": "消费",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "抖音商城618前六日数据：消费券带动成交额破亿商家同比增长325%"
-      ]
-    },
-    {
-      "keyword": "回购",
+      "keyword": "涨停",
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "突发！创始人融资回购 Manus，拟赴港股 IPO"
+        "A股三大指数集体收涨，黄河旋风涨停"
       ]
     },
     {
-      "keyword": "恒指",
-      "category": "港股",
+      "keyword": "IPO",
+      "category": "市场",
       "count": 1,
       "sample_titles": [
-        "恒指午间休盘涨1.22%，恒生科技指数涨2.08%"
-      ]
-    },
-    {
-      "keyword": "恒生科技",
-      "category": "港股",
-      "count": 1,
-      "sample_titles": [
-        "恒指午间休盘涨1.22%，恒生科技指数涨2.08%"
+        "OpenAI IPO再生变数：刚传本周递表，奥特曼就暗示上市时间可能延后"
       ]
     },
     {
@@ -85,14 +75,6 @@
       "count": 1,
       "sample_titles": [
         "通胀正在刺痛债券市场——但有一个重大例外"
-      ]
-    },
-    {
-      "keyword": "央行",
-      "category": "宏观",
-      "count": 1,
-      "sample_titles": [
-        "菲律宾央行行长表示正考虑在例行周期外加息"
       ]
     }
   ]
