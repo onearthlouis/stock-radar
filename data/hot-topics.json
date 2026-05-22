@@ -1,24 +1,32 @@
 {
-  "generated_at": "2026-05-22T08:00:05.279022Z",
+  "generated_at": "2026-05-22T11:14:08.653105Z",
   "window_hours": 24,
-  "total_items_analyzed": 48,
+  "total_items_analyzed": 46,
   "hot_topics": [
     {
-      "keyword": "机器人",
-      "category": "板块",
-      "count": 2,
+      "keyword": "央行",
+      "category": "宏观",
+      "count": 4,
       "sample_titles": [
-        "智元西南具身智能产业基地首批200台机器人正式下线",
-        "人形机器人走进工业制造：共育新质生产力"
+        "央行：2026年4月同业拆借日均成交4614.8亿元，同比增加46%",
+        "央行：2026年4月上海黄金交易所黄金成交5633.7吨，同比减少17%",
+        "央行：2026年4月沪深两市日均成交额23437.9亿元，环比增加1.3%"
       ]
     },
     {
-      "keyword": "银行",
+      "keyword": "新能源",
       "category": "板块",
-      "count": 2,
+      "count": 1,
       "sample_titles": [
-        "杭州银行增资至72.5亿，增幅约22%",
-        "银行年报里的中国经济真实图景"
+        "海目星：拟出资2亿元参设产业基金，投资领域主要为新能源电池产业供应链及其他新兴产业领域的项目"
+      ]
+    },
+    {
+      "keyword": "储能",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "挤掉日韩，中国企业全面占领储能电芯Top10榜单"
       ]
     },
     {
@@ -30,11 +38,11 @@
       ]
     },
     {
-      "keyword": "金融",
+      "keyword": "保险",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "圆桌对话：降本增效 风控提智：数字员工驱动金融数智化转型的实战样本| 2026AI Partner·北京亦庄AI+产业大会"
+        "慕尼黑再保险任命Gavin Maistry担任亚太、中东及非洲寿险与健康险首席执行官"
       ]
     },
     {
@@ -42,23 +50,7 @@
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "韩国邮政拟加码AI数据中心和欧美地产投资"
-      ]
-    },
-    {
-      "keyword": "汽车",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "因前置摄像头存在软件缺陷，现代在美召回超42万辆汽车"
-      ]
-    },
-    {
-      "keyword": "涨停",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "A股三大指数集体收涨，黄河旋风涨停"
+        "传泡泡玛特买入北京太古坊整栋写字楼，太古地产回应“不便置评”"
       ]
     },
     {
@@ -66,15 +58,23 @@
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "OpenAI IPO再生变数：刚传本周递表，奥特曼就暗示上市时间可能延后"
+        "马斯克的SpaceX万亿IPO迷局"
       ]
     },
     {
-      "keyword": "通胀",
-      "category": "宏观",
+      "keyword": "减持",
+      "category": "市场",
       "count": 1,
       "sample_titles": [
-        "通胀正在刺痛债券市场——但有一个重大例外"
+        "重庆燃气：股东拟减持不超1.8%公司股份"
+      ]
+    },
+    {
+      "keyword": "回购",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "美力科技：拟4000万元—7000万元回购公司股份"
       ]
     }
   ]
