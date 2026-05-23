@@ -1,17 +1,8 @@
 {
-  "generated_at": "2026-05-23T12:37:57.427015Z",
+  "generated_at": "2026-05-23T14:42:48.519904Z",
   "window_hours": 24,
   "total_items_analyzed": 47,
   "hot_topics": [
-    {
-      "keyword": "消费",
-      "category": "板块",
-      "count": 2,
-      "sample_titles": [
-        "美国消费者信心指数跌至历史新低",
-        "宝尊Q1净收入增长15%至24亿元；亚玛芬体育Q1营收大中华区涨44.5%；珀莱雅拟持股51%花知晓；雅诗兰黛公司与Puig集团终止谈判｜消研所周报"
-      ]
-    },
     {
       "keyword": "IPO",
       "category": "市场",
@@ -54,6 +45,14 @@
       ]
     },
     {
+      "keyword": "消费",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "美国消费者信心指数跌至历史新低"
+      ]
+    },
+    {
       "keyword": "汽车",
       "category": "板块",
       "count": 1,
@@ -83,6 +82,22 @@
       "count": 1,
       "sample_titles": [
         "富途：已回购约1.6亿美元美国存托股份"
+      ]
+    },
+    {
+      "keyword": "美联储",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "美联储换帅：史上最富央行行长白宫宣誓，特朗普当场给沃什写了“工作说明书”"
+      ]
+    },
+    {
+      "keyword": "央行",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "美联储换帅：史上最富央行行长白宫宣誓，特朗普当场给沃什写了“工作说明书”"
       ]
     }
   ]
