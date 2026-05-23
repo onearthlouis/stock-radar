@@ -1,18 +1,8 @@
 {
-  "generated_at": "2026-05-22T23:10:00.260884Z",
+  "generated_at": "2026-05-23T01:25:14.548192Z",
   "window_hours": 24,
   "total_items_analyzed": 46,
   "hot_topics": [
-    {
-      "keyword": "减持",
-      "category": "市场",
-      "count": 3,
-      "sample_titles": [
-        "荣耀内部回应IPO问题：上市没有终止，开放员工减持通道",
-        "中微公司：巽鑫投资拟减持公司不超2%股份",
-        "翱捷科技：阿里网络拟减持公司不超3%股份"
-      ]
-    },
     {
       "keyword": "机器人",
       "category": "板块",
@@ -48,6 +38,14 @@
       ]
     },
     {
+      "keyword": "减持",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "荣耀内部回应IPO问题：上市没有终止，开放员工减持通道"
+      ]
+    },
+    {
       "keyword": "增持",
       "category": "市场",
       "count": 1,
@@ -69,6 +67,14 @@
       "count": 1,
       "sample_titles": [
         "概念炒到470亿，分红只有1分/股：远东股份是谁的盛宴？"
+      ]
+    },
+    {
+      "keyword": "美联储",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "沃什宣誓就职，强调美联储将“以改革为导向”"
       ]
     }
   ]
