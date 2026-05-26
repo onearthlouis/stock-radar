@@ -1,43 +1,14 @@
 {
-  "generated_at": "2026-05-25T23:12:41.972228Z",
+  "generated_at": "2026-05-26T01:27:19.095768Z",
   "window_hours": 24,
-  "total_items_analyzed": 49,
+  "total_items_analyzed": 47,
   "hot_topics": [
     {
-      "keyword": "IPO",
-      "category": "市场",
-      "count": 3,
-      "sample_titles": [
-        "宇树科技IPO倒计时，9000万撑起的帝国，还差一个“大脑”",
-        "宇树科技科创板IPO将于6月1日上会",
-        "从云深处IPO，看一家“不性感”的机器狗公司凭什么值139亿？"
-      ]
-    },
-    {
-      "keyword": "机器人",
+      "keyword": "半导体",
       "category": "板块",
-      "count": 2,
+      "count": 1,
       "sample_titles": [
-        "飞亚达：长空齿轮机器人及商业航天业务收入占比较低，未来发展存在较大不确定性",
-        "机器人力传感器龙头再获数亿融资，上汽、中芯等抢先入局"
-      ]
-    },
-    {
-      "keyword": "消费",
-      "category": "板块",
-      "count": 2,
-      "sample_titles": [
-        "从希腊酸奶到超滤鲜奶，吾岛为何入局高蛋白红海？",
-        "36氪首发 | 商汤国香投了一家消费级空间相机公司，为具身智能采集真实世界数据"
-      ]
-    },
-    {
-      "keyword": "汽车",
-      "category": "板块",
-      "count": 2,
-      "sample_titles": [
-        "法拉利发布首款纯电动汽车Luce",
-        "众捷汽车：员工战略配售资管计划拟减持不超2.09%股份"
+        "【钛晨报】实名购药、严禁AI替代审方，《处方药网络零售合规指南》发布；华为发表半导体韬定律；6G试验频率正式获批，6G有望在2030年前后正式商用"
       ]
     },
     {
@@ -45,7 +16,15 @@
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "AI 芯片的\"电力革命\""
+        "三星非芯片部门工会申请禁令，试图阻止奖金投票"
+      ]
+    },
+    {
+      "keyword": "储能",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "中原内配：公司暂无储能电站业务"
       ]
     },
     {
@@ -57,6 +36,14 @@
       ]
     },
     {
+      "keyword": "消费",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "36氪首发 | 商汤国香投了一家消费级空间相机公司，为具身智能采集真实世界数据"
+      ]
+    },
+    {
       "keyword": "地产",
       "category": "板块",
       "count": 1,
@@ -65,19 +52,51 @@
       ]
     },
     {
-      "keyword": "减持",
-      "category": "市场",
+      "keyword": "汽车",
+      "category": "板块",
       "count": 1,
       "sample_titles": [
-        "众捷汽车：员工战略配售资管计划拟减持不超2.09%股份"
+        "对话里斯咨询全球CEO张云：中国汽车之前靠价格，未来靠区隔"
       ]
     },
     {
-      "keyword": "回购",
+      "keyword": "IPO",
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "嘉友国际：拟以5000万元至1亿元回购股份"
+        "宇树科技IPO倒计时，9000万撑起的帝国，还差一个“大脑”"
+      ]
+    },
+    {
+      "keyword": "恒指",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "恒指开盘涨0.06%，恒生科技指数涨1.9%"
+      ]
+    },
+    {
+      "keyword": "恒生科技",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "恒指开盘涨0.06%，恒生科技指数涨1.9%"
+      ]
+    },
+    {
+      "keyword": "通胀",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "巴西央行连续十一周上调今年通胀预期"
+      ]
+    },
+    {
+      "keyword": "央行",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "巴西央行连续十一周上调今年通胀预期"
       ]
     }
   ]
