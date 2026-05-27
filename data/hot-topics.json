@@ -1,40 +1,32 @@
 {
-  "generated_at": "2026-05-26T22:51:29.165439Z",
+  "generated_at": "2026-05-27T00:15:23.696703Z",
   "window_hours": 24,
-  "total_items_analyzed": 44,
+  "total_items_analyzed": 45,
   "hot_topics": [
     {
       "keyword": "机器人",
       "category": "板块",
-      "count": 2,
+      "count": 3,
       "sample_titles": [
+        "中信建投：机器人是AI最好的物理载体之一，看好板块行情演绎",
         "机器人启蒙，需要一所能“犯错”的幼儿园",
         "氪星晚报｜我国人形机器人全球市场占比超八成；三星电子将从下月开始允许员工使用外部AI模型；知情人士：字节跳动本月向Seed员工开放“豆包股”认购权"
       ]
     },
     {
-      "keyword": "IPO",
-      "category": "市场",
-      "count": 2,
-      "sample_titles": [
-        "霍尼韦尔旗下量子计算公司Quantinuum计划通过IPO募资至多10.5亿美元",
-        "宇树科技IPO，从赚钱机器到“造脑运动”的一场豪赌"
-      ]
-    },
-    {
-      "keyword": "半导体",
+      "keyword": "光伏",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "两连板新亚制程：业务不涉及半导体的设计、制造、封装等"
+        "【钛晨报】两项光伏组件强制性国标发布，规范安全要求杜绝功率“虚标”；AI短剧出海订单预计暴增5000%，不少企业正加码布局海外定制内容；三星成为韩国借款规模最大企业"
       ]
     },
     {
-      "keyword": "储能",
+      "keyword": "消费",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "宁德时代：与Solarpro Holding合作的大型储能项目在保加利亚成功并网投运"
+        "美国消费者信心下滑，物价担忧普遍加剧"
       ]
     },
     {
@@ -42,39 +34,55 @@
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "知情人士：华尔街银行敦促美联储完善监管改革，以适配未来发展"
+        "追逐资产管理规模增长，银行打响零售“资产争夺战”"
       ]
     },
     {
-      "keyword": "量子",
+      "keyword": "券商",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "霍尼韦尔旗下量子计算公司Quantinuum计划通过IPO募资至多10.5亿美元"
+        "境外机构非法跨境展业被“叫停”，持牌券商迎业务增长新机遇"
       ]
     },
     {
-      "keyword": "连板",
+      "keyword": "外资",
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "两连板新亚制程：业务不涉及半导体的设计、制造、封装等"
+        "外资持续流入，国际投行看好A股三大投资方向"
       ]
     },
     {
-      "keyword": "美联储",
-      "category": "宏观",
+      "keyword": "IPO",
+      "category": "市场",
       "count": 1,
       "sample_titles": [
-        "知情人士：华尔街银行敦促美联储完善监管改革，以适配未来发展"
+        "宇树科技IPO，从赚钱机器到“造脑运动”的一场豪赌"
       ]
     },
     {
-      "keyword": "证监会",
-      "category": "宏观",
+      "keyword": "退市",
+      "category": "市场",
       "count": 1,
       "sample_titles": [
-        "林州重机：因涉嫌信息披露违法违规，证监会决定对公司立案调查"
+        "今年以来22家公司从港交所退市"
+      ]
+    },
+    {
+      "keyword": "回购",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "年内578家A股公司发布回购预案涉及金额超1000亿元"
+      ]
+    },
+    {
+      "keyword": "恒生科技",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "“港版纳指”掉队，恒生科技指数迎来“AI化”重估"
       ]
     }
   ]
