@@ -1,96 +1,56 @@
 {
-  "generated_at": "2026-05-28T08:49:20.813141Z",
+  "generated_at": "2026-05-28T12:36:53.651986Z",
   "window_hours": 24,
   "total_items_analyzed": 46,
   "hot_topics": [
     {
-      "keyword": "医疗",
-      "category": "板块",
+      "keyword": "IPO",
+      "category": "市场",
       "count": 2,
       "sample_titles": [
-        "赛诺医疗：向香港联交所递交H股发行及上市申请并刊发申请资料",
-        "字节小荷再发力，我对AI医疗的几点思考"
+        "贝尔生物北交所IPO过会",
+        "格林生物创业板IPO过会"
+      ]
+    },
+    {
+      "keyword": "减持",
+      "category": "市场",
+      "count": 2,
+      "sample_titles": [
+        "美年健康：股东杭州灏月拟减持不超3%公司股份",
+        "声迅股份：控股股东天福投资拟减持不超2.99%股份"
       ]
     },
     {
       "keyword": "消费",
       "category": "板块",
-      "count": 2,
+      "count": 1,
       "sample_titles": [
-        "消费级机器人大爆发，我在今年看到的产业新变化",
         "前逸动员工创立消费级智能船艇公司，半年内再获新融资｜硬氪首发"
       ]
     },
     {
-      "keyword": "半导体",
+      "keyword": "金融",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "回天新材：半导体封装用胶已在行业客户处供货应用或推广验证"
+        "中信证券：拟向中国中信金融控股有限公司发行H股股票，募资总额为人民币160亿元"
       ]
     },
     {
-      "keyword": "芯片",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "正业科技：目前暂无堆叠芯片封装后内部无损检测相关设备"
-      ]
-    },
-    {
-      "keyword": "机器人",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "消费级机器人大爆发，我在今年看到的产业新变化"
-      ]
-    },
-    {
-      "keyword": "汽车",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "理想汽车发布2026年第一季度财报"
-      ]
-    },
-    {
-      "keyword": "钢铁",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "商务部回应欧盟拟对进口钢铁加税：正与欧方开展谈判，期待达成双赢结果"
-      ]
-    },
-    {
-      "keyword": "IPO",
+      "keyword": "退市",
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "香奈儿迪奥背后的中国“打工人”，年入10亿，却卡在IPO大门口"
+        "*ST亚太：6月1日复牌并撤销退市风险警示，股票简称变更为“亚太实业”"
       ]
     },
     {
-      "keyword": "回购",
-      "category": "市场",
+      "keyword": "通胀",
+      "category": "宏观",
       "count": 1,
       "sample_titles": [
-        "爱玛科技：拟2亿元至4亿元回购股份"
-      ]
-    },
-    {
-      "keyword": "恒指",
-      "category": "港股",
-      "count": 1,
-      "sample_titles": [
-        "恒指收跌1.27%，恒生科技指数跌0.39%"
-      ]
-    },
-    {
-      "keyword": "恒生科技",
-      "category": "港股",
-      "count": 1,
-      "sample_titles": [
-        "恒指收跌1.27%，恒生科技指数跌0.39%"
+        "欧洲央行会议纪要：通胀上行风险和经济增长下行风险加剧"
       ]
     },
     {
@@ -98,15 +58,15 @@
       "category": "宏观",
       "count": 1,
       "sample_titles": [
-        "英国央行副行长布里登：对冲基金是英国国债需求的重要来源"
+        "欧洲央行会议纪要：通胀上行风险和经济增长下行风险加剧"
       ]
     },
     {
-      "keyword": "证监会",
+      "keyword": "国务院",
       "category": "宏观",
       "count": 1,
       "sample_titles": [
-        "圣泉集团：发行可转债申请获证监会同意注册批复"
+        "国务院印发《城市更新“十五五”规划》"
       ]
     }
   ]
