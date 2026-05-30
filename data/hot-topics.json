@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-05-30T04:36:37.263125Z",
+  "generated_at": "2026-05-30T07:44:42.560121Z",
   "window_hours": 24,
-  "total_items_analyzed": 46,
+  "total_items_analyzed": 45,
   "hot_topics": [
+    {
+      "keyword": "新能源",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "铜价奔向10.5万背后： 新能源吃铜，铜也正在改变新能源的胃口",
+        "宁德时代首席科学家吴凯：新国标实施后，中国新能源车的自燃率会比燃油车低一个数量级"
+      ]
+    },
     {
       "keyword": "机器人",
       "category": "板块",
@@ -13,11 +22,20 @@
       ]
     },
     {
-      "keyword": "新能源",
+      "keyword": "IPO",
+      "category": "市场",
+      "count": 2,
+      "sample_titles": [
+        "龙行天下IPO申请获受理",
+        "霍尼韦尔旗下量子计算公司 Quantinuum 拟扩大IPO规模"
+      ]
+    },
+    {
+      "keyword": "半导体",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "宁德时代首席科学家吴凯：新国标实施后，中国新能源车的自燃率会比燃油车低一个数量级"
+        "【数智周报】华为发表半导体韬定律，5年内冲刺等效1.4nm制程；MiniMax将A股上市；宇树科技冲刺科创板；Anthropic融资650亿美元，投后估值超OpenAI"
       ]
     },
     {
@@ -29,19 +47,19 @@
       ]
     },
     {
+      "keyword": "人工智能",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "天津发布2025年度人工智能十大应用标杆场景，总投资超6亿元"
+      ]
+    },
+    {
       "keyword": "消费",
       "category": "板块",
       "count": 1,
       "sample_titles": [
         "3小时卖爆2200万！铜师傅借“修仙”翻红，但离飞升还差几个本命法宝？"
-      ]
-    },
-    {
-      "keyword": "汽车",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "丰田汽车计划11月在巴西开设新工厂"
       ]
     },
     {
@@ -55,14 +73,6 @@
     {
       "keyword": "量子",
       "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "霍尼韦尔旗下量子计算公司 Quantinuum 拟扩大IPO规模"
-      ]
-    },
-    {
-      "keyword": "IPO",
-      "category": "市场",
       "count": 1,
       "sample_titles": [
         "霍尼韦尔旗下量子计算公司 Quantinuum 拟扩大IPO规模"
