@@ -1,59 +1,55 @@
 {
-  "generated_at": "2026-05-30T00:14:57.263947Z",
+  "generated_at": "2026-05-30T04:36:37.263125Z",
   "window_hours": 24,
-  "total_items_analyzed": 48,
+  "total_items_analyzed": 46,
   "hot_topics": [
-    {
-      "keyword": "IPO",
-      "category": "市场",
-      "count": 3,
-      "sample_titles": [
-        "减持与开庭赛跑，庄园牧场IPO承诺成“空头支票”，前老板携国资血亏上演罗生门",
-        "160亿，深圳“四小龙”跑出首个IPO",
-        "浙江小县城“老头乐”，又要IPO了"
-      ]
-    },
-    {
-      "keyword": "减持",
-      "category": "市场",
-      "count": 3,
-      "sample_titles": [
-        "恒基达鑫：控股股东拟减持公司不超3%股份",
-        "保龄宝：实控人控制的企业承诺12个月内不减持公司股份",
-        "减持与开庭赛跑，庄园牧场IPO承诺成“空头支票”，前老板携国资血亏上演罗生门"
-      ]
-    },
-    {
-      "keyword": "金融",
-      "category": "板块",
-      "count": 2,
-      "sample_titles": [
-        "丁向群任国家金融监督管理总局党委书记",
-        "36氪首发 | 李泽湘系投过的星空摄影设备品牌再获数百万美金融资，产品即将登陆众筹"
-      ]
-    },
-    {
-      "keyword": "半导体",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "通业科技：终止购买思凌科半导体公司91.69%股权事项"
-      ]
-    },
     {
       "keyword": "机器人",
       "category": "板块",
-      "count": 1,
+      "count": 2,
       "sample_titles": [
+        "36氪首发 | 服务富士康，半年营收超两千万的机器人解决方案商完成天使轮融资",
         "氪星晚报 ｜联想创投等入股诺仕机器人；苹果据悉将在WWDC重点展示端侧AI能力；国家外汇管理局：4月中国外汇市场总计成交25.3万亿元"
       ]
     },
     {
-      "keyword": "券商",
+      "keyword": "新能源",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "中证协规范券商跨境数据流动，香港子公司数据出入境实施分类管控"
+        "宁德时代首席科学家吴凯：新国标实施后，中国新能源车的自燃率会比燃油车低一个数量级"
+      ]
+    },
+    {
+      "keyword": "芯片",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "供应商变股东：存储芯片三巨头联手入股Anthropic，AI供应链的权力结构正在重组"
+      ]
+    },
+    {
+      "keyword": "消费",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "3小时卖爆2200万！铜师傅借“修仙”翻红，但离飞升还差几个本命法宝？"
+      ]
+    },
+    {
+      "keyword": "汽车",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "丰田汽车计划11月在巴西开设新工厂"
+      ]
+    },
+    {
+      "keyword": "新能源车",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "宁德时代首席科学家吴凯：新国标实施后，中国新能源车的自燃率会比燃油车低一个数量级"
       ]
     },
     {
@@ -61,7 +57,23 @@
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "量子计算迎来“晶圆厂时刻”，谁先受益？"
+        "霍尼韦尔旗下量子计算公司 Quantinuum 拟扩大IPO规模"
+      ]
+    },
+    {
+      "keyword": "IPO",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "霍尼韦尔旗下量子计算公司 Quantinuum 拟扩大IPO规模"
+      ]
+    },
+    {
+      "keyword": "国务院",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "国务院正式批复同意 粤港澳游艇自由行要来了"
       ]
     }
   ]
