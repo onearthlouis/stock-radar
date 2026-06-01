@@ -1,15 +1,24 @@
 {
-  "generated_at": "2026-05-31T23:09:02.877935Z",
+  "generated_at": "2026-06-01T01:41:57.088076Z",
   "window_hours": 24,
-  "total_items_analyzed": 37,
+  "total_items_analyzed": 39,
   "hot_topics": [
     {
-      "keyword": "消费",
+      "keyword": "汽车",
       "category": "板块",
       "count": 2,
       "sample_titles": [
-        "深圳800元养老消费券来了",
-        "监管加码补贴收紧，外卖大战落幕，但消费入口争夺战才刚刚开始"
+        "小米汽车：2026年5月，小米汽车交付量持续超过30000台。",
+        "4月中国产汽车在韩国注册登记进口榜排第三，史上首超日本车"
+      ]
+    },
+    {
+      "keyword": "恒生科技",
+      "category": "港股",
+      "count": 2,
+      "sample_titles": [
+        "恒生科技指数涨幅扩大至1%",
+        "恒指开盘跌0.01%，恒生科技指数涨0.22%"
       ]
     },
     {
@@ -17,15 +26,7 @@
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "软银承诺斥资750亿欧元在法国建设人工智能设施"
-      ]
-    },
-    {
-      "keyword": "储能",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "宁德时代花了30亿，为储能建了一个“风洞”"
+        "【钛晨报】提升全民人工智能素养，四部门最新部署；MiniMax Group Inc.：拟于科创板上市；国家统计局：5月份制造业采购经理指数（PMI）为50.0%"
       ]
     },
     {
@@ -33,7 +34,7 @@
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "百诚医药：终止筹划控制权变更事项，股票复牌"
+        "“睿健医药”完成2.1亿元C1轮融资"
       ]
     },
     {
@@ -41,23 +42,47 @@
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "印度储备银行4月美元净空头头寸降至953亿美元"
+        "中信证券：预计银行基本面将延续修复趋势，行业估值提升可期"
       ]
     },
     {
-      "keyword": "减持",
+      "keyword": "IPO",
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "思林杰：股东拟合计减持不超6%股份"
+        "Anthropic 冲击 1 万亿：除了 Pre-IPO，还有哪些隐藏的「Claude 概念股」？"
       ]
     },
     {
-      "keyword": "南向资金",
+      "keyword": "回购",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "央行今日开展110亿元7天期逆回购操作"
+      ]
+    },
+    {
+      "keyword": "恒指",
       "category": "港股",
       "count": 1,
       "sample_titles": [
-        "17股上榜本周南向资金成交活跃股名单"
+        "恒指开盘跌0.01%，恒生科技指数涨0.22%"
+      ]
+    },
+    {
+      "keyword": "PMI",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "【钛晨报】提升全民人工智能素养，四部门最新部署；MiniMax Group Inc.：拟于科创板上市；国家统计局：5月份制造业采购经理指数（PMI）为50.0%"
+      ]
+    },
+    {
+      "keyword": "央行",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "央行今日开展110亿元7天期逆回购操作"
       ]
     }
   ]
