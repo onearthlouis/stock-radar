@@ -1,24 +1,48 @@
 {
-  "generated_at": "2026-06-01T01:41:57.088076Z",
+  "generated_at": "2026-06-01T07:08:40.525516Z",
   "window_hours": 24,
-  "total_items_analyzed": 39,
+  "total_items_analyzed": 41,
   "hot_topics": [
+    {
+      "keyword": "机器人",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "宇树上会，机器人会成为半导体下一个超级终端吗？",
+        "硬氪观察 | 苹果代工厂开造人形机器人，一场豪赌未来的产能大迁移"
+      ]
+    },
     {
       "keyword": "汽车",
       "category": "板块",
       "count": 2,
       "sample_titles": [
-        "小米汽车：2026年5月，小米汽车交付量持续超过30000台。",
-        "4月中国产汽车在韩国注册登记进口榜排第三，史上首超日本车"
+        "奇瑞汽车在宜宾成立新能源科技公司，注册资本2000万",
+        "零跑汽车：5月交付81569台，同比增长81%"
       ]
     },
     {
-      "keyword": "恒生科技",
-      "category": "港股",
-      "count": 2,
+      "keyword": "新能源",
+      "category": "板块",
+      "count": 1,
       "sample_titles": [
-        "恒生科技指数涨幅扩大至1%",
-        "恒指开盘跌0.01%，恒生科技指数涨0.22%"
+        "奇瑞汽车在宜宾成立新能源科技公司，注册资本2000万"
+      ]
+    },
+    {
+      "keyword": "半导体",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "宇树上会，机器人会成为半导体下一个超级终端吗？"
+      ]
+    },
+    {
+      "keyword": "芯片",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "英特尔发布至强6+，芯片算力在“时间压缩”与“几何微缩”的交汇处"
       ]
     },
     {
@@ -26,23 +50,31 @@
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "【钛晨报】提升全民人工智能素养，四部门最新部署；MiniMax Group Inc.：拟于科创板上市；国家统计局：5月份制造业采购经理指数（PMI）为50.0%"
+        "天津人工智能传感器产业园正式开园，首批10家企业集中签约"
       ]
     },
     {
-      "keyword": "医药",
+      "keyword": "光伏",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "“睿健医药”完成2.1亿元C1轮融资"
+        "一个月内三破世界纪录，光伏龙头全面开启BC竞速赛"
       ]
     },
     {
-      "keyword": "银行",
+      "keyword": "煤炭",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "中信证券：预计银行基本面将延续修复趋势，行业估值提升可期"
+        "A股三大指数集体收跌，煤炭股走强"
+      ]
+    },
+    {
+      "keyword": "量子",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "浙江：拟实施“星火计划”培育未来产业行动，加速量子技术产品规模化应用"
       ]
     },
     {
@@ -50,39 +82,7 @@
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "Anthropic 冲击 1 万亿：除了 Pre-IPO，还有哪些隐藏的「Claude 概念股」？"
-      ]
-    },
-    {
-      "keyword": "回购",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "央行今日开展110亿元7天期逆回购操作"
-      ]
-    },
-    {
-      "keyword": "恒指",
-      "category": "港股",
-      "count": 1,
-      "sample_titles": [
-        "恒指开盘跌0.01%，恒生科技指数涨0.22%"
-      ]
-    },
-    {
-      "keyword": "PMI",
-      "category": "宏观",
-      "count": 1,
-      "sample_titles": [
-        "【钛晨报】提升全民人工智能素养，四部门最新部署；MiniMax Group Inc.：拟于科创板上市；国家统计局：5月份制造业采购经理指数（PMI）为50.0%"
-      ]
-    },
-    {
-      "keyword": "央行",
-      "category": "宏观",
-      "count": 1,
-      "sample_titles": [
-        "央行今日开展110亿元7天期逆回购操作"
+        "追觅开放融资，单笔投资门槛最低3.5亿，Pre-IPO轮投前估值或700亿"
       ]
     }
   ]
