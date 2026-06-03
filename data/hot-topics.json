@@ -1,49 +1,31 @@
 {
-  "generated_at": "2026-06-02T23:07:05.853047Z",
+  "generated_at": "2026-06-03T02:11:01.094510Z",
   "window_hours": 24,
-  "total_items_analyzed": 43,
+  "total_items_analyzed": 47,
   "hot_topics": [
     {
-      "keyword": "量子",
+      "keyword": "机器人",
       "category": "板块",
       "count": 2,
       "sample_titles": [
-        "IBM计划在未来五年向量子计算领域投资超过100亿美元",
-        "中国电信：控股子公司拟参与设立量子基金"
+        "36氪首发 | 浙大教授团队获财通、商汤投资，做高危场景具身机器人大脑",
+        "拆解机器人“肉身”、量产与供应链：空翻之后，它还要学会接住一片落叶"
       ]
     },
     {
-      "keyword": "IPO",
-      "category": "市场",
-      "count": 2,
-      "sample_titles": [
-        "SpaceX正在向银行施压，要求获得有史以来最低的IPO费用率",
-        "8点1氪丨豆包将在6月下旬正式付费 ；韩国SK海力士工厂发生火灾；宇树科技IPO过会，王兴兴身家或超140亿"
-      ]
-    },
-    {
-      "keyword": "减持",
-      "category": "市场",
-      "count": 2,
-      "sample_titles": [
-        "露笑科技：控股股东露笑集团及其一致行动人拟减持不超过1.75%",
-        "供应链黑天鹅突袭、减持阴云笼罩，利通电子暴涨8倍后遇重挫"
-      ]
-    },
-    {
-      "keyword": "新能源",
+      "keyword": "半导体",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "崔东树：本轮新能源车产销双向走强由多重因素共同助推"
+        "AI热刺激芯片设备陶瓷需求，日本卫浴制造商东陶加码进军半导体材料业"
       ]
     },
     {
-      "keyword": "银行",
+      "keyword": "芯片",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "SpaceX正在向银行施压，要求获得有史以来最低的IPO费用率"
+        "AI热刺激芯片设备陶瓷需求，日本卫浴制造商东陶加码进军半导体材料业"
       ]
     },
     {
@@ -51,31 +33,23 @@
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "热门中概股美股盘前普涨，理想汽车涨超7%"
+        "理想汽车投了一只“灵巧手”"
       ]
     },
     {
-      "keyword": "新能源车",
+      "keyword": "化工",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "崔东树：本轮新能源车产销双向走强由多重因素共同助推"
+        "天风证券：煤化工盈利或进入上行周期"
       ]
     },
     {
-      "keyword": "连板",
+      "keyword": "IPO",
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "六连板*ST景谷：与相关市场机构开展资本运作等传闻均为不实"
-      ]
-    },
-    {
-      "keyword": "退市",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "*ST万方：公司股票将于6月3日摘牌并进入退市板块"
+        "消息人士：SpaceX计划以每股135美元的价格通过首次公开募股（IPO）筹集750亿美元"
       ]
     },
     {
@@ -83,15 +57,7 @@
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "TCL科技：拟以11亿元-12亿元回购公司股份"
-      ]
-    },
-    {
-      "keyword": "分红",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "贵州茅台：2025年年度利润分配方案每股分红金额调整至28.02元（含税）"
+        "央行6月3日7天期逆回购操作量为零"
       ]
     },
     {
@@ -99,7 +65,47 @@
       "category": "港股",
       "count": 1,
       "sample_titles": [
-        "港股“北归”：智谱和MiniMax为何急着回A？"
+        "港股暴涨16倍后，智谱杀回A股"
+      ]
+    },
+    {
+      "keyword": "恒指",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "恒指开盘跌0.33%，恒生科技指数跌0.7%"
+      ]
+    },
+    {
+      "keyword": "恒生科技",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "恒指开盘跌0.33%，恒生科技指数跌0.7%"
+      ]
+    },
+    {
+      "keyword": "PMI",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "中国5月RatingDog服务业PMI 54.4"
+      ]
+    },
+    {
+      "keyword": "央行",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "央行6月3日7天期逆回购操作量为零"
+      ]
+    },
+    {
+      "keyword": "国务院",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "【钛晨报】国务院印发《加快农业农村现代化“十五五”规划》；老虎国际暂停境内存量账户新开仓、加仓交易；“东吴证券+东海证券”重组草案出炉"
       ]
     }
   ]
