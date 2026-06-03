@@ -1,78 +1,98 @@
 {
-  "generated_at": "2026-06-03T07:24:20.989906Z",
+  "generated_at": "2026-06-03T12:22:16.420073Z",
   "window_hours": 24,
-  "total_items_analyzed": 44,
+  "total_items_analyzed": 41,
   "hot_topics": [
-    {
-      "keyword": "半导体",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "神工股份在北京成立半导体科技公司，注册资本1000万"
-      ]
-    },
     {
       "keyword": "机器人",
       "category": "板块",
-      "count": 1,
+      "count": 4,
       "sample_titles": [
-        "36氪首发 | 浙大教授团队获财通、商汤投资，做高危场景具身机器人大脑"
+        "胜通能源：要约收购已完成，控股股东变更为七腾机器人",
+        "两连板实益达：间接持有宇树科技约0.01%股权，不涉及机器人业务",
+        "比亚迪入局人形机器人"
       ]
     },
     {
-      "keyword": "医疗",
+      "keyword": "芯片",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "裕太微：目前无面向数据中心的DSP电芯片产品",
+        "AI芯片扎堆，寒武纪还能成中国版“英伟达”吗？"
+      ]
+    },
+    {
+      "keyword": "减持",
+      "category": "市场",
+      "count": 2,
+      "sample_titles": [
+        "湖南裕能：股东宁德时代拟减持不超3%股份",
+        "方大炭素：回购专用证券账户拟减持不超2%股份"
+      ]
+    },
+    {
+      "keyword": "新能源",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "瑞士医疗科技企业PeriVision研发AI视功能检查算法及检测仪，提升青光眼检测速度"
+        "16万新能源指标尘埃落定，准购车人买车，先看啥？"
       ]
     },
     {
-      "keyword": "银行",
+      "keyword": "储能",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "银行普遍赚钱的年代已经过去了，未来十年将面临怎样的变局？"
+        "中外储能争霸，谁笑到了最后"
       ]
     },
     {
-      "keyword": "涨停",
+      "keyword": "保险",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "宏利香港与阿里云达成战略合作，加速保险业AI规模化落地"
+      ]
+    },
+    {
+      "keyword": "汽车",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "江铃汽车：5月销量为3.23万辆，同比增长5.98%"
+      ]
+    },
+    {
+      "keyword": "连板",
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "10倍股永鼎股份再涨停，莫氏父子套现7.8亿"
+        "两连板实益达：间接持有宇树科技约0.01%股权，不涉及机器人业务"
       ]
     },
     {
-      "keyword": "IPO",
+      "keyword": "回购",
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "中塑股份：低研发却有高毛利，大客户来去突兀，资金充裕仍募资扩产｜IPO观察"
+        "方大炭素：回购专用证券账户拟减持不超2%股份"
       ]
     },
     {
-      "keyword": "恒生科技",
+      "keyword": "港股",
       "category": "港股",
       "count": 1,
       "sample_titles": [
-        "恒生科技指数午后跌幅扩大至3%"
+        "上汽、采埃孚站台也难掩困局，这家智驾供应商再闯港股：回款慢、现金紧"
       ]
     },
     {
-      "keyword": "南向资金",
-      "category": "港股",
-      "count": 1,
-      "sample_titles": [
-        "南向资金净买入额超100亿港元"
-      ]
-    },
-    {
-      "keyword": "央行",
+      "keyword": "证监会",
       "category": "宏观",
       "count": 1,
       "sample_titles": [
-        "印度央行否认出售黄金的报道"
+        "三环集团：发行H股获中国证监会备案"
       ]
     }
   ]
