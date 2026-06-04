@@ -1,24 +1,33 @@
 {
-  "generated_at": "2026-06-03T23:08:39.982329Z",
+  "generated_at": "2026-06-04T02:08:18.003658Z",
   "window_hours": 24,
-  "total_items_analyzed": 41,
+  "total_items_analyzed": 42,
   "hot_topics": [
-    {
-      "keyword": "机器人",
-      "category": "板块",
-      "count": 2,
-      "sample_titles": [
-        "胜通能源：要约收购已完成，控股股东变更为七腾机器人",
-        "36氪首发 | 浙大教授团队获财通、商汤投资，做高危场景具身机器人大脑"
-      ]
-    },
     {
       "keyword": "IPO",
       "category": "市场",
-      "count": 2,
+      "count": 3,
       "sample_titles": [
+        "“人类史上最大IPO”：SpaceX靠的不只是火箭了？",
         "联芸科技上市1年半又抛20亿元定增，今年一季度突击花掉IPO募资",
         "杰锋动力：大股东奇瑞身兼头号客户，高负债、存贷双高下仍大额分红｜IPO观察"
+      ]
+    },
+    {
+      "keyword": "芯片",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "不拼数量拼“抗噪”，微软拓扑量子芯片可靠性暴涨千倍，2029要掀算力洗牌？",
+        "联芸科技上市1年半又抛20亿元定增，今年一季度突击花掉IPO募资"
+      ]
+    },
+    {
+      "keyword": "新能源",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "AI与新能源需求共振，高端铜箔产能供不应求"
       ]
     },
     {
@@ -26,23 +35,23 @@
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "长光华芯：拟向关联方惟清半导体增资2500万元"
+        "意法半导体：AI需求强劲，上调数据中心收入预期"
       ]
     },
     {
-      "keyword": "芯片",
+      "keyword": "人工智能",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "联芸科技上市1年半又抛20亿元定增，今年一季度突击花掉IPO募资"
+        "现代汽车与英伟达商讨在韩设立人工智能研发中心"
       ]
     },
     {
-      "keyword": "储能",
+      "keyword": "机器人",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "中外储能争霸，谁笑到了最后"
+        "【钛晨报】覆盖14个平台，市场监管总局开展网络餐饮专项抽检；Alphabet宣布将股权融资规模从800亿美元增至847.5亿美元；比亚迪入局人形机器人"
       ]
     },
     {
@@ -54,11 +63,27 @@
       ]
     },
     {
-      "keyword": "保险",
+      "keyword": "汽车",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "宏利香港与阿里云达成战略合作，加速保险业AI规模化落地"
+        "现代汽车与英伟达商讨在韩设立人工智能研发中心"
+      ]
+    },
+    {
+      "keyword": "量子",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "不拼数量拼“抗噪”，微软拓扑量子芯片可靠性暴涨千倍，2029要掀算力洗牌？"
+      ]
+    },
+    {
+      "keyword": "回购",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "央行今日7天期逆回购操作量为零"
       ]
     },
     {
@@ -74,7 +99,31 @@
       "category": "港股",
       "count": 1,
       "sample_titles": [
-        "文远知行正式纳入港股通"
+        "深港通下的港股通标的证券名单调整：调入文远知行、小马智行"
+      ]
+    },
+    {
+      "keyword": "恒指",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "恒指开盘跌0.66%，恒生科技指数跌1.23%"
+      ]
+    },
+    {
+      "keyword": "恒生科技",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "恒指开盘跌0.66%，恒生科技指数跌1.23%"
+      ]
+    },
+    {
+      "keyword": "央行",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "央行今日7天期逆回购操作量为零"
       ]
     }
   ]
