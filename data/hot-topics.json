@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-05T12:14:45.813134Z",
+  "generated_at": "2026-06-05T15:36:47.793671Z",
   "window_hours": 24,
-  "total_items_analyzed": 43,
+  "total_items_analyzed": 44,
   "hot_topics": [
     {
       "keyword": "机器人",
@@ -14,24 +14,16 @@
       ]
     },
     {
-      "keyword": "减持",
-      "category": "市场",
+      "keyword": "人工智能",
+      "category": "板块",
       "count": 2,
       "sample_titles": [
-        "大族激光：控股股东、董事及高管拟合计减持公司不超0.6952%股份",
-        "江波龙：副总经理朱宇拟减持不超59.84万股"
-      ]
-    },
-    {
-      "keyword": "半导体",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
+        "加拿大出台国家人工智能战略",
         "七匹狼：拟出资1亿元认缴基金份额 主要投资于人工智能、半导体等项目"
       ]
     },
     {
-      "keyword": "人工智能",
+      "keyword": "半导体",
       "category": "板块",
       "count": 1,
       "sample_titles": [
@@ -55,11 +47,27 @@
       ]
     },
     {
-      "keyword": "退市",
+      "keyword": "减持",
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "上交所：本周对泰金新能等严重异常波动股票以及退市岩石等退市整理股票进行重点监控"
+        "大族激光：控股股东、董事及高管拟合计减持公司不超0.6952%股份"
+      ]
+    },
+    {
+      "keyword": "GDP",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "欧盟一季度GDP环比下降0.1%"
+      ]
+    },
+    {
+      "keyword": "美联储",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "交易员预计美联储将到明年1月底前加息"
       ]
     }
   ]
