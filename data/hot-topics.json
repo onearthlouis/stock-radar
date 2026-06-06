@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-06T07:34:35.183994Z",
+  "generated_at": "2026-06-06T10:12:17.267581Z",
   "window_hours": 24,
-  "total_items_analyzed": 44,
+  "total_items_analyzed": 42,
   "hot_topics": [
     {
       "keyword": "证监会",
@@ -14,12 +14,21 @@
       ]
     },
     {
+      "keyword": "消费",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "哈根达斯“卖身”与阿迪达斯翻红：外资光环褪色后的生存法则",
+        "A股大消费已经跌出幻觉，食品饮料龙头们需要一场叙事重启"
+      ]
+    },
+    {
       "keyword": "IPO",
       "category": "市场",
       "count": 2,
       "sample_titles": [
-        "刚刚，89岁传奇科学家拿下一个医药IPO，市值超百亿",
-        "SpaceX IPO已获得2倍认购资金"
+        "一边冲刺万亿美元IPO，一边高喊AI失控，Anthropic的目的是什么？",
+        "刚刚，89岁传奇科学家拿下一个医药IPO，市值超百亿"
       ]
     },
     {
@@ -31,27 +40,11 @@
       ]
     },
     {
-      "keyword": "机器人",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "网传比亚迪自研人形机器人代号“尧舜禹”、年内自用2万台 比亚迪否认"
-      ]
-    },
-    {
       "keyword": "医药",
       "category": "板块",
       "count": 1,
       "sample_titles": [
         "刚刚，89岁传奇科学家拿下一个医药IPO，市值超百亿"
-      ]
-    },
-    {
-      "keyword": "消费",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "A股大消费已经跌出幻觉，食品饮料龙头们需要一场叙事重启"
       ]
     },
     {
@@ -67,7 +60,7 @@
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "境外发行人前5个月发行规模超去年全年 外资积极入场助点心债热度高企"
+        "哈根达斯“卖身”与阿迪达斯翻红：外资光环褪色后的生存法则"
       ]
     },
     {
@@ -76,14 +69,6 @@
       "count": 1,
       "sample_titles": [
         "从港股千元股到备战科创板，MiniMax暗藏资本“阳谋”"
-      ]
-    },
-    {
-      "keyword": "美联储",
-      "category": "宏观",
-      "count": 1,
-      "sample_titles": [
-        "华泰证券：5月非农再超预期推升美联储加息必要性"
       ]
     }
   ]
