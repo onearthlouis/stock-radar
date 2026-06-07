@@ -1,49 +1,31 @@
 {
-  "generated_at": "2026-06-07T01:39:08.028455Z",
+  "generated_at": "2026-06-07T06:37:09.175068Z",
   "window_hours": 24,
-  "total_items_analyzed": 38,
+  "total_items_analyzed": 36,
   "hot_topics": [
     {
-      "keyword": "证监会",
-      "category": "宏观",
-      "count": 3,
+      "keyword": "芯片",
+      "category": "板块",
+      "count": 2,
       "sample_titles": [
-        "证监会主席吴清：坚决遏制概念炒作、复杂嵌套、过度投机、通道空转等伪创新、乱创新",
-        "证监会主席吴清：提升投资运作稳健性 努力为投资者创造更可持续的中长期收益",
-        "证监会主席吴清：持续完善程序化交易监管的机制安排 坚决打击操纵市场、扰乱市场秩序等违法违规行为"
+        "OpenAI芯片元老“002号员工”转投Anthropic",
+        "【数智周报】消息称DeepSeek计划在首轮融资中筹集约70亿美元，估值高达590亿美元；Arm首席执行官：存储芯片供应整体仍吃紧；Alphabet拟筹集847.5亿美元加码AI基建，伯克希尔哈撒韦将投资100亿美元"
+      ]
+    },
+    {
+      "keyword": "机器人",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "小米机器人或将亮相小米17T发布会"
       ]
     },
     {
       "keyword": "消费",
       "category": "板块",
-      "count": 2,
+      "count": 1,
       "sample_titles": [
-        "哈根达斯“卖身”与阿迪达斯翻红：外资光环褪色后的生存法则",
         "A股大消费已经跌出幻觉，食品饮料龙头们需要一场叙事重启"
-      ]
-    },
-    {
-      "keyword": "新能源",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "我国乘用车12年胖了近400公斤 我国新能源车要减肥了"
-      ]
-    },
-    {
-      "keyword": "储能",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "AIDC储能放量起势，谁已悄悄冲在了最前面？"
-      ]
-    },
-    {
-      "keyword": "新能源车",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "我国乘用车12年胖了近400公斤 我国新能源车要减肥了"
       ]
     },
     {
@@ -60,6 +42,30 @@
       "count": 1,
       "sample_titles": [
         "一边冲刺万亿美元IPO，一边高喊AI失控，Anthropic的目的是什么？"
+      ]
+    },
+    {
+      "keyword": "增持",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "中国央行连续第19个月增持黄金"
+      ]
+    },
+    {
+      "keyword": "美联储",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "中国银河证券：非农走强并不意味着美联储年内加息"
+      ]
+    },
+    {
+      "keyword": "央行",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "中国央行连续第19个月增持黄金"
       ]
     }
   ]
