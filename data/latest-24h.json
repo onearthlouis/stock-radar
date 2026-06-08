@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-06-08T12:02:45.829840Z",
+  "generated_at": "2026-06-08T16:35:53.913324Z",
   "window_hours": 24,
-  "total_items": 44,
-  "total_items_raw": 44,
-  "total_items_all_mode": 44,
-  "archive_total": 857,
+  "total_items": 46,
+  "total_items_raw": 46,
+  "total_items_all_mode": 46,
+  "archive_total": 873,
   "site_count": 2,
   "source_count": 2,
   "site_stats": [
     {
       "site_id": "36kr",
       "site_name": "36氪",
-      "count": 25
+      "count": 27
     },
     {
       "site_id": "tmtpost",
@@ -21,6 +21,210 @@
   ],
   "items": [
     {
+      "uid": "eaf64e20ff6caa2b",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "世界杯官方比赛用球再度“中国制造”：全球产业链迁移下，广东工厂为何仍留在赛场中央？｜最前线",
+      "url": "https://36kr.com/p/3844185422400008?f=rss",
+      "published_at": "2026-06-08T15:09:52Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
+      "meta": {}
+    },
+    {
+      "uid": "0fce0878313d5ff2",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "氪星晚报｜追觅质押嘉美包装2.47亿股，向兴业银行贷款提供担保；黄仁勋：SK海力士到2030年将晶圆产能翻倍的计划还不够",
+      "url": "https://36kr.com/p/3844559758936582?f=rss",
+      "published_at": "2026-06-08T13:29:53Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
+      "meta": {}
+    },
+    {
+      "uid": "cb7bd0ccb7343f1a",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "钛媒体",
+      "title": "前次募资改道AI算力！明阳电路拟发12亿可转债，重仓高阶HDI板谋变",
+      "url": "https://www.tmtpost.com/8019397.html",
+      "published_at": "2026-06-08T13:25:58Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
+      "meta": {}
+    },
+    {
+      "uid": "7254dcb0d40b469c",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "热门中概股美股盘前多数上涨，哔哩哔哩涨超5%",
+      "url": "https://36kr.com/newsflashes/3844534192687360?f=rss",
+      "published_at": "2026-06-08T13:02:25Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
+      "meta": {}
+    },
+    {
+      "uid": "1f7dafc790758fa2",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "美股大型科技股盘前普涨，康宁涨超9%",
+      "url": "https://36kr.com/newsflashes/3844530011834884?f=rss",
+      "published_at": "2026-06-08T12:58:09Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
+      "meta": {}
+    },
+    {
+      "uid": "cb2402170d858466",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "天娱数科：目前无物理AI业务，未形成相关业务收入",
+      "url": "https://36kr.com/newsflashes/3844524510382599?f=rss",
+      "published_at": "2026-06-08T12:52:34Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
+      "meta": {}
+    },
+    {
+      "uid": "b7c3b5a9cd3cdb85",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "金安国纪：公司覆铜板主要客户为PCB厂商，未发现在AI服务器及算力领域的应用",
+      "url": "https://36kr.com/newsflashes/3844521049065737?f=rss",
+      "published_at": "2026-06-08T12:49:02Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
+      "meta": {}
+    },
+    {
+      "uid": "604d661a7ed4cfcb",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "同程旅行将接入微信AI智能体，机票、酒店将实现AI一键预订",
+      "url": "https://36kr.com/newsflashes/3844514407336201?f=rss",
+      "published_at": "2026-06-08T12:47:44Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
+      "meta": {}
+    },
+    {
+      "uid": "c778d489f633e419",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "鼎龙股份：拟投资3000万元扩建潜江CMP软抛光垫生产线",
+      "url": "https://36kr.com/newsflashes/3844507707132160?f=rss",
+      "published_at": "2026-06-08T12:44:25Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
+      "meta": {}
+    },
+    {
+      "uid": "45e4207d16ec8798",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "康宁美股盘前涨超9%",
+      "url": "https://36kr.com/newsflashes/3844516437494018?f=rss",
+      "published_at": "2026-06-08T12:44:21Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
+      "meta": {}
+    },
+    {
+      "uid": "aef13074ad393011",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "锋龙股份：截至目前，公司不涉及人形机器人业务",
+      "url": "https://36kr.com/newsflashes/3844502527674881?f=rss",
+      "published_at": "2026-06-08T12:40:09Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
+      "meta": {}
+    },
+    {
+      "uid": "d1832bd8b9789e99",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "赣锋锂业：储能电芯满产满销，588Ah产线三季度启动产能爬坡",
+      "url": "https://36kr.com/newsflashes/3844500261193990?f=rss",
+      "published_at": "2026-06-08T12:33:08Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
+      "meta": {}
+    },
+    {
+      "uid": "1d3d5240439ddb52",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "亿航智能宣布3000万美元股票回购计划，美股盘前涨超7%",
+      "url": "https://36kr.com/newsflashes/3844495750646017?f=rss",
+      "published_at": "2026-06-08T12:23:18Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
+      "meta": {}
+    },
+    {
+      "uid": "8792ab7cd7446810",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "日本证监会建议处罚富途控股旗下券商moomoo",
+      "url": "https://36kr.com/newsflashes/3844483601893889?f=rss",
+      "published_at": "2026-06-08T12:16:54Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
+      "meta": {}
+    },
+    {
+      "uid": "3f8da44641731b6f",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "我国科研人员研制新型高频晶体管刷新全球纪录",
+      "url": "https://36kr.com/newsflashes/3844487652116994?f=rss",
+      "published_at": "2026-06-08T12:15:04Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
+      "meta": {}
+    },
+    {
+      "uid": "87b160c431e2737e",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "胜宏科技：拟推出不超过7亿元员工持股计划",
+      "url": "https://36kr.com/newsflashes/3844473265752585?f=rss",
+      "published_at": "2026-06-08T12:12:24Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
+      "meta": {}
+    },
+    {
+      "uid": "e3bc1c7a9fc5c50a",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "黄仁勋：SK海力士到2030年将晶圆产能翻倍的计划还不够",
+      "url": "https://36kr.com/newsflashes/3844471670671619?f=rss",
+      "published_at": "2026-06-08T12:05:46Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
+      "meta": {}
+    },
+    {
       "uid": "2a51062575cc159e",
       "site_id": "36kr",
       "site_name": "36氪",
@@ -28,8 +232,8 @@
       "title": "携程：已作为首批内测团队接入微信AI生态布局",
       "url": "https://36kr.com/newsflashes/3844462848870913?f=rss",
       "published_at": "2026-06-08T11:59:48Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -40,8 +244,8 @@
       "title": "深圳华强：存储、电源管理芯片、模拟芯片和MLCC在内的众多元器件出现缺货涨价情况",
       "url": "https://36kr.com/newsflashes/3844461709576453?f=rss",
       "published_at": "2026-06-08T11:54:03Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -52,8 +256,8 @@
       "title": "Rokid发布社区生态治理与隐私保护整改声明：已全面清理社区违规内容、处置涉事账号",
       "url": "https://36kr.com/newsflashes/3844460453955847?f=rss",
       "published_at": "2026-06-08T11:47:24Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -64,8 +268,8 @@
       "title": "中巨芯：高纯六氟化钨尚未签署新的大额订单，产能600吨暂无扩产计划",
       "url": "https://36kr.com/newsflashes/3844450103921155?f=rss",
       "published_at": "2026-06-08T11:43:51Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -76,8 +280,8 @@
       "title": "“昆仑元AI”获5000万元战略融资",
       "url": "https://36kr.com/newsflashes/3844456903166217?f=rss",
       "published_at": "2026-06-08T11:43:47Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -88,176 +292,8 @@
       "title": "小米集团于公开市场增持金山软件，持股比例增至5.39%",
       "url": "https://36kr.com/newsflashes/3844440086219269?f=rss",
       "published_at": "2026-06-08T11:40:35Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
-      "meta": {}
-    },
-    {
-      "uid": "e203ca7ba4791e37",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "奥比中光：公司不直接从事物理AI的开发",
-      "url": "https://36kr.com/newsflashes/3844431793293830?f=rss",
-      "published_at": "2026-06-08T11:35:55Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
-      "meta": {}
-    },
-    {
-      "uid": "aaf48199f1507125",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "环旭电子：5月合并营业收入同比增长3.86%",
-      "url": "https://36kr.com/newsflashes/3844428094916869?f=rss",
-      "published_at": "2026-06-08T11:27:26Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
-      "meta": {}
-    },
-    {
-      "uid": "492bfc65fc59faac",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "龙芯中科：询价转让价格为120元/股",
-      "url": "https://36kr.com/newsflashes/3844411349846537?f=rss",
-      "published_at": "2026-06-08T11:20:22Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
-      "meta": {}
-    },
-    {
-      "uid": "1a47586ccca3d2f9",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "星华新材：终止筹划收购天宽科技51%股权事项",
-      "url": "https://36kr.com/newsflashes/3844412519975431?f=rss",
-      "published_at": "2026-06-08T11:16:36Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
-      "meta": {}
-    },
-    {
-      "uid": "ec1531b5768c9f39",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "五粮液：拟免去曾从钦董事职务，其担任的董事长等职务自董事解任生效之日起自动解除",
-      "url": "https://36kr.com/newsflashes/3844429341526275?f=rss",
-      "published_at": "2026-06-08T11:15:45Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
-      "meta": {}
-    },
-    {
-      "uid": "fc08614dd281b60d",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "永太科技：子公司与宁德时代签订电解液合作协议，预计2026-2028年采购量合计47万吨",
-      "url": "https://36kr.com/newsflashes/3844418271005192?f=rss",
-      "published_at": "2026-06-08T11:12:27Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
-      "meta": {}
-    },
-    {
-      "uid": "984091f403b0477d",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "中船特气：近期部分下游客户就六氟化钨产品与公司业务洽谈增加",
-      "url": "https://36kr.com/newsflashes/3844410512804356?f=rss",
-      "published_at": "2026-06-08T11:08:33Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
-      "meta": {}
-    },
-    {
-      "uid": "9e7b253654afff05",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "富国基金：标普油气ETF富国将于6月9日开市起至当日10:30停牌",
-      "url": "https://36kr.com/newsflashes/3844420592962057?f=rss",
-      "published_at": "2026-06-08T11:06:51Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
-      "meta": {}
-    },
-    {
-      "uid": "50a4b320ca8605e8",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "唯特偶：股票连续3日涨幅偏离值超30%，提示投资风险",
-      "url": "https://36kr.com/newsflashes/3844408974788867?f=rss",
-      "published_at": "2026-06-08T11:05:00Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
-      "meta": {}
-    },
-    {
-      "uid": "797e7b7dff11de4d",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "机构今日买入中船特气等33股，卖出昊华科技5.77亿元",
-      "url": "https://36kr.com/newsflashes/3844397438945794?f=rss",
-      "published_at": "2026-06-08T10:59:14Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
-      "meta": {}
-    },
-    {
-      "uid": "87d5e870ba857c33",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "万丰奥威：拟5亿元出售上海达克罗100%股权",
-      "url": "https://36kr.com/newsflashes/3844393088125449?f=rss",
-      "published_at": "2026-06-08T10:52:49Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
-      "meta": {}
-    },
-    {
-      "uid": "f32fec7919476550",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "中恒电气：宁德时代拟41亿元认购控股股东中恒科技投资新增注册资本",
-      "url": "https://36kr.com/newsflashes/3844390489328132?f=rss",
-      "published_at": "2026-06-08T10:47:12Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
-      "meta": {}
-    },
-    {
-      "uid": "0ad772ed041eda8d",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "2连板中百集团：主营业务仍聚焦于有税商品经营，尚未开设免税店",
-      "url": "https://36kr.com/newsflashes/3844389888363017?f=rss",
-      "published_at": "2026-06-08T10:43:35Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
-      "meta": {}
-    },
-    {
-      "uid": "5eb0f4636a3453b5",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "宿迁联盛：拟设立合资公司从事磷化铟衬底业务，二期预计产能扩充至40万片/年",
-      "url": "https://36kr.com/newsflashes/3844388337043717?f=rss",
-      "published_at": "2026-06-08T10:42:17Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -268,8 +304,8 @@
       "title": "拿“ Codex”当馅儿，豆包才值钱",
       "url": "https://www.tmtpost.com/8018984.html",
       "published_at": "2026-06-08T10:26:42Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -280,8 +316,8 @@
       "title": "AI还能让PC组装商吃多久红利？",
       "url": "https://www.tmtpost.com/8019149.html",
       "published_at": "2026-06-08T10:26:35Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -292,8 +328,8 @@
       "title": "智能体第一案，判了什么",
       "url": "https://www.tmtpost.com/8018931.html",
       "published_at": "2026-06-08T10:25:56Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -304,8 +340,8 @@
       "title": "“3D视觉第一股”左右互搏！减持8亿，定增9.8亿",
       "url": "https://www.tmtpost.com/8018645.html",
       "published_at": "2026-06-08T10:24:13Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -316,8 +352,8 @@
       "title": "苹果AI告急，库克押注谷歌Gemini救场",
       "url": "https://www.tmtpost.com/8019112.html",
       "published_at": "2026-06-08T10:21:22Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -328,8 +364,8 @@
       "title": "AI科技巨头，正在蒸馏你的行业",
       "url": "https://www.tmtpost.com/8019121.html",
       "published_at": "2026-06-08T10:21:21Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -340,8 +376,8 @@
       "title": "高考还没结束，AI已经在等了",
       "url": "https://www.tmtpost.com/8019145.html",
       "published_at": "2026-06-08T10:21:20Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -352,8 +388,8 @@
       "title": "涨价的智谱 vs 降价的DeepSeek：同一轮AI竞赛，两种不同的生存逻辑",
       "url": "https://www.tmtpost.com/8019143.html",
       "published_at": "2026-06-08T10:21:17Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -364,8 +400,8 @@
       "title": "光模块器件一道压痕，一年报废几百万，全公司数年无解",
       "url": "https://www.tmtpost.com/8018929.html",
       "published_at": "2026-06-08T09:39:02Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -376,8 +412,8 @@
       "title": "黄仁勋给PC行业画了一张“大饼”",
       "url": "https://www.tmtpost.com/8019086.html",
       "published_at": "2026-06-08T09:38:59Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -388,8 +424,8 @@
       "title": "超级IPO，超级财富转移",
       "url": "https://www.tmtpost.com/8018943.html",
       "published_at": "2026-06-08T09:30:18Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -400,8 +436,8 @@
       "title": "China's First “Elderly Mobility Vehicle” Company Eyes a Hong Kong IPO",
       "url": "https://www.tmtpost.com/8019068.html",
       "published_at": "2026-06-08T09:13:22Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -412,8 +448,8 @@
       "title": "腾讯汤道生评价姚顺雨、混元 3和元宝",
       "url": "https://36kr.com/p/3844018911889924?f=rss",
       "published_at": "2026-06-08T09:01:03Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -424,8 +460,8 @@
       "title": "富士达IPO闯关：上市前大额分红近1.85亿，关联交易引监管关注",
       "url": "https://www.tmtpost.com/8018862.html",
       "published_at": "2026-06-08T08:40:28Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -436,8 +472,8 @@
       "title": "世界杯还是那个世界杯，中国观众怎么不买账了？",
       "url": "https://www.tmtpost.com/8018867.html",
       "published_at": "2026-06-08T08:40:16Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -448,8 +484,8 @@
       "title": "SpaceX、OpenAI、Anthropic上市，AI时代的“阿波罗时刻”到了",
       "url": "https://www.tmtpost.com/8018883.html",
       "published_at": "2026-06-08T08:40:11Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -460,8 +496,8 @@
       "title": "特锐德推出全球首个“算电岛”，新能源度电成本如何从0.5元变为10元 token？",
       "url": "https://www.tmtpost.com/8018749.html",
       "published_at": "2026-06-08T07:38:56Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -472,8 +508,8 @@
       "title": "智谱与MiniMax回A遭遇“七月围城”",
       "url": "https://www.tmtpost.com/8018777.html",
       "published_at": "2026-06-08T07:38:54Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -484,8 +520,8 @@
       "title": "改变全球速度的AI，付款却卡在上一个时代",
       "url": "https://36kr.com/p/3844199957236227?f=rss",
       "published_at": "2026-06-08T07:30:56Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -496,20 +532,8 @@
       "title": "美的手握3200亿现金，方洪波打算做什么？",
       "url": "https://www.tmtpost.com/8018748.html",
       "published_at": "2026-06-08T07:23:01Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
-      "meta": {}
-    },
-    {
-      "uid": "5342b031c80fdc19",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "全球最大自行车代工之王，去IPO了",
-      "url": "https://www.tmtpost.com/8018704.html",
-      "published_at": "2026-06-08T07:22:59Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -520,8 +544,8 @@
       "title": "产品观察 | 小米创始员工范典创业AI硬件，做了台“无摩擦”的睡眠床头灯",
       "url": "https://36kr.com/p/3844006775360002?f=rss",
       "published_at": "2026-06-08T04:07:08Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -532,8 +556,8 @@
       "title": "「华超神控」获亿元天使系列融资，加速打造新一代AI超声脑机接口平台 | 36氪首发",
       "url": "https://36kr.com/p/3841459663030532?f=rss",
       "published_at": "2026-06-08T00:30:00Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -544,13 +568,217 @@
       "title": "8点1氪丨八家上市公司集中公告“补税”；ChatGPT将迎来史上最大幅度升级；高考新增AI监考员，自动截取异常录像",
       "url": "https://36kr.com/p/3843764238174729?f=rss",
       "published_at": "2026-06-08T00:01:39Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     }
   ],
   "items_all": [
     {
+      "uid": "eaf64e20ff6caa2b",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "世界杯官方比赛用球再度“中国制造”：全球产业链迁移下，广东工厂为何仍留在赛场中央？｜最前线",
+      "url": "https://36kr.com/p/3844185422400008?f=rss",
+      "published_at": "2026-06-08T15:09:52Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
+      "meta": {}
+    },
+    {
+      "uid": "0fce0878313d5ff2",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "氪星晚报｜追觅质押嘉美包装2.47亿股，向兴业银行贷款提供担保；黄仁勋：SK海力士到2030年将晶圆产能翻倍的计划还不够",
+      "url": "https://36kr.com/p/3844559758936582?f=rss",
+      "published_at": "2026-06-08T13:29:53Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
+      "meta": {}
+    },
+    {
+      "uid": "cb7bd0ccb7343f1a",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "钛媒体",
+      "title": "前次募资改道AI算力！明阳电路拟发12亿可转债，重仓高阶HDI板谋变",
+      "url": "https://www.tmtpost.com/8019397.html",
+      "published_at": "2026-06-08T13:25:58Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
+      "meta": {}
+    },
+    {
+      "uid": "7254dcb0d40b469c",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "热门中概股美股盘前多数上涨，哔哩哔哩涨超5%",
+      "url": "https://36kr.com/newsflashes/3844534192687360?f=rss",
+      "published_at": "2026-06-08T13:02:25Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
+      "meta": {}
+    },
+    {
+      "uid": "1f7dafc790758fa2",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "美股大型科技股盘前普涨，康宁涨超9%",
+      "url": "https://36kr.com/newsflashes/3844530011834884?f=rss",
+      "published_at": "2026-06-08T12:58:09Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
+      "meta": {}
+    },
+    {
+      "uid": "cb2402170d858466",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "天娱数科：目前无物理AI业务，未形成相关业务收入",
+      "url": "https://36kr.com/newsflashes/3844524510382599?f=rss",
+      "published_at": "2026-06-08T12:52:34Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
+      "meta": {}
+    },
+    {
+      "uid": "b7c3b5a9cd3cdb85",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "金安国纪：公司覆铜板主要客户为PCB厂商，未发现在AI服务器及算力领域的应用",
+      "url": "https://36kr.com/newsflashes/3844521049065737?f=rss",
+      "published_at": "2026-06-08T12:49:02Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
+      "meta": {}
+    },
+    {
+      "uid": "604d661a7ed4cfcb",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "同程旅行将接入微信AI智能体，机票、酒店将实现AI一键预订",
+      "url": "https://36kr.com/newsflashes/3844514407336201?f=rss",
+      "published_at": "2026-06-08T12:47:44Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
+      "meta": {}
+    },
+    {
+      "uid": "c778d489f633e419",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "鼎龙股份：拟投资3000万元扩建潜江CMP软抛光垫生产线",
+      "url": "https://36kr.com/newsflashes/3844507707132160?f=rss",
+      "published_at": "2026-06-08T12:44:25Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
+      "meta": {}
+    },
+    {
+      "uid": "45e4207d16ec8798",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "康宁美股盘前涨超9%",
+      "url": "https://36kr.com/newsflashes/3844516437494018?f=rss",
+      "published_at": "2026-06-08T12:44:21Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
+      "meta": {}
+    },
+    {
+      "uid": "aef13074ad393011",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "锋龙股份：截至目前，公司不涉及人形机器人业务",
+      "url": "https://36kr.com/newsflashes/3844502527674881?f=rss",
+      "published_at": "2026-06-08T12:40:09Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
+      "meta": {}
+    },
+    {
+      "uid": "d1832bd8b9789e99",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "赣锋锂业：储能电芯满产满销，588Ah产线三季度启动产能爬坡",
+      "url": "https://36kr.com/newsflashes/3844500261193990?f=rss",
+      "published_at": "2026-06-08T12:33:08Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
+      "meta": {}
+    },
+    {
+      "uid": "1d3d5240439ddb52",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "亿航智能宣布3000万美元股票回购计划，美股盘前涨超7%",
+      "url": "https://36kr.com/newsflashes/3844495750646017?f=rss",
+      "published_at": "2026-06-08T12:23:18Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
+      "meta": {}
+    },
+    {
+      "uid": "8792ab7cd7446810",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "日本证监会建议处罚富途控股旗下券商moomoo",
+      "url": "https://36kr.com/newsflashes/3844483601893889?f=rss",
+      "published_at": "2026-06-08T12:16:54Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
+      "meta": {}
+    },
+    {
+      "uid": "3f8da44641731b6f",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "我国科研人员研制新型高频晶体管刷新全球纪录",
+      "url": "https://36kr.com/newsflashes/3844487652116994?f=rss",
+      "published_at": "2026-06-08T12:15:04Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
+      "meta": {}
+    },
+    {
+      "uid": "87b160c431e2737e",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "胜宏科技：拟推出不超过7亿元员工持股计划",
+      "url": "https://36kr.com/newsflashes/3844473265752585?f=rss",
+      "published_at": "2026-06-08T12:12:24Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
+      "meta": {}
+    },
+    {
+      "uid": "e3bc1c7a9fc5c50a",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "黄仁勋：SK海力士到2030年将晶圆产能翻倍的计划还不够",
+      "url": "https://36kr.com/newsflashes/3844471670671619?f=rss",
+      "published_at": "2026-06-08T12:05:46Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
+      "meta": {}
+    },
+    {
       "uid": "2a51062575cc159e",
       "site_id": "36kr",
       "site_name": "36氪",
@@ -558,8 +786,8 @@
       "title": "携程：已作为首批内测团队接入微信AI生态布局",
       "url": "https://36kr.com/newsflashes/3844462848870913?f=rss",
       "published_at": "2026-06-08T11:59:48Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -570,8 +798,8 @@
       "title": "深圳华强：存储、电源管理芯片、模拟芯片和MLCC在内的众多元器件出现缺货涨价情况",
       "url": "https://36kr.com/newsflashes/3844461709576453?f=rss",
       "published_at": "2026-06-08T11:54:03Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -582,8 +810,8 @@
       "title": "Rokid发布社区生态治理与隐私保护整改声明：已全面清理社区违规内容、处置涉事账号",
       "url": "https://36kr.com/newsflashes/3844460453955847?f=rss",
       "published_at": "2026-06-08T11:47:24Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -594,8 +822,8 @@
       "title": "中巨芯：高纯六氟化钨尚未签署新的大额订单，产能600吨暂无扩产计划",
       "url": "https://36kr.com/newsflashes/3844450103921155?f=rss",
       "published_at": "2026-06-08T11:43:51Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -606,8 +834,8 @@
       "title": "“昆仑元AI”获5000万元战略融资",
       "url": "https://36kr.com/newsflashes/3844456903166217?f=rss",
       "published_at": "2026-06-08T11:43:47Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -618,176 +846,8 @@
       "title": "小米集团于公开市场增持金山软件，持股比例增至5.39%",
       "url": "https://36kr.com/newsflashes/3844440086219269?f=rss",
       "published_at": "2026-06-08T11:40:35Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
-      "meta": {}
-    },
-    {
-      "uid": "e203ca7ba4791e37",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "奥比中光：公司不直接从事物理AI的开发",
-      "url": "https://36kr.com/newsflashes/3844431793293830?f=rss",
-      "published_at": "2026-06-08T11:35:55Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
-      "meta": {}
-    },
-    {
-      "uid": "aaf48199f1507125",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "环旭电子：5月合并营业收入同比增长3.86%",
-      "url": "https://36kr.com/newsflashes/3844428094916869?f=rss",
-      "published_at": "2026-06-08T11:27:26Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
-      "meta": {}
-    },
-    {
-      "uid": "492bfc65fc59faac",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "龙芯中科：询价转让价格为120元/股",
-      "url": "https://36kr.com/newsflashes/3844411349846537?f=rss",
-      "published_at": "2026-06-08T11:20:22Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
-      "meta": {}
-    },
-    {
-      "uid": "1a47586ccca3d2f9",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "星华新材：终止筹划收购天宽科技51%股权事项",
-      "url": "https://36kr.com/newsflashes/3844412519975431?f=rss",
-      "published_at": "2026-06-08T11:16:36Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
-      "meta": {}
-    },
-    {
-      "uid": "ec1531b5768c9f39",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "五粮液：拟免去曾从钦董事职务，其担任的董事长等职务自董事解任生效之日起自动解除",
-      "url": "https://36kr.com/newsflashes/3844429341526275?f=rss",
-      "published_at": "2026-06-08T11:15:45Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
-      "meta": {}
-    },
-    {
-      "uid": "fc08614dd281b60d",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "永太科技：子公司与宁德时代签订电解液合作协议，预计2026-2028年采购量合计47万吨",
-      "url": "https://36kr.com/newsflashes/3844418271005192?f=rss",
-      "published_at": "2026-06-08T11:12:27Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
-      "meta": {}
-    },
-    {
-      "uid": "984091f403b0477d",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "中船特气：近期部分下游客户就六氟化钨产品与公司业务洽谈增加",
-      "url": "https://36kr.com/newsflashes/3844410512804356?f=rss",
-      "published_at": "2026-06-08T11:08:33Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
-      "meta": {}
-    },
-    {
-      "uid": "9e7b253654afff05",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "富国基金：标普油气ETF富国将于6月9日开市起至当日10:30停牌",
-      "url": "https://36kr.com/newsflashes/3844420592962057?f=rss",
-      "published_at": "2026-06-08T11:06:51Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
-      "meta": {}
-    },
-    {
-      "uid": "50a4b320ca8605e8",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "唯特偶：股票连续3日涨幅偏离值超30%，提示投资风险",
-      "url": "https://36kr.com/newsflashes/3844408974788867?f=rss",
-      "published_at": "2026-06-08T11:05:00Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
-      "meta": {}
-    },
-    {
-      "uid": "797e7b7dff11de4d",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "机构今日买入中船特气等33股，卖出昊华科技5.77亿元",
-      "url": "https://36kr.com/newsflashes/3844397438945794?f=rss",
-      "published_at": "2026-06-08T10:59:14Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
-      "meta": {}
-    },
-    {
-      "uid": "87d5e870ba857c33",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "万丰奥威：拟5亿元出售上海达克罗100%股权",
-      "url": "https://36kr.com/newsflashes/3844393088125449?f=rss",
-      "published_at": "2026-06-08T10:52:49Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
-      "meta": {}
-    },
-    {
-      "uid": "f32fec7919476550",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "中恒电气：宁德时代拟41亿元认购控股股东中恒科技投资新增注册资本",
-      "url": "https://36kr.com/newsflashes/3844390489328132?f=rss",
-      "published_at": "2026-06-08T10:47:12Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
-      "meta": {}
-    },
-    {
-      "uid": "0ad772ed041eda8d",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "2连板中百集团：主营业务仍聚焦于有税商品经营，尚未开设免税店",
-      "url": "https://36kr.com/newsflashes/3844389888363017?f=rss",
-      "published_at": "2026-06-08T10:43:35Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
-      "meta": {}
-    },
-    {
-      "uid": "5eb0f4636a3453b5",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "宿迁联盛：拟设立合资公司从事磷化铟衬底业务，二期预计产能扩充至40万片/年",
-      "url": "https://36kr.com/newsflashes/3844388337043717?f=rss",
-      "published_at": "2026-06-08T10:42:17Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -798,8 +858,8 @@
       "title": "拿“ Codex”当馅儿，豆包才值钱",
       "url": "https://www.tmtpost.com/8018984.html",
       "published_at": "2026-06-08T10:26:42Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -810,8 +870,8 @@
       "title": "AI还能让PC组装商吃多久红利？",
       "url": "https://www.tmtpost.com/8019149.html",
       "published_at": "2026-06-08T10:26:35Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -822,8 +882,8 @@
       "title": "智能体第一案，判了什么",
       "url": "https://www.tmtpost.com/8018931.html",
       "published_at": "2026-06-08T10:25:56Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -834,8 +894,8 @@
       "title": "“3D视觉第一股”左右互搏！减持8亿，定增9.8亿",
       "url": "https://www.tmtpost.com/8018645.html",
       "published_at": "2026-06-08T10:24:13Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -846,8 +906,8 @@
       "title": "苹果AI告急，库克押注谷歌Gemini救场",
       "url": "https://www.tmtpost.com/8019112.html",
       "published_at": "2026-06-08T10:21:22Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -858,8 +918,8 @@
       "title": "AI科技巨头，正在蒸馏你的行业",
       "url": "https://www.tmtpost.com/8019121.html",
       "published_at": "2026-06-08T10:21:21Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -870,8 +930,8 @@
       "title": "高考还没结束，AI已经在等了",
       "url": "https://www.tmtpost.com/8019145.html",
       "published_at": "2026-06-08T10:21:20Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -882,8 +942,8 @@
       "title": "涨价的智谱 vs 降价的DeepSeek：同一轮AI竞赛，两种不同的生存逻辑",
       "url": "https://www.tmtpost.com/8019143.html",
       "published_at": "2026-06-08T10:21:17Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -894,8 +954,8 @@
       "title": "光模块器件一道压痕，一年报废几百万，全公司数年无解",
       "url": "https://www.tmtpost.com/8018929.html",
       "published_at": "2026-06-08T09:39:02Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -906,8 +966,8 @@
       "title": "黄仁勋给PC行业画了一张“大饼”",
       "url": "https://www.tmtpost.com/8019086.html",
       "published_at": "2026-06-08T09:38:59Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -918,8 +978,8 @@
       "title": "超级IPO，超级财富转移",
       "url": "https://www.tmtpost.com/8018943.html",
       "published_at": "2026-06-08T09:30:18Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -930,8 +990,8 @@
       "title": "China's First “Elderly Mobility Vehicle” Company Eyes a Hong Kong IPO",
       "url": "https://www.tmtpost.com/8019068.html",
       "published_at": "2026-06-08T09:13:22Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -942,8 +1002,8 @@
       "title": "腾讯汤道生评价姚顺雨、混元 3和元宝",
       "url": "https://36kr.com/p/3844018911889924?f=rss",
       "published_at": "2026-06-08T09:01:03Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -954,8 +1014,8 @@
       "title": "富士达IPO闯关：上市前大额分红近1.85亿，关联交易引监管关注",
       "url": "https://www.tmtpost.com/8018862.html",
       "published_at": "2026-06-08T08:40:28Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -966,8 +1026,8 @@
       "title": "世界杯还是那个世界杯，中国观众怎么不买账了？",
       "url": "https://www.tmtpost.com/8018867.html",
       "published_at": "2026-06-08T08:40:16Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -978,8 +1038,8 @@
       "title": "SpaceX、OpenAI、Anthropic上市，AI时代的“阿波罗时刻”到了",
       "url": "https://www.tmtpost.com/8018883.html",
       "published_at": "2026-06-08T08:40:11Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -990,8 +1050,8 @@
       "title": "特锐德推出全球首个“算电岛”，新能源度电成本如何从0.5元变为10元 token？",
       "url": "https://www.tmtpost.com/8018749.html",
       "published_at": "2026-06-08T07:38:56Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -1002,8 +1062,8 @@
       "title": "智谱与MiniMax回A遭遇“七月围城”",
       "url": "https://www.tmtpost.com/8018777.html",
       "published_at": "2026-06-08T07:38:54Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -1014,8 +1074,8 @@
       "title": "改变全球速度的AI，付款却卡在上一个时代",
       "url": "https://36kr.com/p/3844199957236227?f=rss",
       "published_at": "2026-06-08T07:30:56Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -1026,20 +1086,8 @@
       "title": "美的手握3200亿现金，方洪波打算做什么？",
       "url": "https://www.tmtpost.com/8018748.html",
       "published_at": "2026-06-08T07:23:01Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
-      "meta": {}
-    },
-    {
-      "uid": "5342b031c80fdc19",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "全球最大自行车代工之王，去IPO了",
-      "url": "https://www.tmtpost.com/8018704.html",
-      "published_at": "2026-06-08T07:22:59Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -1050,8 +1098,8 @@
       "title": "产品观察 | 小米创始员工范典创业AI硬件，做了台“无摩擦”的睡眠床头灯",
       "url": "https://36kr.com/p/3844006775360002?f=rss",
       "published_at": "2026-06-08T04:07:08Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -1062,8 +1110,8 @@
       "title": "「华超神控」获亿元天使系列融资，加速打造新一代AI超声脑机接口平台 | 36氪首发",
       "url": "https://36kr.com/p/3841459663030532?f=rss",
       "published_at": "2026-06-08T00:30:00Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -1074,13 +1122,217 @@
       "title": "8点1氪丨八家上市公司集中公告“补税”；ChatGPT将迎来史上最大幅度升级；高考新增AI监考员，自动截取异常录像",
       "url": "https://36kr.com/p/3843764238174729?f=rss",
       "published_at": "2026-06-08T00:01:39Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     }
   ],
   "items_all_raw": [
     {
+      "uid": "eaf64e20ff6caa2b",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "世界杯官方比赛用球再度“中国制造”：全球产业链迁移下，广东工厂为何仍留在赛场中央？｜最前线",
+      "url": "https://36kr.com/p/3844185422400008?f=rss",
+      "published_at": "2026-06-08T15:09:52Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
+      "meta": {}
+    },
+    {
+      "uid": "0fce0878313d5ff2",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "氪星晚报｜追觅质押嘉美包装2.47亿股，向兴业银行贷款提供担保；黄仁勋：SK海力士到2030年将晶圆产能翻倍的计划还不够",
+      "url": "https://36kr.com/p/3844559758936582?f=rss",
+      "published_at": "2026-06-08T13:29:53Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
+      "meta": {}
+    },
+    {
+      "uid": "cb7bd0ccb7343f1a",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "钛媒体",
+      "title": "前次募资改道AI算力！明阳电路拟发12亿可转债，重仓高阶HDI板谋变",
+      "url": "https://www.tmtpost.com/8019397.html",
+      "published_at": "2026-06-08T13:25:58Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
+      "meta": {}
+    },
+    {
+      "uid": "7254dcb0d40b469c",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "热门中概股美股盘前多数上涨，哔哩哔哩涨超5%",
+      "url": "https://36kr.com/newsflashes/3844534192687360?f=rss",
+      "published_at": "2026-06-08T13:02:25Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
+      "meta": {}
+    },
+    {
+      "uid": "1f7dafc790758fa2",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "美股大型科技股盘前普涨，康宁涨超9%",
+      "url": "https://36kr.com/newsflashes/3844530011834884?f=rss",
+      "published_at": "2026-06-08T12:58:09Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
+      "meta": {}
+    },
+    {
+      "uid": "cb2402170d858466",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "天娱数科：目前无物理AI业务，未形成相关业务收入",
+      "url": "https://36kr.com/newsflashes/3844524510382599?f=rss",
+      "published_at": "2026-06-08T12:52:34Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
+      "meta": {}
+    },
+    {
+      "uid": "b7c3b5a9cd3cdb85",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "金安国纪：公司覆铜板主要客户为PCB厂商，未发现在AI服务器及算力领域的应用",
+      "url": "https://36kr.com/newsflashes/3844521049065737?f=rss",
+      "published_at": "2026-06-08T12:49:02Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
+      "meta": {}
+    },
+    {
+      "uid": "604d661a7ed4cfcb",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "同程旅行将接入微信AI智能体，机票、酒店将实现AI一键预订",
+      "url": "https://36kr.com/newsflashes/3844514407336201?f=rss",
+      "published_at": "2026-06-08T12:47:44Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
+      "meta": {}
+    },
+    {
+      "uid": "c778d489f633e419",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "鼎龙股份：拟投资3000万元扩建潜江CMP软抛光垫生产线",
+      "url": "https://36kr.com/newsflashes/3844507707132160?f=rss",
+      "published_at": "2026-06-08T12:44:25Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
+      "meta": {}
+    },
+    {
+      "uid": "45e4207d16ec8798",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "康宁美股盘前涨超9%",
+      "url": "https://36kr.com/newsflashes/3844516437494018?f=rss",
+      "published_at": "2026-06-08T12:44:21Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
+      "meta": {}
+    },
+    {
+      "uid": "aef13074ad393011",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "锋龙股份：截至目前，公司不涉及人形机器人业务",
+      "url": "https://36kr.com/newsflashes/3844502527674881?f=rss",
+      "published_at": "2026-06-08T12:40:09Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
+      "meta": {}
+    },
+    {
+      "uid": "d1832bd8b9789e99",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "赣锋锂业：储能电芯满产满销，588Ah产线三季度启动产能爬坡",
+      "url": "https://36kr.com/newsflashes/3844500261193990?f=rss",
+      "published_at": "2026-06-08T12:33:08Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
+      "meta": {}
+    },
+    {
+      "uid": "1d3d5240439ddb52",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "亿航智能宣布3000万美元股票回购计划，美股盘前涨超7%",
+      "url": "https://36kr.com/newsflashes/3844495750646017?f=rss",
+      "published_at": "2026-06-08T12:23:18Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
+      "meta": {}
+    },
+    {
+      "uid": "8792ab7cd7446810",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "日本证监会建议处罚富途控股旗下券商moomoo",
+      "url": "https://36kr.com/newsflashes/3844483601893889?f=rss",
+      "published_at": "2026-06-08T12:16:54Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
+      "meta": {}
+    },
+    {
+      "uid": "3f8da44641731b6f",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "我国科研人员研制新型高频晶体管刷新全球纪录",
+      "url": "https://36kr.com/newsflashes/3844487652116994?f=rss",
+      "published_at": "2026-06-08T12:15:04Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
+      "meta": {}
+    },
+    {
+      "uid": "87b160c431e2737e",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "胜宏科技：拟推出不超过7亿元员工持股计划",
+      "url": "https://36kr.com/newsflashes/3844473265752585?f=rss",
+      "published_at": "2026-06-08T12:12:24Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
+      "meta": {}
+    },
+    {
+      "uid": "e3bc1c7a9fc5c50a",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "黄仁勋：SK海力士到2030年将晶圆产能翻倍的计划还不够",
+      "url": "https://36kr.com/newsflashes/3844471670671619?f=rss",
+      "published_at": "2026-06-08T12:05:46Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
+      "meta": {}
+    },
+    {
       "uid": "2a51062575cc159e",
       "site_id": "36kr",
       "site_name": "36氪",
@@ -1088,8 +1340,8 @@
       "title": "携程：已作为首批内测团队接入微信AI生态布局",
       "url": "https://36kr.com/newsflashes/3844462848870913?f=rss",
       "published_at": "2026-06-08T11:59:48Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -1100,8 +1352,8 @@
       "title": "深圳华强：存储、电源管理芯片、模拟芯片和MLCC在内的众多元器件出现缺货涨价情况",
       "url": "https://36kr.com/newsflashes/3844461709576453?f=rss",
       "published_at": "2026-06-08T11:54:03Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -1112,8 +1364,8 @@
       "title": "Rokid发布社区生态治理与隐私保护整改声明：已全面清理社区违规内容、处置涉事账号",
       "url": "https://36kr.com/newsflashes/3844460453955847?f=rss",
       "published_at": "2026-06-08T11:47:24Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -1124,8 +1376,8 @@
       "title": "中巨芯：高纯六氟化钨尚未签署新的大额订单，产能600吨暂无扩产计划",
       "url": "https://36kr.com/newsflashes/3844450103921155?f=rss",
       "published_at": "2026-06-08T11:43:51Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -1136,8 +1388,8 @@
       "title": "“昆仑元AI”获5000万元战略融资",
       "url": "https://36kr.com/newsflashes/3844456903166217?f=rss",
       "published_at": "2026-06-08T11:43:47Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -1148,176 +1400,8 @@
       "title": "小米集团于公开市场增持金山软件，持股比例增至5.39%",
       "url": "https://36kr.com/newsflashes/3844440086219269?f=rss",
       "published_at": "2026-06-08T11:40:35Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
-      "meta": {}
-    },
-    {
-      "uid": "e203ca7ba4791e37",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "奥比中光：公司不直接从事物理AI的开发",
-      "url": "https://36kr.com/newsflashes/3844431793293830?f=rss",
-      "published_at": "2026-06-08T11:35:55Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
-      "meta": {}
-    },
-    {
-      "uid": "aaf48199f1507125",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "环旭电子：5月合并营业收入同比增长3.86%",
-      "url": "https://36kr.com/newsflashes/3844428094916869?f=rss",
-      "published_at": "2026-06-08T11:27:26Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
-      "meta": {}
-    },
-    {
-      "uid": "492bfc65fc59faac",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "龙芯中科：询价转让价格为120元/股",
-      "url": "https://36kr.com/newsflashes/3844411349846537?f=rss",
-      "published_at": "2026-06-08T11:20:22Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
-      "meta": {}
-    },
-    {
-      "uid": "1a47586ccca3d2f9",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "星华新材：终止筹划收购天宽科技51%股权事项",
-      "url": "https://36kr.com/newsflashes/3844412519975431?f=rss",
-      "published_at": "2026-06-08T11:16:36Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
-      "meta": {}
-    },
-    {
-      "uid": "ec1531b5768c9f39",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "五粮液：拟免去曾从钦董事职务，其担任的董事长等职务自董事解任生效之日起自动解除",
-      "url": "https://36kr.com/newsflashes/3844429341526275?f=rss",
-      "published_at": "2026-06-08T11:15:45Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
-      "meta": {}
-    },
-    {
-      "uid": "fc08614dd281b60d",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "永太科技：子公司与宁德时代签订电解液合作协议，预计2026-2028年采购量合计47万吨",
-      "url": "https://36kr.com/newsflashes/3844418271005192?f=rss",
-      "published_at": "2026-06-08T11:12:27Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
-      "meta": {}
-    },
-    {
-      "uid": "984091f403b0477d",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "中船特气：近期部分下游客户就六氟化钨产品与公司业务洽谈增加",
-      "url": "https://36kr.com/newsflashes/3844410512804356?f=rss",
-      "published_at": "2026-06-08T11:08:33Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
-      "meta": {}
-    },
-    {
-      "uid": "9e7b253654afff05",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "富国基金：标普油气ETF富国将于6月9日开市起至当日10:30停牌",
-      "url": "https://36kr.com/newsflashes/3844420592962057?f=rss",
-      "published_at": "2026-06-08T11:06:51Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
-      "meta": {}
-    },
-    {
-      "uid": "50a4b320ca8605e8",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "唯特偶：股票连续3日涨幅偏离值超30%，提示投资风险",
-      "url": "https://36kr.com/newsflashes/3844408974788867?f=rss",
-      "published_at": "2026-06-08T11:05:00Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
-      "meta": {}
-    },
-    {
-      "uid": "797e7b7dff11de4d",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "机构今日买入中船特气等33股，卖出昊华科技5.77亿元",
-      "url": "https://36kr.com/newsflashes/3844397438945794?f=rss",
-      "published_at": "2026-06-08T10:59:14Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
-      "meta": {}
-    },
-    {
-      "uid": "87d5e870ba857c33",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "万丰奥威：拟5亿元出售上海达克罗100%股权",
-      "url": "https://36kr.com/newsflashes/3844393088125449?f=rss",
-      "published_at": "2026-06-08T10:52:49Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
-      "meta": {}
-    },
-    {
-      "uid": "f32fec7919476550",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "中恒电气：宁德时代拟41亿元认购控股股东中恒科技投资新增注册资本",
-      "url": "https://36kr.com/newsflashes/3844390489328132?f=rss",
-      "published_at": "2026-06-08T10:47:12Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
-      "meta": {}
-    },
-    {
-      "uid": "0ad772ed041eda8d",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "2连板中百集团：主营业务仍聚焦于有税商品经营，尚未开设免税店",
-      "url": "https://36kr.com/newsflashes/3844389888363017?f=rss",
-      "published_at": "2026-06-08T10:43:35Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
-      "meta": {}
-    },
-    {
-      "uid": "5eb0f4636a3453b5",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "宿迁联盛：拟设立合资公司从事磷化铟衬底业务，二期预计产能扩充至40万片/年",
-      "url": "https://36kr.com/newsflashes/3844388337043717?f=rss",
-      "published_at": "2026-06-08T10:42:17Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -1328,8 +1412,8 @@
       "title": "拿“ Codex”当馅儿，豆包才值钱",
       "url": "https://www.tmtpost.com/8018984.html",
       "published_at": "2026-06-08T10:26:42Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -1340,8 +1424,8 @@
       "title": "AI还能让PC组装商吃多久红利？",
       "url": "https://www.tmtpost.com/8019149.html",
       "published_at": "2026-06-08T10:26:35Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -1352,8 +1436,8 @@
       "title": "智能体第一案，判了什么",
       "url": "https://www.tmtpost.com/8018931.html",
       "published_at": "2026-06-08T10:25:56Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -1364,8 +1448,8 @@
       "title": "“3D视觉第一股”左右互搏！减持8亿，定增9.8亿",
       "url": "https://www.tmtpost.com/8018645.html",
       "published_at": "2026-06-08T10:24:13Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -1376,8 +1460,8 @@
       "title": "苹果AI告急，库克押注谷歌Gemini救场",
       "url": "https://www.tmtpost.com/8019112.html",
       "published_at": "2026-06-08T10:21:22Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -1388,8 +1472,8 @@
       "title": "AI科技巨头，正在蒸馏你的行业",
       "url": "https://www.tmtpost.com/8019121.html",
       "published_at": "2026-06-08T10:21:21Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -1400,8 +1484,8 @@
       "title": "高考还没结束，AI已经在等了",
       "url": "https://www.tmtpost.com/8019145.html",
       "published_at": "2026-06-08T10:21:20Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -1412,8 +1496,8 @@
       "title": "涨价的智谱 vs 降价的DeepSeek：同一轮AI竞赛，两种不同的生存逻辑",
       "url": "https://www.tmtpost.com/8019143.html",
       "published_at": "2026-06-08T10:21:17Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -1424,8 +1508,8 @@
       "title": "光模块器件一道压痕，一年报废几百万，全公司数年无解",
       "url": "https://www.tmtpost.com/8018929.html",
       "published_at": "2026-06-08T09:39:02Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -1436,8 +1520,8 @@
       "title": "黄仁勋给PC行业画了一张“大饼”",
       "url": "https://www.tmtpost.com/8019086.html",
       "published_at": "2026-06-08T09:38:59Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -1448,8 +1532,8 @@
       "title": "超级IPO，超级财富转移",
       "url": "https://www.tmtpost.com/8018943.html",
       "published_at": "2026-06-08T09:30:18Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -1460,8 +1544,8 @@
       "title": "China's First “Elderly Mobility Vehicle” Company Eyes a Hong Kong IPO",
       "url": "https://www.tmtpost.com/8019068.html",
       "published_at": "2026-06-08T09:13:22Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -1472,8 +1556,8 @@
       "title": "腾讯汤道生评价姚顺雨、混元 3和元宝",
       "url": "https://36kr.com/p/3844018911889924?f=rss",
       "published_at": "2026-06-08T09:01:03Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -1484,8 +1568,8 @@
       "title": "富士达IPO闯关：上市前大额分红近1.85亿，关联交易引监管关注",
       "url": "https://www.tmtpost.com/8018862.html",
       "published_at": "2026-06-08T08:40:28Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -1496,8 +1580,8 @@
       "title": "世界杯还是那个世界杯，中国观众怎么不买账了？",
       "url": "https://www.tmtpost.com/8018867.html",
       "published_at": "2026-06-08T08:40:16Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -1508,8 +1592,8 @@
       "title": "SpaceX、OpenAI、Anthropic上市，AI时代的“阿波罗时刻”到了",
       "url": "https://www.tmtpost.com/8018883.html",
       "published_at": "2026-06-08T08:40:11Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -1520,8 +1604,8 @@
       "title": "特锐德推出全球首个“算电岛”，新能源度电成本如何从0.5元变为10元 token？",
       "url": "https://www.tmtpost.com/8018749.html",
       "published_at": "2026-06-08T07:38:56Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -1532,8 +1616,8 @@
       "title": "智谱与MiniMax回A遭遇“七月围城”",
       "url": "https://www.tmtpost.com/8018777.html",
       "published_at": "2026-06-08T07:38:54Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -1544,8 +1628,8 @@
       "title": "改变全球速度的AI，付款却卡在上一个时代",
       "url": "https://36kr.com/p/3844199957236227?f=rss",
       "published_at": "2026-06-08T07:30:56Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -1556,20 +1640,8 @@
       "title": "美的手握3200亿现金，方洪波打算做什么？",
       "url": "https://www.tmtpost.com/8018748.html",
       "published_at": "2026-06-08T07:23:01Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
-      "meta": {}
-    },
-    {
-      "uid": "5342b031c80fdc19",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "全球最大自行车代工之王，去IPO了",
-      "url": "https://www.tmtpost.com/8018704.html",
-      "published_at": "2026-06-08T07:22:59Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -1580,8 +1652,8 @@
       "title": "产品观察 | 小米创始员工范典创业AI硬件，做了台“无摩擦”的睡眠床头灯",
       "url": "https://36kr.com/p/3844006775360002?f=rss",
       "published_at": "2026-06-08T04:07:08Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -1592,8 +1664,8 @@
       "title": "「华超神控」获亿元天使系列融资，加速打造新一代AI超声脑机接口平台 | 36氪首发",
       "url": "https://36kr.com/p/3841459663030532?f=rss",
       "published_at": "2026-06-08T00:30:00Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     },
     {
@@ -1604,8 +1676,8 @@
       "title": "8点1氪丨八家上市公司集中公告“补税”；ChatGPT将迎来史上最大幅度升级；高考新增AI监考员，自动截取异常录像",
       "url": "https://36kr.com/p/3843764238174729?f=rss",
       "published_at": "2026-06-08T00:01:39Z",
-      "first_seen_at": "2026-06-08T12:02:45.829840Z",
-      "last_seen_at": "2026-06-08T12:02:45.829840Z",
+      "first_seen_at": "2026-06-08T16:35:53.913324Z",
+      "last_seen_at": "2026-06-08T16:35:53.913324Z",
       "meta": {}
     }
   ]

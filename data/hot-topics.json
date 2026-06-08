@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-08T12:04:03.175916Z",
+  "generated_at": "2026-06-08T16:37:11.763530Z",
   "window_hours": 24,
-  "total_items_analyzed": 44,
+  "total_items_analyzed": 46,
   "hot_topics": [
     {
       "keyword": "IPO",
       "category": "市场",
-      "count": 4,
+      "count": 3,
       "sample_titles": [
         "超级IPO，超级财富转移",
         "China's First “Elderly Mobility Vehicle” Company Eyes a Hong Kong IPO",
@@ -30,11 +30,35 @@
       ]
     },
     {
-      "keyword": "连板",
-      "category": "市场",
+      "keyword": "储能",
+      "category": "板块",
       "count": 1,
       "sample_titles": [
-        "2连板中百集团：主营业务仍聚焦于有税商品经营，尚未开设免税店"
+        "赣锋锂业：储能电芯满产满销，588Ah产线三季度启动产能爬坡"
+      ]
+    },
+    {
+      "keyword": "机器人",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "锋龙股份：截至目前，公司不涉及人形机器人业务"
+      ]
+    },
+    {
+      "keyword": "银行",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "氪星晚报｜追觅质押嘉美包装2.47亿股，向兴业银行贷款提供担保；黄仁勋：SK海力士到2030年将晶圆产能翻倍的计划还不够"
+      ]
+    },
+    {
+      "keyword": "券商",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "日本证监会建议处罚富途控股旗下券商moomoo"
       ]
     },
     {
@@ -54,11 +78,27 @@
       ]
     },
     {
+      "keyword": "回购",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "亿航智能宣布3000万美元股票回购计划，美股盘前涨超7%"
+      ]
+    },
+    {
       "keyword": "分红",
       "category": "市场",
       "count": 1,
       "sample_titles": [
         "富士达IPO闯关：上市前大额分红近1.85亿，关联交易引监管关注"
+      ]
+    },
+    {
+      "keyword": "证监会",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "日本证监会建议处罚富途控股旗下券商moomoo"
       ]
     }
   ]
