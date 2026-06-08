@@ -1,39 +1,33 @@
 {
-  "generated_at": "2026-06-08T01:42:12.991443Z",
+  "generated_at": "2026-06-08T06:52:23.964067Z",
   "window_hours": 24,
-  "total_items_analyzed": 40,
+  "total_items_analyzed": 43,
   "hot_topics": [
     {
-      "keyword": "港股",
-      "category": "港股",
-      "count": 2,
+      "keyword": "IPO",
+      "category": "市场",
+      "count": 3,
       "sample_titles": [
-        "深交所：深港通下的港股通标的调入鸣鸣很忙、智谱等6股",
-        "华泰证券港股策略：港股或继续跑出相对收益"
-      ]
-    },
-    {
-      "keyword": "新能源",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "蔚来理想口水战，赛力斯引辟谣，国产新能源逼急欧洲"
-      ]
-    },
-    {
-      "keyword": "半导体",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "A股三大指数集体低开，半导体板块跌幅居前"
+        "安克创新赴港IPO的估值达7亿至8亿美元",
+        "仙工智能IPO通过聆讯，“机器人大脑第一股”成色几何？",
+        "“老头乐”第一股赴港IPO：年入39亿，垄断美国18%市场"
       ]
     },
     {
       "keyword": "机器人",
       "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "马斯克谈SpaceX上市原因：需要更多卫星满足通信需求，AI计算和机器人对带宽的需求是巨大的",
+        "仙工智能IPO通过聆讯，“机器人大脑第一股”成色几何？"
+      ]
+    },
+    {
+      "keyword": "医药",
+      "category": "板块",
       "count": 1,
       "sample_titles": [
-        "英伟达与斗山集团扩大合作，覆盖物理AI、机器人及AI工厂基础设施"
+        "医药股低位密集回购，多家药企不惜举债加仓丨行业风向标"
       ]
     },
     {
@@ -41,15 +35,31 @@
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "中信证券：上市银行步入基本面修复通道，行业估值提升可期"
+        "【Fintech 周报】香港金管局：银行业界已落实最新监管要求；中国人保原副总裁于泽被“双开”；易票联支付被罚没超4800万元"
       ]
     },
     {
-      "keyword": "恒指",
-      "category": "港股",
+      "keyword": "汽车",
+      "category": "板块",
       "count": 1,
       "sample_titles": [
-        "恒指开盘跌1.52%，恒生科技指数跌2.43%"
+        "张正萍任赛力斯汽车董事长"
+      ]
+    },
+    {
+      "keyword": "钢铁",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "钢铁上市公司AI透视：谁在深耕核心，谁在纸上谈兵"
+      ]
+    },
+    {
+      "keyword": "回购",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "医药股低位密集回购，多家药企不惜举债加仓丨行业风向标"
       ]
     },
     {
@@ -57,7 +67,23 @@
       "category": "港股",
       "count": 1,
       "sample_titles": [
-        "恒指开盘跌1.52%，恒生科技指数跌2.43%"
+        "恒生科技指数跌幅扩大至3%"
+      ]
+    },
+    {
+      "keyword": "南向资金",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "南向资金净买入额达60亿港元"
+      ]
+    },
+    {
+      "keyword": "央行",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "黄金成全球最大储备资产，揭秘央行“购金潮”背后的逻辑"
       ]
     }
   ]
