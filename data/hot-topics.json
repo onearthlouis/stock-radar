@@ -1,60 +1,85 @@
 {
-  "generated_at": "2026-06-09T08:35:52.755971Z",
+  "generated_at": "2026-06-09T12:10:58.199850Z",
   "window_hours": 24,
-  "total_items_analyzed": 46,
+  "total_items_analyzed": 47,
   "hot_topics": [
     {
       "keyword": "芯片",
       "category": "板块",
-      "count": 4,
-      "sample_titles": [
-        "全球芯片股一周惊魂：三重利空砸出深坑，反弹还是反转",
-        "原粒半导体：Agent执行时代，像拼乐高一样造芯片",
-        "36氪首发 | 国内唯一POD材料产业化团队再创业，布局3C与AI芯片散热，技术积累全球领先"
-      ]
-    },
-    {
-      "keyword": "半导体",
-      "category": "板块",
       "count": 3,
       "sample_titles": [
-        "原粒半导体：Agent执行时代，像拼乐高一样造芯片",
-        "武汉光谷半导体产业投资公司增资至34亿，增幅240%",
+        "全球芯片股一周惊魂：三重利空砸出深坑，反弹还是反转",
+        "36氪首发 | 国内唯一POD材料产业化团队再创业，布局3C与AI芯片散热，技术积累全球领先",
         "36氪首发 | AI芯片处理器IP公司完成近亿元融资，核心团队来自Synopsys、ARM等顶尖半导体公司"
       ]
     },
     {
-      "keyword": "医疗",
+      "keyword": "汽车",
       "category": "板块",
       "count": 3,
       "sample_titles": [
-        "华东医药：子公司医疗器械变更注册申请获受理",
-        "大模型重燃大厂“医疗梦”",
-        "腾讯、阿里等入股脑机接口研发商阶梯医疗"
-      ]
-    },
-    {
-      "keyword": "人工智能",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "小米旗下瀚星创投等入股人工智能合伙企业"
+        "江淮汽车：拟5000万元至1亿元回购股份",
+        "广东：推动大型汽车贸易企业和生产企业发展二手车出口业务",
+        "国产汽车如何塑造专属品牌气质"
       ]
     },
     {
       "keyword": "机器人",
       "category": "板块",
-      "count": 1,
+      "count": 2,
       "sample_titles": [
-        "融资最多的机器人公司，一年卖出了150台"
+        "2.8万台机器人领了“中国护照”，海外认吗？",
+        "对话追觅扫地机孟佳：扫地机器人行业还远没有到终点"
       ]
     },
     {
-      "keyword": "医药",
+      "keyword": "IPO",
+      "category": "市场",
+      "count": 2,
+      "sample_titles": [
+        "说服女王：从大航海赞助到SpaceX的史上最大IPO",
+        "8点1氪丨苹果推出全新Siri AI；ROKID回应“智能眼镜偷拍空姐”事件；OpenAI秘密提交IPO文件"
+      ]
+    },
+    {
+      "keyword": "减持",
+      "category": "市场",
+      "count": 2,
+      "sample_titles": [
+        "宇信科技：特定股东未减持公司股份并提前终止减持计划",
+        "豪江智能：控股股东、实控人承诺12个月内不减持公司股份"
+      ]
+    },
+    {
+      "keyword": "新能源",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "华东医药：子公司医疗器械变更注册申请获受理"
+        "补贴退潮、格局重构：新能源重卡“规模化”闯关"
+      ]
+    },
+    {
+      "keyword": "半导体",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "36氪首发 | AI芯片处理器IP公司完成近亿元融资，核心团队来自Synopsys、ARM等顶尖半导体公司"
+      ]
+    },
+    {
+      "keyword": "储能",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "锂空气电池，长时储能的新变量？"
+      ]
+    },
+    {
+      "keyword": "金融",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "广东：鼓励银行机构针对二手车出口企业开发金融产品"
       ]
     },
     {
@@ -62,7 +87,7 @@
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "氪星晚报｜追觅质押嘉美包装2.47亿股，向兴业银行贷款提供担保；黄仁勋：SK海力士到2030年将晶圆产能翻倍的计划还不够"
+        "广东：鼓励银行机构针对二手车出口企业开发金融产品"
       ]
     },
     {
@@ -74,35 +99,19 @@
       ]
     },
     {
-      "keyword": "IPO",
+      "keyword": "钢铁",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "美国钢铁公司拟在宾州投资25亿美元新建热轧厂"
+      ]
+    },
+    {
+      "keyword": "回购",
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "8点1氪丨苹果推出全新Siri AI；ROKID回应“智能眼镜偷拍空姐”事件；OpenAI秘密提交IPO文件"
-      ]
-    },
-    {
-      "keyword": "恒指",
-      "category": "港股",
-      "count": 1,
-      "sample_titles": [
-        "恒指收盘跌0.37%，恒生科技指数涨0.29%"
-      ]
-    },
-    {
-      "keyword": "恒生科技",
-      "category": "港股",
-      "count": 1,
-      "sample_titles": [
-        "恒指收盘跌0.37%，恒生科技指数涨0.29%"
-      ]
-    },
-    {
-      "keyword": "南向资金",
-      "category": "港股",
-      "count": 1,
-      "sample_titles": [
-        "南向资金净卖出额达40亿港元"
+        "江淮汽车：拟5000万元至1亿元回购股份"
       ]
     }
   ]
