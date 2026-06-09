@@ -1,16 +1,34 @@
 {
-  "generated_at": "2026-06-08T22:58:18.391205Z",
+  "generated_at": "2026-06-09T00:13:34.422273Z",
   "window_hours": 24,
-  "total_items_analyzed": 46,
+  "total_items_analyzed": 45,
   "hot_topics": [
     {
       "keyword": "IPO",
       "category": "市场",
-      "count": 3,
+      "count": 5,
       "sample_titles": [
-        "超级IPO，超级财富转移",
-        "China's First “Elderly Mobility Vehicle” Company Eyes a Hong Kong IPO",
-        "富士达IPO闯关：上市前大额分红近1.85亿，关联交易引监管关注"
+        "SpaceX、OpenAI、Anthropic相继推进上市进程，全球超级IPO潮或重塑市场预期",
+        "MSCI称将对SpaceX纳斯达克IPO采用标准方法",
+        "超级IPO，超级财富转移"
+      ]
+    },
+    {
+      "keyword": "金融",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "黄河实业：与独立第三方就一项自主智能式人工智慧金融科技业务的潜在投资进行讨论",
+        "【钛晨报】金融监管总局最新部署：深入整治金融领域无序竞争；事关数据赋能AI发展，国家层面首次系统部署；阿里新设Token Foundry事业部、微信开放AI生态接入能力"
+      ]
+    },
+    {
+      "keyword": "券商",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "中信建投：券商投资正进入一个以深度研究驱动的α新时代",
+        "三重突破正在激活券商板块投资价值"
       ]
     },
     {
@@ -22,30 +40,6 @@
       ]
     },
     {
-      "keyword": "芯片",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "深圳华强：存储、电源管理芯片、模拟芯片和MLCC在内的众多元器件出现缺货涨价情况"
-      ]
-    },
-    {
-      "keyword": "储能",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "赣锋锂业：储能电芯满产满销，588Ah产线三季度启动产能爬坡"
-      ]
-    },
-    {
-      "keyword": "机器人",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "锋龙股份：截至目前，公司不涉及人形机器人业务"
-      ]
-    },
-    {
       "keyword": "银行",
       "category": "板块",
       "count": 1,
@@ -54,11 +48,11 @@
       ]
     },
     {
-      "keyword": "券商",
+      "keyword": "汽车",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "日本证监会建议处罚富途控股旗下券商moomoo"
+        "中信证券：汽车智驾渗透率高增，产业链盈利向上"
       ]
     },
     {
@@ -70,22 +64,6 @@
       ]
     },
     {
-      "keyword": "增持",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "小米集团于公开市场增持金山软件，持股比例增至5.39%"
-      ]
-    },
-    {
-      "keyword": "回购",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "亿航智能宣布3000万美元股票回购计划，美股盘前涨超7%"
-      ]
-    },
-    {
       "keyword": "分红",
       "category": "市场",
       "count": 1,
@@ -94,11 +72,11 @@
       ]
     },
     {
-      "keyword": "证监会",
+      "keyword": "通胀",
       "category": "宏观",
       "count": 1,
       "sample_titles": [
-        "日本证监会建议处罚富途控股旗下券商moomoo"
+        "华泰证券策略：关注AI通胀与资源通胀"
       ]
     }
   ]
