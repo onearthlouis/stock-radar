@@ -1,18 +1,8 @@
 {
-  "generated_at": "2026-06-09T12:10:58.199850Z",
+  "generated_at": "2026-06-09T15:40:59.572897Z",
   "window_hours": 24,
-  "total_items_analyzed": 47,
+  "total_items_analyzed": 46,
   "hot_topics": [
-    {
-      "keyword": "芯片",
-      "category": "板块",
-      "count": 3,
-      "sample_titles": [
-        "全球芯片股一周惊魂：三重利空砸出深坑，反弹还是反转",
-        "36氪首发 | 国内唯一POD材料产业化团队再创业，布局3C与AI芯片散热，技术积累全球领先",
-        "36氪首发 | AI芯片处理器IP公司完成近亿元融资，核心团队来自Synopsys、ARM等顶尖半导体公司"
-      ]
-    },
     {
       "keyword": "汽车",
       "category": "板块",
@@ -24,21 +14,31 @@
       ]
     },
     {
+      "keyword": "回购",
+      "category": "市场",
+      "count": 3,
+      "sample_titles": [
+        "药明康德：拟10亿元回购股份用于员工持股计划",
+        "上能电气：拟5000万元—8000万元回购股份",
+        "江淮汽车：拟5000万元至1亿元回购股份"
+      ]
+    },
+    {
+      "keyword": "芯片",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "36氪首发 | 国内唯一POD材料产业化团队再创业，布局3C与AI芯片散热，技术积累全球领先",
+        "36氪首发 | AI芯片处理器IP公司完成近亿元融资，核心团队来自Synopsys、ARM等顶尖半导体公司"
+      ]
+    },
+    {
       "keyword": "机器人",
       "category": "板块",
       "count": 2,
       "sample_titles": [
         "2.8万台机器人领了“中国护照”，海外认吗？",
         "对话追觅扫地机孟佳：扫地机器人行业还远没有到终点"
-      ]
-    },
-    {
-      "keyword": "IPO",
-      "category": "市场",
-      "count": 2,
-      "sample_titles": [
-        "说服女王：从大航海赞助到SpaceX的史上最大IPO",
-        "8点1氪丨苹果推出全新Siri AI；ROKID回应“智能眼镜偷拍空姐”事件；OpenAI秘密提交IPO文件"
       ]
     },
     {
@@ -75,6 +75,30 @@
       ]
     },
     {
+      "keyword": "医疗",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "氪星晚报 ｜腾讯、阿里等入股脑机接口研发商阶梯医疗；飞猪：端午假期入境游预订量同比增长超6倍；1—5月全国期货市场累计成交额同比增长40.13%"
+      ]
+    },
+    {
+      "keyword": "军工",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "比亚迪股份：被美国国防部列入中国军工企业名单，不会影响公司正常开展业务"
+      ]
+    },
+    {
+      "keyword": "国防",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "比亚迪股份：被美国国防部列入中国军工企业名单，不会影响公司正常开展业务"
+      ]
+    },
+    {
       "keyword": "金融",
       "category": "板块",
       "count": 1,
@@ -99,19 +123,11 @@
       ]
     },
     {
-      "keyword": "钢铁",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "美国钢铁公司拟在宾州投资25亿美元新建热轧厂"
-      ]
-    },
-    {
-      "keyword": "回购",
+      "keyword": "IPO",
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "江淮汽车：拟5000万元至1亿元回购股份"
+        "说服女王：从大航海赞助到SpaceX的史上最大IPO"
       ]
     }
   ]
