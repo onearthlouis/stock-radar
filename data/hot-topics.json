@@ -1,60 +1,32 @@
 {
-  "generated_at": "2026-06-10T23:41:09.571254Z",
+  "generated_at": "2026-06-11T04:42:13.189207Z",
   "window_hours": 24,
-  "total_items_analyzed": 46,
+  "total_items_analyzed": 45,
   "hot_topics": [
-    {
-      "keyword": "医药",
-      "category": "板块",
-      "count": 3,
-      "sample_titles": [
-        "十年前跨界医药的上市公司，现在怎样了？",
-        "国资接盘坏账纾困后，南新制药又因财务造假沦为ST",
-        "医药圈最强“��斯卡”也没救回股价，创新药被彻底抛弃了么"
-      ]
-    },
-    {
-      "keyword": "IPO",
-      "category": "市场",
-      "count": 3,
-      "sample_titles": [
-        "Altman预计OpenAI将于未来一年内IPO",
-        "美参议员沃伦：SpaceX的IPO需要推迟",
-        "真健康医疗IPO：最值钱的环节，不在机器人手里"
-      ]
-    },
     {
       "keyword": "芯片",
       "category": "板块",
       "count": 2,
       "sample_titles": [
-        "上市芯片分销商重组“瘦身”，拟8.97亿并购上海肖克利；汽车覆盖件模具龙头拟18.3亿元收购东实股份60%股权；【并购一线】",
+        "770亿合肥芯片“黑马”，冲刺港股IPO",
         "氪星晚报｜韩IT巨头Kakao工会史上首次启动局部罢工；三星考虑新建先进芯片封装厂，以满足全球芯片需求；SK海力士最早将于8月在美国上市"
       ]
     },
     {
-      "keyword": "银行",
-      "category": "板块",
+      "keyword": "港股",
+      "category": "港股",
       "count": 2,
       "sample_titles": [
-        "德国商业银行质疑裕信银行收购要约，称股东支持度存疑",
-        "部分美国大银行因涉嫌非法终止服务面临联邦调查"
+        "AI投资大浪潮，对港股布局有何启示？",
+        "770亿合肥芯片“黑马”，冲刺港股IPO"
       ]
     },
     {
-      "keyword": "机器人",
+      "keyword": "消费",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "真健康医疗IPO：最值钱的环节，不在机器人手里"
-      ]
-    },
-    {
-      "keyword": "医疗",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "真健康医疗IPO：最值钱的环节，不在机器人手里"
+        "杀不死的大消费"
       ]
     },
     {
@@ -62,15 +34,39 @@
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "上市芯片分销商重组“瘦身”，拟8.97亿并购上海肖克利；汽车覆盖件模具龙头拟18.3亿元收购东实股份60%股权；【并购一线】"
+        "东风汽车集团旗下武汉投资公司增资至61.2亿"
       ]
     },
     {
-      "keyword": "美联储",
-      "category": "宏观",
+      "keyword": "有色",
+      "category": "板块",
       "count": 1,
       "sample_titles": [
-        "美联储6月维持利率不变的概率为98.4%"
+        "半日主力资金加仓有色金属股，抛售计算机股"
+      ]
+    },
+    {
+      "keyword": "IPO",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "770亿合肥芯片“黑马”，冲刺港股IPO"
+      ]
+    },
+    {
+      "keyword": "恒指",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "恒指午间休盘跌1.11%，恒生科技指数跌2.01%"
+      ]
+    },
+    {
+      "keyword": "恒生科技",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "恒指午间休盘跌1.11%，恒生科技指数跌2.01%"
       ]
     },
     {
@@ -78,7 +74,7 @@
       "category": "宏观",
       "count": 1,
       "sample_titles": [
-        "加拿大央行维持基准隔夜利率在2.25%不变"
+        "泰国央行排除举行非例行会议调整利率的可能性"
       ]
     }
   ]
