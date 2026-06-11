@@ -1,31 +1,66 @@
 {
-  "generated_at": "2026-06-11T09:16:48.268332Z",
+  "generated_at": "2026-06-11T13:03:01.312891Z",
   "window_hours": 24,
-  "total_items_analyzed": 45,
+  "total_items_analyzed": 48,
   "hot_topics": [
     {
-      "keyword": "消费",
+      "keyword": "半导体",
       "category": "板块",
       "count": 2,
       "sample_titles": [
-        "最前线｜坦途科技全球首款消费级水上飞行器首飞，拓展水陆空场景出行生态",
-        "全球已无增量市场，非洲手机消费高端化还能走多远？"
+        "银河微电：筹划购买功率半导体公司恒泰柯100%股权，股票停牌",
+        "两大主业持续负毛利，粤芯半导体高研发难破亏损困局｜IPO观察"
       ]
     },
     {
-      "keyword": "量子",
+      "keyword": "芯片",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "鼎龙股份：ArF与KrF光刻胶产品获近千加仑新增订单，其是逻辑、存储芯片制造的核心刚需耗材",
+        "芯联集成：拟出资30.12亿元投资12英寸车规级芯片制造项目"
+      ]
+    },
+    {
+      "keyword": "汽车",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "东安动力：2025年飞行汽车收入9.9万元，2026年第一季度净亏损1990.44万元",
+        "AIVA，正在打造AI汽车产业组织新范式"
+      ]
+    },
+    {
+      "keyword": "IPO",
+      "category": "市场",
+      "count": 2,
+      "sample_titles": [
+        "SpaceX IPO据悉吸引了超700亿美元散户订单",
+        "两大主业持续负毛利，粤芯半导体高研发难破亏损困局｜IPO观察"
+      ]
+    },
+    {
+      "keyword": "消费",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "国仪量子科创板IPO申请获证监会同意注册批复"
+        "最前线｜坦途科技全球首款消费级水上飞行器首飞，拓展水陆空场景出行生态"
       ]
     },
     {
-      "keyword": "跌停",
-      "category": "市场",
+      "keyword": "石油",
+      "category": "板块",
       "count": 1,
       "sample_titles": [
-        "上期所：调整黄金、白银期货相关合约涨跌停板幅度和交易保证金比例"
+        "欧佩克将今年全球石油需求增长预期下调至97万桶/日"
+      ]
+    },
+    {
+      "keyword": "低空经济",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "5亿卖掉“下蛋鸡”，万丰奥威专注低空经济"
       ]
     },
     {
@@ -33,39 +68,23 @@
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "2连板雅克科技：目前没有六氟化钨相关业务"
+        "2连板新亚强：公司不生产光纤类产品"
       ]
     },
     {
-      "keyword": "IPO",
+      "keyword": "减持",
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "国仪量子科创板IPO申请获证监会同意注册批复"
+        "华特气体：近日股东合计减持公司总股本1.88%，减持计划完成"
       ]
     },
     {
-      "keyword": "恒指",
-      "category": "港股",
-      "count": 1,
-      "sample_titles": [
-        "恒指收跌0.65%，恒生科技指数跌1.46%"
-      ]
-    },
-    {
-      "keyword": "恒生科技",
-      "category": "港股",
-      "count": 1,
-      "sample_titles": [
-        "恒指收跌0.65%，恒生科技指数跌1.46%"
-      ]
-    },
-    {
-      "keyword": "证监会",
+      "keyword": "央行",
       "category": "宏观",
       "count": 1,
       "sample_titles": [
-        "国仪量子科创板IPO申请获证监会同意注册批复"
+        "欧洲央行宣布加息25个基点"
       ]
     }
   ]
