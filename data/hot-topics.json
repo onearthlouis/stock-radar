@@ -1,65 +1,90 @@
 {
-  "generated_at": "2026-06-12T05:17:40.477618Z",
+  "generated_at": "2026-06-12T09:45:39.524430Z",
   "window_hours": 24,
-  "total_items_analyzed": 47,
+  "total_items_analyzed": 40,
   "hot_topics": [
     {
-      "keyword": "IPO",
-      "category": "市场",
-      "count": 3,
+      "keyword": "央行",
+      "category": "宏观",
+      "count": 5,
       "sample_titles": [
-        "创造历史，全球最大生物科技IPO诞生",
-        "史上最大IPO今晚挂牌：SpaceX估值1.77万亿美元，资本为太空基建定价",
-        "两大主业持续负毛利，粤芯半导体高研发难破亏损困局｜IPO观察"
+        "央行：前五个月社会融资规模增量累计为17.48万亿元",
+        "央行：5月末广义货币（M2）余额353.67万亿元，同比增长8.6%",
+        "央行：前五个月人民币贷款增加9.11万亿元"
       ]
     },
     {
-      "keyword": "汽车",
+      "keyword": "新能源",
       "category": "板块",
       "count": 2,
       "sample_titles": [
-        "现代汽车工会称薪资谈判未达协议，25日将投票决定是否罢工",
-        "两部门约谈提醒涉嫌非理性竞争汽车生产企业"
+        "合肥：用了什么王炸操作，把自己变成了“新能源之都”？",
+        "停运、骗补与逆势狂奔：氢能公交的荒诞经济学"
       ]
     },
     {
-      "keyword": "半导体",
+      "keyword": "地产",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "富力地产：2026年前5个月累计销售49.8亿元",
+        "瑞士房地产科技企业Norm Technologies研发建筑能效管理软件，提升建筑资产能源管理效率"
+      ]
+    },
+    {
+      "keyword": "医药",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "两大主业持续负毛利，粤芯半导体高研发难破亏损困局｜IPO观察"
+        "上海医药：罗沙司他胶囊获国家药监局批准生产"
       ]
     },
     {
-      "keyword": "芯片",
+      "keyword": "银行",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "优必选携手沐曦股份共研具身智能端侧芯片"
+        "中国人民银行：将个人投资人认，购大额存单起点金额降至不低于20万元人民币"
       ]
     },
     {
-      "keyword": "消费",
+      "keyword": "房地产",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "最前线｜坦途科技全球首款消费级水上飞行器首飞，拓展水陆空场景出行生态"
+        "瑞士房地产科技企业Norm Technologies研发建筑能效管理软件，提升建筑资产能源管理效率"
       ]
     },
     {
-      "keyword": "恒指",
-      "category": "港股",
+      "keyword": "IPO",
+      "category": "市场",
       "count": 1,
       "sample_titles": [
-        "恒指午间休盘涨2.02%，恒生科技指数涨1.72%"
+        "创造历史，全球最大生物科技IPO诞生"
       ]
     },
     {
-      "keyword": "恒生科技",
-      "category": "港股",
+      "keyword": "回购",
+      "category": "市场",
       "count": 1,
       "sample_titles": [
-        "恒指午间休盘涨2.02%，恒生科技指数涨1.72%"
+        "央行：6月15日开展6000亿元买断式逆回购操作"
+      ]
+    },
+    {
+      "keyword": "分红",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "五粮液：未来将考虑持续加大分红力度"
+      ]
+    },
+    {
+      "keyword": "证监会",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "*ST广糖：因涉嫌信息披露违法违规被中国证监会立案"
       ]
     }
   ]
