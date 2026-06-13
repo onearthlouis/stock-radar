@@ -1,34 +1,25 @@
 {
-  "generated_at": "2026-06-13T05:07:14.766126Z",
+  "generated_at": "2026-06-13T08:39:12.784614Z",
   "window_hours": 24,
-  "total_items_analyzed": 45,
+  "total_items_analyzed": 46,
   "hot_topics": [
     {
       "keyword": "IPO",
       "category": "市场",
-      "count": 4,
+      "count": 5,
       "sample_titles": [
+        "史上最大IPO正式开盘，一文看懂SpaceX的业务底牌",
         "“宁王系”，排队 IPO",
-        "市值2万亿美元，一直发射一直炸的SpaceX，怎么成了史上最大IPO?",
-        "降价冲销量，乐聚智能IPO的一步险棋"
+        "市值2万亿美元，一直发射一直炸的SpaceX，怎么成了史上最大IPO?"
       ]
     },
     {
-      "keyword": "通胀",
-      "category": "宏观",
+      "keyword": "金融",
+      "category": "板块",
       "count": 2,
       "sample_titles": [
-        "专家：日本央行或上调利率以抑制通胀",
-        "美国消费者信心指数略有改善，通胀预期仍处高位"
-      ]
-    },
-    {
-      "keyword": "央行",
-      "category": "宏观",
-      "count": 2,
-      "sample_titles": [
-        "专家：日本央行或上调利率以抑制通胀",
-        "央行发布5月金融数据：债券融资占比提升，贷款投向结构优化"
+        "国家网信办就《金融信息服务数据分类分级指南》答记者问",
+        "《金融信息服务数据分类分级指南》印发"
       ]
     },
     {
@@ -40,19 +31,27 @@
       ]
     },
     {
-      "keyword": "消费",
+      "keyword": "芯片",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "美国消费者信心指数略有改善，通胀预期仍处高位"
+        "美格智能：存储芯片价格上涨成本在合理、有序向下游客户传导"
       ]
     },
     {
-      "keyword": "金融",
+      "keyword": "人工智能",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "央行发布5月金融数据：债券融资占比提升，贷款投向结构优化"
+        "法国调查显示公众对人工智能态度分化明显"
+      ]
+    },
+    {
+      "keyword": "储能",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "储能行业缺人缺到什么程度？年薪300万挖不到人，高考选这三大能源专业或许能赢"
       ]
     },
     {
@@ -61,14 +60,6 @@
       "count": 1,
       "sample_titles": [
         "“润华系”交班加速，润华保险股权收拢"
-      ]
-    },
-    {
-      "keyword": "化工",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "硫磺价格年内增两倍，扰动化工产业链"
       ]
     }
   ]
