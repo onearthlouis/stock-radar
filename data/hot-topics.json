@@ -1,51 +1,14 @@
 {
-  "generated_at": "2026-06-14T01:57:27.225581Z",
+  "generated_at": "2026-06-14T06:51:06.022017Z",
   "window_hours": 24,
-  "total_items_analyzed": 42,
+  "total_items_analyzed": 40,
   "hot_topics": [
     {
-      "keyword": "IPO",
-      "category": "市场",
-      "count": 3,
-      "sample_titles": [
-        "史上最大IPO正式开盘，一文看懂SpaceX的业务底牌",
-        "“宁王系”，排队 IPO",
-        "市值2万亿美元，一直发射一直炸的SpaceX，怎么成了史上最大IPO?"
-      ]
-    },
-    {
-      "keyword": "芯片",
-      "category": "板块",
-      "count": 2,
-      "sample_titles": [
-        "江丰电子：公司生产的先端存储芯片用高纯300mm硅靶已批量供货",
-        "美格智能：存储芯片价格上涨成本在合理、有序向下游客户传导"
-      ]
-    },
-    {
-      "keyword": "金融",
-      "category": "板块",
-      "count": 2,
-      "sample_titles": [
-        "国家网信办就《金融信息服务数据分类分级指南》答记者问",
-        "《金融信息服务数据分类分级指南》印发"
-      ]
-    },
-    {
-      "keyword": "汽车",
-      "category": "板块",
-      "count": 2,
-      "sample_titles": [
-        "吉利控股董事长李书福：集中资源做强吉利汽车上市公司",
-        "雷军：小米汽车高度重视测试工作，目前整个测试团队有800多人"
-      ]
-    },
-    {
-      "keyword": "储能",
+      "keyword": "新能源",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "储能行业缺人缺到什么程度？年薪300万挖不到人，高考选这三大能源专业或许能赢"
+        "中国新能源车的自研，终于走到“亮底牌”的时候了"
       ]
     },
     {
@@ -65,11 +28,35 @@
       ]
     },
     {
-      "keyword": "保险",
+      "keyword": "新能源车",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "“润华系”交班加速，润华保险股权收拢"
+        "中国新能源车的自研，终于走到“亮底牌”的时候了"
+      ]
+    },
+    {
+      "keyword": "IPO",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "【数智周报】  钉钉换帅，92年技术极客陈宇森接任钉钉CEO；OpenAI向美国证监会秘密提交IPO的S-1草案；苹果、谷歌、英伟达合作开发新一代AI模型；Anthropic发布Mythos系列新模型"
+      ]
+    },
+    {
+      "keyword": "港股",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "陈茂波：中国香港股市1-5月日均成交额同比增长14%"
+      ]
+    },
+    {
+      "keyword": "证监会",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "【数智周报】  钉钉换帅，92年技术极客陈宇森接任钉钉CEO；OpenAI向美国证监会秘密提交IPO的S-1草案；苹果、谷歌、英伟达合作开发新一代AI模型；Anthropic发布Mythos系列新模型"
       ]
     }
   ]
