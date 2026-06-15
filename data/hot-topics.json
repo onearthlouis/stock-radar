@@ -1,40 +1,72 @@
 {
-  "generated_at": "2026-06-15T00:19:25.624156Z",
+  "generated_at": "2026-06-15T05:41:03.263088Z",
   "window_hours": 24,
-  "total_items_analyzed": 42,
+  "total_items_analyzed": 40,
   "hot_topics": [
     {
-      "keyword": "新能源",
+      "keyword": "芯片",
       "category": "板块",
       "count": 2,
       "sample_titles": [
-        "华泰证券：政策首提2030年新能源重卡目标，利好国内动力电池及绿氢产业链",
-        "中国新能源车的自研，终于走到“亮底牌”的时候了"
+        "中国“纯硅”成功突破，我国攻克硅基量子芯片关键材料",
+        "车规芯片涨价，新能源汽车开吃AI的苦"
+      ]
+    },
+    {
+      "keyword": "银行",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "汇丰及恒生应用程序部分服务受影响，银行方面称正努力修复",
+        "新加坡拟推出黄金清算系统，摩根大通等银行势将参与其中"
+      ]
+    },
+    {
+      "keyword": "新能源",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "车规芯片涨价，新能源汽车开吃AI的苦"
       ]
     },
     {
       "keyword": "机器人",
       "category": "板块",
-      "count": 2,
+      "count": 1,
       "sample_titles": [
-        "8点1氪丨诺奖得主称马斯克是庞氏骗局；SK海力士去年新增员工超2000人；人形机器人U1仅限成人购买",
-        "高瓴出手了一家消费级柔性机器人公司，要把“大白”从电影搬进现实家庭｜硬氪首发"
+        "8点1氪丨诺奖得主称马斯克是庞氏骗局；SK海力士去年新增员工超2000人；人形机器人U1仅限成人购买"
       ]
     },
     {
-      "keyword": "消费",
+      "keyword": "汽车",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "高瓴出手了一家消费级柔性机器人公司，要把“大白”从电影搬进现实家庭｜硬氪首发"
+        "车规芯片涨价，新能源汽车开吃AI的苦"
       ]
     },
     {
-      "keyword": "新能源车",
+      "keyword": "煤炭",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "中国新能源车的自研，终于走到“亮底牌”的时候了"
+        "半日主力资金加仓电子股，抛售煤炭股"
+      ]
+    },
+    {
+      "keyword": "量子",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "中国“纯硅”成功突破，我国攻克硅基量子芯片关键材料"
+      ]
+    },
+    {
+      "keyword": "跌停",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "超大比例限售股解禁压顶，瑞玛精密跌停，公司回应"
       ]
     },
     {
@@ -42,23 +74,15 @@
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "【数智周报】  钉钉换帅，92年技术极客陈宇森接任钉钉CEO；OpenAI向美国证监会秘密提交IPO的S-1草案；苹果、谷歌、英伟达合作开发新一代AI模型；Anthropic发布Mythos系列新模型"
+        "19岁带50块钱北漂，安徽农村小伙靠溜溜梅IPO了"
       ]
     },
     {
-      "keyword": "美联储",
-      "category": "宏观",
+      "keyword": "恒指",
+      "category": "港股",
       "count": 1,
       "sample_titles": [
-        "华泰证券：预计美联储6月会议维持利率不变"
-      ]
-    },
-    {
-      "keyword": "证监会",
-      "category": "宏观",
-      "count": 1,
-      "sample_titles": [
-        "【数智周报】  钉钉换帅，92年技术极客陈宇森接任钉钉CEO；OpenAI向美国证监会秘密提交IPO的S-1草案；苹果、谷歌、英伟达合作开发新一代AI模型；Anthropic发布Mythos系列新模型"
+        "恒指午间休盘涨0.45%，华虹宏力涨超11%"
       ]
     }
   ]
