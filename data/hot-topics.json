@@ -1,8 +1,43 @@
 {
-  "generated_at": "2026-06-16T23:08:00.884453Z",
+  "generated_at": "2026-06-17T02:04:59.936867Z",
   "window_hours": 24,
-  "total_items_analyzed": 42,
+  "total_items_analyzed": 46,
   "hot_topics": [
+    {
+      "keyword": "银行",
+      "category": "板块",
+      "count": 3,
+      "sample_titles": [
+        "宜宾银行又买房了，购入五粮液“兄弟公司”千平商铺",
+        "30亿定增“临期换人”，山东本土国资驰援威海银行",
+        "资金面边际收敛，银行间流动性重回均衡"
+      ]
+    },
+    {
+      "keyword": "保险",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "丁向群：将与上海联合出台加快上海在国际再保险中心建设若干举措",
+        "丁向群：加快推动银监法、保险法修订出台"
+      ]
+    },
+    {
+      "keyword": "半导体",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "半导体设备，又一个新赛道火了"
+      ]
+    },
+    {
+      "keyword": "芯片",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "华泰证券：国产AI芯片正迎来涨价窗口"
+      ]
+    },
     {
       "keyword": "机器人",
       "category": "板块",
@@ -12,19 +47,11 @@
       ]
     },
     {
-      "keyword": "消费",
+      "keyword": "医疗",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "“2026泰国水果节”首日交易额破亿，榴莲降价背后的流通变局"
-      ]
-    },
-    {
-      "keyword": "退市",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "*ST辉丰：6月18日起撤销退市风险警示及其他风险警示"
+        "互联网医疗没有孤胆英雄"
       ]
     },
     {
@@ -32,7 +59,31 @@
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "赛特新材：拟5000万元至1亿元回购公司股份"
+        "央行今日开展4203亿元7天期逆回购操作"
+      ]
+    },
+    {
+      "keyword": "恒指",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "恒指开盘涨0.01%，恒生科技指数跌0.47%"
+      ]
+    },
+    {
+      "keyword": "恒生科技",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "恒指开盘涨0.01%，恒生科技指数跌0.47%"
+      ]
+    },
+    {
+      "keyword": "央行",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "央行今日开展4203亿元7天期逆回购操作"
       ]
     }
   ]
