@@ -1,16 +1,34 @@
 {
-  "generated_at": "2026-06-17T12:22:58.357834Z",
+  "generated_at": "2026-06-17T16:25:47.263289Z",
   "window_hours": 24,
-  "total_items_analyzed": 46,
+  "total_items_analyzed": 48,
   "hot_topics": [
     {
       "keyword": "机器人",
       "category": "板块",
-      "count": 4,
+      "count": 3,
       "sample_titles": [
-        "凯迪股份：公司机器人产品仍处开发阶段，短期内暂无法形成收入",
         "酒店机器人的「价值拐点」，真的来了",
-        "机器人养老，离我们不远了？"
+        "机器人养老，离我们不远了？",
+        "硬氪专访 | 罗剑岚：机器人真正的Scaling Law，发生在真实部署闭环里"
+      ]
+    },
+    {
+      "keyword": "退市",
+      "category": "市场",
+      "count": 2,
+      "sample_titles": [
+        "*ST天山：6月22日起撤销退市风险警示及其他风险警示",
+        "*ST新研：6月22日起撤销退市风险警示"
+      ]
+    },
+    {
+      "keyword": "回购",
+      "category": "市场",
+      "count": 2,
+      "sample_titles": [
+        "联想拟择机回购股份",
+        "千方科技：拟1亿元至2亿元回购公司股份"
       ]
     },
     {
@@ -27,6 +45,14 @@
       "count": 1,
       "sample_titles": [
         "氪星晚报｜菜鸟将在荷兰建设欧洲供应链履约中心；有道词典笔获2026 EdTech Breakthrough Award年度K-12教育科技应用大奖；国务院：深入实施“人工智能+”行动，探索人机协同的新型工作形态"
+      ]
+    },
+    {
+      "keyword": "医药",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "景峰医药创始人2500万股遭法拍：石药入主摘帽后，经营大考才开场"
       ]
     },
     {
@@ -70,27 +96,11 @@
       ]
     },
     {
-      "keyword": "外资",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "陈茂波：目前外资持有内地股票超过七成通过股票通配置"
-      ]
-    },
-    {
       "keyword": "IPO",
       "category": "市场",
       "count": 1,
       "sample_titles": [
         "浙大系创业者冲港股IPO，仙工智能招股书五大看点"
-      ]
-    },
-    {
-      "keyword": "退市",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "*ST新研：6月22日起撤销退市风险警示"
       ]
     },
     {
