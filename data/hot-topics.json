@@ -1,23 +1,34 @@
 {
-  "generated_at": "2026-06-18T23:20:27.124638Z",
+  "generated_at": "2026-06-19T02:20:34.076858Z",
   "window_hours": 24,
-  "total_items_analyzed": 45,
+  "total_items_analyzed": 44,
   "hot_topics": [
+    {
+      "keyword": "芯片",
+      "category": "板块",
+      "count": 3,
+      "sample_titles": [
+        "亚马逊拟向第三方数据中心销售AI芯片",
+        "六氟化钨断供，扼住全球芯片“咽喉”",
+        "澜起科技：目前正在积极推进PCIe 7.0 Retimer及PCIe Switch芯片的研发"
+      ]
+    },
     {
       "keyword": "IPO",
       "category": "市场",
       "count": 2,
       "sample_titles": [
-        "Momenta港股IPO备案获批：自动驾驶公司从技术叙事转向资本验证",
-        "等了十五年的IPO！ 逆变器老牌龙头古瑞瓦特的储能底牌能撑起多少市值？"
+        "安仕科技IPO前夜，核心创始人为何神隐？",
+        "Momenta港股IPO备案获批：自动驾驶公司从技术叙事转向资本验证"
       ]
     },
     {
-      "keyword": "芯片",
-      "category": "板块",
-      "count": 1,
+      "keyword": "通胀",
+      "category": "宏观",
+      "count": 2,
       "sample_titles": [
-        "澜起科技：目前正在积极推进PCIe 7.0 Retimer及PCIe Switch芯片的研发"
+        "日本5月核心通胀率持稳于1.4%，符合预期",
+        "日本央行审议委员：将根据经济和通胀情况继续加息"
       ]
     },
     {
@@ -26,22 +37,6 @@
       "count": 1,
       "sample_titles": [
         "氪星晚报｜BilibiliWorld 2026成国内首个海外售票的综合性ACG展会；让AI走进千家万户，17项举措推进“人工智能+消费”发展；快舟十一号遥十三运载火箭发射成功"
-      ]
-    },
-    {
-      "keyword": "储能",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "等了十五年的IPO！ 逆变器老牌龙头古瑞瓦特的储能底牌能撑起多少市值？"
-      ]
-    },
-    {
-      "keyword": "机器人",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "擎仓机器人30天极速部署欧莱雅产线，轻量化VLA范式突破"
       ]
     },
     {
@@ -61,6 +56,14 @@
       ]
     },
     {
+      "keyword": "汽车",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "现代汽车集团拟将波士顿动力转为全资子公司"
+      ]
+    },
+    {
       "keyword": "港股",
       "category": "港股",
       "count": 1,
@@ -73,7 +76,7 @@
       "category": "宏观",
       "count": 1,
       "sample_titles": [
-        "英国央行维持关键利率在3.75%不变，符合市场预期"
+        "日本央行审议委员：将根据经济和通胀情况继续加息"
       ]
     }
   ]
