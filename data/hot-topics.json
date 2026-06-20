@@ -1,15 +1,16 @@
 {
-  "generated_at": "2026-06-19T23:05:42.758069Z",
+  "generated_at": "2026-06-20T01:37:42.179422Z",
   "window_hours": 24,
-  "total_items_analyzed": 39,
+  "total_items_analyzed": 38,
   "hot_topics": [
     {
       "keyword": "IPO",
       "category": "市场",
-      "count": 2,
+      "count": 5,
       "sample_titles": [
-        "Manus回购方案浮出水面：中国投资方拟掏20亿美元买回股权，赴港IPO路径渐明",
-        "子公司 IPO 黄了，母公司反而更好上市？长江存储这步棋看懂的人不多"
+        "德勤：A股上半年IPO预计将达70只，融资近700亿元",
+        "手握10亿订单却“缺血”？偏科玩家天瞳威视的IPO豪赌",
+        "Momenta冲击港股IPO，物理AI第一股要来了"
       ]
     },
     {
@@ -18,14 +19,6 @@
       "count": 1,
       "sample_titles": [
         "硬氪首发|moody前高管搭档大疆骨干入局陪伴机器人，锦秋领投，融资数千万"
-      ]
-    },
-    {
-      "keyword": "消费",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "英国6月份消费者信心持续低迷"
       ]
     },
     {
@@ -45,11 +38,35 @@
       ]
     },
     {
+      "keyword": "汽车",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "大众汽车加速推进业务重组 将裁减数万个岗位"
+      ]
+    },
+    {
+      "keyword": "外资",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "国资当房东、外资做管家，中国住房租赁“谁会管谁赢”时代正式开启"
+      ]
+    },
+    {
       "keyword": "回购",
       "category": "市场",
       "count": 1,
       "sample_titles": [
         "Manus回购方案浮出水面：中国投资方拟掏20亿美元买回股权，赴港IPO路径渐明"
+      ]
+    },
+    {
+      "keyword": "港股",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "Momenta冲击港股IPO，物理AI第一股要来了"
       ]
     },
     {
