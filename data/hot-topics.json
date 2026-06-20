@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-20T01:37:42.179422Z",
+  "generated_at": "2026-06-20T06:37:23.922857Z",
   "window_hours": 24,
-  "total_items_analyzed": 38,
+  "total_items_analyzed": 37,
   "hot_topics": [
     {
       "keyword": "IPO",
@@ -11,6 +11,14 @@
         "德勤：A股上半年IPO预计将达70只，融资近700亿元",
         "手握10亿订单却“缺血”？偏科玩家天瞳威视的IPO豪赌",
         "Momenta冲击港股IPO，物理AI第一股要来了"
+      ]
+    },
+    {
+      "keyword": "半导体",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "盛吉盛先进半导体产品孵化与制造中心项目落地无锡"
       ]
     },
     {
@@ -30,19 +38,11 @@
       ]
     },
     {
-      "keyword": "金融",
+      "keyword": "大数据",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "Meta洽谈投资印度金融科技支付初创公司Cred"
-      ]
-    },
-    {
-      "keyword": "汽车",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "大众汽车加速推进业务重组 将裁减数万个岗位"
+        "年内累跌27%后评级上调，最神秘大数据公司Palantir被高估了吗？"
       ]
     },
     {
@@ -70,11 +70,11 @@
       ]
     },
     {
-      "keyword": "央行",
+      "keyword": "美联储",
       "category": "宏观",
       "count": 1,
       "sample_titles": [
-        "欧洲央行首席经济学家称中性利率区间上限小幅升至2.5%"
+        "美联储释放“鹰派”信号 本周金价微涨银价大跌"
       ]
     }
   ]
