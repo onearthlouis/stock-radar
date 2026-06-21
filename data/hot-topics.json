@@ -1,34 +1,16 @@
 {
-  "generated_at": "2026-06-21T05:28:01.817245Z",
+  "generated_at": "2026-06-21T09:10:57.809096Z",
   "window_hours": 24,
-  "total_items_analyzed": 31,
+  "total_items_analyzed": 27,
   "hot_topics": [
-    {
-      "keyword": "人工智能",
-      "category": "板块",
-      "count": 3,
-      "sample_titles": [
-        "Anthropic首席执行官：人工智能公司需要“数千亿美元”收入，否则将面临生存风险",
-        "报道：特斯拉加速推进人工智能与机器人战略，申请注册 “Amazing Abundance” 商标",
-        "挪威将禁止小学生使用生成式人工智能"
-      ]
-    },
-    {
-      "keyword": "芯片",
-      "category": "板块",
-      "count": 2,
-      "sample_titles": [
-        "韩国央行警告：存储芯片景气周期或推高通胀压力",
-        "造芯片的，开始造设备了"
-      ]
-    },
     {
       "keyword": "银行",
       "category": "板块",
-      "count": 2,
+      "count": 5,
       "sample_titles": [
-        "富国银行：预测标普500指数到2027年底将升至8600-8800点",
-        "日本三大巨型银行年度分红总额将首次突破2万亿日元"
+        "巨星科技：拟3.25亿元收购网商银行1.54%股权",
+        "巴林国家银行正与巴林、科威特相关银行洽谈潜在合并事宜",
+        "德意志银行上调美国通胀预期"
       ]
     },
     {
@@ -48,27 +30,27 @@
       ]
     },
     {
-      "keyword": "机器人",
+      "keyword": "芯片",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "报道：特斯拉加速推进人工智能与机器人战略，申请注册 “Amazing Abundance” 商标"
+        "造芯片的，开始造设备了"
       ]
     },
     {
-      "keyword": "消费",
+      "keyword": "人工智能",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "澳大利亚延长燃油消费税减免政策，缓解居民生活成本压力"
+        "Anthropic首席执行官：人工智能公司需要“数千亿美元”收入，否则将面临生存风险"
       ]
     },
     {
-      "keyword": "量子",
+      "keyword": "化工",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "新型量子传感器可探测引力波和暗物质"
+        "德美化工：下属公司拟750万美元出售境外三处土地资产"
       ]
     },
     {
@@ -92,15 +74,7 @@
       "category": "宏观",
       "count": 1,
       "sample_titles": [
-        "韩国央行警告：存储芯片景气周期或推高通胀压力"
-      ]
-    },
-    {
-      "keyword": "央行",
-      "category": "宏观",
-      "count": 1,
-      "sample_titles": [
-        "韩国央行警告：存储芯片景气周期或推高通胀压力"
+        "德意志银行上调美国通胀预期"
       ]
     }
   ]
