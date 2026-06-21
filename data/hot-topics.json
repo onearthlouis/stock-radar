@@ -1,15 +1,42 @@
 {
-  "generated_at": "2026-06-21T00:15:18.464551Z",
+  "generated_at": "2026-06-21T05:28:01.817245Z",
   "window_hours": 24,
-  "total_items_analyzed": 35,
+  "total_items_analyzed": 31,
   "hot_topics": [
     {
-      "keyword": "IPO",
-      "category": "市场",
+      "keyword": "人工智能",
+      "category": "板块",
+      "count": 3,
+      "sample_titles": [
+        "Anthropic首席执行官：人工智能公司需要“数千亿美元”收入，否则将面临生存风险",
+        "报道：特斯拉加速推进人工智能与机器人战略，申请注册 “Amazing Abundance” 商标",
+        "挪威将禁止小学生使用生成式人工智能"
+      ]
+    },
+    {
+      "keyword": "芯片",
+      "category": "板块",
       "count": 2,
       "sample_titles": [
-        "手握10亿订单却“缺血”？偏科玩家天瞳威视的IPO豪赌",
-        "Momenta冲击港股IPO，物理AI第一股要来了"
+        "韩国央行警告：存储芯片景气周期或推高通胀压力",
+        "造芯片的，开始造设备了"
+      ]
+    },
+    {
+      "keyword": "银行",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "富国银行：预测标普500指数到2027年底将升至8600-8800点",
+        "日本三大巨型银行年度分红总额将首次突破2万亿日元"
+      ]
+    },
+    {
+      "keyword": "新能源",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "广西南宁：新能源智能船舶完成试航"
       ]
     },
     {
@@ -17,31 +44,23 @@
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "盛吉盛先进半导体产品孵化与制造中心项目落地无锡"
+        "AI投资热潮向上游扩散，美股多家半导体设备龙头今年翻倍"
       ]
     },
     {
-      "keyword": "芯片",
+      "keyword": "机器人",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "造芯片的，开始造设备了"
+        "报道：特斯拉加速推进人工智能与机器人战略，申请注册 “Amazing Abundance” 商标"
       ]
     },
     {
-      "keyword": "人工智能",
+      "keyword": "消费",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "挪威将禁止小学生使用生成式人工智能"
-      ]
-    },
-    {
-      "keyword": "大数据",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "年内累跌27%后评级上调，最神秘大数据公司Palantir被高估了吗？"
+        "澳大利亚延长燃油消费税减免政策，缓解居民生活成本压力"
       ]
     },
     {
@@ -53,11 +72,11 @@
       ]
     },
     {
-      "keyword": "外资",
+      "keyword": "分红",
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "国资当房东、外资做管家，中国住房租赁“谁会管谁赢”时代正式开启"
+        "日本三大巨型银行年度分红总额将首次突破2万亿日元"
       ]
     },
     {
@@ -65,15 +84,23 @@
       "category": "港股",
       "count": 1,
       "sample_titles": [
-        "Momenta冲击港股IPO，物理AI第一股要来了"
+        "年接待960万人次，清明上河园仍要去港股“找钱”"
       ]
     },
     {
-      "keyword": "美联储",
+      "keyword": "通胀",
       "category": "宏观",
       "count": 1,
       "sample_titles": [
-        "美联储释放“鹰派”信号 本周金价微涨银价大跌"
+        "韩国央行警告：存储芯片景气周期或推高通胀压力"
+      ]
+    },
+    {
+      "keyword": "央行",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "韩国央行警告：存储芯片景气周期或推高通胀压力"
       ]
     }
   ]
