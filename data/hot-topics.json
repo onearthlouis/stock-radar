@@ -1,23 +1,24 @@
 {
-  "generated_at": "2026-06-22T08:41:42.681830Z",
+  "generated_at": "2026-06-22T14:48:04.828528Z",
   "window_hours": 24,
-  "total_items_analyzed": 48,
+  "total_items_analyzed": 45,
   "hot_topics": [
     {
-      "keyword": "半导体",
-      "category": "板块",
-      "count": 2,
+      "keyword": "减持",
+      "category": "市场",
+      "count": 3,
       "sample_titles": [
-        "平头哥上海半导体技术公司增资至10亿，增幅约233%",
-        "比肩存储，韩国盯上功率半导体"
+        "业绩连降、高位减持、低位定增，翔宇医疗脑机接口故事遇信任拷问",
+        "新宏泽：控股股东拟减持不超676.19万股公司股份",
+        "兄弟科技：控股股东拟减持不超1%公司股份"
       ]
     },
     {
-      "keyword": "新能源",
+      "keyword": "芯片",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "宁德时代在珠海成立新能源公司，注册资本319万"
+        "英特尔CEO陈立武：已投资人造金刚石晶圆公司，看好芯片散热应用前景"
       ]
     },
     {
@@ -25,55 +26,55 @@
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "亿纬锂能的双面镜：储能王座与产能过剩之间"
+        "宏英智能：全资子公司牵头的联合体签署6.64亿元储能电站PC总承包合同"
       ]
     },
     {
-      "keyword": "汽车",
+      "keyword": "医疗",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "未来的汽车拼的是脑子"
+        "业绩连降、高位减持、低位定增，翔宇医疗脑机接口故事遇信任拷问"
       ]
     },
     {
-      "keyword": "外资",
+      "keyword": "银行",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "多家银行收紧黄金白银杠杆交易，保证金飙至140%"
+      ]
+    },
+    {
+      "keyword": "回购",
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "商务部：今年前5个月近4000家外资企业追加在华投资"
+        "海天味业：拟以10亿元—20亿元回购公司股份"
       ]
     },
     {
-      "keyword": "IPO",
+      "keyword": "分红",
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "今天，深交所最大IPO打新了"
+        "藏格矿业：收到参股公司巨龙铜业9.23亿元现金分红"
       ]
     },
     {
-      "keyword": "港股",
-      "category": "港股",
-      "count": 1,
-      "sample_titles": [
-        "孙怀庆的丸美生物港股梦碎了"
-      ]
-    },
-    {
-      "keyword": "恒指",
-      "category": "港股",
-      "count": 1,
-      "sample_titles": [
-        "恒指收跌0.65%，智谱涨超15%"
-      ]
-    },
-    {
-      "keyword": "央行",
+      "keyword": "CPI",
       "category": "宏观",
       "count": 1,
       "sample_titles": [
-        "英国央行发布系统重要性稳定币监管框架，2027年起允许稳定币在英国合规运营"
+        "加拿大5月CPI同比升幅加快至3.2%"
+      ]
+    },
+    {
+      "keyword": "证监会",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "东吴证券：公开发行不超350亿元公司债券获中国证监会同意注册批复"
       ]
     }
   ]
