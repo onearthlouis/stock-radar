@@ -1,16 +1,42 @@
 {
-  "generated_at": "2026-06-22T21:34:27.982209Z",
+  "generated_at": "2026-06-22T23:26:24.341622Z",
   "window_hours": 24,
   "total_items_analyzed": 45,
   "hot_topics": [
     {
-      "keyword": "减持",
-      "category": "市场",
+      "keyword": "美联储",
+      "category": "宏观",
       "count": 3,
       "sample_titles": [
-        "业绩连降、高位减持、低位定增，翔宇医疗脑机接口故事遇信任拷问",
-        "新宏泽：控股股东拟减持不超676.19万股公司股份",
-        "兄弟科技：控股股东拟减持不超1%公司股份"
+        "城堡证券：美联储主席沃什的改革或有助于降低长期美债波动性",
+        "美联储7月维持利率不变的概率为63.7%",
+        "美银、德意志银行预计美联储将于9月加息"
+      ]
+    },
+    {
+      "keyword": "机器人",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "【钛晨报】李强在辽宁大连调研：大力发展高端装备制造业，加快建设现代化产业体系；英伟达发布Halos机器人安全系统，推进Physical AI落地；SpaceX首次发行优先无担保票据",
+        "英伟达发布Halos机器人安全系统，推进Physical AI落地"
+      ]
+    },
+    {
+      "keyword": "银行",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "美银、德意志银行预计美联储将于9月加息",
+        "报道称SpaceX将首次发行投资级债券，银行家正进行推介"
+      ]
+    },
+    {
+      "keyword": "半导体",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "全球资金“加杠杆”押注半导体"
       ]
     },
     {
@@ -18,15 +44,15 @@
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "英特尔CEO陈立武：已投资人造金刚石晶圆公司，看好芯片散热应用前景"
+        "高通接近收购人工智能芯片初创公司Modular"
       ]
     },
     {
-      "keyword": "储能",
+      "keyword": "人工智能",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "宏英智能：全资子公司牵头的联合体签署6.64亿元储能电站PC总承包合同"
+        "高通接近收购人工智能芯片初创公司Modular"
       ]
     },
     {
@@ -38,43 +64,27 @@
       ]
     },
     {
-      "keyword": "银行",
+      "keyword": "金融",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "多家银行收紧黄金白银杠杆交易，保证金飙至140%"
+        "Meta旗下WhatsApp负责人即将卸任，印度金融科技公司创始人沙阿接任"
       ]
     },
     {
-      "keyword": "回购",
+      "keyword": "天然气",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "雪佛龙将利用天然气为得克萨斯州微软大型数据中心供电"
+      ]
+    },
+    {
+      "keyword": "减持",
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "海天味业：拟以10亿元—20亿元回购公司股份"
-      ]
-    },
-    {
-      "keyword": "分红",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "藏格矿业：收到参股公司巨龙铜业9.23亿元现金分红"
-      ]
-    },
-    {
-      "keyword": "CPI",
-      "category": "宏观",
-      "count": 1,
-      "sample_titles": [
-        "加拿大5月CPI同比升幅加快至3.2%"
-      ]
-    },
-    {
-      "keyword": "证监会",
-      "category": "宏观",
-      "count": 1,
-      "sample_titles": [
-        "东吴证券：公开发行不超350亿元公司债券获中国证监会同意注册批复"
+        "业绩连降、高位减持、低位定增，翔宇医疗脑机接口故事遇信任拷问"
       ]
     }
   ]
