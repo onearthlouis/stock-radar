@@ -1,90 +1,115 @@
 {
-  "generated_at": "2026-06-22T23:26:24.341622Z",
+  "generated_at": "2026-06-23T01:33:40.296948Z",
   "window_hours": 24,
-  "total_items_analyzed": 45,
+  "total_items_analyzed": 50,
   "hot_topics": [
-    {
-      "keyword": "美联储",
-      "category": "宏观",
-      "count": 3,
-      "sample_titles": [
-        "城堡证券：美联储主席沃什的改革或有助于降低长期美债波动性",
-        "美联储7月维持利率不变的概率为63.7%",
-        "美银、德意志银行预计美联储将于9月加息"
-      ]
-    },
     {
       "keyword": "机器人",
       "category": "板块",
-      "count": 2,
+      "count": 3,
       "sample_titles": [
-        "【钛晨报】李强在辽宁大连调研：大力发展高端装备制造业，加快建设现代化产业体系；英伟达发布Halos机器人安全系统，推进Physical AI落地；SpaceX首次发行优先无担保票据",
-        "英伟达发布Halos机器人安全系统，推进Physical AI落地"
-      ]
-    },
-    {
-      "keyword": "银行",
-      "category": "板块",
-      "count": 2,
-      "sample_titles": [
-        "美银、德意志银行预计美联储将于9月加息",
-        "报道称SpaceX将首次发行投资级债券，银行家正进行推介"
+        "现代全资吞下波士顿动力：亏了三十年，郑义宣到底赌什么？",
+        "中信建投：2026年有望成为人形机器人垂类应用大年",
+        "【钛晨报】李强在辽宁大连调研：大力发展高端装备制造业，加快建设现代化产业体系；英伟达发布Halos机器人安全系统，推进Physical AI落地；SpaceX首次发行优先无担保票据"
       ]
     },
     {
       "keyword": "半导体",
       "category": "板块",
-      "count": 1,
+      "count": 2,
       "sample_titles": [
-        "全球资金“加杠杆”押注半导体"
+        "A股三大指数集体低开，半导体板块领跌",
+        "中信建投：半导体设备全球景气周期持续确认，关注零部件涨价情况"
       ]
     },
     {
-      "keyword": "芯片",
+      "keyword": "IPO",
+      "category": "市场",
+      "count": 2,
+      "sample_titles": [
+        "秋声 | 四川生物科技IPO上演过山车，暗盘从暴涨95%到破发",
+        "8点1氪丨SpaceX跌破IPO首日收盘价，市值蒸发4000亿美元；英国首相斯塔默宣布辞职；SK海力士市值首超三星电子"
+      ]
+    },
+    {
+      "keyword": "通胀",
+      "category": "宏观",
+      "count": 2,
+      "sample_titles": [
+        "中信证券：PCIe协议将成为AI时代的慢通胀环节",
+        "中信证券：AI上游通胀、液冷、存储、具身智能主题热情有望爆发"
+      ]
+    },
+    {
+      "keyword": "储能",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "高通接近收购人工智能芯片初创公司Modular"
+        "正浩EcoFlow发布全场景储能新品矩阵"
       ]
     },
     {
-      "keyword": "人工智能",
+      "keyword": "消费",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "高通接近收购人工智能芯片初创公司Modular"
+        "各地“十五五”规划勾勒消费升级路线图，健康消费站上“C位”"
       ]
     },
     {
-      "keyword": "医疗",
+      "keyword": "券商",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "业绩连降、高位减持、低位定增，翔宇医疗脑机接口故事遇信任拷问"
+        "近九成上市券商加入“双提升”行动，部分方案仍偏“口号化”"
       ]
     },
     {
-      "keyword": "金融",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "Meta旗下WhatsApp负责人即将卸任，印度金融科技公司创始人沙阿接任"
-      ]
-    },
-    {
-      "keyword": "天然气",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "雪佛龙将利用天然气为得克萨斯州微软大型数据中心供电"
-      ]
-    },
-    {
-      "keyword": "减持",
+      "keyword": "回购",
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "业绩连降、高位减持、低位定增，翔宇医疗脑机接口故事遇信任拷问"
+        "央行今日开展5245亿元7天期逆回购操作"
+      ]
+    },
+    {
+      "keyword": "港股",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "深港通下的港股通标的证券名单调整：调入星源材质"
+      ]
+    },
+    {
+      "keyword": "恒指",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "恒指开盘涨0.13%，恒生科技指数涨0.04%"
+      ]
+    },
+    {
+      "keyword": "恒生科技",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "恒指开盘涨0.13%，恒生科技指数涨0.04%"
+      ]
+    },
+    {
+      "keyword": "PMI",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "日本6月制造业PMI初值54.9"
+      ]
+    },
+    {
+      "keyword": "央行",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "央行今日开展5245亿元7天期逆回购操作"
       ]
     }
   ]
