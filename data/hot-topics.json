@@ -1,42 +1,39 @@
 {
-  "generated_at": "2026-06-24T08:00:56.048445Z",
+  "generated_at": "2026-06-24T11:14:07.839196Z",
   "window_hours": 24,
-  "total_items_analyzed": 48,
+  "total_items_analyzed": 46,
   "hot_topics": [
     {
-      "keyword": "IPO",
+      "keyword": "减持",
       "category": "市场",
-      "count": 3,
+      "count": 2,
       "sample_titles": [
-        "先歌国际：低研发高毛利并存，临上会紧急删改募投｜IPO观察",
-        "安永：上半年A股和港股IPO数量占全球总量约三分之一",
-        "坦克制造商KNDS计划在巴黎和法兰克福进行IPO"
+        "思源电气：董事兼副总经理杨帜华拟减持不超13万股",
+        "泰晶科技：控股股东喻信东拟减持不超2.799%股份"
+      ]
+    },
+    {
+      "keyword": "储能",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "两连板圣阳股份：公司液冷储能系统产品尚未形成营业收入"
       ]
     },
     {
       "keyword": "机器人",
       "category": "板块",
-      "count": 2,
+      "count": 1,
       "sample_titles": [
-        "机器人融资暴增，但没一分钱投给“普通人”",
-        "36氪首发 | 同济博士从建筑机器人转战煤矿，押注辅助作业的“结构性蓝海”"
+        "人形机器人量产元年：万台下线、数亿库存与算不平的经济账"
       ]
     },
     {
-      "keyword": "汽车",
-      "category": "板块",
-      "count": 2,
-      "sample_titles": [
-        "截至5月底，我国电动汽车充电基础设施总数超2249万个",
-        "8点1氪丨追觅辟谣汽车CEO离职：职务与网传不符；微信小范围内测原生AI助手；苹果、特斯拉核心供应商数据泄露"
-      ]
-    },
-    {
-      "keyword": "芯片",
+      "keyword": "医药",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "具身智能芯片，先卷疯了"
+        "华东医药：全资子公司获得注射用HDM2005药物临床试验批准通知书"
       ]
     },
     {
@@ -48,11 +45,27 @@
       ]
     },
     {
-      "keyword": "银行",
+      "keyword": "5G",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "桑坦德银行拟向西班牙3000名员工提供自愿提前退休方案"
+        "五部门联合启动工业5G独立专网试点"
+      ]
+    },
+    {
+      "keyword": "连板",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "两连板圣阳股份：公司液冷储能系统产品尚未形成营业收入"
+      ]
+    },
+    {
+      "keyword": "IPO",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "SK海力士已提交美国IPO申请"
       ]
     },
     {
@@ -60,23 +73,23 @@
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "上海谊众：实控人提议回购3000万元-5000万元公司股份"
+        "三星回应将回购价值近90万亿韩元的股票用于发放奖金：正在考虑，细节尚未确定"
       ]
     },
     {
-      "keyword": "港股",
+      "keyword": "分红",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "亿纬锂能：孙公司EBIL收到思摩尔国际现金分红3.75亿港币"
+      ]
+    },
+    {
+      "keyword": "南向资金",
       "category": "港股",
       "count": 1,
       "sample_titles": [
-        "安永：上半年A股和港股IPO数量占全球总量约三分之一"
-      ]
-    },
-    {
-      "keyword": "央行",
-      "category": "宏观",
-      "count": 1,
-      "sample_titles": [
-        "泰国央行将政策利率维持在1.00%"
+        "建滔集团获南向资金净买入28.16亿港元"
       ]
     }
   ]
