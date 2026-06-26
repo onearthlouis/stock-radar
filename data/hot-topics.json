@@ -1,64 +1,83 @@
 {
-  "generated_at": "2026-06-26T04:16:17.509418Z",
+  "generated_at": "2026-06-26T08:09:44.297517Z",
   "window_hours": 24,
   "total_items_analyzed": 50,
   "hot_topics": [
     {
-      "keyword": "芯片",
+      "keyword": "机器人",
+      "category": "板块",
+      "count": 3,
+      "sample_titles": [
+        "翼菲科技鸿钧001人形轮臂机器人落地，与韩国MiR达成战略合作",
+        "陪伴类机器人卖了5000台，优必选能松口气了？",
+        "在家上班，我的老板是机器人"
+      ]
+    },
+    {
+      "keyword": "储能",
       "category": "板块",
       "count": 2,
       "sample_titles": [
-        "从美光季绩说起：存储芯片的超级牛市，能走多远？",
-        "8点1氪丨苹果宣布上调iPad及Mac价格；黄仁勋计划把50%或更多现金流返还股东；OpenAI发布首款AI芯片"
-      ]
-    },
-    {
-      "keyword": "恒生科技",
-      "category": "港股",
-      "count": 2,
-      "sample_titles": [
-        "恒指午间休盘跌1.87%，恒生科技指数跌3.32%",
-        "恒生科技指数跌超3%"
-      ]
-    },
-    {
-      "keyword": "军工",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "半日主力资金加仓国防军工股，抛售通信股"
-      ]
-    },
-    {
-      "keyword": "国防",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "半日主力资金加仓国防军工股，抛售通信股"
+        "5亿元入局储能，欣旺达的一次战略性转向",
+        "AI时代电网重构，储能构网能否解决算力“饥渴”？"
       ]
     },
     {
       "keyword": "IPO",
       "category": "市场",
-      "count": 1,
+      "count": 2,
       "sample_titles": [
+        "中科闻歌开盘暴涨81%，北京再增一家硬科技IPO",
         "“国产GPU第二股”，冲刺港股IPO"
       ]
     },
     {
       "keyword": "港股",
       "category": "港股",
-      "count": 1,
+      "count": 2,
       "sample_titles": [
+        "港股智谱股价跌破2000港元",
         "“国产GPU第二股”，冲刺港股IPO"
       ]
     },
     {
-      "keyword": "恒指",
-      "category": "港股",
+      "keyword": "芯片",
+      "category": "板块",
       "count": 1,
       "sample_titles": [
-        "恒指午间休盘跌1.87%，恒生科技指数跌3.32%"
+        "8点1氪丨苹果宣布上调iPad及Mac价格；黄仁勋计划把50%或更多现金流返还股东；OpenAI发布首款AI芯片"
+      ]
+    },
+    {
+      "keyword": "人工智能",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "南方电网人工智能科技公司增资至6.1亿"
+      ]
+    },
+    {
+      "keyword": "光伏",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "方大特钢：子公司已与宁德时代合作开展光伏发电项目"
+      ]
+    },
+    {
+      "keyword": "天然气",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "洪通燃气：公司暂无天然气原料气自产业务"
+      ]
+    },
+    {
+      "keyword": "回购",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "美团CFO：当前公司价值被严重低估，美团计划进行股票回购"
       ]
     }
   ]
