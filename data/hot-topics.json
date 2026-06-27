@@ -1,16 +1,15 @@
 {
-  "generated_at": "2026-06-27T01:30:39.099126Z",
+  "generated_at": "2026-06-27T05:34:35.394946Z",
   "window_hours": 24,
-  "total_items_analyzed": 47,
+  "total_items_analyzed": 49,
   "hot_topics": [
     {
       "keyword": "IPO",
       "category": "市场",
-      "count": 7,
+      "count": 2,
       "sample_titles": [
-        "港股IPO前夜，博瑞医药主心骨出事了",
-        "杭州新剑机电传动股份有限公司创业板IPO获受理",
-        "广东科杰技术股份有限公司创业板IPO获受理"
+        "女掌门涉嫌犯罪被拘，氨基酸龙头IPO临门折戟",
+        "中科闻歌开盘暴涨81%，北京再增一家硬科技IPO"
       ]
     },
     {
@@ -19,22 +18,6 @@
       "count": 1,
       "sample_titles": [
         "中国新能源车卷出“FUV元年”"
-      ]
-    },
-    {
-      "keyword": "医药",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "港股IPO前夜，博瑞医药主心骨出事了"
-      ]
-    },
-    {
-      "keyword": "银行",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "德意志银行：通胀预期下修，或为欧洲央行年内维持利率不变打开空间"
       ]
     },
     {
@@ -54,6 +37,14 @@
       ]
     },
     {
+      "keyword": "有色",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "国家统计局：1—5月份有色金属冶炼和压延加工业利润同比增长117.1%"
+      ]
+    },
+    {
       "keyword": "石油",
       "category": "板块",
       "count": 1,
@@ -62,27 +53,19 @@
       ]
     },
     {
-      "keyword": "港股",
-      "category": "港股",
-      "count": 1,
-      "sample_titles": [
-        "港股IPO前夜，博瑞医药主心骨出事了"
-      ]
-    },
-    {
       "keyword": "通胀",
       "category": "宏观",
       "count": 1,
       "sample_titles": [
-        "德意志银行：通胀预期下修，或为欧洲央行年内维持利率不变打开空间"
+        "美联储官员卡什卡里称出现广泛通胀迹象，美联储或需加息"
       ]
     },
     {
-      "keyword": "央行",
+      "keyword": "美联储",
       "category": "宏观",
       "count": 1,
       "sample_titles": [
-        "德意志银行：通胀预期下修，或为欧洲央行年内维持利率不变打开空间"
+        "美联储官员卡什卡里称出现广泛通胀迹象，美联储或需加息"
       ]
     }
   ]
