@@ -1,60 +1,23 @@
 {
-  "generated_at": "2026-06-28T00:09:28.795587Z",
+  "generated_at": "2026-06-28T05:04:52.328399Z",
   "window_hours": 24,
-  "total_items_analyzed": 43,
+  "total_items_analyzed": 42,
   "hot_topics": [
-    {
-      "keyword": "芯片",
-      "category": "板块",
-      "count": 3,
-      "sample_titles": [
-        "马克·古尔曼：触屏MacBook将搭载M5芯片发布，苹果计划跳过M6 Pro及M6 Max",
-        "外媒：苹果寻求获准从长鑫存储购买内存芯片",
-        "高通计划将数据中心芯片技术引入智能手机，提升端侧AI能力"
-      ]
-    },
-    {
-      "keyword": "IPO",
-      "category": "市场",
-      "count": 3,
-      "sample_titles": [
-        "今年港股首发募资前十大IPO名单中，A+H企业独占8席",
-        "秋声 | 大秦储能冲港股IPO：锂价50万山顶囤货血泪史，亏本三年才清完",
-        "女掌门涉嫌犯罪被拘，氨基酸龙头IPO临门折戟"
-      ]
-    },
-    {
-      "keyword": "汽车",
-      "category": "板块",
-      "count": 2,
-      "sample_titles": [
-        "超级牛散章建平新动向，大举减仓江淮汽车",
-        "不靠海，不沿边，郑州靠什么造出一座汽车城？"
-      ]
-    },
-    {
-      "keyword": "港股",
-      "category": "港股",
-      "count": 2,
-      "sample_titles": [
-        "今年港股首发募资前十大IPO名单中，A+H企业独占8席",
-        "秋声 | 大秦储能冲港股IPO：锂价50万山顶囤货血泪史，亏本三年才清完"
-      ]
-    },
-    {
-      "keyword": "新能源",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "高端新能源正在占领市场，但老问题还在"
-      ]
-    },
     {
       "keyword": "半导体",
       "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "国内首个第四代半导体材料全产业链项目落户郑州",
+        "功率半导体再启阶梯式调价，有厂商表示“AI相关的电源功率订单爆满，根本做不过来”"
+      ]
+    },
+    {
+      "keyword": "人工智能",
+      "category": "板块",
       "count": 1,
       "sample_titles": [
-        "功率半导体再启阶梯式调价，有厂商表示“AI相关的电源功率订单爆满，根本做不过来”"
+        "谷歌对Meta Gemini模型的使用设限，因人工智能需求紧张导致算力吃紧"
       ]
     },
     {
@@ -66,19 +29,35 @@
       ]
     },
     {
-      "keyword": "消费",
+      "keyword": "汽车",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "当算力变成消费券：Token 补贴热潮下，谁在受益，谁在买单？"
+        "乘联分会崔东树：5月中国汽车进口3.8万辆，同比降19%"
       ]
     },
     {
-      "keyword": "银行",
-      "category": "板块",
+      "keyword": "涨停",
+      "category": "市场",
       "count": 1,
       "sample_titles": [
-        "兴业银行：上调代理上海黄金交易所个人贵金属买卖业务延期合约保证金比例"
+        "价值判断：涨停板的投资机会和风险提示（6月26日）｜上市公司观察"
+      ]
+    },
+    {
+      "keyword": "IPO",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "秋声 | 大秦储能冲港股IPO：锂价50万山顶囤货血泪史，亏本三年才清完"
+      ]
+    },
+    {
+      "keyword": "港股",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "秋声 | 大秦储能冲港股IPO：锂价50万山顶囤货血泪史，亏本三年才清完"
       ]
     }
   ]
