@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T17:45:12.508497Z",
+  "generated_at": "2026-06-28T19:38:45.463091Z",
   "sites": [
     {
       "site_id": "eastmoney",
@@ -21,6 +21,12 @@
       "error": "404 Client Error: Not Found for url: https://www.stcn.com/rss/index.xml"
     },
     {
+      "site_id": "cls",
+      "site_name": "财联社",
+      "ok": true,
+      "item_count": 0
+    },
+    {
       "site_id": "cs",
       "site_name": "中国证券报",
       "ok": false,
@@ -33,12 +39,6 @@
       "ok": false,
       "item_count": 0,
       "error": "404 Client Error: Not Found for url: https://www.jiemian.com/rss/index.xml"
-    },
-    {
-      "site_id": "cls",
-      "site_name": "财联社",
-      "ok": true,
-      "item_count": 0
     },
     {
       "site_id": "36kr",
