@@ -1,15 +1,35 @@
 {
-  "generated_at": "2026-06-29T10:10:32.685357Z",
+  "generated_at": "2026-06-29T14:35:55.835696Z",
   "window_hours": 24,
-  "total_items_analyzed": 48,
+  "total_items_analyzed": 47,
   "hot_topics": [
     {
       "keyword": "芯片",
       "category": "板块",
+      "count": 4,
+      "sample_titles": [
+        "不缺客户的昆仑芯，为什么上市前要求投资者“捆绑式”采购芯片？",
+        "比亚迪自研智驾芯片预计2027年首搭量产车型",
+        "腾讯买了百度芯片"
+      ]
+    },
+    {
+      "keyword": "机器人",
+      "category": "板块",
+      "count": 3,
+      "sample_titles": [
+        "宏微科技：目前公司布局的AIDC、人形机器人新兴领域相关业务尚处于前期拓展、技术研发或小批量试点阶段",
+        "自研全域柔性电子皮肤，Moxy摸喜发布首款AI陪伴机器人｜最前线",
+        "华为鸿蒙已经开始寻找机器人里的问界了"
+      ]
+    },
+    {
+      "keyword": "银行",
+      "category": "板块",
       "count": 2,
       "sample_titles": [
-        "机器人与芯片，开启广州经济狂飙模式",
-        "36氪首发 | 海思、中兴团队创业，领域顶尖科学家加持，数字相控阵芯片厂商获厦门投资"
+        "欧洲投资银行向空客提供34.2亿美元贷款",
+        "【Fintech 周报】多家银行收紧个人贵金属业务；人保寿险1元挂牌 “甩卖”保险中介股权"
       ]
     },
     {
@@ -17,40 +37,16 @@
       "category": "市场",
       "count": 2,
       "sample_titles": [
-        "蓝箭航天科创板IPO审核状态为“已问询”",
+        "上周新增64家IPO受理企业",
         "秋声 | 海光芯正IPO背后，卖铲生意为何越做越亏？"
       ]
     },
     {
-      "keyword": "新能源",
+      "keyword": "半导体",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "康迪科技战略控股信储新能源，业务延伸至AIDC备电储能"
-      ]
-    },
-    {
-      "keyword": "人工智能",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "谷歌算力告急，限制Meta对其人工智能大模型Gemini的使用"
-      ]
-    },
-    {
-      "keyword": "储能",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "康迪科技战略控股信储新能源，业务延伸至AIDC备电储能"
-      ]
-    },
-    {
-      "keyword": "机器人",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "机器人与芯片，开启广州经济狂飙模式"
+        "不缺客户的昆仑芯，为什么上市前要求投资者“捆绑式”采购芯片？"
       ]
     },
     {
@@ -62,19 +58,11 @@
       ]
     },
     {
-      "keyword": "银行",
+      "keyword": "保险",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "银行开始给小微企业发Token了"
-      ]
-    },
-    {
-      "keyword": "减持",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "兴业股份：股票异常波动期间，股东王文浩存在减持公司股票的情形"
+        "【Fintech 周报】多家银行收紧个人贵金属业务；人保寿险1元挂牌 “甩卖”保险中介股权"
       ]
     },
     {
@@ -82,7 +70,7 @@
       "category": "宏观",
       "count": 1,
       "sample_titles": [
-        "国务院印发《教育发展“十五五”规划》"
+        "氪星晚报｜百度OCR模型Unlimited OCR在HuggingFace、GitHub四榜登顶；国务院印发《教育发展“十五五”规划》；美国养老金即将被动调仓，300亿美元卖盘“已在路上”"
       ]
     }
   ]
