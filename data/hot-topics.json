@@ -1,74 +1,57 @@
 {
-  "generated_at": "2026-07-01T00:15:13.182920Z",
+  "generated_at": "2026-07-01T05:08:26.271335Z",
   "window_hours": 24,
-  "total_items_analyzed": 43,
+  "total_items_analyzed": 44,
   "hot_topics": [
     {
-      "keyword": "IPO",
-      "category": "市场",
+      "keyword": "汽车",
+      "category": "板块",
       "count": 3,
       "sample_titles": [
-        "6月IPO迎受理小高峰，未来产业“新生”密集赶考",
-        "Momenta’s IPO: The Quest for Profitability Behind the \"First Physical AI Stock\"",
-        "四年IPO辅导后转身：VC材料龙头欲\"嫁\"亘元新材，宁德时代是二股东"
+        "问界汽车：6月交付新车30199台",
+        "震裕科技在厦门成立汽车部件公司，注册资本5000万",
+        "零跑汽车：6月交付93376台，同比增长95%"
       ]
     },
     {
-      "keyword": "半导体",
-      "category": "板块",
+      "keyword": "IPO",
+      "category": "市场",
       "count": 2,
       "sample_titles": [
-        "机构密集调研A股上市公司，人形机器人、半导体材料受追捧",
-        "钼价高位运行达近三年高点，“以钼代钨”实现“高端半导体战略材料”属性切换"
+        "AOL母公司Bending Spoons的16.8亿美元IPO定价高于指导区间",
+        "三星电气更名后赴港IPO，康复医院生意变了"
       ]
     },
     {
       "keyword": "机器人",
       "category": "板块",
-      "count": 2,
+      "count": 1,
       "sample_titles": [
-        "机构密集调研A股上市公司，人形机器人、半导体材料受追捧",
-        "36氪首发｜前百度自动驾驶与机器人实验室主任创业，天使轮融资数千万，做机器人“世界通行模型”"
+        "苏大教授创业做机器人触觉系统，获松禾资本千万级天使轮融资｜硬氪首发"
       ]
     },
     {
-      "keyword": "芯片",
+      "keyword": "化工",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "芯片和内存后，下一个暴涨的会是它？"
+        "半日主力资金加仓基础化工股，抛售通信股"
       ]
     },
     {
-      "keyword": "医疗",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "四年累亏21亿后，蓝帆医疗甩卖盈利急救包资产，*ST明德接盘解保壳危局"
-      ]
-    },
-    {
-      "keyword": "券商",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "6月份券商金股3只个股涨幅翻倍，7月金股布局更趋多元"
-      ]
-    },
-    {
-      "keyword": "回购",
+      "keyword": "涨停",
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "隔夜逆回购改善预期，资金面整体平稳跨季"
+        "A股三大指数午间休盘涨跌不一，天风证券涨停"
       ]
     },
     {
-      "keyword": "通胀",
-      "category": "宏观",
+      "keyword": "外资",
+      "category": "市场",
       "count": 1,
       "sample_titles": [
-        "存储涨386%，AI正在制造一场“结构性通胀”"
+        "韩元跌向2009年以来低点，外资抛售韩国股票"
       ]
     }
   ]
