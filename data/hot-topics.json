@@ -1,18 +1,8 @@
 {
-  "generated_at": "2026-07-03T13:01:26.862696Z",
+  "generated_at": "2026-07-03T15:21:54.789096Z",
   "window_hours": 24,
-  "total_items_analyzed": 48,
+  "total_items_analyzed": 45,
   "hot_topics": [
-    {
-      "keyword": "证监会",
-      "category": "宏观",
-      "count": 4,
-      "sample_titles": [
-        "证监会征求意见：简化上市公司向控股股东定增条件",
-        "证监会征求意见：优化小额快速再融资制度",
-        "证监会征求意见：建立再融资定向增发储架发行制度"
-      ]
-    },
     {
       "keyword": "港股",
       "category": "港股",
@@ -24,21 +14,22 @@
       ]
     },
     {
+      "keyword": "证监会",
+      "category": "宏观",
+      "count": 3,
+      "sample_titles": [
+        "证监会征求意见：简化上市公司向控股股东定增条件",
+        "证监会征求意见：优化小额快速再融资制度",
+        "证监会征求意见：建立再融资定向增发储架发行制度"
+      ]
+    },
+    {
       "keyword": "储能",
       "category": "板块",
       "count": 2,
       "sample_titles": [
         "云南能投：拟投资建设丽江市宁蒗县100MW/400MWh全钒液流独立共享储能项目",
         "7家中企入围沙特12GWh项目，中东非成为储能出海新增长极"
-      ]
-    },
-    {
-      "keyword": "IPO",
-      "category": "市场",
-      "count": 2,
-      "sample_titles": [
-        "秋声 | 袁进辉新公司冲港股IPO，成立不到三年",
-        "氪星晚报｜证监会同意宇树科技科创板IPO注册；Meta“带崩”科技股？业内人士：算力过剩系误读"
       ]
     },
     {
@@ -66,19 +57,19 @@
       ]
     },
     {
-      "keyword": "金融",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "14亿逆势拿下，同程金融搭上嘀嗒出行的顺风车？"
-      ]
-    },
-    {
       "keyword": "新能源车",
       "category": "板块",
       "count": 1,
       "sample_titles": [
         "小鹏集团与神州租车达成全场景合作，批量交付1300台新能源车"
+      ]
+    },
+    {
+      "keyword": "IPO",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "秋声 | 袁进辉新公司冲港股IPO，成立不到三年"
       ]
     }
   ]
