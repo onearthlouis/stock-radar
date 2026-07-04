@@ -1,37 +1,8 @@
 {
-  "generated_at": "2026-07-04T00:12:20.447364Z",
+  "generated_at": "2026-07-04T04:22:13.092346Z",
   "window_hours": 24,
-  "total_items_analyzed": 44,
+  "total_items_analyzed": 45,
   "hot_topics": [
-    {
-      "keyword": "港股",
-      "category": "港股",
-      "count": 3,
-      "sample_titles": [
-        "秋声 | 袁进辉新公司冲港股IPO，成立不到三年",
-        "从比亚迪出来创业9年，他们准备要去港股敲钟了",
-        "众擎冲刺港股，离第二个宇树还差什么？"
-      ]
-    },
-    {
-      "keyword": "证监会",
-      "category": "宏观",
-      "count": 3,
-      "sample_titles": [
-        "证监会征求意见：简化上市公司向控股股东定增条件",
-        "证监会征求意见：优化小额快速再融资制度",
-        "证监会征求意见：建立再融资定向增发储架发行制度"
-      ]
-    },
-    {
-      "keyword": "储能",
-      "category": "板块",
-      "count": 2,
-      "sample_titles": [
-        "云南能投：拟投资建设丽江市宁蒗县100MW/400MWh全钒液流独立共享储能项目",
-        "7家中企入围沙特12GWh项目，中东非成为储能出海新增长极"
-      ]
-    },
     {
       "keyword": "新能源",
       "category": "板块",
@@ -41,27 +12,19 @@
       ]
     },
     {
-      "keyword": "医药",
+      "keyword": "芯片",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "石药创新大涨背后，医药“下一次浪潮”正在涌来"
+        "36氪首发 | 剑桥副教授创业硅光芯片，已合作欧莱雅、华为，获一亿投资"
       ]
     },
     {
-      "keyword": "消费",
+      "keyword": "机器人",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "6个月销量不足3万辆，颜值高、配置顶的阿维塔，为何不讨消费者喜欢？"
-      ]
-    },
-    {
-      "keyword": "银行",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "出现“严重信用风险”，这家银行被监管实施接管"
+        "99万买个不干活的机器人，“陪伴经济”催生下一个万亿风口？"
       ]
     },
     {
@@ -78,6 +41,22 @@
       "count": 1,
       "sample_titles": [
         "秋声 | 袁进辉新公司冲港股IPO，成立不到三年"
+      ]
+    },
+    {
+      "keyword": "港股",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "秋声 | 袁进辉新公司冲港股IPO，成立不到三年"
+      ]
+    },
+    {
+      "keyword": "美联储",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "美元料创4月来最大周线跌幅，就业数据打击美联储加息预期"
       ]
     }
   ]
