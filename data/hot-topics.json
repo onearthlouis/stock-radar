@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-07-06T09:05:04.870361Z",
+  "generated_at": "2026-07-06T13:06:16.102648Z",
   "window_hours": 24,
-  "total_items_analyzed": 47,
+  "total_items_analyzed": 48,
   "hot_topics": [
     {
       "keyword": "IPO",
       "category": "市场",
-      "count": 6,
+      "count": 5,
       "sample_titles": [
-        "阿根廷可再生能源公司Genneia冲刺美股IPO",
         "按下IPO按钮之后，火箭公司们都在忙什么",
-        "力勤资源明日上会，募资40亿｜IPO观察"
+        "力勤资源明日上会，募资40亿｜IPO观察",
+        "上市前夜 | 哈工大在读博士以百亿市值冲港股IPO，创始三人只剩一人"
       ]
     },
     {
@@ -23,11 +23,19 @@
       ]
     },
     {
-      "keyword": "新能源",
+      "keyword": "半导体",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "海尔新能源在沈阳成立新公司，注册资本50万"
+        "三年翻倍的“超级周期”，国产半导体设备的机会在哪里？"
+      ]
+    },
+    {
+      "keyword": "芯片",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "博通将为苹果开发定制ASIC芯片产品，同意扩大技术协作至2031年"
       ]
     },
     {
@@ -35,15 +43,23 @@
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "海康机器人移动机器人下线突破20万台"
+        "氪星晚报｜佑驾创新正式发布四轮足机器人；千问大模型升级实时语音识别大模型Fun-ASR-Realtime"
       ]
     },
     {
-      "keyword": "石油",
+      "keyword": "银行",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "阿布扎比国家石油公司启动全球LNG营销和交易平台"
+        "【Fintech 周报】上半年银行业罚单总额超过10亿元；年内首家银行评级被下调"
+      ]
+    },
+    {
+      "keyword": "汽车",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "美光科技与福特汽车签署战略协议，协议将加强内存和存储解决方案的供应"
       ]
     },
     {
@@ -55,19 +71,11 @@
       ]
     },
     {
-      "keyword": "恒指",
-      "category": "港股",
+      "keyword": "减持",
+      "category": "市场",
       "count": 1,
       "sample_titles": [
-        "恒指收涨1.14%，快手涨超7%"
-      ]
-    },
-    {
-      "keyword": "南向资金",
-      "category": "港股",
-      "count": 1,
-      "sample_titles": [
-        "南向资金净买入额达200亿港元"
+        "南兴股份：控股股东拟减持公司不超3%股份"
       ]
     }
   ]
