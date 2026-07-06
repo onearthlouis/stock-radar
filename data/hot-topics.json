@@ -1,66 +1,49 @@
 {
-  "generated_at": "2026-07-06T04:54:25.076272Z",
+  "generated_at": "2026-07-06T09:05:04.870361Z",
   "window_hours": 24,
-  "total_items_analyzed": 46,
+  "total_items_analyzed": 47,
   "hot_topics": [
+    {
+      "keyword": "IPO",
+      "category": "市场",
+      "count": 6,
+      "sample_titles": [
+        "阿根廷可再生能源公司Genneia冲刺美股IPO",
+        "按下IPO按钮之后，火箭公司们都在忙什么",
+        "力勤资源明日上会，募资40亿｜IPO观察"
+      ]
+    },
+    {
+      "keyword": "港股",
+      "category": "港股",
+      "count": 2,
+      "sample_titles": [
+        "上市前夜 | 哈工大在读博士以百亿市值冲港股IPO，创始三人只剩一人",
+        "上市前夜｜4个月净利润38.4亿元，深圳存储黑马冲港股IPO"
+      ]
+    },
+    {
+      "keyword": "新能源",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "海尔新能源在沈阳成立新公司，注册资本50万"
+      ]
+    },
     {
       "keyword": "机器人",
       "category": "板块",
-      "count": 3,
+      "count": 1,
       "sample_titles": [
-        "佑驾创新正式发布四轮足机器人",
-        "硬氪首发 | 港大教授成立的忆生科技获数亿天使轮融资，致力于为机器人造一套记忆系统",
-        "硬氪首发 | 小米前高管唐沐创业咖啡机器人，完成数亿融资，林斌、黎万强投过"
+        "海康机器人移动机器人下线突破20万台"
       ]
     },
     {
-      "keyword": "芯片",
-      "category": "板块",
-      "count": 2,
-      "sample_titles": [
-        "“不可能三角”下的AI眼镜芯片还要迈过几道坎",
-        "欧洲抢疯空调，白电芯片起飞"
-      ]
-    },
-    {
-      "keyword": "汽车",
-      "category": "板块",
-      "count": 2,
-      "sample_titles": [
-        "奇瑞汽车等在安庆成立汽车零部件公司",
-        "硬氪首发 | 清华车辆学院师兄弟创业具身智能，已完成数亿元天使融资，将落地汽车产业"
-      ]
-    },
-    {
-      "keyword": "半导体",
+      "keyword": "石油",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "海力士半导体大连公司法定代表人变更"
-      ]
-    },
-    {
-      "keyword": "医药",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "半日主力资金加仓医药生物股，抛售电子股"
-      ]
-    },
-    {
-      "keyword": "消费",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "迪卡侬、黑蚁资本入股BROMPTON；小红书发布世界杯小组赛观赛报告；Saucony索康尼香港首店落子K11｜消研所周报"
-      ]
-    },
-    {
-      "keyword": "银行",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "渣打银行与贝莱德合作推出亚太多资产基金"
+        "阿布扎比国家石油公司启动全球LNG营销和交易平台"
       ]
     },
     {
@@ -72,35 +55,11 @@
       ]
     },
     {
-      "keyword": "外资",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "SK海力士10日在纳斯达克上市290亿美元规模ADR，创外资企业史上最大规模"
-      ]
-    },
-    {
-      "keyword": "IPO",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "2026，量子计算迟到的狂欢：能拿订单、奔赴IPO、市值破百亿"
-      ]
-    },
-    {
       "keyword": "恒指",
       "category": "港股",
       "count": 1,
       "sample_titles": [
-        "恒指午间休盘涨0.83%，恒生科技指数涨1.16%"
-      ]
-    },
-    {
-      "keyword": "恒生科技",
-      "category": "港股",
-      "count": 1,
-      "sample_titles": [
-        "恒指午间休盘涨0.83%，恒生科技指数涨1.16%"
+        "恒指收涨1.14%，快手涨超7%"
       ]
     },
     {
@@ -108,7 +67,7 @@
       "category": "港股",
       "count": 1,
       "sample_titles": [
-        "南向资金净买入额达100亿港元"
+        "南向资金净买入额达200亿港元"
       ]
     }
   ]
