@@ -1,30 +1,25 @@
 {
-  "generated_at": "2026-07-07T11:15:38.732647Z",
+  "generated_at": "2026-07-07T13:38:02.580014Z",
   "window_hours": 24,
-  "total_items_analyzed": 47,
+  "total_items_analyzed": 46,
   "hot_topics": [
     {
-      "keyword": "芯片",
+      "keyword": "银行",
       "category": "板块",
-      "count": 1,
+      "count": 3,
       "sample_titles": [
-        "36氪首发丨上科大博士团队加速国产超高速光电探测芯片量产，获千万级天使轮融资"
+        "英国央行计划放宽银行资本金规定",
+        "交通银行首批参与香港黄金交易",
+        "义乌市属国有企业入股稠州商业银行"
       ]
     },
     {
-      "keyword": "储能",
-      "category": "板块",
-      "count": 1,
+      "keyword": "回购",
+      "category": "市场",
+      "count": 2,
       "sample_titles": [
-        "独立储能项目做到一半，资方没钱跑路了？大储开发到底有多少奇葩事"
-      ]
-    },
-    {
-      "keyword": "机器人",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "8点1氪丨SK海力士本周五将登陆纳斯达克；99万机器人“伴侣”续航撑不过一晚？优必选回应；青海省博物馆回应“国家一级文物发现TCL字样”"
+        "中恒集团：拟1亿元至2亿元回购股份",
+        "上海莱士：拟2.5亿元—5亿元回购公司股份"
       ]
     },
     {
@@ -60,11 +55,19 @@
       ]
     },
     {
-      "keyword": "南向资金",
-      "category": "港股",
+      "keyword": "央行",
+      "category": "宏观",
       "count": 1,
       "sample_titles": [
-        "腾讯控股获南向资金净买入23.25亿港元"
+        "英国央行计划放宽银行资本金规定"
+      ]
+    },
+    {
+      "keyword": "证监会",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "证监会对安某编造传播涉中公教育虚假信息立案调查"
       ]
     }
   ]
