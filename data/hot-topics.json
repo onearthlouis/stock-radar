@@ -1,24 +1,32 @@
 {
-  "generated_at": "2026-07-08T06:35:18.403075Z",
+  "generated_at": "2026-07-08T09:30:11.358073Z",
   "window_hours": 24,
-  "total_items_analyzed": 49,
+  "total_items_analyzed": 48,
   "hot_topics": [
+    {
+      "keyword": "半导体",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "华康医疗：联合体中标九峰山半导体生产制造基地EPC项目，公司预计份额约1.8亿元",
+        "国产半导体设备零部件，开始起势"
+      ]
+    },
     {
       "keyword": "IPO",
       "category": "市场",
       "count": 2,
       "sample_titles": [
-        "汉堡王餐厅运营商Minor Food计划在新加坡IPO中筹资至多4亿新加坡元",
+        "Turning Algorithms into IPO Billions",
         "刚刚，排名第一的全国非公立中医院集团IPO！"
       ]
     },
     {
-      "keyword": "港股",
-      "category": "港股",
-      "count": 2,
+      "keyword": "人工智能",
+      "category": "板块",
+      "count": 1,
       "sample_titles": [
-        "港股高开高走，恒生科技指数午后大涨5%",
-        "依赖谷歌、TikTok，流量“中间商”米多多闯港股：三年累亏超4100万美元"
+        "氪星晚报｜德国：人工智能推动德国初创企业创纪录增长；雷军回应SkyNomad上市时间；SpaceX AI将于明日向公众开放Grok4.5"
       ]
     },
     {
@@ -30,11 +38,35 @@
       ]
     },
     {
+      "keyword": "医疗",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "华康医疗：联合体中标九峰山半导体生产制造基地EPC项目，公司预计份额约1.8亿元"
+      ]
+    },
+    {
       "keyword": "消费",
       "category": "板块",
       "count": 1,
       "sample_titles": [
         "36氪独家 | 快造科技完成10亿元融资，为一级市场消费级3D打印最大单笔融资"
+      ]
+    },
+    {
+      "keyword": "地产",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "地产AI进入落地战，深度智联又甩出一张牌"
+      ]
+    },
+    {
+      "keyword": "汽车",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "标普全球完成汽车业务分拆，Mobility Global正式独立上市"
       ]
     },
     {
@@ -62,11 +94,11 @@
       ]
     },
     {
-      "keyword": "恒生科技",
-      "category": "港股",
+      "keyword": "回购",
+      "category": "市场",
       "count": 1,
       "sample_titles": [
-        "港股高开高走，恒生科技指数午后大涨5%"
+        "三一重能：回购68.49万股，使用资金总额950.2万元"
       ]
     }
   ]
