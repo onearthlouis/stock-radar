@@ -1,16 +1,52 @@
 {
-  "generated_at": "2026-07-09T08:33:40.640904Z",
+  "generated_at": "2026-07-09T12:11:54.882953Z",
   "window_hours": 24,
-  "total_items_analyzed": 46,
+  "total_items_analyzed": 48,
   "hot_topics": [
+    {
+      "keyword": "汽车",
+      "category": "板块",
+      "count": 3,
+      "sample_titles": [
+        "今飞凯达：拟募资不超2.95亿元用于年产60万件锻造铝合金汽车轮毂生产线智能制造项目等",
+        "氪星晚报｜大众汽车管理层考虑2031年起关闭德国部分工厂；消息称三星晶圆代工部分制程涨价；国家超算互联网核心节点正式上线",
+        "中国汽车供应链为何组团落地摩洛哥？"
+      ]
+    },
     {
       "keyword": "IPO",
       "category": "市场",
-      "count": 4,
+      "count": 2,
       "sample_titles": [
-        "2天12个IPO，港交所要挤不下了",
-        "1480亿，东莞草根女首富刚刚IPO了",
-        "Momenta、易控智驾同日 IPO：智驾告别“市梦率”"
+        "燧原科技科创板IPO申请获证监会同意注册批复",
+        "上市前夜｜35岁清华学霸冲港股IPO，做出手机指纹中国第二"
+      ]
+    },
+    {
+      "keyword": "减持",
+      "category": "市场",
+      "count": 2,
+      "sample_titles": [
+        "伟隆股份：实控人拟减持公司不超1.49%股份",
+        "立昂微：股东拟合计减持不超1%股份"
+      ]
+    },
+    {
+      "keyword": "港股",
+      "category": "港股",
+      "count": 2,
+      "sample_titles": [
+        "三次港股递表，累计亏损超8亿，景泽生物等得起吗？",
+        "上市前夜｜35岁清华学霸冲港股IPO，做出手机指纹中国第二"
+      ]
+    },
+    {
+      "keyword": "证监会",
+      "category": "宏观",
+      "count": 2,
+      "sample_titles": [
+        "燧原科技科创板IPO申请获证监会同意注册批复",
+        "证监会同意天博智能科技股份有限公司首次公开发行股票注册"
       ]
     },
     {
@@ -18,71 +54,23 @@
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "LG Innotek将在越南海防投资10亿美元新建半导体基板厂"
+        "3天2板有研硅：晶隆半导体现有产能规模较小，尚未形成规模效益"
       ]
     },
     {
-      "keyword": "储能",
+      "keyword": "芯片",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "独立投标资格放开，钠电拳打锂电、脚踢算力储能的日子要来了？"
+        "报道称Meta计划于9月开始生产AI芯片，并计划将计算能力翻倍"
       ]
     },
     {
-      "keyword": "消费",
-      "category": "板块",
+      "keyword": "回购",
+      "category": "市场",
       "count": 1,
       "sample_titles": [
-        "商务部：6000余个消费“三新”试点项目有望带动超3000亿元投资"
-      ]
-    },
-    {
-      "keyword": "汽车",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "大众汽车管理层考虑2031年起关闭德国部分工厂"
-      ]
-    },
-    {
-      "keyword": "化工",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "密尔克卫在西安成立新化工物流公司"
-      ]
-    },
-    {
-      "keyword": "港股",
-      "category": "港股",
-      "count": 1,
-      "sample_titles": [
-        "上市前夜｜35岁清华学霸冲港股IPO，做出手机指纹中国第二"
-      ]
-    },
-    {
-      "keyword": "恒指",
-      "category": "港股",
-      "count": 1,
-      "sample_titles": [
-        "恒指收跌0.7%，恒生科技指数涨0.01%"
-      ]
-    },
-    {
-      "keyword": "恒生科技",
-      "category": "港股",
-      "count": 1,
-      "sample_titles": [
-        "恒指收跌0.7%，恒生科技指数涨0.01%"
-      ]
-    },
-    {
-      "keyword": "央行",
-      "category": "宏观",
-      "count": 1,
-      "sample_titles": [
-        "马来西亚央行将基准利率维持在2.75%不变"
+        "东软集团：拟以1亿元至2亿元回购股份用于注销"
       ]
     }
   ]
