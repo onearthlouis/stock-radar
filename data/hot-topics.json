@@ -1,38 +1,40 @@
 {
-  "generated_at": "2026-07-09T04:34:22.076752Z",
+  "generated_at": "2026-07-09T08:33:40.640904Z",
   "window_hours": 24,
-  "total_items_analyzed": 48,
+  "total_items_analyzed": 46,
   "hot_topics": [
     {
-      "keyword": "人工智能",
-      "category": "板块",
-      "count": 1,
+      "keyword": "IPO",
+      "category": "市场",
+      "count": 4,
       "sample_titles": [
-        "氪星晚报｜德国：人工智能推动德国初创企业创纪录增长；雷军回应SkyNomad上市时间；SpaceX AI将于明日向公众开放Grok4.5"
+        "2天12个IPO，港交所要挤不下了",
+        "1480亿，东莞草根女首富刚刚IPO了",
+        "Momenta、易控智驾同日 IPO：智驾告别“市梦率”"
       ]
     },
     {
-      "keyword": "机器人",
+      "keyword": "半导体",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "小鹏Robotaxi开启内测，何小鹏称Robotaxi是小鹏迈向“机器人汽车”的重要一步"
+        "LG Innotek将在越南海防投资10亿美元新建半导体基板厂"
       ]
     },
     {
-      "keyword": "医疗",
+      "keyword": "储能",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "医疗设备租赁卷土重来？"
+        "独立投标资格放开，钠电拳打锂电、脚踢算力储能的日子要来了？"
       ]
     },
     {
-      "keyword": "地产",
+      "keyword": "消费",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "地产AI进入落地战，深度智联又甩出一张牌"
+        "商务部：6000余个消费“三新”试点项目有望带动超3000亿元投资"
       ]
     },
     {
@@ -40,31 +42,15 @@
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "小鹏Robotaxi开启内测，何小鹏称Robotaxi是小鹏迈向“机器人汽车”的重要一步"
+        "大众汽车管理层考虑2031年起关闭德国部分工厂"
       ]
     },
     {
-      "keyword": "有色",
+      "keyword": "化工",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "半日主力资金加仓电子股，抛售有色金属股"
-      ]
-    },
-    {
-      "keyword": "涨停",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "A股三大指数午间休盘涨跌不一，山东墨龙涨停"
-      ]
-    },
-    {
-      "keyword": "IPO",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "上市前夜｜35岁清华学霸冲港股IPO，做出手机指纹中国第二"
+        "密尔克卫在西安成立新化工物流公司"
       ]
     },
     {
@@ -80,7 +66,7 @@
       "category": "港股",
       "count": 1,
       "sample_titles": [
-        "恒指午间休盘跌0.78%，恒生科技指数跌0.06%"
+        "恒指收跌0.7%，恒生科技指数涨0.01%"
       ]
     },
     {
@@ -88,7 +74,15 @@
       "category": "港股",
       "count": 1,
       "sample_titles": [
-        "恒指午间休盘跌0.78%，恒生科技指数跌0.06%"
+        "恒指收跌0.7%，恒生科技指数涨0.01%"
+      ]
+    },
+    {
+      "keyword": "央行",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "马来西亚央行将基准利率维持在2.75%不变"
       ]
     }
   ]
