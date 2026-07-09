@@ -1,45 +1,8 @@
 {
-  "generated_at": "2026-07-09T00:18:11.811289Z",
+  "generated_at": "2026-07-09T04:34:22.076752Z",
   "window_hours": 24,
-  "total_items_analyzed": 47,
+  "total_items_analyzed": 48,
   "hot_topics": [
-    {
-      "keyword": "IPO",
-      "category": "市场",
-      "count": 4,
-      "sample_titles": [
-        "年内港股IPO募资额同比增超95%",
-        "上市前夜｜35岁清华学霸冲港股IPO，做出手机指纹中国第二",
-        "美国银行转向支持OpenAI，提供5.2亿美元信贷额度争取IPO承销资格"
-      ]
-    },
-    {
-      "keyword": "港股",
-      "category": "港股",
-      "count": 3,
-      "sample_titles": [
-        "年内港股IPO募资额同比增超95%",
-        "上市前夜｜35岁清华学霸冲港股IPO，做出手机指纹中国第二",
-        "港股迎估值修复窗口，公募加大布局力度"
-      ]
-    },
-    {
-      "keyword": "银行",
-      "category": "板块",
-      "count": 2,
-      "sample_titles": [
-        "上市银行“红包雨”密集落地，行业分红从拼比例到拼可持续",
-        "美国银行转向支持OpenAI，提供5.2亿美元信贷额度争取IPO承销资格"
-      ]
-    },
-    {
-      "keyword": "新能源",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "车船税征收政策明年调整，新能源汽车发展重心转移"
-      ]
-    },
     {
       "keyword": "人工智能",
       "category": "板块",
@@ -53,15 +16,15 @@
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "没有终点的攀爬：机器人产业的价值转移，与宇树的向上之路"
+        "小鹏Robotaxi开启内测，何小鹏称Robotaxi是小鹏迈向“机器人汽车”的重要一步"
       ]
     },
     {
-      "keyword": "消费",
+      "keyword": "医疗",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "36氪独家 | 快造科技完成10亿元融资，为一级市场消费级3D打印最大单笔融资"
+        "医疗设备租赁卷土重来？"
       ]
     },
     {
@@ -77,39 +40,55 @@
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "车船税征收政策明年调整，新能源汽车发展重心转移"
+        "小鹏Robotaxi开启内测，何小鹏称Robotaxi是小鹏迈向“机器人汽车”的重要一步"
       ]
     },
     {
-      "keyword": "化工",
+      "keyword": "有色",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "纯苯期货期权上市一周年，化工产业风险管理闭环稳步构建"
+        "半日主力资金加仓电子股，抛售有色金属股"
       ]
     },
     {
-      "keyword": "量子",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "36氪首发 | 获上海国投领投，这家量子传感企业产品已落地惯性导航、气体监测等"
-      ]
-    },
-    {
-      "keyword": "分红",
+      "keyword": "涨停",
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "上市银行“红包雨”密集落地，行业分红从拼比例到拼可持续"
+        "A股三大指数午间休盘涨跌不一，山东墨龙涨停"
       ]
     },
     {
-      "keyword": "央行",
-      "category": "宏观",
+      "keyword": "IPO",
+      "category": "市场",
       "count": 1,
       "sample_titles": [
-        "【钛晨报】央行重要会议，释放货币政策、人民币汇率等多重信号；粉笔CEO张小龙辞职；MiniMax今日解禁，超八成Pre IPO及基石股东表态长期持有"
+        "上市前夜｜35岁清华学霸冲港股IPO，做出手机指纹中国第二"
+      ]
+    },
+    {
+      "keyword": "港股",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "上市前夜｜35岁清华学霸冲港股IPO，做出手机指纹中国第二"
+      ]
+    },
+    {
+      "keyword": "恒指",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "恒指午间休盘跌0.78%，恒生科技指数跌0.06%"
+      ]
+    },
+    {
+      "keyword": "恒生科技",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "恒指午间休盘跌0.78%，恒生科技指数跌0.06%"
       ]
     }
   ]
