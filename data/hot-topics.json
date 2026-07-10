@@ -1,14 +1,49 @@
 {
-  "generated_at": "2026-07-10T07:42:49.141610Z",
+  "generated_at": "2026-07-10T11:12:11.365909Z",
   "window_hours": 24,
-  "total_items_analyzed": 46,
+  "total_items_analyzed": 45,
   "hot_topics": [
     {
-      "keyword": "芯片",
+      "keyword": "人工智能",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "国家网信办：截至6月30日累计有988款生成式人工智能服务完成备案",
+        "惠州市人工智能发展有限公司成立，注册资本10亿"
+      ]
+    },
+    {
+      "keyword": "汽车",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "众泰汽车：收到证监会立案告知书",
+        "比亚迪携旗下三大汽车品牌再次亮相英国古德伍德速度节"
+      ]
+    },
+    {
+      "keyword": "证监会",
+      "category": "宏观",
+      "count": 2,
+      "sample_titles": [
+        "众泰汽车：收到证监会立案告知书",
+        "希音国际控股有限公司港股上市获中国证监会备案"
+      ]
+    },
+    {
+      "keyword": "医疗",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "三星研发AI PC加速芯片GAIA，已向联想、惠普提供样片测试"
+        "被狂热追捧的AI 「医疗神迹」，正在复刻硅谷「坏血骗局」"
+      ]
+    },
+    {
+      "keyword": "消费",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "喜茶全新店型「喜茶 工艺」全国首店落地广州；始祖鸟成都SKP店正式启幕；小咖宣布完成3.4亿元融资｜消研所周报"
       ]
     },
     {
@@ -16,15 +51,7 @@
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "AI原生信用卡Kimi信用卡敲定美国运通、农业银行"
-      ]
-    },
-    {
-      "keyword": "汽车",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "氪星晚报｜大众汽车管理层考虑2031年起关闭德国部分工厂；消息称三星晶圆代工部分制程涨价；国家超算互联网核心节点正式上线"
+        "摩根大通聘请两位银行家，以把握香港IPO热潮"
       ]
     },
     {
@@ -32,23 +59,15 @@
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "Momenta“硬闯”IPO"
+        "摩根大通聘请两位银行家，以把握香港IPO热潮"
       ]
     },
     {
-      "keyword": "美联储",
-      "category": "宏观",
+      "keyword": "港股",
+      "category": "港股",
       "count": 1,
       "sample_titles": [
-        "美联储主席沃什敲定央行改革顾问团队人选，前英国央行行长等知名人士在列"
-      ]
-    },
-    {
-      "keyword": "央行",
-      "category": "宏观",
-      "count": 1,
-      "sample_titles": [
-        "美联储主席沃什敲定央行改革顾问团队人选，前英国央行行长等知名人士在列"
+        "希音国际控股有限公司港股上市获中国证监会备案"
       ]
     }
   ]
