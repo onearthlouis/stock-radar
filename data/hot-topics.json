@@ -1,14 +1,24 @@
 {
-  "generated_at": "2026-07-12T11:19:28.796925Z",
+  "generated_at": "2026-07-12T12:29:56.357502Z",
   "window_hours": 24,
-  "total_items_analyzed": 45,
+  "total_items_analyzed": 44,
   "hot_topics": [
     {
       "keyword": "IPO",
       "category": "市场",
+      "count": 3,
+      "sample_titles": [
+        "今年A股最大IPO要来了",
+        "腾讯重仓一个IPO",
+        "港股年内最大IPO尴尬首秀，4800亿“果链一哥”破发"
+      ]
+    },
+    {
+      "keyword": "港股",
+      "category": "港股",
       "count": 2,
       "sample_titles": [
-        "腾讯重仓一个IPO",
+        "中信证券：港股扰动趋缓卖空料将收敛，短期推荐创新药、航空、机器人及工业金属",
         "港股年内最大IPO尴尬首秀，4800亿“果链一哥”破发"
       ]
     },
@@ -37,11 +47,19 @@
       ]
     },
     {
-      "keyword": "金融",
+      "keyword": "机器人",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "【ESG-V评级观察】上海上市公司价值重估：金融科创抬升上限，先进制造与城市服务分化显现"
+        "中信证券：港股扰动趋缓卖空料将收敛，短期推荐创新药、航空、机器人及工业金属"
+      ]
+    },
+    {
+      "keyword": "消费",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "美国消费信贷自2024年以来首次下降"
       ]
     },
     {
@@ -50,22 +68,6 @@
       "count": 1,
       "sample_titles": [
         "2连板星网宇达：卫星通信业务与长征十号乙运载火箭海上回收技术突破不存在业务关联"
-      ]
-    },
-    {
-      "keyword": "港股",
-      "category": "港股",
-      "count": 1,
-      "sample_titles": [
-        "港股年内最大IPO尴尬首秀，4800亿“果链一哥”破发"
-      ]
-    },
-    {
-      "keyword": "南向资金",
-      "category": "港股",
-      "count": 1,
-      "sample_titles": [
-        "南向资金上周大幅净买入，智谱获超百亿港元资金加仓"
       ]
     }
   ]
