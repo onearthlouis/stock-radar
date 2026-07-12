@@ -1,14 +1,39 @@
 {
-  "generated_at": "2026-07-12T07:33:54.284427Z",
+  "generated_at": "2026-07-12T09:57:35.965667Z",
   "window_hours": 24,
-  "total_items_analyzed": 44,
+  "total_items_analyzed": 45,
   "hot_topics": [
     {
-      "keyword": "芯片",
+      "keyword": "IPO",
+      "category": "市场",
+      "count": 2,
+      "sample_titles": [
+        "腾讯重仓一个IPO",
+        "港股年内最大IPO尴尬首秀，4800亿“果链一哥”破发"
+      ]
+    },
+    {
+      "keyword": "新能源",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "三星电子计划将龙仁首座芯片工厂的投产时间提前至2029年"
+        "绿电不愿再“流浪”：国家能源局重磅发布行动计划，布局一批自用消纳的新能源基地"
+      ]
+    },
+    {
+      "keyword": "半导体",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "功率半导体，沉默中爆发"
+      ]
+    },
+    {
+      "keyword": "人工智能",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "英国投20亿英镑建设人工智能作战实验室"
       ]
     },
     {
@@ -20,14 +45,6 @@
       ]
     },
     {
-      "keyword": "涨停",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "价值判断：涨停板的投资机会和风险提示（7月10日）｜上市公司观察"
-      ]
-    },
-    {
       "keyword": "跌停",
       "category": "市场",
       "count": 1,
@@ -36,11 +53,11 @@
       ]
     },
     {
-      "keyword": "IPO",
+      "keyword": "连板",
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "港股年内最大IPO尴尬首秀，4800亿“果链一哥”破发"
+        "2连板星网宇达：卫星通信业务与长征十号乙运载火箭海上回收技术突破不存在业务关联"
       ]
     },
     {
