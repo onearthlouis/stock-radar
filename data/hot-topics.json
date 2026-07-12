@@ -1,18 +1,8 @@
 {
-  "generated_at": "2026-07-12T01:10:06.719682Z",
+  "generated_at": "2026-07-12T04:57:09.871981Z",
   "window_hours": 24,
-  "total_items_analyzed": 39,
+  "total_items_analyzed": 42,
   "hot_topics": [
-    {
-      "keyword": "储能",
-      "category": "板块",
-      "count": 3,
-      "sample_titles": [
-        "跨界储能，为何有的吃苦有的吃糖",
-        "极端天气“常态化”下，能源系统如何守住“最后一道闸”？储能或将成为未来灾害下的应急兜底手段",
-        "青海、山西落地“114号文”容量电价细则，当储能拿到“底薪”之后，有人欢喜有人愁"
-      ]
-    },
     {
       "keyword": "新能源",
       "category": "板块",
@@ -22,11 +12,19 @@
       ]
     },
     {
-      "keyword": "人工智能",
+      "keyword": "芯片",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "欧洲央行的Moulin认为人工智能可能加剧通胀波动"
+        "三星电子计划将龙仁首座芯片工厂的投产时间提前至2029年"
+      ]
+    },
+    {
+      "keyword": "金融",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "【ESG-V评级观察】上海上市公司价值重估：金融科创抬升上限，先进制造与城市服务分化显现"
       ]
     },
     {
@@ -34,7 +32,7 @@
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "稳定币发行商Circle获银行经营牌照"
+        "年内退出134家，村镇银行改革持续加速"
       ]
     },
     {
@@ -54,19 +52,27 @@
       ]
     },
     {
-      "keyword": "通胀",
-      "category": "宏观",
+      "keyword": "涨停",
+      "category": "市场",
       "count": 1,
       "sample_titles": [
-        "欧洲央行的Moulin认为人工智能可能加剧通胀波动"
+        "价值判断：涨停板的投资机会和风险提示（7月10日）｜上市公司观察"
       ]
     },
     {
-      "keyword": "央行",
-      "category": "宏观",
+      "keyword": "跌停",
+      "category": "市场",
       "count": 1,
       "sample_titles": [
-        "欧洲央行的Moulin认为人工智能可能加剧通胀波动"
+        "价值判断：跌停板的投资机会和风险提示（7月10日）｜上市公司观察"
+      ]
+    },
+    {
+      "keyword": "IPO",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "长存IPO辅导团队公布，中信证券与中信建投合计31人组成"
       ]
     }
   ]
