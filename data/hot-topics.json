@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T22:30:34.530598Z",
+  "generated_at": "2026-07-13T23:30:37.653297Z",
   "window_hours": 24,
   "total_items_analyzed": 48,
   "hot_topics": [
@@ -16,8 +16,9 @@
     {
       "keyword": "芯片",
       "category": "板块",
-      "count": 2,
+      "count": 3,
       "sample_titles": [
+        "科学家开发出芯片堆叠新工艺",
         "苹果调整Mac芯片路线图，加速AI芯片研发",
         "英特尔宣布向爱尔兰工厂追加投资50亿欧元，扩大AI芯片产能"
       ]
@@ -40,19 +41,19 @@
       ]
     },
     {
+      "keyword": "医药",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "西南医药流通龙头拟3元收购3家公司股权；“高尔夫球车”龙头斥资1亿控股诚瑞科技，跨界切入光模块上游设备赛道；【并购一线】"
+      ]
+    },
+    {
       "keyword": "券商",
       "category": "板块",
       "count": 1,
       "sample_titles": [
         "长鑫上市，一批券商要跟着吃肉"
-      ]
-    },
-    {
-      "keyword": "汽车",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "大众汽车CEO备忘录称公司或需进一步裁员5万人"
       ]
     },
     {
@@ -64,11 +65,35 @@
       ]
     },
     {
+      "keyword": "量子",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "世界首台超导量子热机研制成功"
+      ]
+    },
+    {
       "keyword": "减持",
       "category": "市场",
       "count": 1,
       "sample_titles": [
         "迪安诊断：控股股东及其一致行动人拟合计减持不超3%公司股份"
+      ]
+    },
+    {
+      "keyword": "通胀",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "美联储理事沃勒：如果核心通胀再次出现高位， 美联储将需要考虑近期加息"
+      ]
+    },
+    {
+      "keyword": "美联储",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "美联储理事沃勒：如果核心通胀再次出现高位， 美联储将需要考虑近期加息"
       ]
     }
   ]
