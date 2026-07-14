@@ -1,31 +1,33 @@
 {
-  "generated_at": "2026-07-14T09:09:25.925709Z",
+  "generated_at": "2026-07-14T11:09:46.726044Z",
   "window_hours": 24,
-  "total_items_analyzed": 44,
+  "total_items_analyzed": 47,
   "hot_topics": [
-    {
-      "keyword": "IPO",
-      "category": "市场",
-      "count": 2,
-      "sample_titles": [
-        "莫森泰克：业绩持续下滑，六成营收来自奇瑞关联方，不差钱且大举分红后拟募资补流｜IPO观察",
-        "人形机器人公司逐际动力完成2亿美元Pre-IPO轮融资，投后估值达150亿元｜最前线"
-      ]
-    },
-    {
-      "keyword": "新能源",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "中汽协澄清：“新能源车平均车龄仅1.8年”是误读"
-      ]
-    },
     {
       "keyword": "机器人",
       "category": "板块",
+      "count": 3,
+      "sample_titles": [
+        "机器人大脑，值钱的生意还是卖炭的苦活？",
+        "上纬新材发布全球首个可变形个人机器人启元T1，将亮相WAIC 2026",
+        "人形机器人公司逐际动力完成2亿美元Pre-IPO轮融资，投后估值达150亿元｜最前线"
+      ]
+    },
+    {
+      "keyword": "银行",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "富国银行二季度营收226.2亿美元，高于预期",
+        "华尔街各大银行交易业务收入或将接近390亿美元"
+      ]
+    },
+    {
+      "keyword": "医药",
+      "category": "板块",
       "count": 1,
       "sample_titles": [
-        "人形机器人公司逐际动力完成2亿美元Pre-IPO轮融资，投后估值达150亿元｜最前线"
+        "AI大厂进军医药，但资本市场等不了十年"
       ]
     },
     {
@@ -37,35 +39,35 @@
       ]
     },
     {
-      "keyword": "新能源车",
+      "keyword": "汽车",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "中汽协澄清：“新能源车平均车龄仅1.8年”是误读"
+        "沃尔沃汽车研发公司变更法定代表人"
       ]
     },
     {
-      "keyword": "分红",
+      "keyword": "涨停",
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "莫森泰克：业绩持续下滑，六成营收来自奇瑞关联方，不差钱且大举分红后拟募资补流｜IPO观察"
+        "三笔“1元购”撬动20cm涨停，药易购“自救式”产业整合前路仍难测丨并购一线"
       ]
     },
     {
-      "keyword": "恒指",
-      "category": "港股",
+      "keyword": "IPO",
+      "category": "市场",
       "count": 1,
       "sample_titles": [
-        "恒指收涨0.52%，恒生科技指数涨0.06%"
+        "人形机器人公司逐际动力完成2亿美元Pre-IPO轮融资，投后估值达150亿元｜最前线"
       ]
     },
     {
-      "keyword": "恒生科技",
+      "keyword": "南向资金",
       "category": "港股",
       "count": 1,
       "sample_titles": [
-        "恒指收涨0.52%，恒生科技指数涨0.06%"
+        "智谱获南向资金净买入29.89亿港元"
       ]
     }
   ]
