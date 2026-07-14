@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T22:32:44.057309Z",
+  "generated_at": "2026-07-14T23:58:23.690878Z",
   "window_hours": 24,
   "total_items_analyzed": 46,
   "hot_topics": [
@@ -14,27 +14,36 @@
       ]
     },
     {
+      "keyword": "IPO",
+      "category": "市场",
+      "count": 2,
+      "sample_titles": [
+        "长鑫科技IPO定价出炉，专家呼吁理性看待企业创新成长价值",
+        "人形机器人公司逐际动力完成2亿美元Pre-IPO轮融资，投后估值达150亿元｜最前线"
+      ]
+    },
+    {
+      "keyword": "芯片",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "英特尔斥资50亿欧元扩建爱尔兰工厂，押注AI驱动芯片需求"
+      ]
+    },
+    {
+      "keyword": "人工智能",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "谷歌DeepMind负责人呼吁美国牵头成立人工智能标准监管机构"
+      ]
+    },
+    {
       "keyword": "医药",
       "category": "板块",
       "count": 1,
       "sample_titles": [
         "AI大厂进军医药，但资本市场等不了十年"
-      ]
-    },
-    {
-      "keyword": "消费",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "美国6月消费者价格指数（CPI）同比上涨3.5%"
-      ]
-    },
-    {
-      "keyword": "银行",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "美国银行二季度净营收315.6亿美元，高于预期"
       ]
     },
     {
@@ -46,35 +55,51 @@
       ]
     },
     {
-      "keyword": "量子",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "IBM仍按计划在2029年前交付首台大规模容错量子计算机"
-      ]
-    },
-    {
-      "keyword": "涨停",
+      "keyword": "外资",
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "三笔“1元购”撬动20cm涨停，药易购“自救式”产业整合前路仍难测丨并购一线"
+        "密集调研硬科技公司，外资持续看好中国股票"
       ]
     },
     {
-      "keyword": "IPO",
+      "keyword": "回购",
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "人形机器人公司逐际动力完成2亿美元Pre-IPO轮融资，投后估值达150亿元｜最前线"
+        "【钛晨报】央行出手！1.4万亿元买断式逆回购来了；长鑫科技发行价确定8.66元/股，7月16日开启申购；中金公司“三合一”重组，再迎关键进展"
       ]
     },
     {
-      "keyword": "CPI",
+      "keyword": "港股",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "头部公募掀起南下“举牌潮”，港股创新药开启估值修复行情"
+      ]
+    },
+    {
+      "keyword": "通胀",
       "category": "宏观",
       "count": 1,
       "sample_titles": [
-        "美国6月消费者价格指数（CPI）同比上涨3.5%"
+        "沃什称美联储对高通胀零容忍"
+      ]
+    },
+    {
+      "keyword": "美联储",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "沃什称美联储对高通胀零容忍"
+      ]
+    },
+    {
+      "keyword": "央行",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "【钛晨报】央行出手！1.4万亿元买断式逆回购来了；长鑫科技发行价确定8.66元/股，7月16日开启申购；中金公司“三合一”重组，再迎关键进展"
       ]
     }
   ]
