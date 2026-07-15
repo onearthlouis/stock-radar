@@ -1,33 +1,43 @@
 {
-  "generated_at": "2026-07-15T05:55:17.003648Z",
+  "generated_at": "2026-07-15T08:25:24.357761Z",
   "window_hours": 24,
-  "total_items_analyzed": 47,
+  "total_items_analyzed": 45,
   "hot_topics": [
+    {
+      "keyword": "央行",
+      "category": "宏观",
+      "count": 8,
+      "sample_titles": [
+        "央行：继续常态化发行央行票据，支持财政部提高离岸人民币国债发行规模",
+        "央行：根据流动性需要适当选择存款准备金、逆回购、MLF等工具",
+        "央行：将根据经济运行、物价走势和宏观调控需要，引导调控好利率水平"
+      ]
+    },
+    {
+      "keyword": "回购",
+      "category": "市场",
+      "count": 3,
+      "sample_titles": [
+        "央行：根据流动性需要适当选择存款准备金、逆回购、MLF等工具",
+        "央行：结合一级交易商需求，研究逐步增加隔夜逆回购的操作频率",
+        "央行：现阶段7天期逆回购利率还是主要政策利率"
+      ]
+    },
+    {
+      "keyword": "IPO",
+      "category": "市场",
+      "count": 2,
+      "sample_titles": [
+        "DeepSeek Explores IPO and Fresh Funding Just Weeks After Landmark $7 Billion Round",
+        "DeepSeek冲刺IPO，“AI四小强”的估值都要重算了"
+      ]
+    },
     {
       "keyword": "半导体",
       "category": "板块",
-      "count": 2,
+      "count": 1,
       "sample_titles": [
-        "A股三大指数午间休盘集体下跌，半导体板块走弱",
         "36氪首发 | 前阿里平头哥半导体高管创业，RISC-V芯片厂商获新一轮融资"
-      ]
-    },
-    {
-      "keyword": "机器人",
-      "category": "板块",
-      "count": 2,
-      "sample_titles": [
-        "机构：预估陪伴型人形机器人2030年产值达11亿美元",
-        "氪星晚报 ｜智谱：完成配售新H股募资约314亿港元；荣耀与阿里将开展AI智能体终端合作；小米机器人首次实现汽车工厂柔性工件的长时作业"
-      ]
-    },
-    {
-      "keyword": "恒生科技",
-      "category": "港股",
-      "count": 2,
-      "sample_titles": [
-        "恒指午间休盘涨1.46%，恒生科技指数涨1.39%",
-        "恒生科技指数涨幅扩大至2%"
       ]
     },
     {
@@ -39,11 +49,19 @@
       ]
     },
     {
-      "keyword": "医药",
+      "keyword": "人工智能",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "半日主力资金加仓医药、传媒股，抛售电子股"
+        "网信办发布7款提供手机端侧生成式人工智能服务备案信息"
+      ]
+    },
+    {
+      "keyword": "机器人",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "氪星晚报 ｜智谱：完成配售新H股募资约314亿港元；荣耀与阿里将开展AI智能体终端合作；小米机器人首次实现汽车工厂柔性工件的长时作业"
       ]
     },
     {
@@ -55,19 +73,19 @@
       ]
     },
     {
-      "keyword": "减持",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "奕瑞科技减持风波：顾铁的“左右手”疑云"
-      ]
-    },
-    {
       "keyword": "恒指",
       "category": "港股",
       "count": 1,
       "sample_titles": [
-        "恒指午间休盘涨1.46%，恒生科技指数涨1.39%"
+        "恒指收涨1.4%，恒生科技指数涨1.3%"
+      ]
+    },
+    {
+      "keyword": "恒生科技",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "恒指收涨1.4%，恒生科技指数涨1.3%"
       ]
     }
   ]
