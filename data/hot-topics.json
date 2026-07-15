@@ -1,33 +1,14 @@
 {
-  "generated_at": "2026-07-15T08:25:24.357761Z",
+  "generated_at": "2026-07-15T10:23:15.307613Z",
   "window_hours": 24,
-  "total_items_analyzed": 45,
+  "total_items_analyzed": 46,
   "hot_topics": [
-    {
-      "keyword": "央行",
-      "category": "宏观",
-      "count": 8,
-      "sample_titles": [
-        "央行：继续常态化发行央行票据，支持财政部提高离岸人民币国债发行规模",
-        "央行：根据流动性需要适当选择存款准备金、逆回购、MLF等工具",
-        "央行：将根据经济运行、物价走势和宏观调控需要，引导调控好利率水平"
-      ]
-    },
-    {
-      "keyword": "回购",
-      "category": "市场",
-      "count": 3,
-      "sample_titles": [
-        "央行：根据流动性需要适当选择存款准备金、逆回购、MLF等工具",
-        "央行：结合一级交易商需求，研究逐步增加隔夜逆回购的操作频率",
-        "央行：现阶段7天期逆回购利率还是主要政策利率"
-      ]
-    },
     {
       "keyword": "IPO",
       "category": "市场",
-      "count": 2,
+      "count": 3,
       "sample_titles": [
+        "越疆科技创业板IPO将于7月22日上会",
         "DeepSeek Explores IPO and Fresh Funding Just Weeks After Landmark $7 Billion Round",
         "DeepSeek冲刺IPO，“AI四小强”的估值都要重算了"
       ]
@@ -35,25 +16,19 @@
     {
       "keyword": "半导体",
       "category": "板块",
-      "count": 1,
+      "count": 2,
       "sample_titles": [
+        "暴涨99%，安徽半导体巨头，狂砸75亿扩产",
         "36氪首发 | 前阿里平头哥半导体高管创业，RISC-V芯片厂商获新一轮融资"
       ]
     },
     {
       "keyword": "芯片",
       "category": "板块",
-      "count": 1,
+      "count": 2,
       "sample_titles": [
+        "印度宣布再投1.28万亿卢比，提升本土芯片制造能力",
         "36氪首发 | 前阿里平头哥半导体高管创业，RISC-V芯片厂商获新一轮融资"
-      ]
-    },
-    {
-      "keyword": "人工智能",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "网信办发布7款提供手机端侧生成式人工智能服务备案信息"
       ]
     },
     {
@@ -65,6 +40,14 @@
       ]
     },
     {
+      "keyword": "消费",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "薄巧味的史迪奇，迪士尼IP消费“招牌厨艺”"
+      ]
+    },
+    {
       "keyword": "汽车",
       "category": "板块",
       "count": 1,
@@ -73,19 +56,27 @@
       ]
     },
     {
-      "keyword": "恒指",
-      "category": "港股",
+      "keyword": "量子",
+      "category": "板块",
       "count": 1,
       "sample_titles": [
-        "恒指收涨1.4%，恒生科技指数涨1.3%"
+        "“问天量子”完成B轮融资"
       ]
     },
     {
-      "keyword": "恒生科技",
+      "keyword": "跌停",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "业绩预增2倍却跌停，700亿封测龙头回应“炒股赚了4.6亿”"
+      ]
+    },
+    {
+      "keyword": "南向资金",
       "category": "港股",
       "count": 1,
       "sample_titles": [
-        "恒指收涨1.4%，恒生科技指数涨1.3%"
+        "阿里巴巴获南向资金净买入约30.91亿港元"
       ]
     }
   ]
