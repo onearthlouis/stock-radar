@@ -1,47 +1,42 @@
 {
-  "generated_at": "2026-07-16T10:31:12.022571Z",
+  "generated_at": "2026-07-16T12:06:34.245993Z",
   "window_hours": 24,
-  "total_items_analyzed": 46,
+  "total_items_analyzed": 42,
   "hot_topics": [
+    {
+      "keyword": "机器人",
+      "category": "板块",
+      "count": 3,
+      "sample_titles": [
+        "机器人灵巧手大降价，全球人形机器人市场规模将破200亿元",
+        "挚达科技全球首发“AI能源+机器人”一体化解决方案",
+        "众筹近400万美金，这家明星AI体育硬件公司做了款多合一教练机器人 ｜产品观察"
+      ]
+    },
     {
       "keyword": "IPO",
       "category": "市场",
-      "count": 2,
+      "count": 3,
       "sample_titles": [
+        "皇冠新材：营收增速不及行业，毛利率逆势异动，不差钱仍募资补流｜IPO观察",
         "今天，A股今年最大IPO打新了",
         "8点1氪丨国行苹果AI功能完成备案；三家共享单车上调起步价；知情人曝DeepSeek开始筹备IPO"
       ]
     },
     {
-      "keyword": "新能源",
+      "keyword": "半导体",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "氪星晚报｜LG新能源将为谷歌规模最大的“光储一体”项目供应电池；元宝与京东AI Agent正式打通小程序生态；日本散户持有美元净空头飙至2.79万亿日元，创2008年以来历史之最"
+        "氪星晚报｜IDC：百度智能云蝉联中国金融大模型市场份额第一；腾讯云与RoboScience机器科学达成战略合作；商务部回应推动解决安世半导体问题进展"
       ]
     },
     {
-      "keyword": "储能",
+      "keyword": "芯片",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "宁德时代与Alfen签5GWh钠电储能大单"
-      ]
-    },
-    {
-      "keyword": "机器人",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "众筹近400万美金，这家明星AI体育硬件公司做了款多合一教练机器人 ｜产品观察"
-      ]
-    },
-    {
-      "keyword": "医药",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "恒瑞医药：HRS9531注射液获得药物临床试验批准通知书"
+        "芯片股波动，但阿斯麦永远赚钱"
       ]
     },
     {
@@ -61,27 +56,11 @@
       ]
     },
     {
-      "keyword": "5G",
+      "keyword": "金融",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "宁德时代与Alfen签5GWh钠电储能大单"
-      ]
-    },
-    {
-      "keyword": "回购",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "格林美：拟1亿元—1.6亿元回购股份"
-      ]
-    },
-    {
-      "keyword": "南向资金",
-      "category": "港股",
-      "count": 1,
-      "sample_titles": [
-        "南向资金今日净买入阿里巴巴28.33亿港元"
+        "氪星晚报｜IDC：百度智能云蝉联中国金融大模型市场份额第一；腾讯云与RoboScience机器科学达成战略合作；商务部回应推动解决安世半导体问题进展"
       ]
     }
   ]
