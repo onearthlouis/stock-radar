@@ -1,35 +1,15 @@
 {
-  "generated_at": "2026-07-16T08:28:58.205353Z",
+  "generated_at": "2026-07-16T10:31:12.022571Z",
   "window_hours": 24,
-  "total_items_analyzed": 48,
+  "total_items_analyzed": 46,
   "hot_topics": [
-    {
-      "keyword": "机器人",
-      "category": "板块",
-      "count": 3,
-      "sample_titles": [
-        "日本拟采购2.75万颗英伟达Rubin芯片，打造本土机器人AI基础模型",
-        "众筹近400万美金，这家明星AI体育硬件公司做了款多合一教练机器人 ｜产品观察",
-        "帮机器人“搞数据”：钱很多、泡沫很大"
-      ]
-    },
     {
       "keyword": "IPO",
       "category": "市场",
-      "count": 3,
-      "sample_titles": [
-        "港交所：上半年IPO集资2102亿港元，同比升92.1%",
-        "数据中心提供商Csquare敲定美国IPO定价，融资规模10.5亿美元",
-        "8点1氪丨国行苹果AI功能完成备案；三家共享单车上调起步价；知情人曝DeepSeek开始筹备IPO"
-      ]
-    },
-    {
-      "keyword": "芯片",
-      "category": "板块",
       "count": 2,
       "sample_titles": [
-        "日本拟采购2.75万颗英伟达Rubin芯片，打造本土机器人AI基础模型",
-        "苹果自研AI服务器芯片计划被曝推迟"
+        "今天，A股今年最大IPO打新了",
+        "8点1氪丨国行苹果AI功能完成备案；三家共享单车上调起步价；知情人曝DeepSeek开始筹备IPO"
       ]
     },
     {
@@ -41,11 +21,27 @@
       ]
     },
     {
-      "keyword": "半导体",
+      "keyword": "储能",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "商务部回应推动解决安世半导体问题进展"
+        "宁德时代与Alfen签5GWh钠电储能大单"
+      ]
+    },
+    {
+      "keyword": "机器人",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "众筹近400万美金，这家明星AI体育硬件公司做了款多合一教练机器人 ｜产品观察"
+      ]
+    },
+    {
+      "keyword": "医药",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "恒瑞医药：HRS9531注射液获得药物临床试验批准通知书"
       ]
     },
     {
@@ -57,35 +53,35 @@
       ]
     },
     {
-      "keyword": "化工",
+      "keyword": "消费",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "福化集团旗下古雷石油化工公司增资至205亿，增幅约14%"
+        "段永平“左手茅台，右手泡泡玛特”，消费股的春天来了？"
       ]
     },
     {
-      "keyword": "石油",
+      "keyword": "5G",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "福化集团旗下古雷石油化工公司增资至205亿，增幅约14%"
+        "宁德时代与Alfen签5GWh钠电储能大单"
       ]
     },
     {
-      "keyword": "恒指",
-      "category": "港股",
+      "keyword": "回购",
+      "category": "市场",
       "count": 1,
       "sample_titles": [
-        "恒指收涨1.33%，恒生科技指数涨1.98%"
+        "格林美：拟1亿元—1.6亿元回购股份"
       ]
     },
     {
-      "keyword": "恒生科技",
+      "keyword": "南向资金",
       "category": "港股",
       "count": 1,
       "sample_titles": [
-        "恒指收涨1.33%，恒生科技指数涨1.98%"
+        "南向资金今日净买入阿里巴巴28.33亿港元"
       ]
     }
   ]
