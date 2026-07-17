@@ -1,65 +1,59 @@
 {
-  "generated_at": "2026-07-17T07:22:49.528889Z",
+  "generated_at": "2026-07-17T09:28:51.584774Z",
   "window_hours": 24,
-  "total_items_analyzed": 50,
+  "total_items_analyzed": 46,
   "hot_topics": [
+    {
+      "keyword": "IPO",
+      "category": "市场",
+      "count": 3,
+      "sample_titles": [
+        "证监会同意高凯技术科创板IPO注册",
+        "北交所终止建工资源IPO审核",
+        "中国商业航天2026中场战事：半年融资151亿、15家企业冲IPO"
+      ]
+    },
     {
       "keyword": "机器人",
       "category": "板块",
-      "count": 4,
-      "sample_titles": [
-        "苏宁易购携手人工智能合作伙伴，布局家用服务机器人",
-        "最近，投资人都在研究给机器人“喂饭”",
-        "36氪首发 | 港科大博士创业做机器人全身触觉系统，红杉、瓴智、智元共同押注"
-      ]
-    },
-    {
-      "keyword": "半导体",
-      "category": "板块",
       "count": 2,
       "sample_titles": [
-        "A股三大指数集体收跌，半导体板块领跌",
-        "氪星晚报｜IDC：百度智能云蝉联中国金融大模型市场份额第一；腾讯云与RoboScience机器科学达成战略合作；商务部回应推动解决安世半导体问题进展"
-      ]
-    },
-    {
-      "keyword": "新能源",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "中联重科在湖南成立新能源科技公司"
-      ]
-    },
-    {
-      "keyword": "人工智能",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "苏宁易购携手人工智能合作伙伴，布局家用服务机器人"
-      ]
-    },
-    {
-      "keyword": "金融",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "氪星晚报｜IDC：百度智能云蝉联中国金融大模型市场份额第一；腾讯云与RoboScience机器科学达成战略合作；商务部回应推动解决安世半导体问题进展"
-      ]
-    },
-    {
-      "keyword": "银行",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "瑞讯银行：科技股遭遇抛售部分是因台积电上调资本支出预期"
+        "36氪首发 | 港科大博士创业做机器人全身触觉系统，红杉、瓴智、智元共同押注",
+        "36氪首发 | 这家人形机器人ODM厂商获千万融资，飞荣达、索辰科技接连下注"
       ]
     },
     {
       "keyword": "汽车",
       "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "奇瑞旗下安庆立业汽车零部件公司拟注销",
+        "尚界汽车否认脱离鸿蒙智行：品牌经营未发生任何变化"
+      ]
+    },
+    {
+      "keyword": "证监会",
+      "category": "宏观",
+      "count": 2,
+      "sample_titles": [
+        "证监会同意高凯技术科创板IPO注册",
+        "ST文峰：公司及控股股东因涉嫌信披违规被证监会立案调查"
+      ]
+    },
+    {
+      "keyword": "半导体",
+      "category": "板块",
       "count": 1,
       "sample_titles": [
-        "长安汽车党委副书记谭本宏：自研智驾是为了探索AI技术，完成向科技公司跨越"
+        "九州一轨：拟取得通用半导体6.47%股权，深入半导体高端制造领域"
+      ]
+    },
+    {
+      "keyword": "消费",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "赶集——消费品牌的下一个流量入口"
       ]
     },
     {
@@ -71,11 +65,43 @@
       ]
     },
     {
-      "keyword": "央行",
+      "keyword": "云计算",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "Meta拟聘请亚马逊顶尖云计算高管，筹备大举进军云市场"
+      ]
+    },
+    {
+      "keyword": "连板",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "2连板道明光学：目前不存在AI手机相关业务"
+      ]
+    },
+    {
+      "keyword": "增持",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "三安光电：董事长林志强增持计划实施完毕，6月12日-7月17日累计增持3988万元"
+      ]
+    },
+    {
+      "keyword": "回购",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "领益智造：增加回购股份资金总额至不低于4亿元且不超过8亿元"
+      ]
+    },
+    {
+      "keyword": "CPI",
       "category": "宏观",
       "count": 1,
       "sample_titles": [
-        "调查显示欧洲央行或将等到9月进行最后一次加息"
+        "欧元区6月CPI同比增长2.8%"
       ]
     }
   ]
