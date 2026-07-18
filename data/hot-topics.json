@@ -1,40 +1,33 @@
 {
-  "generated_at": "2026-07-18T06:30:21.988775Z",
+  "generated_at": "2026-07-18T08:25:37.650100Z",
   "window_hours": 24,
-  "total_items_analyzed": 46,
+  "total_items_analyzed": 43,
   "hot_topics": [
     {
       "keyword": "人工智能",
       "category": "板块",
       "count": 5,
       "sample_titles": [
+        "算力定价权的转移——从\"你有多少张卡\"到\"Token成本多少\"",
         "2026世界人工智能大会观察：算力与制造业，支撑AI脱虚向实",
-        "首届世界人工智能大会·学术正式亮相",
-        "WAIC，我们看到这六个趋势"
-      ]
-    },
-    {
-      "keyword": "机器人",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "安踏品牌CEO徐阳离任；得物App首个AI鉴别机器人亮相WAIC；泡泡玛特王宁带队参访苹果总部；HOKA官宣品牌代言人侯明昊｜消研所周报"
-      ]
-    },
-    {
-      "keyword": "医疗",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "医疗AI独角兽OpenEvidence再传融资意向，潜在估值升至200亿美元"
+        "首届世界人工智能大会·学术正式亮相"
       ]
     },
     {
       "keyword": "消费",
       "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "滴滴WAIC分享：AI升级出行体验，释放服务消费新潜力",
+        "崔东树：锂电池消费税调整，是对整车企业造电池的有力助推，有利于中国汽车产业做大做强"
+      ]
+    },
+    {
+      "keyword": "芯片",
+      "category": "板块",
       "count": 1,
       "sample_titles": [
-        "安踏品牌CEO徐阳离任；得物App首个AI鉴别机器人亮相WAIC；泡泡玛特王宁带队参访苹果总部；HOKA官宣品牌代言人侯明昊｜消研所周报"
+        "徕芬，把电机做成“芯片”"
       ]
     },
     {
@@ -46,14 +39,6 @@
       ]
     },
     {
-      "keyword": "银行",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "美国商业银行存款一周减少740亿美元，降至19.36万亿美元"
-      ]
-    },
-    {
       "keyword": "券商",
       "category": "板块",
       "count": 1,
@@ -62,11 +47,11 @@
       ]
     },
     {
-      "keyword": "5G",
+      "keyword": "汽车",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "科氪 | 中国联通携华为发布全球最大规模 5G-A百兆大上行网络"
+        "崔东树：锂电池消费税调整，是对整车企业造电池的有力助推，有利于中国汽车产业做大做强"
       ]
     },
     {
@@ -75,6 +60,14 @@
       "count": 1,
       "sample_titles": [
         "屈臣氏集团考虑推迟伦敦IPO计划"
+      ]
+    },
+    {
+      "keyword": "港股",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "Kimi有望最快6个月内港股上市"
       ]
     }
   ]
