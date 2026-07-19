@@ -1,25 +1,32 @@
 {
-  "generated_at": "2026-07-19T01:06:51.529736Z",
+  "generated_at": "2026-07-19T04:52:55.400080Z",
   "window_hours": 24,
-  "total_items_analyzed": 38,
+  "total_items_analyzed": 37,
   "hot_topics": [
     {
       "keyword": "人工智能",
       "category": "板块",
-      "count": 3,
+      "count": 2,
       "sample_titles": [
         "中科闻歌发布首个AI决策“全家桶”，企业决策卷入“10分钟时代”",
-        "商汤发布旗舰级SenseNova U1 Pro，多模态智能体实现长程任务闭环",
-        "算力定价权的转移——从\"你有多少张卡\"到\"Token成本多少\""
+        "商汤发布旗舰级SenseNova U1 Pro，多模态智能体实现长程任务闭环"
       ]
     },
     {
-      "keyword": "消费",
-      "category": "板块",
+      "keyword": "IPO",
+      "category": "市场",
       "count": 2,
       "sample_titles": [
-        "滴滴WAIC分享：AI升级出行体验，释放服务消费新潜力",
-        "崔东树：锂电池消费税调整，是对整车企业造电池的有力助推，有利于中国汽车产业做大做强"
+        "千分一创业板IPO终止审核",
+        "IPO排队券商“半年考” 东莞证券上半年净利大增超70%"
+      ]
+    },
+    {
+      "keyword": "新能源",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "比亚迪巴西工厂第10万辆新能源汽车下线"
       ]
     },
     {
@@ -31,19 +38,35 @@
       ]
     },
     {
+      "keyword": "银行",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "韩国财政部表示，将允许外国投资者交易更多以韩元计价的债券，并可从国内外汇银行借入韩元"
+      ]
+    },
+    {
+      "keyword": "券商",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "IPO排队券商“半年考” 东莞证券上半年净利大增超70%"
+      ]
+    },
+    {
       "keyword": "汽车",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "崔东树：锂电池消费税调整，是对整车企业造电池的有力助推，有利于中国汽车产业做大做强"
+        "比亚迪巴西工厂第10万辆新能源汽车下线"
       ]
     },
     {
-      "keyword": "IPO",
-      "category": "市场",
+      "keyword": "量子",
+      "category": "板块",
       "count": 1,
       "sample_titles": [
-        "屈臣氏集团考虑推迟伦敦IPO计划"
+        "量子科技公司两仪万象完成A+轮融资"
       ]
     }
   ]
