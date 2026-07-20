@@ -1,18 +1,8 @@
 {
-  "generated_at": "2026-07-20T22:06:33.406395Z",
+  "generated_at": "2026-07-20T23:33:30.894901Z",
   "window_hours": 24,
   "total_items_analyzed": 48,
   "hot_topics": [
-    {
-      "keyword": "回购",
-      "category": "市场",
-      "count": 4,
-      "sample_titles": [
-        "年内A股公司累计回购金额超过800亿元",
-        "三环集团：拟以4.5亿元至9亿元回购股份",
-        "三花智控：控股股东提议2亿元-4亿元回购股份"
-      ]
-    },
     {
       "keyword": "机器人",
       "category": "板块",
@@ -33,11 +23,28 @@
       ]
     },
     {
+      "keyword": "回购",
+      "category": "市场",
+      "count": 2,
+      "sample_titles": [
+        "沪市一晚新增回购增持计划25家，金额上限逾百亿元",
+        "年内A股公司累计回购金额超过800亿元"
+      ]
+    },
+    {
       "keyword": "半导体",
       "category": "板块",
       "count": 1,
       "sample_titles": [
         "招商证券终止为中韩半导体等6只基金提供主做市服务，回应：单纯商业行为，非市场方向判断"
+      ]
+    },
+    {
+      "keyword": "芯片",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "报道称谷歌正计划开发新芯片"
       ]
     },
     {
@@ -49,11 +56,35 @@
       ]
     },
     {
+      "keyword": "石油",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "阿联酋上半年非石油贸易额创新高"
+      ]
+    },
+    {
       "keyword": "IPO",
       "category": "市场",
       "count": 1,
       "sample_titles": [
         "曝零一万物启动新一轮融资，拟2027年申请IPO"
+      ]
+    },
+    {
+      "keyword": "减持",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "“木头姐”减持1170万美元AMD股票"
+      ]
+    },
+    {
+      "keyword": "增持",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "沪市一晚新增回购增持计划25家，金额上限逾百亿元"
       ]
     }
   ]
