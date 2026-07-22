@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-22T14:36:13.688437Z",
+  "generated_at": "2026-07-22T16:25:09.531421Z",
   "window_hours": 24,
-  "total_items_analyzed": 44,
+  "total_items_analyzed": 45,
   "hot_topics": [
     {
       "keyword": "国务院",
@@ -33,6 +33,15 @@
       ]
     },
     {
+      "keyword": "涨停",
+      "category": "市场",
+      "count": 2,
+      "sample_titles": [
+        "价值判断：涨停板的投资机会和风险提示（7月21日）｜上市公司观察",
+        "五洲医疗跨界半导体：上市三年营收利润“双杀”，一份“留白”预案撬动20cm涨停丨并购一线"
+      ]
+    },
+    {
       "keyword": "新能源",
       "category": "板块",
       "count": 1,
@@ -57,14 +66,6 @@
       ]
     },
     {
-      "keyword": "机器人",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "连达芬奇手术机器人都开始降本了！"
-      ]
-    },
-    {
       "keyword": "医疗",
       "category": "板块",
       "count": 1,
@@ -73,11 +74,19 @@
       ]
     },
     {
-      "keyword": "涨停",
+      "keyword": "金融",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "深圳上市公司价值重估：金融与硬科技托举上限，创新密度背后分化加深"
+      ]
+    },
+    {
+      "keyword": "跌停",
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "五洲医疗跨界半导体：上市三年营收利润“双杀”，一份“留白”预案撬动20cm涨停丨并购一线"
+        "价值判断：跌停板的投资机会和风险提示（7月21日）｜上市公司观察"
       ]
     },
     {
