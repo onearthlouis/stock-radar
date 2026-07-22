@@ -1,23 +1,41 @@
 {
-  "generated_at": "2026-07-22T04:25:01.359544Z",
+  "generated_at": "2026-07-22T07:15:24.021867Z",
   "window_hours": 24,
   "total_items_analyzed": 48,
   "hot_topics": [
     {
       "keyword": "人工智能",
       "category": "板块",
-      "count": 2,
+      "count": 4,
       "sample_titles": [
-        "意界智创签约上海市人工智能重点项目",
-        "AI落地，还差一口气"
+        "安谋科技公开新一代NPU架构 并牵头发起开源AI操作系统联盟",
+        "西部数据展示百TB硬盘路线图：HAMR与ePMR双线并进，2029年冲刺100TB",
+        "摩尔线程公布万卡级集群训练成绩 称国产芯片可训出前沿模型"
       ]
     },
     {
-      "keyword": "新能源",
+      "keyword": "港股",
+      "category": "港股",
+      "count": 2,
+      "sample_titles": [
+        "港股滔搏下跌近30%",
+        "上市前夜 | 手机PMIC全球第三、三年亏15亿，芯迈第三次冲港股IPO"
+      ]
+    },
+    {
+      "keyword": "芯片",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "小米旗下瀚星创投入股星利行新能源科技公司"
+        "摩尔线程公布万卡级集群训练成绩 称国产芯片可训出前沿模型"
+      ]
+    },
+    {
+      "keyword": "消费",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "2026年上半年消费品以旧换新成效显著"
       ]
     },
     {
@@ -29,27 +47,11 @@
       ]
     },
     {
-      "keyword": "保险",
+      "keyword": "汽车",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "欧盟保险监管机构要求私募股权买家采取长远眼光"
-      ]
-    },
-    {
-      "keyword": "地产",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "广州：拟稳步有序推进现房销售制，推进房地产开发融资方式改革"
-      ]
-    },
-    {
-      "keyword": "房地产",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "广州：拟稳步有序推进现房销售制，推进房地产开发融资方式改革"
+        "地平线与大众汽车集团达成合作"
       ]
     },
     {
@@ -57,23 +59,23 @@
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "小红书回应IPO传闻：相关信息均不属实"
+        "上市前夜 | 手机PMIC全球第三、三年亏15亿，芯迈第三次冲港股IPO"
       ]
     },
     {
-      "keyword": "恒指",
+      "keyword": "南向资金",
       "category": "港股",
       "count": 1,
       "sample_titles": [
-        "恒指午间休盘跌0.83%，滔搏跌超24%"
+        "南向资金净买入额达50亿港元"
       ]
     },
     {
-      "keyword": "证监会",
+      "keyword": "PMI",
       "category": "宏观",
       "count": 1,
       "sample_titles": [
-        "【钛晨报】IPv6技术创新和融合应用实施方案发布，部署10方面36项重点任务；证监会：持续加强市场基础制度建设，增强市场内在稳定性；北京：下半年将布局建设Token工厂，力争新增智能算力5万P"
+        "上市前夜 | 手机PMIC全球第三、三年亏15亿，芯迈第三次冲港股IPO"
       ]
     }
   ]
