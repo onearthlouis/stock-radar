@@ -1,41 +1,42 @@
 {
-  "generated_at": "2026-07-22T07:15:24.021867Z",
+  "generated_at": "2026-07-22T10:02:19.271866Z",
   "window_hours": 24,
   "total_items_analyzed": 48,
   "hot_topics": [
     {
       "keyword": "人工智能",
       "category": "板块",
-      "count": 4,
+      "count": 3,
       "sample_titles": [
-        "安谋科技公开新一代NPU架构 并牵头发起开源AI操作系统联盟",
-        "西部数据展示百TB硬盘路线图：HAMR与ePMR双线并进，2029年冲刺100TB",
-        "摩尔线程公布万卡级集群训练成绩 称国产芯片可训出前沿模型"
-      ]
-    },
-    {
-      "keyword": "港股",
-      "category": "港股",
-      "count": 2,
-      "sample_titles": [
-        "港股滔搏下跌近30%",
-        "上市前夜 | 手机PMIC全球第三、三年亏15亿，芯迈第三次冲港股IPO"
-      ]
-    },
-    {
-      "keyword": "芯片",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "摩尔线程公布万卡级集群训练成绩 称国产芯片可训出前沿模型"
+        "上海WAIC深度观察：模型隐身，Agent疯野",
+        "AI在企业中为什么没有体现价值？丨WAIC2026",
+        "安谋科技公开新一代NPU架构 并牵头发起开源AI操作系统联盟"
       ]
     },
     {
       "keyword": "消费",
       "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "一位游荡者的新疆消费观察",
+        "这届世界杯花钱最狠的人，不懂球丨2026世界杯消费报告"
+      ]
+    },
+    {
+      "keyword": "IPO",
+      "category": "市场",
+      "count": 2,
+      "sample_titles": [
+        "氪星晚报 ｜苹果iPhone18系列已量产；小红书回应IPO传闻：相关信息均不属实；明治将在华牛奶业务转让给澳亚集团",
+        "上市前夜 | 手机PMIC全球第三、三年亏15亿，芯迈第三次冲港股IPO"
+      ]
+    },
+    {
+      "keyword": "机器人",
+      "category": "板块",
       "count": 1,
       "sample_titles": [
-        "2026年上半年消费品以旧换新成效显著"
+        "连达芬奇手术机器人都开始降本了！"
       ]
     },
     {
@@ -47,27 +48,35 @@
       ]
     },
     {
-      "keyword": "汽车",
+      "keyword": "低空经济",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "地平线与大众汽车集团达成合作"
+        "上海市市场监督管理局批复同意上海市低空经济标准化技术委员会组建方案"
       ]
     },
     {
-      "keyword": "IPO",
+      "keyword": "回购",
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "上市前夜 | 手机PMIC全球第三、三年亏15亿，芯迈第三次冲港股IPO"
+        "又有11家沪市公司新增回购计划，回购金额上限为13.06亿元"
       ]
     },
     {
-      "keyword": "南向资金",
+      "keyword": "分红",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "虹软科技：实控人提议实施2026年度中期分红，金额不低于上半年净利润的60%"
+      ]
+    },
+    {
+      "keyword": "港股",
       "category": "港股",
       "count": 1,
       "sample_titles": [
-        "南向资金净买入额达50亿港元"
+        "上市前夜 | 手机PMIC全球第三、三年亏15亿，芯迈第三次冲港股IPO"
       ]
     },
     {
@@ -76,6 +85,22 @@
       "count": 1,
       "sample_titles": [
         "上市前夜 | 手机PMIC全球第三、三年亏15亿，芯迈第三次冲港股IPO"
+      ]
+    },
+    {
+      "keyword": "通胀",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "日元贬值加剧通胀风险，日本央行据悉愿考虑更快加息步伐"
+      ]
+    },
+    {
+      "keyword": "央行",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "日元贬值加剧通胀风险，日本央行据悉愿考虑更快加息步伐"
       ]
     }
   ]
