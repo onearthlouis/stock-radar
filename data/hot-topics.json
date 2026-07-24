@@ -1,43 +1,26 @@
 {
-  "generated_at": "2026-07-24T11:19:25.111445Z",
+  "generated_at": "2026-07-24T13:02:32.832752Z",
   "window_hours": 24,
-  "total_items_analyzed": 45,
+  "total_items_analyzed": 46,
   "hot_topics": [
     {
-      "keyword": "人工智能",
-      "category": "板块",
-      "count": 3,
+      "keyword": "回购",
+      "category": "市场",
+      "count": 5,
       "sample_titles": [
-        "两部门：加快推动“人工智能＋交通运输”发展",
-        "浙江：支持运用人工智能赋能各领域科学发现与技术创新",
-        "对话希捷俞康：AI规模化落地，存储正成为关键基础设施"
+        "日月明：拟2880万元—5760万元回购公司股份",
+        "淳中科技：拟5000万元—1亿元回购股份",
+        "宁德时代：拟200亿元—400亿元回购股份"
       ]
     },
     {
       "keyword": "IPO",
       "category": "市场",
-      "count": 2,
+      "count": 3,
       "sample_titles": [
+        "港交所最大IPO来了！市值暴涨500倍，光模块一哥被资本疯抢",
         "“脑机接口第一股”，IPO倒计时",
         "旭阳新材IPO三问：分红疑云、资金去向、逆常识增长"
-      ]
-    },
-    {
-      "keyword": "减持",
-      "category": "市场",
-      "count": 2,
-      "sample_titles": [
-        "德明利：控股股东、董事长李虎承诺12个月内不减持公司股票",
-        "统一股份：股东拟减持不超3%公司股份"
-      ]
-    },
-    {
-      "keyword": "回购",
-      "category": "市场",
-      "count": 2,
-      "sample_titles": [
-        "Verizon二季度营收343亿美元，上调全年指引并扩大回购计划",
-        "海特高新：拟5000万元—1亿元回购公司股份"
       ]
     },
     {
@@ -53,7 +36,7 @@
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "苹果要求OLED面板大幅降价，以应对内存芯片涨价压力"
+        "三星、SK海力士据悉将与美国企业签署大额芯片供应协议"
       ]
     },
     {
@@ -73,6 +56,14 @@
       ]
     },
     {
+      "keyword": "增持",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "青岛啤酒：控股股东及其一致行动人拟1.5亿元—3亿元增持公司A股及H股股份"
+      ]
+    },
+    {
       "keyword": "分红",
       "category": "市场",
       "count": 1,
@@ -81,27 +72,11 @@
       ]
     },
     {
-      "keyword": "降息",
-      "category": "宏观",
-      "count": 1,
-      "sample_titles": [
-        "俄罗斯央行降息25个基点"
-      ]
-    },
-    {
       "keyword": "通胀",
       "category": "宏观",
       "count": 1,
       "sample_titles": [
         "中文播客，词汇通胀"
-      ]
-    },
-    {
-      "keyword": "央行",
-      "category": "宏观",
-      "count": 1,
-      "sample_titles": [
-        "俄罗斯央行降息25个基点"
       ]
     }
   ]
