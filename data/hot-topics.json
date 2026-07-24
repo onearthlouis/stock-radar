@@ -1,49 +1,55 @@
 {
-  "generated_at": "2026-07-24T00:06:08.153033Z",
+  "generated_at": "2026-07-24T03:55:57.764989Z",
   "window_hours": 24,
-  "total_items_analyzed": 48,
+  "total_items_analyzed": 46,
   "hot_topics": [
+    {
+      "keyword": "央行",
+      "category": "宏观",
+      "count": 2,
+      "sample_titles": [
+        "欧洲央行研究调整准备金制度方案以减轻财务损失",
+        "央行公开市场开展890亿元7天期逆回购操作"
+      ]
+    },
+    {
+      "keyword": "半导体",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "净利暴增744倍，半导体公司谁在疯狂吸金？"
+      ]
+    },
     {
       "keyword": "芯片",
       "category": "板块",
-      "count": 2,
+      "count": 1,
       "sample_titles": [
-        "英伟达与Amkor达成15亿美元芯片封装与测试合作协议",
         "华东首个国产 TPU 千卡集群落地杭州，中昊芯英发布二代 AI 芯片“须臾”"
       ]
     },
     {
       "keyword": "人工智能",
       "category": "板块",
-      "count": 2,
+      "count": 1,
       "sample_titles": [
-        "美政府宣布向人工智能科学研究领域拨款50亿美元",
         "华东首个国产 TPU 千卡集群落地杭州，中昊芯英发布二代 AI 芯片“须臾”"
       ]
     },
     {
       "keyword": "汽车",
       "category": "板块",
-      "count": 2,
+      "count": 1,
       "sample_titles": [
-        "今年上半年我国汽车出口超6000亿元 同比增长48.3%",
         "氪星晚报 ｜DeepSeek今年已增资65%；马斯克：FSD是拉动特斯拉汽车需求的核心驱动力"
       ]
     },
     {
-      "keyword": "新能源",
+      "keyword": "石油",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "乘联分会：7月狭义乘用车零售预计152万辆，新能源预计98万辆"
-      ]
-    },
-    {
-      "keyword": "保险",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "汇丰：向安联出售其新加坡人寿及健康保险业务"
+        "OPEC+或从9月起再次上调石油产量目标"
       ]
     },
     {
@@ -59,15 +65,7 @@
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "多家科技龙头公司出手回购，年内已有超800家A股公司实施回购"
-      ]
-    },
-    {
-      "keyword": "央行",
-      "category": "宏观",
-      "count": 1,
-      "sample_titles": [
-        "拉加德承诺2027年前不会卸任，欧洲央行新行长遴选或很快启动"
+        "央行公开市场开展890亿元7天期逆回购操作"
       ]
     },
     {
