@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-24T03:55:57.764989Z",
+  "generated_at": "2026-07-24T06:32:37.415972Z",
   "window_hours": 24,
-  "total_items_analyzed": 46,
+  "total_items_analyzed": 45,
   "hot_topics": [
     {
-      "keyword": "央行",
-      "category": "宏观",
+      "keyword": "汽车",
+      "category": "板块",
       "count": 2,
       "sample_titles": [
-        "欧洲央行研究调整准备金制度方案以减轻财务损失",
-        "央行公开市场开展890亿元7天期逆回购操作"
+        "大众汽车二季度营业利润34.7亿欧元，低于预期",
+        "氪星晚报 ｜DeepSeek今年已增资65%；马斯克：FSD是拉动特斯拉汽车需求的核心驱动力"
       ]
     },
     {
@@ -21,59 +21,75 @@
       ]
     },
     {
-      "keyword": "芯片",
+      "keyword": "机器人",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "华东首个国产 TPU 千卡集群落地杭州，中昊芯英发布二代 AI 芯片“须臾”"
+        "小鹏人形机器人正小批量试生产，量产产线进入最后联调阶段"
       ]
     },
     {
-      "keyword": "人工智能",
+      "keyword": "军工",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "华东首个国产 TPU 千卡集群落地杭州，中昊芯英发布二代 AI 芯片“须臾”"
+        "半日主力资金加仓电子、国防军工股"
       ]
     },
     {
-      "keyword": "汽车",
+      "keyword": "国防",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "氪星晚报 ｜DeepSeek今年已增资65%；马斯克：FSD是拉动特斯拉汽车需求的核心驱动力"
+        "半日主力资金加仓电子、国防军工股"
       ]
     },
     {
-      "keyword": "石油",
+      "keyword": "银行",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "OPEC+或从9月起再次上调石油产量目标"
+        "东方天算获招商银行、交通银行等合计200亿元战略授信"
       ]
     },
     {
-      "keyword": "低空经济",
+      "keyword": "券商",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "2026 国际低空经济博览会在沪开幕，452 家企业参展"
+        "网传券商内部发文防范长鑫科技上市炒作，多家券商分支机构人士称未收到类似通知"
       ]
     },
     {
-      "keyword": "回购",
-      "category": "市场",
+      "keyword": "恒指",
+      "category": "港股",
       "count": 1,
       "sample_titles": [
-        "央行公开市场开展890亿元7天期逆回购操作"
+        "恒指午间休盘跌1.27%，恒生科技指数跌1.69%"
       ]
     },
     {
-      "keyword": "证监会",
+      "keyword": "恒生科技",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "恒指午间休盘跌1.27%，恒生科技指数跌1.69%"
+      ]
+    },
+    {
+      "keyword": "美联储",
       "category": "宏观",
       "count": 1,
       "sample_titles": [
-        "【钛晨报】事关资本市场监管、改革与稳市工作，证监会明确七大要点；长鑫科技7月27日上市，发行价为8.66元/股；滔搏回应暴力打折甩卖耐克库存"
+        "摩根士丹利：预计美联储将在7月会议上按兵不动"
+      ]
+    },
+    {
+      "keyword": "央行",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "印度卢比走高，印度央行干预在岸及离岸外汇市场"
       ]
     }
   ]
