@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-07-25T06:03:14.524524Z",
+  "generated_at": "2026-07-25T08:31:44.326329Z",
   "window_hours": 24,
   "total_items_analyzed": 43,
   "hot_topics": [
+    {
+      "keyword": "半导体",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "三星电子与博通达成价值2000亿美元的半导体供应合作协议",
+        "TCL科技收购广州华星半导体45%股权事宜获深交所审议通过"
+      ]
+    },
     {
       "keyword": "汽车",
       "category": "板块",
@@ -13,11 +22,19 @@
       ]
     },
     {
-      "keyword": "半导体",
+      "keyword": "芯片",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "TCL科技收购广州华星半导体45%股权事宜获深交所审议通过"
+        "三星电子、SK海力士将与美国科技巨头推进规模达1375万亿韩元的芯片合作项目"
+      ]
+    },
+    {
+      "keyword": "人工智能",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "SK集团与英伟达通过一项涵盖人工智能工厂和下一代内存的5000亿美元以上战略合作项目"
       ]
     },
     {
