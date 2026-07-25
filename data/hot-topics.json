@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-07-25T03:21:13.550994Z",
+  "generated_at": "2026-07-25T06:03:14.524524Z",
   "window_hours": 24,
-  "total_items_analyzed": 44,
+  "total_items_analyzed": 43,
   "hot_topics": [
     {
-      "keyword": "芯片",
+      "keyword": "汽车",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "中国电池工业协会与中国汽车工业协会签订战略合作协议",
+        "江淮汽车，成了高端但“埋”了牛散"
+      ]
+    },
+    {
+      "keyword": "半导体",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "美股三大指数收盘涨跌不一，存储芯片、光通信跌幅居前"
+        "TCL科技收购广州华星半导体45%股权事宜获深交所审议通过"
       ]
     },
     {
@@ -17,30 +26,6 @@
       "count": 1,
       "sample_titles": [
         "机构调研券商“高频词”生变 硬科技投资受关注"
-      ]
-    },
-    {
-      "keyword": "汽车",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "江淮汽车，成了高端但“埋”了牛散"
-      ]
-    },
-    {
-      "keyword": "增持",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "青岛啤酒：控股股东及其一致行动人拟1.5亿元—3亿元增持公司A股及H股股份"
-      ]
-    },
-    {
-      "keyword": "回购",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "日月明：拟2880万元—5760万元回购公司股份"
       ]
     }
   ]
