@@ -1,22 +1,48 @@
 {
-  "generated_at": "2026-07-30T08:38:53.965296Z",
+  "generated_at": "2026-07-30T11:14:32.203930Z",
   "window_hours": 24,
-  "total_items_analyzed": 44,
+  "total_items_analyzed": 46,
   "hot_topics": [
     {
-      "keyword": "新能源",
-      "category": "板块",
-      "count": 1,
+      "keyword": "回购",
+      "category": "市场",
+      "count": 4,
       "sample_titles": [
-        "LG新能源上半年营收14.1万亿韩元，同比增长10.5%"
+        "甬矽电子：实控人提议公司1亿元—1.5亿元回购股份",
+        "利柏特：拟3000万元—6000万元回购股份",
+        "网宿科技：拟3亿元至6亿元回购股份，用于注销减少注册资本"
       ]
     },
     {
-      "keyword": "机器人",
+      "keyword": "芯片",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "中国机器人，提前经历“大疆时刻”"
+        "地平线在高阶智驾芯片市场份额扩大至22.82%"
+      ]
+    },
+    {
+      "keyword": "人工智能",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "欧盟计划投资114亿美元建设7座人工智能超级工厂"
+      ]
+    },
+    {
+      "keyword": "医疗",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "独家｜西南五省市里，几乎只有成都的医疗企业能融到资了"
+      ]
+    },
+    {
+      "keyword": "消费",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "36氪联合PureblueAI清蓝发布第二期「2026消费品牌AI推荐力名册」"
       ]
     },
     {
@@ -24,15 +50,7 @@
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "当汽车拥有智能“大脑”，车企开始争夺“身体控制权”"
-      ]
-    },
-    {
-      "keyword": "涨停",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "A股三大指数集体收跌，舍得酒业涨停"
+        "菲律宾推出近10亿美元电动车激励计划，三菱汽车承诺投资"
       ]
     },
     {
@@ -40,31 +58,23 @@
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "食品供应链科技公司GrubMarket秘密递交美股IPO"
+        "荣耀终端更新IPO辅导备案报告"
       ]
     },
     {
-      "keyword": "恒指",
-      "category": "港股",
+      "keyword": "增持",
+      "category": "市场",
       "count": 1,
       "sample_titles": [
-        "恒指收涨0.2%，恒生科技指数跌1.25%"
+        "恒通股份：控股股东及其一致行动人拟合计1.5亿元增持公司股份"
       ]
     },
     {
-      "keyword": "恒生科技",
-      "category": "港股",
+      "keyword": "央行",
+      "category": "宏观",
       "count": 1,
       "sample_titles": [
-        "恒指收涨0.2%，恒生科技指数跌1.25%"
-      ]
-    },
-    {
-      "keyword": "南向资金",
-      "category": "港股",
-      "count": 1,
-      "sample_titles": [
-        "南向资金净卖出额超50亿港元"
+        "英国央行维持关键利率在3.75%不变，符合预期"
       ]
     }
   ]
