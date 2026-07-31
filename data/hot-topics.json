@@ -1,80 +1,23 @@
 {
-  "generated_at": "2026-07-31T07:24:59.594734Z",
+  "generated_at": "2026-07-31T10:08:12.211561Z",
   "window_hours": 24,
-  "total_items_analyzed": 47,
+  "total_items_analyzed": 45,
   "hot_topics": [
     {
-      "keyword": "芯片",
-      "category": "板块",
+      "keyword": "证监会",
+      "category": "宏观",
       "count": 2,
       "sample_titles": [
-        "全球芯片LOF：7月31日下午开市起停牌至当日收市",
-        "亚马逊、谷歌、微软新季度财报B面：一切让位给AgenticAI，一边失血一边靠芯片赚钱"
+        "证监会同意焦炭期权注册",
+        "维达力科技港股IPO获中国证监会备案"
       ]
     },
     {
-      "keyword": "汽车",
-      "category": "板块",
-      "count": 2,
-      "sample_titles": [
-        "小鹏汽车、智元机器人等将率先接入Seedance 2.5",
-        "小米澎程杀入增程腹地，汽车业务换了一套增长逻辑"
-      ]
-    },
-    {
-      "keyword": "人工智能",
+      "keyword": "光伏",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "村田上调业绩预期，表明人工智能零部件需求旺盛"
-      ]
-    },
-    {
-      "keyword": "机器人",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "小鹏汽车、智元机器人等将率先接入Seedance 2.5"
-      ]
-    },
-    {
-      "keyword": "医疗",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "“GPS”三巨头集体转身：医疗器械下个万亿战场浮出水面"
-      ]
-    },
-    {
-      "keyword": "消费",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "36氪联合PureblueAI清蓝发布第二期「2026消费品牌AI推荐力名册」"
-      ]
-    },
-    {
-      "keyword": "石油",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "匈牙利石油天然气公司拟收购壳牌旗下公司，布局地中海天然气开发"
-      ]
-    },
-    {
-      "keyword": "天然气",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "匈牙利石油天然气公司拟收购壳牌旗下公司，布局地中海天然气开发"
-      ]
-    },
-    {
-      "keyword": "涨停",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "SK海力士股价在首尔涨幅扩大至30%，触及涨停"
+        "市场监管总局开展光伏行业价格合规指导"
       ]
     },
     {
@@ -82,7 +25,23 @@
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "佳云科技易主局：转让方“捡漏”19个月后溢价套现，接盘方8年IPO两度折戟"
+        "维达力科技港股IPO获中国证监会备案"
+      ]
+    },
+    {
+      "keyword": "回购",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "兆易创新：拟以10亿元-20亿元回购公司股份"
+      ]
+    },
+    {
+      "keyword": "港股",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "维达力科技港股IPO获中国证监会备案"
       ]
     },
     {
@@ -90,15 +49,7 @@
       "category": "港股",
       "count": 1,
       "sample_titles": [
-        "南向资金净买入额达30亿港元"
-      ]
-    },
-    {
-      "keyword": "美联储",
-      "category": "宏观",
-      "count": 1,
-      "sample_titles": [
-        "富达：美联储或延至12月才启动加息周期，惟9月加息可能性未消除"
+        "美团-W遭南向资金净卖出6.36亿港元"
       ]
     }
   ]
