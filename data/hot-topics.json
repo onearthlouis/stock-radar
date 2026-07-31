@@ -1,23 +1,32 @@
 {
-  "generated_at": "2026-07-31T00:09:20.621761Z",
+  "generated_at": "2026-07-31T04:02:52.640784Z",
   "window_hours": 24,
   "total_items_analyzed": 46,
   "hot_topics": [
+    {
+      "keyword": "人工智能",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "安徽：深化人工智能、物联网等技术应用，发展智慧供应链",
+        "国家发改委：人工智能成为经济增长的澎湃动力源，相关行业保持30%以上的高增长"
+      ]
+    },
     {
       "keyword": "消费",
       "category": "板块",
       "count": 2,
       "sample_titles": [
-        "亚马逊称已收到6亿美元关税退款，将部分返还消费者",
+        "靠卖歌词音响年营收5亿，莫纳的“反爆品”实验能走多远？",
         "36氪联合PureblueAI清蓝发布第二期「2026消费品牌AI推荐力名册」"
       ]
     },
     {
-      "keyword": "芯片",
+      "keyword": "机器人",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "Anthropic拟获150亿美元融资建设得州AI数据中心，谷歌提供担保并供应芯片"
+        "发改委：全球每销售10台人形和四足智能机器人，就有8台来自中国"
       ]
     },
     {
@@ -25,47 +34,23 @@
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "独家｜西南五省市里，几乎只有成都的医疗企业能融到资了"
+        "“GPS”三巨头集体转身：医疗器械下个万亿战场浮出水面"
       ]
     },
     {
-      "keyword": "券商",
-      "category": "板块",
+      "keyword": "恒指",
+      "category": "港股",
       "count": 1,
       "sample_titles": [
-        "上市券商百亿分红陆续兑现，回购计划增强投资者信心"
+        "恒指午间休盘跌0.11%，恒生科技指数涨0.7%"
       ]
     },
     {
-      "keyword": "云计算",
-      "category": "板块",
+      "keyword": "恒生科技",
+      "category": "港股",
       "count": 1,
       "sample_titles": [
-        "Meta报告称未来支出承诺接近7000亿美元，涉及AI数据中心和云计算"
-      ]
-    },
-    {
-      "keyword": "IPO",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "报道称Nscale最早可能于今年秋季进行IPO"
-      ]
-    },
-    {
-      "keyword": "回购",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "上市券商百亿分红陆续兑现，回购计划增强投资者信心"
-      ]
-    },
-    {
-      "keyword": "分红",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "上市券商百亿分红陆续兑现，回购计划增强投资者信心"
+        "恒指午间休盘跌0.11%，恒生科技指数涨0.7%"
       ]
     },
     {
@@ -73,7 +58,7 @@
       "category": "宏观",
       "count": 1,
       "sample_titles": [
-        "日本政府与日本央行在外汇市场进行干预"
+        "日本央行将目标利率维持在1%不变"
       ]
     }
   ]
