@@ -1,15 +1,23 @@
 {
-  "generated_at": "2026-07-30T22:38:39.970273Z",
+  "generated_at": "2026-07-31T00:09:20.621761Z",
   "window_hours": 24,
   "total_items_analyzed": 46,
   "hot_topics": [
     {
-      "keyword": "回购",
-      "category": "市场",
+      "keyword": "消费",
+      "category": "板块",
       "count": 2,
       "sample_titles": [
-        "沃尔核材：拟不超1.5亿港元回购H股股份",
-        "三环集团：拟5亿元至10亿元回购股份"
+        "亚马逊称已收到6亿美元关税退款，将部分返还消费者",
+        "36氪联合PureblueAI清蓝发布第二期「2026消费品牌AI推荐力名册」"
+      ]
+    },
+    {
+      "keyword": "芯片",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "Anthropic拟获150亿美元融资建设得州AI数据中心，谷歌提供担保并供应芯片"
       ]
     },
     {
@@ -21,27 +29,43 @@
       ]
     },
     {
-      "keyword": "消费",
+      "keyword": "券商",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "36氪联合PureblueAI清蓝发布第二期「2026消费品牌AI推荐力名册」"
+        "上市券商百亿分红陆续兑现，回购计划增强投资者信心"
       ]
     },
     {
-      "keyword": "汽车",
+      "keyword": "云计算",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "小米汽车发布小米澎程N90 Max"
+        "Meta报告称未来支出承诺接近7000亿美元，涉及AI数据中心和云计算"
       ]
     },
     {
-      "keyword": "GDP",
-      "category": "宏观",
+      "keyword": "IPO",
+      "category": "市场",
       "count": 1,
       "sample_titles": [
-        "美国第二季度实际GDP年化季率初值升1.5%"
+        "报道称Nscale最早可能于今年秋季进行IPO"
+      ]
+    },
+    {
+      "keyword": "回购",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "上市券商百亿分红陆续兑现，回购计划增强投资者信心"
+      ]
+    },
+    {
+      "keyword": "分红",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "上市券商百亿分红陆续兑现，回购计划增强投资者信心"
       ]
     },
     {
@@ -49,7 +73,7 @@
       "category": "宏观",
       "count": 1,
       "sample_titles": [
-        "英国央行行长：没有证据表明出现二轮效应，但不应对此放松警惕"
+        "日本政府与日本央行在外汇市场进行干预"
       ]
     }
   ]
