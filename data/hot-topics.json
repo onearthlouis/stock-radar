@@ -1,15 +1,48 @@
 {
-  "generated_at": "2026-07-31T10:08:12.211561Z",
+  "generated_at": "2026-07-31T12:30:22.789696Z",
   "window_hours": 24,
-  "total_items_analyzed": 45,
+  "total_items_analyzed": 48,
   "hot_topics": [
     {
-      "keyword": "证监会",
+      "keyword": "国务院",
       "category": "宏观",
-      "count": 2,
+      "count": 3,
       "sample_titles": [
-        "证监会同意焦炭期权注册",
-        "维达力科技港股IPO获中国证监会备案"
+        "电投产融：山东莱阳核电项目获国务院常务会议核准",
+        "中国广核：惠州5号及6号机组建设获国务院核准",
+        "国常会：审议通过《国务院关于修改〈住房公积金管理条例〉的决定（草案）》等"
+      ]
+    },
+    {
+      "keyword": "新能源",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "新能源车还有哪些反人类设计要“改邪归正”？"
+      ]
+    },
+    {
+      "keyword": "半导体",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "从计算到存储：二维半导体产业链正在形成"
+      ]
+    },
+    {
+      "keyword": "芯片",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "晶圆级芯片，正在升温"
+      ]
+    },
+    {
+      "keyword": "人工智能",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "欧盟8月2日起执行《人工智能法》相关规定，新增AI透明度要求"
       ]
     },
     {
@@ -17,39 +50,39 @@
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "市场监管总局开展光伏行业价格合规指导"
+        "宏桥控股：拟定增募资不超120亿元 用于风电、光伏、铝深加工项目等"
       ]
     },
     {
-      "keyword": "IPO",
-      "category": "市场",
+      "keyword": "机器人",
+      "category": "板块",
       "count": 1,
       "sample_titles": [
-        "维达力科技港股IPO获中国证监会备案"
+        "上半年上海智能车载设备、机器人销售收入同比增长61.5%和17.5%"
       ]
     },
     {
-      "keyword": "回购",
-      "category": "市场",
+      "keyword": "消费",
+      "category": "板块",
       "count": 1,
       "sample_titles": [
-        "兆易创新：拟以10亿元-20亿元回购公司股份"
+        "CPE源峰全资收购猛犸象；慕思牵头成立数字人体与智慧睡眠创新联合体；阿迪达斯Q2大中华区营收同增15%；得物App上线租赁服务｜消研所周报"
       ]
     },
     {
-      "keyword": "港股",
-      "category": "港股",
+      "keyword": "新能源车",
+      "category": "板块",
       "count": 1,
       "sample_titles": [
-        "维达力科技港股IPO获中国证监会备案"
+        "新能源车还有哪些反人类设计要“改邪归正”？"
       ]
     },
     {
-      "keyword": "南向资金",
-      "category": "港股",
+      "keyword": "通胀",
+      "category": "宏观",
       "count": 1,
       "sample_titles": [
-        "美团-W遭南向资金净卖出6.36亿港元"
+        "欧元区7月通胀率升至2.9%，能源涨价为主因"
       ]
     }
   ]
