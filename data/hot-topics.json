@@ -1,49 +1,46 @@
 {
-  "generated_at": "2026-08-01T07:33:25.710547Z",
+  "generated_at": "2026-08-01T10:05:09.218694Z",
   "window_hours": 24,
-  "total_items_analyzed": 47,
+  "total_items_analyzed": 43,
   "hot_topics": [
     {
       "keyword": "半导体",
       "category": "板块",
-      "count": 2,
+      "count": 1,
       "sample_titles": [
-        "韩国7月出口飙升至历史第二高 半导体出口同比暴增近180%",
-        "从计算到存储：二维半导体产业链正在形成"
+        "韩国7月出口飙升至历史第二高 半导体出口同比暴增近180%"
       ]
     },
     {
       "keyword": "机器人",
       "category": "板块",
-      "count": 2,
+      "count": 1,
       "sample_titles": [
-        "谁在成为人形机器人的Tier 1？",
-        "Seedance 2.5，要给机器人打工了"
+        "谁在成为人形机器人的Tier 1？"
+      ]
+    },
+    {
+      "keyword": "消费",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "长三角多地发放结婚消费券"
       ]
     },
     {
       "keyword": "汽车",
       "category": "板块",
-      "count": 2,
+      "count": 1,
       "sample_titles": [
-        "岚图汽车：7月交付13189辆新车",
-        "福特CEO：正为中国汽车进入美国市场做准备"
+        "岚图汽车：7月交付13189辆新车"
       ]
     },
     {
-      "keyword": "芯片",
-      "category": "板块",
+      "keyword": "外资",
+      "category": "市场",
       "count": 1,
       "sample_titles": [
-        "晶圆级芯片，正在升温"
-      ]
-    },
-    {
-      "keyword": "人工智能",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "浙江实施人工智能OPC术语团体标准：由1名核心自然人主导"
+        "印度央行：印度引资举措吸引超400亿美元外资"
       ]
     },
     {
@@ -52,6 +49,14 @@
       "count": 1,
       "sample_titles": [
         "报道称OpenAI面临投资者担忧与竞争压力 IPO或推迟至明年"
+      ]
+    },
+    {
+      "keyword": "央行",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "印度央行：印度引资举措吸引超400亿美元外资"
       ]
     }
   ]
