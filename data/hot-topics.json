@@ -1,41 +1,33 @@
 {
-  "generated_at": "2026-08-01T01:06:24.124781Z",
+  "generated_at": "2026-08-01T04:56:56.940202Z",
   "window_hours": 24,
-  "total_items_analyzed": 48,
+  "total_items_analyzed": 46,
   "hot_topics": [
-    {
-      "keyword": "国务院",
-      "category": "宏观",
-      "count": 3,
-      "sample_titles": [
-        "国务院国资委：深化央企“人工智能+”专项行动，因企制宜培育新兴产业和未来产业",
-        "电投产融：山东莱阳核电项目获国务院常务会议核准",
-        "中国广核：惠州5号及6号机组建设获国务院核准"
-      ]
-    },
-    {
-      "keyword": "人工智能",
-      "category": "板块",
-      "count": 2,
-      "sample_titles": [
-        "国务院国资委：深化央企“人工智能+”专项行动，因企制宜培育新兴产业和未来产业",
-        "欧盟8月2日起执行《人工智能法》相关规定，新增AI透明度要求"
-      ]
-    },
-    {
-      "keyword": "新能源",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "新能源车还有哪些反人类设计要“改邪归正”？"
-      ]
-    },
     {
       "keyword": "半导体",
       "category": "板块",
-      "count": 1,
+      "count": 2,
       "sample_titles": [
+        "韩国7月出口飙升至历史第二高 半导体出口同比暴增近180%",
         "从计算到存储：二维半导体产业链正在形成"
+      ]
+    },
+    {
+      "keyword": "机器人",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "谁在成为人形机器人的Tier 1？",
+        "Seedance 2.5，要给机器人打工了"
+      ]
+    },
+    {
+      "keyword": "汽车",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "福特CEO：正为中国汽车进入美国市场做准备",
+        "7月小米汽车交付量持续超30000台"
       ]
     },
     {
@@ -47,51 +39,35 @@
       ]
     },
     {
-      "keyword": "机器人",
+      "keyword": "人工智能",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "上半年上海智能车载设备、机器人销售收入同比增长61.5%和17.5%"
+        "国务院国资委：深化央企“人工智能+”专项行动，因企制宜培育新兴产业和未来产业"
       ]
     },
     {
-      "keyword": "汽车",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "7月小米汽车交付量持续超30000台"
-      ]
-    },
-    {
-      "keyword": "新能源车",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "新能源车还有哪些反人类设计要“改邪归正”？"
-      ]
-    },
-    {
-      "keyword": "连板",
+      "keyword": "IPO",
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "2连板中国宝安：第一大股东在股票交易异常波动期间增持1.6%股份"
+        "报道称OpenAI面临投资者担忧与竞争压力 IPO或推迟至明年"
       ]
     },
     {
-      "keyword": "增持",
+      "keyword": "分红",
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "2连板中国宝安：第一大股东在股票交易异常波动期间增持1.6%股份"
+        "2026年中期分红方案密集落地 45家公司拟派现逾370亿元"
       ]
     },
     {
-      "keyword": "通胀",
+      "keyword": "国务院",
       "category": "宏观",
       "count": 1,
       "sample_titles": [
-        "欧元区7月通胀率升至2.9%，能源涨价为主因"
+        "国务院国资委：深化央企“人工智能+”专项行动，因企制宜培育新兴产业和未来产业"
       ]
     }
   ]
