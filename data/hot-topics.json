@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-02T09:35:38.234711Z",
+  "generated_at": "2026-08-02T11:21:17.489118Z",
   "window_hours": 24,
-  "total_items_analyzed": 33,
+  "total_items_analyzed": 34,
   "hot_topics": [
     {
       "keyword": "央行",
@@ -43,6 +43,15 @@
       ]
     },
     {
+      "keyword": "回购",
+      "category": "市场",
+      "count": 2,
+      "sample_titles": [
+        "兆易创新：拟10亿-20亿元回购A股股份用于注销",
+        "下周央行公开市场将有18420亿元逆回购到期"
+      ]
+    },
+    {
       "keyword": "医药",
       "category": "板块",
       "count": 1,
@@ -64,14 +73,6 @@
       "count": 1,
       "sample_titles": [
         "价值判断：涨停板的投资机会和风险提示（7月31日）｜上市公司观察"
-      ]
-    },
-    {
-      "keyword": "回购",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "下周央行公开市场将有18420亿元逆回购到期"
       ]
     }
   ]
