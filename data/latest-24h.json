@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-02T04:04:46.258130Z",
+  "generated_at": "2026-08-02T07:07:29.730397Z",
   "window_hours": 24,
-  "total_items": 38,
-  "total_items_raw": 38,
-  "total_items_all_mode": 38,
-  "archive_total": 993,
+  "total_items": 37,
+  "total_items_raw": 37,
+  "total_items_all_mode": 37,
+  "archive_total": 984,
   "site_count": 2,
-  "source_count": 4,
+  "source_count": 5,
   "site_stats": [
     {
       "site_id": "36kr",
       "site_name": "36氪",
-      "count": 21
+      "count": 20
     },
     {
       "site_id": "tmtpost",
@@ -21,6 +21,126 @@
   ],
   "items": [
     {
+      "uid": "9a728560c72fd8c4",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "中国产品包揽全球大模型调用量前五",
+      "url": "https://36kr.com/newsflashes/3921989528432259?f=rss",
+      "published_at": "2026-08-02T06:14:03Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
+      "meta": {}
+    },
+    {
+      "uid": "bee8aaeafc977f12",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "新一代通信网建设加快，千兆光网覆盖超九成国民经济大类",
+      "url": "https://36kr.com/newsflashes/3921943840353668?f=rss",
+      "published_at": "2026-08-02T05:27:35Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
+      "meta": {}
+    },
+    {
+      "uid": "a4e3e9532d0119e3",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "全国首票保税仓库注册登记电子证照落地山东",
+      "url": "https://36kr.com/newsflashes/3921922007920004?f=rss",
+      "published_at": "2026-08-02T05:05:22Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
+      "meta": {}
+    },
+    {
+      "uid": "4e1dc0ce13407944",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "住房公积金缴存覆盖面扩大 灵活就业人员可自愿缴纳",
+      "url": "https://36kr.com/newsflashes/3921921311452807?f=rss",
+      "published_at": "2026-08-02T05:04:40Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
+      "meta": {}
+    },
+    {
+      "uid": "fb22ff3d403dc069",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "焦点",
+      "title": "全球语音大模型，角逐方向盘后的麦克风",
+      "url": "https://www.tmtpost.com/8088265.html",
+      "published_at": "2026-08-02T04:45:33Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
+      "meta": {}
+    },
+    {
+      "uid": "36691b2d0f24edbd",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "银河证券：Kimi K3正式开源重塑大模型商业生态，建议关注国产超节点及产业链相关公司",
+      "url": "https://36kr.com/newsflashes/3921888283848068?f=rss",
+      "published_at": "2026-08-02T04:31:04Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
+      "meta": {}
+    },
+    {
+      "uid": "3b8f9438f50e1565",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "钛媒体",
+      "title": "重庆上市公司价值重估：汽车与环保抬升上限，医药与传统产业分化加剧",
+      "url": "https://www.tmtpost.com/8088415.html",
+      "published_at": "2026-08-02T04:23:26Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
+      "meta": {}
+    },
+    {
+      "uid": "0af32a917db05784",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "钛媒体",
+      "title": "A股规模实力百强榜：谁构筑了资本市场的经营基本盘？",
+      "url": "https://www.tmtpost.com/8088411.html",
+      "published_at": "2026-08-02T04:22:03Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
+      "meta": {}
+    },
+    {
+      "uid": "88b02f42bb30a669",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "钛媒体",
+      "title": "价值判断：涨停板的投资机会和风险提示（7月31日）｜上市公司观察",
+      "url": "https://www.tmtpost.com/8088406.html",
+      "published_at": "2026-08-02T04:21:53Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
+      "meta": {}
+    },
+    {
+      "uid": "87f8868cf91fdecf",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "山东：力争3年内集聚万名人工智能OPC创新人才",
+      "url": "https://36kr.com/newsflashes/3921849987706240?f=rss",
+      "published_at": "2026-08-02T04:07:01Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
+      "meta": {}
+    },
+    {
       "uid": "1b31d9eade97cc4b",
       "site_id": "tmtpost",
       "site_name": "钛媒体",
@@ -28,8 +148,8 @@
       "title": "【数智周报】长鑫科技市值登顶A股；字节调整飞书、火山、豆包组织架构；Kimi K3开源上线即爆火",
       "url": "https://www.tmtpost.com/8081682.html",
       "published_at": "2026-08-02T03:53:53Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -40,8 +160,8 @@
       "title": "微信地震预警能力更新，地震预警小程序可反馈震感",
       "url": "https://36kr.com/newsflashes/3921848794164866?f=rss",
       "published_at": "2026-08-02T03:50:53Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -52,8 +172,8 @@
       "title": "长三角（嘉兴）Token运营中心正式启动",
       "url": "https://36kr.com/newsflashes/3921838043065736?f=rss",
       "published_at": "2026-08-02T03:39:57Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -64,8 +184,8 @@
       "title": "上半年全国二手房交易占比超新房",
       "url": "https://36kr.com/newsflashes/3921834901974659?f=rss",
       "published_at": "2026-08-02T03:36:46Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -76,8 +196,8 @@
       "title": "新势力7月洗牌：零跑独破10万，“蔚小理米”困在3万档",
       "url": "https://www.tmtpost.com/8088337.html",
       "published_at": "2026-08-02T02:43:43Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -88,8 +208,8 @@
       "title": "吉利汽车集团架构调整 林杰任销售总公司总经理",
       "url": "https://36kr.com/newsflashes/3921773406268802?f=rss",
       "published_at": "2026-08-02T02:34:12Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -100,8 +220,8 @@
       "title": "无锡：上半年新签约10亿元以上产业项目78个 签约金额1758.38亿元",
       "url": "https://36kr.com/newsflashes/3921713668566657?f=rss",
       "published_at": "2026-08-02T02:15:20Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -112,8 +232,8 @@
       "title": "小米多款手机今起正式涨价",
       "url": "https://36kr.com/newsflashes/3921712210898566?f=rss",
       "published_at": "2026-08-02T02:00:52Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -124,8 +244,8 @@
       "title": "电影《八仙！》票房突破11亿",
       "url": "https://36kr.com/newsflashes/3921707896565376?f=rss",
       "published_at": "2026-08-02T01:50:29Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -136,8 +256,8 @@
       "title": "信任资产：上市公司最容易被低估的市值底座",
       "url": "https://www.tmtpost.com/8088342.html",
       "published_at": "2026-08-02T01:45:18Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -148,8 +268,8 @@
       "title": "如果这不是公关：为什么请伯南克可能是Anthropic的最优解？",
       "url": "https://www.tmtpost.com/8088340.html",
       "published_at": "2026-08-02T01:45:03Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -160,8 +280,8 @@
       "title": "今年上半年北京“双枢纽”机场进出口超4000亿元",
       "url": "https://36kr.com/newsflashes/3921706031721861?f=rss",
       "published_at": "2026-08-02T01:39:35Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -172,8 +292,8 @@
       "title": "金风科技参建Ummbila Emoyeni一期风电项目实现商业运营",
       "url": "https://36kr.com/newsflashes/3921704795057793?f=rss",
       "published_at": "2026-08-02T01:31:19Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -184,8 +304,8 @@
       "title": "金富科技：公司液冷产能和订单销量实现同比、环比稳步攀升",
       "url": "https://36kr.com/newsflashes/3921703822273925?f=rss",
       "published_at": "2026-08-02T01:23:25Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -196,8 +316,8 @@
       "title": "上市以来中报首亏，卖火腿的莆田富商能靠“追光”逆袭吗？",
       "url": "https://www.tmtpost.com/8088238.html",
       "published_at": "2026-08-02T00:25:37Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -208,8 +328,8 @@
       "title": "Seedance2.5来了，字节能打败自己吗？",
       "url": "https://www.tmtpost.com/8088164.html",
       "published_at": "2026-08-02T00:25:32Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -220,8 +340,8 @@
       "title": "WorkBuddy给腾讯长脸了",
       "url": "https://www.tmtpost.com/8088161.html",
       "published_at": "2026-08-02T00:22:17Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -232,8 +352,8 @@
       "title": "这种工业副产品半年暴涨2倍多，上游利润翻倍，下游开工腰斩",
       "url": "https://www.tmtpost.com/8087536.html",
       "published_at": "2026-08-02T00:18:54Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -244,8 +364,8 @@
       "title": "Edge AI Daily 早报（8月2日）",
       "url": "https://www.tmtpost.com/8088267.html",
       "published_at": "2026-08-02T00:16:00Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -256,8 +376,8 @@
       "title": "AI大厂，打起了“Token奶茶大战”",
       "url": "https://www.tmtpost.com/8088011.html",
       "published_at": "2026-08-01T09:06:13Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -268,8 +388,8 @@
       "title": "数百万本书，被Claude“阅后即焚”",
       "url": "https://www.tmtpost.com/8088012.html",
       "published_at": "2026-08-01T08:41:40Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -280,8 +400,8 @@
       "title": "字节为什么一定要拆飞书？",
       "url": "https://www.tmtpost.com/8088001.html",
       "published_at": "2026-08-01T08:41:39Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -292,8 +412,8 @@
       "title": "蔡崇信这场离婚，没瓜可吃才是最该看懂的事",
       "url": "https://www.tmtpost.com/8088043.html",
       "published_at": "2026-08-01T08:33:01Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -304,56 +424,8 @@
       "title": "金山办公WPS存储管理新版本上线",
       "url": "https://36kr.com/newsflashes/3920632482491776?f=rss",
       "published_at": "2026-08-01T08:30:26Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
-      "meta": {}
-    },
-    {
-      "uid": "4a6cc436832bb1cb",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "投稿",
-      "title": "一群富豪的牛津梦，标价108万",
-      "url": "https://www.tmtpost.com/8087957.html",
-      "published_at": "2026-08-01T08:19:52Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
-      "meta": {}
-    },
-    {
-      "uid": "2275995803ec53b5",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "“榨”出硅的极限：怎么让GPU不“闲着”？",
-      "url": "https://www.tmtpost.com/8088046.html",
-      "published_at": "2026-08-01T08:19:49Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
-      "meta": {}
-    },
-    {
-      "uid": "fc1ca4999e1d4a8f",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "自研大模型的马斯克，把豆包装进了特斯拉",
-      "url": "https://www.tmtpost.com/8087804.html",
-      "published_at": "2026-08-01T08:19:41Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
-      "meta": {}
-    },
-    {
-      "uid": "218470119e90663a",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "车型越多，死得越快？全球车企正在抛弃车海战术",
-      "url": "https://www.tmtpost.com/8087383.html",
-      "published_at": "2026-08-01T08:19:35Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -364,8 +436,8 @@
       "title": "长三角多地发放结婚消费券",
       "url": "https://36kr.com/newsflashes/3920617407196549?f=rss",
       "published_at": "2026-08-01T08:15:09Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -376,8 +448,8 @@
       "title": "印度央行：印度引资举措吸引超400亿美元外资",
       "url": "https://36kr.com/newsflashes/3920583946186368?f=rss",
       "published_at": "2026-08-01T08:00:06Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -388,97 +460,133 @@
       "title": "美中贸委会会长：美国企业重视中国市场和对华合作",
       "url": "https://36kr.com/newsflashes/3920583526526343?f=rss",
       "published_at": "2026-08-01T07:45:40Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
-      "meta": {}
-    },
-    {
-      "uid": "8c4d9a970a1d1a75",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "部分美国企业换上中国大模型以降低成本",
-      "url": "https://36kr.com/newsflashes/3920583026929281?f=rss",
-      "published_at": "2026-08-01T07:30:11Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
-      "meta": {}
-    },
-    {
-      "uid": "f58e18561213feb0",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "充电桩CCC认证自8月1日起开始强制实施",
-      "url": "https://36kr.com/newsflashes/3920582349974916?f=rss",
-      "published_at": "2026-08-01T07:15:29Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
-      "meta": {}
-    },
-    {
-      "uid": "11a4995cb0730e66",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "国际足联放弃“出售世界杯部分股权”计划，亚足联主席发声",
-      "url": "https://36kr.com/newsflashes/3920581725924742?f=rss",
-      "published_at": "2026-08-01T07:00:51Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
-      "meta": {}
-    },
-    {
-      "uid": "a429abebf0d8ccaa",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "岚图汽车：7月交付13189辆新车",
-      "url": "https://36kr.com/newsflashes/3920478712442503?f=rss",
-      "published_at": "2026-08-01T06:42:05Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
-      "meta": {}
-    },
-    {
-      "uid": "668e332f56df1f87",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "三天、十八场对谈、一个问题：ChinaJoy还只是游戏展吗？",
-      "url": "https://36kr.com/p/3920595518533250?f=rss",
-      "published_at": "2026-08-01T06:37:32Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
-      "meta": {}
-    },
-    {
-      "uid": "1f6f870b294dd293",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "吉尔吉斯斯坦与阿塞拜疆签署同盟关系条约",
-      "url": "https://36kr.com/newsflashes/3920436488678789?f=rss",
-      "published_at": "2026-08-01T06:30:05Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
-      "meta": {}
-    },
-    {
-      "uid": "73a788181434fa8e",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "浙江实施人工智能OPC术语团体标准：由1名核心自然人主导",
-      "url": "https://36kr.com/newsflashes/3920435807923841?f=rss",
-      "published_at": "2026-08-01T06:15:22Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     }
   ],
   "items_all": [
     {
+      "uid": "9a728560c72fd8c4",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "中国产品包揽全球大模型调用量前五",
+      "url": "https://36kr.com/newsflashes/3921989528432259?f=rss",
+      "published_at": "2026-08-02T06:14:03Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
+      "meta": {}
+    },
+    {
+      "uid": "bee8aaeafc977f12",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "新一代通信网建设加快，千兆光网覆盖超九成国民经济大类",
+      "url": "https://36kr.com/newsflashes/3921943840353668?f=rss",
+      "published_at": "2026-08-02T05:27:35Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
+      "meta": {}
+    },
+    {
+      "uid": "a4e3e9532d0119e3",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "全国首票保税仓库注册登记电子证照落地山东",
+      "url": "https://36kr.com/newsflashes/3921922007920004?f=rss",
+      "published_at": "2026-08-02T05:05:22Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
+      "meta": {}
+    },
+    {
+      "uid": "4e1dc0ce13407944",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "住房公积金缴存覆盖面扩大 灵活就业人员可自愿缴纳",
+      "url": "https://36kr.com/newsflashes/3921921311452807?f=rss",
+      "published_at": "2026-08-02T05:04:40Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
+      "meta": {}
+    },
+    {
+      "uid": "fb22ff3d403dc069",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "焦点",
+      "title": "全球语音大模型，角逐方向盘后的麦克风",
+      "url": "https://www.tmtpost.com/8088265.html",
+      "published_at": "2026-08-02T04:45:33Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
+      "meta": {}
+    },
+    {
+      "uid": "36691b2d0f24edbd",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "银河证券：Kimi K3正式开源重塑大模型商业生态，建议关注国产超节点及产业链相关公司",
+      "url": "https://36kr.com/newsflashes/3921888283848068?f=rss",
+      "published_at": "2026-08-02T04:31:04Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
+      "meta": {}
+    },
+    {
+      "uid": "3b8f9438f50e1565",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "钛媒体",
+      "title": "重庆上市公司价值重估：汽车与环保抬升上限，医药与传统产业分化加剧",
+      "url": "https://www.tmtpost.com/8088415.html",
+      "published_at": "2026-08-02T04:23:26Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
+      "meta": {}
+    },
+    {
+      "uid": "0af32a917db05784",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "钛媒体",
+      "title": "A股规模实力百强榜：谁构筑了资本市场的经营基本盘？",
+      "url": "https://www.tmtpost.com/8088411.html",
+      "published_at": "2026-08-02T04:22:03Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
+      "meta": {}
+    },
+    {
+      "uid": "88b02f42bb30a669",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "钛媒体",
+      "title": "价值判断：涨停板的投资机会和风险提示（7月31日）｜上市公司观察",
+      "url": "https://www.tmtpost.com/8088406.html",
+      "published_at": "2026-08-02T04:21:53Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
+      "meta": {}
+    },
+    {
+      "uid": "87f8868cf91fdecf",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "山东：力争3年内集聚万名人工智能OPC创新人才",
+      "url": "https://36kr.com/newsflashes/3921849987706240?f=rss",
+      "published_at": "2026-08-02T04:07:01Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
+      "meta": {}
+    },
+    {
       "uid": "1b31d9eade97cc4b",
       "site_id": "tmtpost",
       "site_name": "钛媒体",
@@ -486,8 +594,8 @@
       "title": "【数智周报】长鑫科技市值登顶A股；字节调整飞书、火山、豆包组织架构；Kimi K3开源上线即爆火",
       "url": "https://www.tmtpost.com/8081682.html",
       "published_at": "2026-08-02T03:53:53Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -498,8 +606,8 @@
       "title": "微信地震预警能力更新，地震预警小程序可反馈震感",
       "url": "https://36kr.com/newsflashes/3921848794164866?f=rss",
       "published_at": "2026-08-02T03:50:53Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -510,8 +618,8 @@
       "title": "长三角（嘉兴）Token运营中心正式启动",
       "url": "https://36kr.com/newsflashes/3921838043065736?f=rss",
       "published_at": "2026-08-02T03:39:57Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -522,8 +630,8 @@
       "title": "上半年全国二手房交易占比超新房",
       "url": "https://36kr.com/newsflashes/3921834901974659?f=rss",
       "published_at": "2026-08-02T03:36:46Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -534,8 +642,8 @@
       "title": "新势力7月洗牌：零跑独破10万，“蔚小理米”困在3万档",
       "url": "https://www.tmtpost.com/8088337.html",
       "published_at": "2026-08-02T02:43:43Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -546,8 +654,8 @@
       "title": "吉利汽车集团架构调整 林杰任销售总公司总经理",
       "url": "https://36kr.com/newsflashes/3921773406268802?f=rss",
       "published_at": "2026-08-02T02:34:12Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -558,8 +666,8 @@
       "title": "无锡：上半年新签约10亿元以上产业项目78个 签约金额1758.38亿元",
       "url": "https://36kr.com/newsflashes/3921713668566657?f=rss",
       "published_at": "2026-08-02T02:15:20Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -570,8 +678,8 @@
       "title": "小米多款手机今起正式涨价",
       "url": "https://36kr.com/newsflashes/3921712210898566?f=rss",
       "published_at": "2026-08-02T02:00:52Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -582,8 +690,8 @@
       "title": "电影《八仙！》票房突破11亿",
       "url": "https://36kr.com/newsflashes/3921707896565376?f=rss",
       "published_at": "2026-08-02T01:50:29Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -594,8 +702,8 @@
       "title": "信任资产：上市公司最容易被低估的市值底座",
       "url": "https://www.tmtpost.com/8088342.html",
       "published_at": "2026-08-02T01:45:18Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -606,8 +714,8 @@
       "title": "如果这不是公关：为什么请伯南克可能是Anthropic的最优解？",
       "url": "https://www.tmtpost.com/8088340.html",
       "published_at": "2026-08-02T01:45:03Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -618,8 +726,8 @@
       "title": "今年上半年北京“双枢纽”机场进出口超4000亿元",
       "url": "https://36kr.com/newsflashes/3921706031721861?f=rss",
       "published_at": "2026-08-02T01:39:35Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -630,8 +738,8 @@
       "title": "金风科技参建Ummbila Emoyeni一期风电项目实现商业运营",
       "url": "https://36kr.com/newsflashes/3921704795057793?f=rss",
       "published_at": "2026-08-02T01:31:19Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -642,8 +750,8 @@
       "title": "金富科技：公司液冷产能和订单销量实现同比、环比稳步攀升",
       "url": "https://36kr.com/newsflashes/3921703822273925?f=rss",
       "published_at": "2026-08-02T01:23:25Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -654,8 +762,8 @@
       "title": "上市以来中报首亏，卖火腿的莆田富商能靠“追光”逆袭吗？",
       "url": "https://www.tmtpost.com/8088238.html",
       "published_at": "2026-08-02T00:25:37Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -666,8 +774,8 @@
       "title": "Seedance2.5来了，字节能打败自己吗？",
       "url": "https://www.tmtpost.com/8088164.html",
       "published_at": "2026-08-02T00:25:32Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -678,8 +786,8 @@
       "title": "WorkBuddy给腾讯长脸了",
       "url": "https://www.tmtpost.com/8088161.html",
       "published_at": "2026-08-02T00:22:17Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -690,8 +798,8 @@
       "title": "这种工业副产品半年暴涨2倍多，上游利润翻倍，下游开工腰斩",
       "url": "https://www.tmtpost.com/8087536.html",
       "published_at": "2026-08-02T00:18:54Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -702,8 +810,8 @@
       "title": "Edge AI Daily 早报（8月2日）",
       "url": "https://www.tmtpost.com/8088267.html",
       "published_at": "2026-08-02T00:16:00Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -714,8 +822,8 @@
       "title": "AI大厂，打起了“Token奶茶大战”",
       "url": "https://www.tmtpost.com/8088011.html",
       "published_at": "2026-08-01T09:06:13Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -726,8 +834,8 @@
       "title": "数百万本书，被Claude“阅后即焚”",
       "url": "https://www.tmtpost.com/8088012.html",
       "published_at": "2026-08-01T08:41:40Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -738,8 +846,8 @@
       "title": "字节为什么一定要拆飞书？",
       "url": "https://www.tmtpost.com/8088001.html",
       "published_at": "2026-08-01T08:41:39Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -750,8 +858,8 @@
       "title": "蔡崇信这场离婚，没瓜可吃才是最该看懂的事",
       "url": "https://www.tmtpost.com/8088043.html",
       "published_at": "2026-08-01T08:33:01Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -762,56 +870,8 @@
       "title": "金山办公WPS存储管理新版本上线",
       "url": "https://36kr.com/newsflashes/3920632482491776?f=rss",
       "published_at": "2026-08-01T08:30:26Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
-      "meta": {}
-    },
-    {
-      "uid": "4a6cc436832bb1cb",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "投稿",
-      "title": "一群富豪的牛津梦，标价108万",
-      "url": "https://www.tmtpost.com/8087957.html",
-      "published_at": "2026-08-01T08:19:52Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
-      "meta": {}
-    },
-    {
-      "uid": "2275995803ec53b5",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "“榨”出硅的极限：怎么让GPU不“闲着”？",
-      "url": "https://www.tmtpost.com/8088046.html",
-      "published_at": "2026-08-01T08:19:49Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
-      "meta": {}
-    },
-    {
-      "uid": "fc1ca4999e1d4a8f",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "自研大模型的马斯克，把豆包装进了特斯拉",
-      "url": "https://www.tmtpost.com/8087804.html",
-      "published_at": "2026-08-01T08:19:41Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
-      "meta": {}
-    },
-    {
-      "uid": "218470119e90663a",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "车型越多，死得越快？全球车企正在抛弃车海战术",
-      "url": "https://www.tmtpost.com/8087383.html",
-      "published_at": "2026-08-01T08:19:35Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -822,8 +882,8 @@
       "title": "长三角多地发放结婚消费券",
       "url": "https://36kr.com/newsflashes/3920617407196549?f=rss",
       "published_at": "2026-08-01T08:15:09Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -834,8 +894,8 @@
       "title": "印度央行：印度引资举措吸引超400亿美元外资",
       "url": "https://36kr.com/newsflashes/3920583946186368?f=rss",
       "published_at": "2026-08-01T08:00:06Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -846,97 +906,133 @@
       "title": "美中贸委会会长：美国企业重视中国市场和对华合作",
       "url": "https://36kr.com/newsflashes/3920583526526343?f=rss",
       "published_at": "2026-08-01T07:45:40Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
-      "meta": {}
-    },
-    {
-      "uid": "8c4d9a970a1d1a75",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "部分美国企业换上中国大模型以降低成本",
-      "url": "https://36kr.com/newsflashes/3920583026929281?f=rss",
-      "published_at": "2026-08-01T07:30:11Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
-      "meta": {}
-    },
-    {
-      "uid": "f58e18561213feb0",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "充电桩CCC认证自8月1日起开始强制实施",
-      "url": "https://36kr.com/newsflashes/3920582349974916?f=rss",
-      "published_at": "2026-08-01T07:15:29Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
-      "meta": {}
-    },
-    {
-      "uid": "11a4995cb0730e66",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "国际足联放弃“出售世界杯部分股权”计划，亚足联主席发声",
-      "url": "https://36kr.com/newsflashes/3920581725924742?f=rss",
-      "published_at": "2026-08-01T07:00:51Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
-      "meta": {}
-    },
-    {
-      "uid": "a429abebf0d8ccaa",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "岚图汽车：7月交付13189辆新车",
-      "url": "https://36kr.com/newsflashes/3920478712442503?f=rss",
-      "published_at": "2026-08-01T06:42:05Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
-      "meta": {}
-    },
-    {
-      "uid": "668e332f56df1f87",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "三天、十八场对谈、一个问题：ChinaJoy还只是游戏展吗？",
-      "url": "https://36kr.com/p/3920595518533250?f=rss",
-      "published_at": "2026-08-01T06:37:32Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
-      "meta": {}
-    },
-    {
-      "uid": "1f6f870b294dd293",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "吉尔吉斯斯坦与阿塞拜疆签署同盟关系条约",
-      "url": "https://36kr.com/newsflashes/3920436488678789?f=rss",
-      "published_at": "2026-08-01T06:30:05Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
-      "meta": {}
-    },
-    {
-      "uid": "73a788181434fa8e",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "浙江实施人工智能OPC术语团体标准：由1名核心自然人主导",
-      "url": "https://36kr.com/newsflashes/3920435807923841?f=rss",
-      "published_at": "2026-08-01T06:15:22Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     }
   ],
   "items_all_raw": [
     {
+      "uid": "9a728560c72fd8c4",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "中国产品包揽全球大模型调用量前五",
+      "url": "https://36kr.com/newsflashes/3921989528432259?f=rss",
+      "published_at": "2026-08-02T06:14:03Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
+      "meta": {}
+    },
+    {
+      "uid": "bee8aaeafc977f12",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "新一代通信网建设加快，千兆光网覆盖超九成国民经济大类",
+      "url": "https://36kr.com/newsflashes/3921943840353668?f=rss",
+      "published_at": "2026-08-02T05:27:35Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
+      "meta": {}
+    },
+    {
+      "uid": "a4e3e9532d0119e3",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "全国首票保税仓库注册登记电子证照落地山东",
+      "url": "https://36kr.com/newsflashes/3921922007920004?f=rss",
+      "published_at": "2026-08-02T05:05:22Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
+      "meta": {}
+    },
+    {
+      "uid": "4e1dc0ce13407944",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "住房公积金缴存覆盖面扩大 灵活就业人员可自愿缴纳",
+      "url": "https://36kr.com/newsflashes/3921921311452807?f=rss",
+      "published_at": "2026-08-02T05:04:40Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
+      "meta": {}
+    },
+    {
+      "uid": "fb22ff3d403dc069",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "焦点",
+      "title": "全球语音大模型，角逐方向盘后的麦克风",
+      "url": "https://www.tmtpost.com/8088265.html",
+      "published_at": "2026-08-02T04:45:33Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
+      "meta": {}
+    },
+    {
+      "uid": "36691b2d0f24edbd",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "银河证券：Kimi K3正式开源重塑大模型商业生态，建议关注国产超节点及产业链相关公司",
+      "url": "https://36kr.com/newsflashes/3921888283848068?f=rss",
+      "published_at": "2026-08-02T04:31:04Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
+      "meta": {}
+    },
+    {
+      "uid": "3b8f9438f50e1565",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "钛媒体",
+      "title": "重庆上市公司价值重估：汽车与环保抬升上限，医药与传统产业分化加剧",
+      "url": "https://www.tmtpost.com/8088415.html",
+      "published_at": "2026-08-02T04:23:26Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
+      "meta": {}
+    },
+    {
+      "uid": "0af32a917db05784",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "钛媒体",
+      "title": "A股规模实力百强榜：谁构筑了资本市场的经营基本盘？",
+      "url": "https://www.tmtpost.com/8088411.html",
+      "published_at": "2026-08-02T04:22:03Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
+      "meta": {}
+    },
+    {
+      "uid": "88b02f42bb30a669",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "钛媒体",
+      "title": "价值判断：涨停板的投资机会和风险提示（7月31日）｜上市公司观察",
+      "url": "https://www.tmtpost.com/8088406.html",
+      "published_at": "2026-08-02T04:21:53Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
+      "meta": {}
+    },
+    {
+      "uid": "87f8868cf91fdecf",
+      "site_id": "36kr",
+      "site_name": "36氪",
+      "source": "36氪",
+      "title": "山东：力争3年内集聚万名人工智能OPC创新人才",
+      "url": "https://36kr.com/newsflashes/3921849987706240?f=rss",
+      "published_at": "2026-08-02T04:07:01Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
+      "meta": {}
+    },
+    {
       "uid": "1b31d9eade97cc4b",
       "site_id": "tmtpost",
       "site_name": "钛媒体",
@@ -944,8 +1040,8 @@
       "title": "【数智周报】长鑫科技市值登顶A股；字节调整飞书、火山、豆包组织架构；Kimi K3开源上线即爆火",
       "url": "https://www.tmtpost.com/8081682.html",
       "published_at": "2026-08-02T03:53:53Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -956,8 +1052,8 @@
       "title": "微信地震预警能力更新，地震预警小程序可反馈震感",
       "url": "https://36kr.com/newsflashes/3921848794164866?f=rss",
       "published_at": "2026-08-02T03:50:53Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -968,8 +1064,8 @@
       "title": "长三角（嘉兴）Token运营中心正式启动",
       "url": "https://36kr.com/newsflashes/3921838043065736?f=rss",
       "published_at": "2026-08-02T03:39:57Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -980,8 +1076,8 @@
       "title": "上半年全国二手房交易占比超新房",
       "url": "https://36kr.com/newsflashes/3921834901974659?f=rss",
       "published_at": "2026-08-02T03:36:46Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -992,8 +1088,8 @@
       "title": "新势力7月洗牌：零跑独破10万，“蔚小理米”困在3万档",
       "url": "https://www.tmtpost.com/8088337.html",
       "published_at": "2026-08-02T02:43:43Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -1004,8 +1100,8 @@
       "title": "吉利汽车集团架构调整 林杰任销售总公司总经理",
       "url": "https://36kr.com/newsflashes/3921773406268802?f=rss",
       "published_at": "2026-08-02T02:34:12Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -1016,8 +1112,8 @@
       "title": "无锡：上半年新签约10亿元以上产业项目78个 签约金额1758.38亿元",
       "url": "https://36kr.com/newsflashes/3921713668566657?f=rss",
       "published_at": "2026-08-02T02:15:20Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -1028,8 +1124,8 @@
       "title": "小米多款手机今起正式涨价",
       "url": "https://36kr.com/newsflashes/3921712210898566?f=rss",
       "published_at": "2026-08-02T02:00:52Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -1040,8 +1136,8 @@
       "title": "电影《八仙！》票房突破11亿",
       "url": "https://36kr.com/newsflashes/3921707896565376?f=rss",
       "published_at": "2026-08-02T01:50:29Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -1052,8 +1148,8 @@
       "title": "信任资产：上市公司最容易被低估的市值底座",
       "url": "https://www.tmtpost.com/8088342.html",
       "published_at": "2026-08-02T01:45:18Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -1064,8 +1160,8 @@
       "title": "如果这不是公关：为什么请伯南克可能是Anthropic的最优解？",
       "url": "https://www.tmtpost.com/8088340.html",
       "published_at": "2026-08-02T01:45:03Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -1076,8 +1172,8 @@
       "title": "今年上半年北京“双枢纽”机场进出口超4000亿元",
       "url": "https://36kr.com/newsflashes/3921706031721861?f=rss",
       "published_at": "2026-08-02T01:39:35Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -1088,8 +1184,8 @@
       "title": "金风科技参建Ummbila Emoyeni一期风电项目实现商业运营",
       "url": "https://36kr.com/newsflashes/3921704795057793?f=rss",
       "published_at": "2026-08-02T01:31:19Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -1100,8 +1196,8 @@
       "title": "金富科技：公司液冷产能和订单销量实现同比、环比稳步攀升",
       "url": "https://36kr.com/newsflashes/3921703822273925?f=rss",
       "published_at": "2026-08-02T01:23:25Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -1112,8 +1208,8 @@
       "title": "上市以来中报首亏，卖火腿的莆田富商能靠“追光”逆袭吗？",
       "url": "https://www.tmtpost.com/8088238.html",
       "published_at": "2026-08-02T00:25:37Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -1124,8 +1220,8 @@
       "title": "Seedance2.5来了，字节能打败自己吗？",
       "url": "https://www.tmtpost.com/8088164.html",
       "published_at": "2026-08-02T00:25:32Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -1136,8 +1232,8 @@
       "title": "WorkBuddy给腾讯长脸了",
       "url": "https://www.tmtpost.com/8088161.html",
       "published_at": "2026-08-02T00:22:17Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -1148,8 +1244,8 @@
       "title": "这种工业副产品半年暴涨2倍多，上游利润翻倍，下游开工腰斩",
       "url": "https://www.tmtpost.com/8087536.html",
       "published_at": "2026-08-02T00:18:54Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -1160,8 +1256,8 @@
       "title": "Edge AI Daily 早报（8月2日）",
       "url": "https://www.tmtpost.com/8088267.html",
       "published_at": "2026-08-02T00:16:00Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -1172,8 +1268,8 @@
       "title": "AI大厂，打起了“Token奶茶大战”",
       "url": "https://www.tmtpost.com/8088011.html",
       "published_at": "2026-08-01T09:06:13Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -1184,8 +1280,8 @@
       "title": "数百万本书，被Claude“阅后即焚”",
       "url": "https://www.tmtpost.com/8088012.html",
       "published_at": "2026-08-01T08:41:40Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -1196,8 +1292,8 @@
       "title": "字节为什么一定要拆飞书？",
       "url": "https://www.tmtpost.com/8088001.html",
       "published_at": "2026-08-01T08:41:39Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -1208,8 +1304,8 @@
       "title": "蔡崇信这场离婚，没瓜可吃才是最该看懂的事",
       "url": "https://www.tmtpost.com/8088043.html",
       "published_at": "2026-08-01T08:33:01Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -1220,56 +1316,8 @@
       "title": "金山办公WPS存储管理新版本上线",
       "url": "https://36kr.com/newsflashes/3920632482491776?f=rss",
       "published_at": "2026-08-01T08:30:26Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
-      "meta": {}
-    },
-    {
-      "uid": "4a6cc436832bb1cb",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "投稿",
-      "title": "一群富豪的牛津梦，标价108万",
-      "url": "https://www.tmtpost.com/8087957.html",
-      "published_at": "2026-08-01T08:19:52Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
-      "meta": {}
-    },
-    {
-      "uid": "2275995803ec53b5",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "“榨”出硅的极限：怎么让GPU不“闲着”？",
-      "url": "https://www.tmtpost.com/8088046.html",
-      "published_at": "2026-08-01T08:19:49Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
-      "meta": {}
-    },
-    {
-      "uid": "fc1ca4999e1d4a8f",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "自研大模型的马斯克，把豆包装进了特斯拉",
-      "url": "https://www.tmtpost.com/8087804.html",
-      "published_at": "2026-08-01T08:19:41Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
-      "meta": {}
-    },
-    {
-      "uid": "218470119e90663a",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "钛媒体",
-      "title": "车型越多，死得越快？全球车企正在抛弃车海战术",
-      "url": "https://www.tmtpost.com/8087383.html",
-      "published_at": "2026-08-01T08:19:35Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -1280,8 +1328,8 @@
       "title": "长三角多地发放结婚消费券",
       "url": "https://36kr.com/newsflashes/3920617407196549?f=rss",
       "published_at": "2026-08-01T08:15:09Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -1292,8 +1340,8 @@
       "title": "印度央行：印度引资举措吸引超400亿美元外资",
       "url": "https://36kr.com/newsflashes/3920583946186368?f=rss",
       "published_at": "2026-08-01T08:00:06Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     },
     {
@@ -1304,92 +1352,8 @@
       "title": "美中贸委会会长：美国企业重视中国市场和对华合作",
       "url": "https://36kr.com/newsflashes/3920583526526343?f=rss",
       "published_at": "2026-08-01T07:45:40Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
-      "meta": {}
-    },
-    {
-      "uid": "8c4d9a970a1d1a75",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "部分美国企业换上中国大模型以降低成本",
-      "url": "https://36kr.com/newsflashes/3920583026929281?f=rss",
-      "published_at": "2026-08-01T07:30:11Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
-      "meta": {}
-    },
-    {
-      "uid": "f58e18561213feb0",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "充电桩CCC认证自8月1日起开始强制实施",
-      "url": "https://36kr.com/newsflashes/3920582349974916?f=rss",
-      "published_at": "2026-08-01T07:15:29Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
-      "meta": {}
-    },
-    {
-      "uid": "11a4995cb0730e66",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "国际足联放弃“出售世界杯部分股权”计划，亚足联主席发声",
-      "url": "https://36kr.com/newsflashes/3920581725924742?f=rss",
-      "published_at": "2026-08-01T07:00:51Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
-      "meta": {}
-    },
-    {
-      "uid": "a429abebf0d8ccaa",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "岚图汽车：7月交付13189辆新车",
-      "url": "https://36kr.com/newsflashes/3920478712442503?f=rss",
-      "published_at": "2026-08-01T06:42:05Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
-      "meta": {}
-    },
-    {
-      "uid": "668e332f56df1f87",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "三天、十八场对谈、一个问题：ChinaJoy还只是游戏展吗？",
-      "url": "https://36kr.com/p/3920595518533250?f=rss",
-      "published_at": "2026-08-01T06:37:32Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
-      "meta": {}
-    },
-    {
-      "uid": "1f6f870b294dd293",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "吉尔吉斯斯坦与阿塞拜疆签署同盟关系条约",
-      "url": "https://36kr.com/newsflashes/3920436488678789?f=rss",
-      "published_at": "2026-08-01T06:30:05Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
-      "meta": {}
-    },
-    {
-      "uid": "73a788181434fa8e",
-      "site_id": "36kr",
-      "site_name": "36氪",
-      "source": "36氪",
-      "title": "浙江实施人工智能OPC术语团体标准：由1名核心自然人主导",
-      "url": "https://36kr.com/newsflashes/3920435807923841?f=rss",
-      "published_at": "2026-08-01T06:15:22Z",
-      "first_seen_at": "2026-08-02T04:04:46.258130Z",
-      "last_seen_at": "2026-08-02T04:04:46.258130Z",
+      "first_seen_at": "2026-08-02T07:07:29.730397Z",
+      "last_seen_at": "2026-08-02T07:07:29.730397Z",
       "meta": {}
     }
   ]
