@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-08-03T04:08:29.508699Z",
+  "generated_at": "2026-08-03T07:59:29.966871Z",
   "window_hours": 24,
-  "total_items_analyzed": 38,
+  "total_items_analyzed": 42,
   "hot_topics": [
     {
-      "keyword": "证监会",
-      "category": "宏观",
-      "count": 4,
+      "keyword": "机器人",
+      "category": "板块",
+      "count": 2,
       "sample_titles": [
-        "香港证监会主席黄天祐：港交所国债期货是离岸产品的重大突破",
-        "中国证监会与香港证监会联合公布深化两地市场务实合作与密切协同发展的新举措",
-        "中国证监会主席吴清：将和香港监管部门进一步加强监管协作"
+        "蚂蚁灵波确认融资传闻：将持续聚焦通用机器人大脑，加速产业落地",
+        "海联金汇等成立新公司，含智能机器人研发业务"
       ]
     },
     {
-      "keyword": "人工智能",
-      "category": "板块",
-      "count": 1,
+      "keyword": "IPO",
+      "category": "市场",
+      "count": 2,
       "sample_titles": [
-        "上海市新增11款已完成登记的生成式人工智能服务"
+        "月之暗面计划最早于本月内提交香港IPO申请",
+        "智元冲刺港股IPO，备战具身智能淘汰赛"
       ]
     },
     {
@@ -30,19 +30,27 @@
       ]
     },
     {
-      "keyword": "涨停",
+      "keyword": "跌停",
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "A股三大指数午间休盘集体下跌，融发核电涨停"
+        "A股三大指数集体收跌，兆易创新跌停"
       ]
     },
     {
-      "keyword": "恒指",
+      "keyword": "回购",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "大秦铁路：拟以4亿元至5亿元回购股份并注销"
+      ]
+    },
+    {
+      "keyword": "港股",
       "category": "港股",
       "count": 1,
       "sample_titles": [
-        "恒指午间休盘涨0.04%，阿里巴巴涨超6%"
+        "智元冲刺港股IPO，备战具身智能淘汰赛"
       ]
     }
   ]
