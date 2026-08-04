@@ -1,96 +1,55 @@
 {
-  "generated_at": "2026-08-04T03:18:29.625556Z",
+  "generated_at": "2026-08-04T06:11:56.912670Z",
   "window_hours": 24,
-  "total_items_analyzed": 49,
+  "total_items_analyzed": 46,
   "hot_topics": [
+    {
+      "keyword": "汽车",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "丰田汽车第一财季经营利润为1.06万亿日元，同比下降8.8%",
+        "汽车产业全球化进入新阶段，GNEV2026将共探合作新路径"
+      ]
+    },
+    {
+      "keyword": "芯片",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "城堡证券预计AI热潮下的芯片需求将掀起5000亿美元债务融资热潮"
+      ]
+    },
+    {
+      "keyword": "机器人",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "IDC：2025年中国外骨骼机器人市场规模超16亿元，出货量约2.6万台"
+      ]
+    },
+    {
+      "keyword": "银行",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "半日主力资金加仓电子板块，抛售银行板块"
+      ]
+    },
+    {
+      "keyword": "石油",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "英国石油公司第二季度调整后净利润57.3亿美元，高于市场预期"
+      ]
+    },
     {
       "keyword": "IPO",
       "category": "市场",
-      "count": 2,
-      "sample_titles": [
-        "港股7月IPO市场：超级IPO与破发潮并存，硬科技仍是主旋律",
-        "今年以来港股IPO数量同比增长132%，科技类公司占比过半"
-      ]
-    },
-    {
-      "keyword": "港股",
-      "category": "港股",
-      "count": 2,
-      "sample_titles": [
-        "港股7月IPO市场：超级IPO与破发潮并存，硬科技仍是主旋律",
-        "今年以来港股IPO数量同比增长132%，科技类公司占比过半"
-      ]
-    },
-    {
-      "keyword": "新能源",
-      "category": "板块",
       "count": 1,
       "sample_titles": [
-        "利用率90%左右，新能源发展重心转向消纳"
-      ]
-    },
-    {
-      "keyword": "光伏",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "工业和信息化部召开光伏行业座谈会，进一步解读宣贯光伏组件强制性国家标准"
-      ]
-    },
-    {
-      "keyword": "券商",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "中证协启动2026年券商投行业务三项质量评价，评价结果对应差异化监管安排"
-      ]
-    },
-    {
-      "keyword": "涨停",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "1700亿投资砸向核电，中国核建、江苏神通接连涨停，八台新机组，使核电迎来量价齐升新拐点"
-      ]
-    },
-    {
-      "keyword": "连板",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "九连板“妖股”停牌核查，地板巨头想靠存储翻身？"
-      ]
-    },
-    {
-      "keyword": "回购",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "央行今日开展465亿元7天期逆回购操作"
-      ]
-    },
-    {
-      "keyword": "恒指",
-      "category": "港股",
-      "count": 1,
-      "sample_titles": [
-        "恒指开盘涨0.31%，恒生科技指数涨0.3%"
-      ]
-    },
-    {
-      "keyword": "恒生科技",
-      "category": "港股",
-      "count": 1,
-      "sample_titles": [
-        "恒指开盘涨0.31%，恒生科技指数涨0.3%"
-      ]
-    },
-    {
-      "keyword": "央行",
-      "category": "宏观",
-      "count": 1,
-      "sample_titles": [
-        "央行今日开展465亿元7天期逆回购操作"
+        "嘉立创IPO：950万工程师生态背后，硬件创新基础设施的长期价值重估"
       ]
     }
   ]
