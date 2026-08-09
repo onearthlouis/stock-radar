@@ -1,22 +1,39 @@
 {
-  "generated_at": "2026-08-09T22:38:09.621989Z",
+  "generated_at": "2026-08-09T23:38:03.406308Z",
   "window_hours": 24,
   "total_items_analyzed": 20,
   "hot_topics": [
+    {
+      "keyword": "消费",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "【钛晨报】7月物价温和运行：CPI同比上涨0.5%，AI消费电子成新兴涨价动能；原字节跳动机器人一号位加入小米；苹果被曝正在测试长鑫科技存储芯片，用于iPhone和MacBoo",
+        "2026香港吴声年度演讲：下一代消费者，身体感、创造欲、信息祛魅"
+      ]
+    },
+    {
+      "keyword": "芯片",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "【钛晨报】7月物价温和运行：CPI同比上涨0.5%，AI消费电子成新兴涨价动能；原字节跳动机器人一号位加入小米；苹果被曝正在测试长鑫科技存储芯片，用于iPhone和MacBoo"
+      ]
+    },
+    {
+      "keyword": "机器人",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "【钛晨报】7月物价温和运行：CPI同比上涨0.5%，AI消费电子成新兴涨价动能；原字节跳动机器人一号位加入小米；苹果被曝正在测试长鑫科技存储芯片，用于iPhone和MacBoo"
+      ]
+    },
     {
       "keyword": "医药",
       "category": "板块",
       "count": 1,
       "sample_titles": [
         "工厂待建，销售借力先声与济川，普祺医药再战港股IPO"
-      ]
-    },
-    {
-      "keyword": "消费",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "2026香港吴声年度演讲：下一代消费者，身体感、创造欲、信息祛魅"
       ]
     },
     {
@@ -41,6 +58,14 @@
       "count": 1,
       "sample_titles": [
         "工厂待建，销售借力先声与济川，普祺医药再战港股IPO"
+      ]
+    },
+    {
+      "keyword": "CPI",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "【钛晨报】7月物价温和运行：CPI同比上涨0.5%，AI消费电子成新兴涨价动能；原字节跳动机器人一号位加入小米；苹果被曝正在测试长鑫科技存储芯片，用于iPhone和MacBoo"
       ]
     }
   ]
