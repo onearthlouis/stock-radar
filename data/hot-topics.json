@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-08-15T23:48:35.078274Z",
+  "generated_at": "2026-08-16T01:45:09.528544Z",
   "window_hours": 24,
   "total_items_analyzed": 19,
   "hot_topics": [
+    {
+      "keyword": "IPO",
+      "category": "市场",
+      "count": 2,
+      "sample_titles": [
+        "史上最大 IPO 倒计时：五岁 Anthropic， 2 万亿美元凭什么？",
+        "营收飙升 14 倍，Anthropic 冲刺 2 万亿美元 IPO，但估值泡沫隐现"
+      ]
+    },
     {
       "keyword": "机器人",
       "category": "板块",
@@ -17,38 +26,6 @@
       "count": 1,
       "sample_titles": [
         "医保局的转身：当13亿人的数据开始给银行当凭证"
-      ]
-    },
-    {
-      "keyword": "保险",
-      "category": "板块",
-      "count": 1,
-      "sample_titles": [
-        "20%入股内地保险中介，“小超人”李泽楷背后的资本帝国"
-      ]
-    },
-    {
-      "keyword": "涨停",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "价值判断：涨停板的投资机会和风险提示（8月14日）｜上市公司观察"
-      ]
-    },
-    {
-      "keyword": "跌停",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "价值判断：跌停板的投资机会和风险提示（8月14日）｜上市公司观察"
-      ]
-    },
-    {
-      "keyword": "IPO",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "营收飙升 14 倍，Anthropic 冲刺 2 万亿美元 IPO，但估值泡沫隐现"
       ]
     }
   ]
