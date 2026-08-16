@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T20:28:54.598374Z",
+  "generated_at": "2026-08-16T20:52:17.477160Z",
   "sites": [
     {
       "site_id": "wallstreetcn",
@@ -20,6 +20,12 @@
       "item_count": 0
     },
     {
+      "site_id": "cls",
+      "site_name": "财联社",
+      "ok": true,
+      "item_count": 0
+    },
+    {
       "site_id": "jiemian",
       "site_name": "界面新闻",
       "ok": false,
@@ -32,12 +38,6 @@
       "ok": false,
       "item_count": 0,
       "error": "404 Client Error: Not Found for url: https://www.cs.com.cn/rss/rss.xml"
-    },
-    {
-      "site_id": "cls",
-      "site_name": "财联社",
-      "ok": true,
-      "item_count": 0
     },
     {
       "site_id": "stcn",
