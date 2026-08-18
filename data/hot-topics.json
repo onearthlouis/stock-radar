@@ -1,17 +1,8 @@
 {
-  "generated_at": "2026-08-18T07:45:24.585910Z",
+  "generated_at": "2026-08-18T08:44:42.998291Z",
   "window_hours": 24,
-  "total_items_analyzed": 20,
+  "total_items_analyzed": 15,
   "hot_topics": [
-    {
-      "keyword": "IPO",
-      "category": "市场",
-      "count": 2,
-      "sample_titles": [
-        "OpenAI IPO前夕：400 亿营收、8520 亿估值，与一场高管离职潮",
-        "从“像人”到“超人”，IPO前夜宇树悄然变化的传播策略"
-      ]
-    },
     {
       "keyword": "消费",
       "category": "板块",
@@ -21,11 +12,19 @@
       ]
     },
     {
-      "keyword": "减持",
+      "keyword": "银行",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "银行风控逻辑开始\"看Token不看砖头\"了"
+      ]
+    },
+    {
+      "keyword": "IPO",
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "磷酸铁锂龙头湖南裕能最新赴港递表，比亚迪和宁德时代此前双双减持，业绩已缩水八成"
+        "OpenAI IPO前夕：400 亿营收、8520 亿估值，与一场高管离职潮"
       ]
     }
   ]
