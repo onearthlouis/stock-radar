@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T18:01:17.131328Z",
+  "generated_at": "2026-08-30T21:25:41.726976Z",
   "sites": [
     {
       "site_id": "wallstreetcn",
@@ -14,37 +14,10 @@
       "item_count": 0
     },
     {
-      "site_id": "cls",
-      "site_name": "财联社",
-      "ok": true,
-      "item_count": 0
-    },
-    {
-      "site_id": "cs",
-      "site_name": "中国证券报",
-      "ok": false,
-      "item_count": 0,
-      "error": "404 Client Error: Not Found for url: https://www.cs.com.cn/rss/rss.xml"
-    },
-    {
-      "site_id": "jiemian",
-      "site_name": "界面新闻",
-      "ok": false,
-      "item_count": 0,
-      "error": "404 Client Error: Not Found for url: https://www.jiemian.com/rss/index.xml"
-    },
-    {
       "site_id": "36kr",
       "site_name": "36氪",
       "ok": true,
       "item_count": 0
-    },
-    {
-      "site_id": "stcn",
-      "site_name": "证券时报",
-      "ok": false,
-      "item_count": 0,
-      "error": "404 Client Error: Not Found for url: https://www.stcn.com/rss/index.xml"
     },
     {
       "site_id": "sina_finance",
@@ -54,10 +27,38 @@
       "error": "404 Client Error: Not Found for url: https://rss.sina.com.cn/news/fin_roll/01.xml"
     },
     {
+      "site_id": "jiemian",
+      "site_name": "界面新闻",
+      "ok": false,
+      "item_count": 0,
+      "error": "404 Client Error: Not Found for url: https://www.jiemian.com/rss/index.xml"
+    },
+    {
+      "site_id": "stcn",
+      "site_name": "证券时报",
+      "ok": false,
+      "item_count": 0,
+      "error": "404 Client Error: Not Found for url: https://www.stcn.com/rss/index.xml"
+    },
+    {
+      "site_id": "cs",
+      "site_name": "中国证券报",
+      "ok": false,
+      "item_count": 0,
+      "error": "404 Client Error: Not Found for url: https://www.cs.com.cn/rss/rss.xml"
+    },
+    {
       "site_id": "tmtpost",
       "site_name": "钛媒体",
       "ok": true,
       "item_count": 18
+    },
+    {
+      "site_id": "cls",
+      "site_name": "财联社",
+      "ok": false,
+      "item_count": 0,
+      "error": "HTTPSConnectionPool(host='www.cls.cn', port=443): Max retries exceeded with url: /v1/bullet/flow/list?app=CLS&os=web&sv=7.7.5 (Caused by NewConnectionError(\"HTTPSConnection(host='www.cls.cn', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
     },
     {
       "site_id": "huxiu",
@@ -67,12 +68,13 @@
       "error": "HTTPSConnectionPool(host='www.huxiu.com', port=443): Max retries exceeded with url: /rss/0.xml (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.huxiu.com', port=443): Read timed out. (read timeout=25)\"))"
     }
   ],
-  "successful_sites": 5,
+  "successful_sites": 4,
   "failed_sites": [
-    "cs",
+    "sina_finance",
     "jiemian",
     "stcn",
-    "sina_finance",
+    "cs",
+    "cls",
     "huxiu"
   ],
   "fetched_raw_items": 18
