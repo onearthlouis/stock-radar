@@ -1,15 +1,22 @@
 {
-  "generated_at": "2026-09-02T00:57:11.793683Z",
+  "generated_at": "2026-09-02T05:39:33.957547Z",
   "window_hours": 24,
-  "total_items_analyzed": 16,
+  "total_items_analyzed": 17,
   "hot_topics": [
     {
-      "keyword": "汽车",
+      "keyword": "芯片",
       "category": "板块",
-      "count": 2,
+      "count": 1,
       "sample_titles": [
-        "【钛晨报】引导汽车企业规范境外竞争行为，三部门发文；Anthropic同英伟达支持的Lambda签署350亿美元云计算协议；电影暑期档收官，票房超124亿元",
-        "中国汽车出海，最难的已经不是把车卖出去"
+        "大模型厂商，正忙着自备“干粮”"
+      ]
+    },
+    {
+      "keyword": "机器人",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "上海交大连文昭：机器人进实验室，先把100件事做可靠"
       ]
     },
     {
@@ -17,15 +24,31 @@
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "一个人，十五年，他想重写医疗AI的底层逻辑"
+        "当行业还在过冬，迈瑞医疗用一份中报证明了确定性"
       ]
     },
     {
-      "keyword": "云计算",
+      "keyword": "消费",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "【钛晨报】引导汽车企业规范境外竞争行为，三部门发文；Anthropic同英伟达支持的Lambda签署350亿美元云计算协议；电影暑期档收官，票房超124亿元"
+        "当家庭AI消费成为共识，不同集团（06090.HK）高增长背后的价值"
+      ]
+    },
+    {
+      "keyword": "化工",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "格林生物上市：一家“隐形冠军”的跃迁，与中国精细化工的高质量样本"
+      ]
+    },
+    {
+      "keyword": "IPO",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "格林生物上市：一家“隐形冠军”的跃迁，与中国精细化工的高质量样本"
       ]
     }
   ]
