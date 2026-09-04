@@ -1,38 +1,41 @@
 {
-  "generated_at": "2026-09-04T01:14:58.799109Z",
+  "generated_at": "2026-09-04T06:26:56.675005Z",
   "window_hours": 24,
-  "total_items_analyzed": 18,
+  "total_items_analyzed": 20,
   "hot_topics": [
     {
-      "keyword": "连板",
-      "category": "市场",
-      "count": 1,
+      "keyword": "消费",
+      "category": "板块",
+      "count": 3,
       "sample_titles": [
-        "创新药概念点火、两连板后迅速降温，小方制药底色仍是OTC老生意"
-      ]
-    },
-    {
-      "keyword": "IPO",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "Six Years, Three Cities, One IPO: SHEIN Finally Lands in Hong Kong"
-      ]
-    },
-    {
-      "keyword": "退市",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "【钛晨报】十部门发文“促中小企业发展”，加码直接融资、AI赋能等；燧原科技中签号出炉、康佳拟主动退市；“微信单删提示”冲上热搜，官方回应"
+        "那批扎堆去港股的消费公司，现在怎么样了",
+        "从SaaS到AI短剧：读懂“港股AI短剧第一股”兑吧的价值重估逻辑",
+        "当代年轻人，正在重新定义一份“好工作”"
       ]
     },
     {
       "keyword": "港股",
       "category": "港股",
+      "count": 2,
+      "sample_titles": [
+        "那批扎堆去港股的消费公司，现在怎么样了",
+        "从SaaS到AI短剧：读懂“港股AI短剧第一股”兑吧的价值重估逻辑"
+      ]
+    },
+    {
+      "keyword": "机器人",
+      "category": "板块",
       "count": 1,
       "sample_titles": [
-        "LATR模式之外，希音的产业创新飞轮"
+        "机器人能动只是第一步，难的是落地场景"
+      ]
+    },
+    {
+      "keyword": "银行",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "银行半年考：大行排队减员，城商行普遍涨薪"
       ]
     }
   ]
