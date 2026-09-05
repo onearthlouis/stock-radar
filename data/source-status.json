@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-09-05T11:58:21.488425Z",
+  "generated_at": "2026-09-05T15:04:05.972156Z",
   "sites": [
+    {
+      "site_id": "wallstreetcn",
+      "site_name": "华尔街见闻",
+      "ok": true,
+      "item_count": 0
+    },
+    {
+      "site_id": "eastmoney",
+      "site_name": "东方财富",
+      "ok": true,
+      "item_count": 0
+    },
+    {
+      "site_id": "cls",
+      "site_name": "财联社",
+      "ok": true,
+      "item_count": 0
+    },
     {
       "site_id": "cs",
       "site_name": "中国证券报",
@@ -9,28 +27,8 @@
       "error": "404 Client Error: Not Found for url: https://www.cs.com.cn/rss/rss.xml"
     },
     {
-      "site_id": "jiemian",
-      "site_name": "界面新闻",
-      "ok": false,
-      "item_count": 0,
-      "error": "404 Client Error: Not Found for url: https://www.jiemian.com/rss/index.xml"
-    },
-    {
-      "site_id": "sina_finance",
-      "site_name": "新浪财经",
-      "ok": false,
-      "item_count": 0,
-      "error": "404 Client Error: Not Found for url: https://rss.sina.com.cn/news/fin_roll/01.xml"
-    },
-    {
       "site_id": "36kr",
       "site_name": "36氪",
-      "ok": true,
-      "item_count": 0
-    },
-    {
-      "site_id": "eastmoney",
-      "site_name": "东方财富",
       "ok": true,
       "item_count": 0
     },
@@ -42,22 +40,24 @@
       "error": "404 Client Error: Not Found for url: https://www.stcn.com/rss/index.xml"
     },
     {
+      "site_id": "sina_finance",
+      "site_name": "新浪财经",
+      "ok": false,
+      "item_count": 0,
+      "error": "404 Client Error: Not Found for url: https://rss.sina.com.cn/news/fin_roll/01.xml"
+    },
+    {
+      "site_id": "jiemian",
+      "site_name": "界面新闻",
+      "ok": false,
+      "item_count": 0,
+      "error": "404 Client Error: Not Found for url: https://www.jiemian.com/rss/index.xml"
+    },
+    {
       "site_id": "tmtpost",
       "site_name": "钛媒体",
       "ok": true,
       "item_count": 20
-    },
-    {
-      "site_id": "wallstreetcn",
-      "site_name": "华尔街见闻",
-      "ok": true,
-      "item_count": 0
-    },
-    {
-      "site_id": "cls",
-      "site_name": "财联社",
-      "ok": true,
-      "item_count": 0
     },
     {
       "site_id": "huxiu",
@@ -70,9 +70,9 @@
   "successful_sites": 5,
   "failed_sites": [
     "cs",
-    "jiemian",
-    "sina_finance",
     "stcn",
+    "sina_finance",
+    "jiemian",
     "huxiu"
   ],
   "fetched_raw_items": 20
