@@ -1,14 +1,31 @@
 {
-  "generated_at": "2026-09-05T08:18:21.888157Z",
+  "generated_at": "2026-09-05T11:59:38.709705Z",
   "window_hours": 24,
-  "total_items_analyzed": 18,
+  "total_items_analyzed": 20,
   "hot_topics": [
     {
-      "keyword": "涨停",
-      "category": "市场",
+      "keyword": "白酒",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "五粮液拿出1.5亿“酿”电池，这家白酒巨头在固态电池赛道的豪赌能赢么？",
+        "“公募一哥”半年亏70亿：“白酒信仰”崩塌，张坤转投硬科技?"
+      ]
+    },
+    {
+      "keyword": "人工智能",
+      "category": "板块",
       "count": 1,
       "sample_titles": [
-        "价值判断：涨停板的投资机会和风险提示（9月4日）｜上市公司观察"
+        "【数智周报】  OpenAI发布GPT-6 Astra模型；国家人工智能基金向北京可灵注入现金资本14亿元；阿里更新旗舰模型Qwen3.8-Max"
+      ]
+    },
+    {
+      "keyword": "央行",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "黄金大迁徙：搬离纽约的央行越来越多，中国正在建一个新“家”"
       ]
     }
   ]
