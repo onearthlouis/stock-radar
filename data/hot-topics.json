@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-09-08T10:01:31.586664Z",
+  "generated_at": "2026-09-08T14:28:30.203337Z",
   "window_hours": 24,
-  "total_items_analyzed": 17,
+  "total_items_analyzed": 16,
   "hot_topics": [
+    {
+      "keyword": "IPO",
+      "category": "市场",
+      "count": 2,
+      "sample_titles": [
+        "永和大王母公司冲刺港股IPO，餐饮品牌如何面对破发潮？",
+        "1075亿，江西双胞胎姐弟IPO了"
+      ]
+    },
+    {
+      "keyword": "储能",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "杰华特董事长携新设平台8.9亿入局，*ST沐邦迎来储能新猜想"
+      ]
+    },
     {
       "keyword": "银行",
       "category": "板块",
@@ -12,11 +29,19 @@
       ]
     },
     {
-      "keyword": "IPO",
-      "category": "市场",
+      "keyword": "化工",
+      "category": "板块",
       "count": 1,
       "sample_titles": [
-        "1075亿，江西双胞胎姐弟IPO了"
+        "神剑股份又有高管遭立案背后：元老吴德清学历成谜，国资入主难挽颓势"
+      ]
+    },
+    {
+      "keyword": "港股",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "永和大王母公司冲刺港股IPO，餐饮品牌如何面对破发潮？"
       ]
     }
   ]
