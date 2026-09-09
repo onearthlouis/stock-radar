@@ -1,14 +1,33 @@
 {
-  "generated_at": "2026-09-09T09:07:24.843339Z",
+  "generated_at": "2026-09-09T13:52:03.504691Z",
   "window_hours": 24,
   "total_items_analyzed": 17,
   "hot_topics": [
     {
       "keyword": "IPO",
       "category": "市场",
+      "count": 3,
+      "sample_titles": [
+        "比亚迪、宁德时代力挺，铜博科技二闯IPO，AI风口难解“造血”之困",
+        "150亿，无锡收获一个机器人IPO",
+        "DeepSeek已聘中信证券筹备科创板IPO，年内正式启动 | 钛快讯"
+      ]
+    },
+    {
+      "keyword": "机器人",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "A股人形机器人中报：估值打到哪一年了？",
+        "150亿，无锡收获一个机器人IPO"
+      ]
+    },
+    {
+      "keyword": "跌停",
+      "category": "市场",
       "count": 1,
       "sample_titles": [
-        "百迈科登陆北交所，一家“隐形冠军”的国产替代二十年"
+        "一天蒸发488亿，摩尔线程跌停之谜"
       ]
     }
   ]
