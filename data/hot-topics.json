@@ -1,14 +1,40 @@
 {
-  "generated_at": "2026-09-22T23:48:12.162561Z",
+  "generated_at": "2026-09-23T04:19:58.100631Z",
   "window_hours": 24,
-  "total_items_analyzed": 16,
+  "total_items_analyzed": 20,
   "hot_topics": [
     {
-      "keyword": "芯片",
+      "keyword": "机器人",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "零售成了“机器人练兵场”",
+        "独家对话大咖机器人王坤：具身智能这条路，谁也不能保证“涌现”一定会出现"
+      ]
+    },
+    {
+      "keyword": "医疗",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "乐普医疗跨境诉讼案：BD、掮客与出海暗礁",
+        "内镜减重先行者糖吉医疗，能否在GLP-1夹击中突围？"
+      ]
+    },
+    {
+      "keyword": "储能",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "从卖芯片到做平台，地平线押注“Arm+Android”模式"
+        "阿特斯换总裁，68岁老板娘接棒，全行业血亏148亿，这家最“抠门”龙头用储能换了条命"
+      ]
+    },
+    {
+      "keyword": "医药",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "十部门联合印发《医药工业发展“十五五”规划》，零售药店行业的机会来了？"
       ]
     },
     {
@@ -16,23 +42,15 @@
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "除了谈钱，银行也想和你谈谈感情"
+        "贵阳银行踩雷正威系，16亿追债“泡汤”"
       ]
     },
     {
-      "keyword": "涨停",
-      "category": "市场",
+      "keyword": "低空经济",
+      "category": "板块",
       "count": 1,
       "sample_titles": [
-        "价值判断：涨停板的投资机会和风险提示（9月21日）｜上市公司观察"
-      ]
-    },
-    {
-      "keyword": "跌停",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "价值判断：跌停板的投资机会和风险提示（9月21日）｜上市公司观察"
+        "低空经济的双面真相：敦煌飞起来了，但闸门还没打开"
       ]
     }
   ]
