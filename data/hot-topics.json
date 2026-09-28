@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-27T22:31:40.671383Z",
+  "generated_at": "2026-09-28T01:30:32.541490Z",
   "window_hours": 24,
-  "total_items_analyzed": 14,
+  "total_items_analyzed": 17,
   "hot_topics": [
     {
       "keyword": "光伏",
@@ -12,11 +12,35 @@
       ]
     },
     {
+      "keyword": "消费",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "【钛晨报】中美达成八点成果共识；中秋假期消费市场需求旺盛，智能、绿色商品销售火热；中国移动、中国电信、中国联通，集中叫停“0元购机”"
+      ]
+    },
+    {
       "keyword": "汽车",
       "category": "板块",
       "count": 1,
       "sample_titles": [
         "豆包上车之后，AI原生汽车真的来了吗？"
+      ]
+    },
+    {
+      "keyword": "涨停",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "价值判断：涨停板的投资机会和风险提示（9月24日）｜上市公司观察"
+      ]
+    },
+    {
+      "keyword": "跌停",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "价值判断：跌停板的投资机会和风险提示（9月24日）｜上市公司观察"
       ]
     }
   ]
