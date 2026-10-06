@@ -1,31 +1,38 @@
 {
-  "generated_at": "2026-10-06T06:47:02.867634Z",
+  "generated_at": "2026-10-06T14:04:49.082128Z",
   "window_hours": 24,
-  "total_items_analyzed": 20,
+  "total_items_analyzed": 18,
   "hot_topics": [
+    {
+      "keyword": "半导体",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "半导体板块反弹，布局美光与意法半导体的逻辑"
+      ]
+    },
     {
       "keyword": "机器人",
       "category": "板块",
-      "count": 2,
+      "count": 1,
       "sample_titles": [
-        "想改造工厂的机器人，先被工厂改造了",
-        "这个国庆，第一批机器人员工已经上岗"
+        "想改造工厂的机器人，先被工厂改造了"
       ]
     },
     {
-      "keyword": "芯片",
+      "keyword": "消费",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "AI耳机蓄势，芯片厂商待发"
+        "全球AI消费调查：仅有1%超级玩家在养活AI圈"
       ]
     },
     {
-      "keyword": "恒生科技",
-      "category": "港股",
+      "keyword": "IPO",
+      "category": "市场",
       "count": 1,
       "sample_titles": [
-        "纳指历史新高，恒生科技却创了一年新低，A股硬科技企业正在排队去港交所募资"
+        "DeepSeek被爆最新融资800亿，正为冲击IPO做准备"
       ]
     }
   ]
