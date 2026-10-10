@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-10-10T09:39:47.909114Z",
+  "generated_at": "2026-10-10T15:49:04.970312Z",
   "window_hours": 24,
-  "total_items_analyzed": 18,
+  "total_items_analyzed": 19,
   "hot_topics": [
     {
-      "keyword": "证监会",
-      "category": "宏观",
+      "keyword": "IPO",
+      "category": "市场",
+      "count": 2,
+      "sample_titles": [
+        "【数智周报】特朗普政府要求AI公司在发生安全事件后立即上报；华为与高通宣布达成广泛专利许可协议；月之暗面据悉即将完成IPO前融资，估值将达500亿美元",
+        "张雪的老东家要去IPO了"
+      ]
+    },
+    {
+      "keyword": "医疗",
+      "category": "板块",
       "count": 1,
       "sample_titles": [
-        "【钛晨报】中央重磅部署19项举措，新质生产力发展路径明确；证监会发文，权益类基金成立门槛拟降至5000万元；浙商大佬俞发祥遭立案，两家A股公司回应"
+        "医疗影像走到分叉口：谁在为「AI读片」买单？"
       ]
     }
   ]
