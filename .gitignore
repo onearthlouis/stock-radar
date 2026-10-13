@@ -3,3 +3,10 @@ __pycache__/
 *.pyo
 .venv/
 feeds/follow.opml
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+.env*
+!.env.example
