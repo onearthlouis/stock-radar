@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T19:19:43.172404Z",
+  "generated_at": "2026-10-15T22:36:39.719327Z",
   "sites": [
     {
       "site_id": "wallstreetcn",
@@ -14,23 +14,16 @@
       "item_count": 0
     },
     {
-      "site_id": "cls",
-      "site_name": "财联社",
-      "ok": true,
-      "item_count": 0
-    },
-    {
       "site_id": "36kr",
       "site_name": "36氪",
       "ok": true,
       "item_count": 0
     },
     {
-      "site_id": "stcn",
-      "site_name": "证券时报",
-      "ok": false,
-      "item_count": 0,
-      "error": "404 Client Error: Not Found for url: https://www.stcn.com/rss/index.xml"
+      "site_id": "cls",
+      "site_name": "财联社",
+      "ok": true,
+      "item_count": 0
     },
     {
       "site_id": "jiemian",
@@ -38,6 +31,13 @@
       "ok": false,
       "item_count": 0,
       "error": "404 Client Error: Not Found for url: https://www.jiemian.com/rss/index.xml"
+    },
+    {
+      "site_id": "stcn",
+      "site_name": "证券时报",
+      "ok": false,
+      "item_count": 0,
+      "error": "404 Client Error: Not Found for url: https://www.stcn.com/rss/index.xml"
     },
     {
       "site_id": "tmtpost",
@@ -69,8 +69,8 @@
   ],
   "successful_sites": 5,
   "failed_sites": [
-    "stcn",
     "jiemian",
+    "stcn",
     "sina_finance",
     "cs",
     "huxiu"
