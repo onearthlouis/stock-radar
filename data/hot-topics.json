@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-10-18T00:13:01.255359Z",
+  "generated_at": "2026-10-18T05:01:10.974469Z",
   "window_hours": 24,
-  "total_items_analyzed": 17,
+  "total_items_analyzed": 20,
   "hot_topics": [
+    {
+      "keyword": "机器人",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "当地方政府成为机器人的第一大客户",
+        "通用大模型正在重做机器人的研发与交付"
+      ]
+    },
     {
       "keyword": "新能源",
       "category": "板块",
@@ -12,11 +21,11 @@
       ]
     },
     {
-      "keyword": "机器人",
+      "keyword": "消费",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "通用大模型正在重做机器人的研发与交付"
+        "消费“老登”线下变形记：新鲜零食向左，打酒铺子向右"
       ]
     },
     {
@@ -25,6 +34,14 @@
       "count": 1,
       "sample_titles": [
         "新能源车大变局：疯狂扩张结束，真正的淘汰赛开始了"
+      ]
+    },
+    {
+      "keyword": "港股",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "赴港首秀尴尬破发，港股不买“非洲手机之王”的账？"
       ]
     }
   ]
