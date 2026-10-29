@@ -1,14 +1,46 @@
 {
-  "generated_at": "2026-10-28T23:27:52.450727Z",
+  "generated_at": "2026-10-29T02:45:16.984649Z",
   "window_hours": 24,
-  "total_items_analyzed": 13,
+  "total_items_analyzed": 20,
   "hot_topics": [
     {
-      "keyword": "芯片",
+      "keyword": "储能",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "别人还在抽卡，米哈游已经开始抽芯片了"
+        "思源电气披露三季报，利润增速掉到个位数，储能放量正在“稀释”一家主设备公司的赚钱效率"
+      ]
+    },
+    {
+      "keyword": "金融",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "【钛晨报】北京“十五五”能源蓝图出炉：构建“1+3+6”体系；8000亿元新型政策性金融工具投放完成；字节辟谣“15万群演数据喂大模型”：传言严重失实"
+      ]
+    },
+    {
+      "keyword": "涨停",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "价值判断：涨停板的投资机会和风险提示（10月27日）｜上市公司观察"
+      ]
+    },
+    {
+      "keyword": "跌停",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "价值判断：跌停板的投资机会和风险提示（10月27日）｜上市公司观察"
+      ]
+    },
+    {
+      "keyword": "GDP",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "韩国的GDP，写在别人的预算表上"
       ]
     }
   ]
