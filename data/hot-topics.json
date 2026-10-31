@@ -1,30 +1,39 @@
 {
-  "generated_at": "2026-10-31T11:07:49.217810Z",
+  "generated_at": "2026-10-31T16:16:35.330006Z",
   "window_hours": 24,
-  "total_items_analyzed": 19,
+  "total_items_analyzed": 18,
   "hot_topics": [
     {
-      "keyword": "银行",
+      "keyword": "芯片",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "芯片的大买主们，快没钱了？",
+        "从算法到芯片，Momenta正在下一盘什么棋？"
+      ]
+    },
+    {
+      "keyword": "消费",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "银行系险企也扛不住波动，农银人寿三季度亏了16亿"
+        "透视A股三季报：AI算力领跑，材料量价齐升，地产和消费寻底｜看财报"
       ]
     },
     {
-      "keyword": "涨停",
-      "category": "市场",
+      "keyword": "地产",
+      "category": "板块",
       "count": 1,
       "sample_titles": [
-        "价值判断：涨停板的投资机会和风险提示（10月30日）｜上市公司观察"
+        "透视A股三季报：AI算力领跑，材料量价齐升，地产和消费寻底｜看财报"
       ]
     },
     {
-      "keyword": "跌停",
+      "keyword": "IPO",
       "category": "市场",
       "count": 1,
       "sample_titles": [
-        "价值判断：跌停板的投资机会和风险提示（10月30日）｜上市公司观察"
+        "易鸿智能冲刺港股IPO：宁德时代撑起七成收入，存货却超全年营收"
       ]
     },
     {
@@ -32,7 +41,7 @@
       "category": "港股",
       "count": 1,
       "sample_titles": [
-        "财富一年暴涨730亿，苏州富豪家族港股首秀却被“泼冷水”"
+        "易鸿智能冲刺港股IPO：宁德时代撑起七成收入，存货却超全年营收"
       ]
     }
   ]
