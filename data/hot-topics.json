@@ -1,15 +1,42 @@
 {
-  "generated_at": "2026-10-31T23:36:53.580027Z",
+  "generated_at": "2026-11-01T05:32:56.397964Z",
   "window_hours": 24,
   "total_items_analyzed": 18,
   "hot_topics": [
     {
-      "keyword": "芯片",
+      "keyword": "IPO",
+      "category": "市场",
+      "count": 3,
+      "sample_titles": [
+        "【数智周报】张一鸣以6700亿元登顶中国首富，刷新中国首富财富纪录；阿里巴巴与Apple达成合作，将千问集成至Apple智能；Anthropic提交IPO注册文件，拟以“ANT”为代码在纳斯达克上市",
+        "前三季度净利腰斩，出让动力子公司控制权的欣旺达叫停港股IPO",
+        "易鸿智能冲刺港股IPO：宁德时代撑起七成收入，存货却超全年营收"
+      ]
+    },
+    {
+      "keyword": "机器人",
       "category": "板块",
       "count": 2,
       "sample_titles": [
-        "芯片的大买主们，快没钱了？",
-        "从算法到芯片，Momenta正在下一盘什么棋？"
+        "人形机器人的第一份公账，Agility Robotics  上市前夜的深度解析",
+        "具身智能的钱，流向机器人的“皮肤”"
+      ]
+    },
+    {
+      "keyword": "港股",
+      "category": "港股",
+      "count": 2,
+      "sample_titles": [
+        "前三季度净利腰斩，出让动力子公司控制权的欣旺达叫停港股IPO",
+        "易鸿智能冲刺港股IPO：宁德时代撑起七成收入，存货却超全年营收"
+      ]
+    },
+    {
+      "keyword": "芯片",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "L4需要更大的模型，芯片得换个造法了"
       ]
     },
     {
@@ -26,22 +53,6 @@
       "count": 1,
       "sample_titles": [
         "透视A股三季报：AI算力领跑，材料量价齐升，地产和消费寻底｜看财报"
-      ]
-    },
-    {
-      "keyword": "IPO",
-      "category": "市场",
-      "count": 1,
-      "sample_titles": [
-        "易鸿智能冲刺港股IPO：宁德时代撑起七成收入，存货却超全年营收"
-      ]
-    },
-    {
-      "keyword": "港股",
-      "category": "港股",
-      "count": 1,
-      "sample_titles": [
-        "易鸿智能冲刺港股IPO：宁德时代撑起七成收入，存货却超全年营收"
       ]
     }
   ]
