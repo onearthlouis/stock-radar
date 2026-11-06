@@ -1,14 +1,38 @@
 {
-  "generated_at": "2026-11-05T21:52:52.623011Z",
+  "generated_at": "2026-11-06T02:08:58.128945Z",
   "window_hours": 24,
-  "total_items_analyzed": 15,
+  "total_items_analyzed": 16,
   "hot_topics": [
     {
-      "keyword": "机器人",
+      "keyword": "金融",
       "category": "板块",
       "count": 1,
       "sample_titles": [
-        "机器人，开始卷K12了"
+        "【钛晨报】国务院关于金融工作情况的报告；OpenAI总裁称公司大部分收入已来自企业业务， 预计2027年具备上市条件；国内航线燃油附加费11月5日起上调"
+      ]
+    },
+    {
+      "keyword": "港股",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "港股牛来：恒生科技暴涨5.55%"
+      ]
+    },
+    {
+      "keyword": "恒生科技",
+      "category": "港股",
+      "count": 1,
+      "sample_titles": [
+        "港股牛来：恒生科技暴涨5.55%"
+      ]
+    },
+    {
+      "keyword": "国务院",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "【钛晨报】国务院关于金融工作情况的报告；OpenAI总裁称公司大部分收入已来自企业业务， 预计2027年具备上市条件；国内航线燃油附加费11月5日起上调"
       ]
     }
   ]
