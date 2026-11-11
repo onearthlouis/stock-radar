@@ -1,14 +1,30 @@
 {
-  "generated_at": "2026-11-11T07:01:34.239468Z",
+  "generated_at": "2026-11-11T15:32:57.581445Z",
   "window_hours": 24,
-  "total_items_analyzed": 14,
+  "total_items_analyzed": 16,
   "hot_topics": [
     {
-      "keyword": "港股",
-      "category": "港股",
+      "keyword": "芯片",
+      "category": "板块",
       "count": 1,
       "sample_titles": [
-        "八年平头哥闯关港股，阿里分拆背后的算力资本局"
+        "上海合晶定增方案调整：砍掉补流项目、7亿加码12英寸硅片，扩产资金七成靠举债"
+      ]
+    },
+    {
+      "keyword": "医疗",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "超过美国，中国成巴西医疗器械最大进口来源国"
+      ]
+    },
+    {
+      "keyword": "IPO",
+      "category": "市场",
+      "count": 1,
+      "sample_titles": [
+        "Shengshu’s First AI Feature Film Misses the Mark as Its Hong Kong IPO Nears"
       ]
     }
   ]
