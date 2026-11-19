@@ -1,8 +1,16 @@
 {
-  "generated_at": "2026-11-18T19:19:33.409458Z",
+  "generated_at": "2026-11-19T01:24:55.652666Z",
   "window_hours": 24,
   "total_items_analyzed": 16,
   "hot_topics": [
+    {
+      "keyword": "机器人",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "第一批打工的人形机器人，有的已经失业了"
+      ]
+    },
     {
       "keyword": "消费",
       "category": "板块",
@@ -25,6 +33,14 @@
       "count": 1,
       "sample_titles": [
         "黄天鹅创始人的前东家冲击IPO：90后创二代接管，一年卖出30亿枚高端鸡蛋"
+      ]
+    },
+    {
+      "keyword": "美联储",
+      "category": "宏观",
+      "count": 1,
+      "sample_titles": [
+        "【钛晨报】事关国有资本布局优化，国资委提三条要求；资本市场辟谣平台：“国常会上有人表态不会再频繁救市了”系谣言；美联储理事沃勒：若不释放1月加息的信号，应在12月加息50个基点"
       ]
     }
   ]
