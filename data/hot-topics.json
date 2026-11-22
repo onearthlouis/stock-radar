@@ -1,14 +1,31 @@
 {
-  "generated_at": "2026-11-22T01:31:08.600665Z",
+  "generated_at": "2026-11-22T08:45:23.348391Z",
   "window_hours": 24,
   "total_items_analyzed": 18,
   "hot_topics": [
     {
-      "keyword": "IPO",
-      "category": "市场",
+      "keyword": "光伏",
+      "category": "板块",
+      "count": 2,
+      "sample_titles": [
+        "中设集团总包，7.5亿美元光伏电站项目落地非洲，央国企EPC不再只卖电站",
+        "锦浪科技5.44亿弃光投储，撕开光伏电站的旧账本，储能成为一切的答案？"
+      ]
+    },
+    {
+      "keyword": "半导体",
+      "category": "板块",
       "count": 1,
       "sample_titles": [
-        "【数智周报】 Anthropic敲响纳斯达克开市钟，创史上最大规模IPO纪录；美国限制远程获取AI算力，海外数据中心出租算力须许可；DeepSeek第二轮融资落地"
+        "Anthropic万亿上市，搅动的却是半导体江湖"
+      ]
+    },
+    {
+      "keyword": "储能",
+      "category": "板块",
+      "count": 1,
+      "sample_titles": [
+        "锦浪科技5.44亿弃光投储，撕开光伏电站的旧账本，储能成为一切的答案？"
       ]
     }
   ]
