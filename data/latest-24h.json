@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-28T02:53:43.811787Z",
+  "generated_at": "2026-11-28T11:31:22.782192Z",
   "window_hours": 24,
   "total_items": 18,
   "total_items_raw": 18,
   "total_items_all_mode": 18,
-  "archive_total": 202,
+  "archive_total": 205,
   "site_count": 1,
-  "source_count": 1,
+  "source_count": 5,
   "site_stats": [
     {
       "site_id": "tmtpost",
@@ -16,6 +16,102 @@
   ],
   "items": [
     {
+      "uid": "b7735c29f0ed561d",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "主编精选文章",
+      "title": "【数智周报】  黄仁勋回归英伟达，恢复CEO职务；Anthropic CEO以IPO发行价出售337.8万股，套现约2.8亿美元；英伟达暂停向四个东南亚国家出货服务器",
+      "url": "https://www.tmtpost.com/8221485.html",
+      "published_at": "2026-11-28T10:37:58Z",
+      "first_seen_at": "2026-11-28T11:31:22.782192Z",
+      "last_seen_at": "2026-11-28T11:31:22.782192Z",
+      "meta": {}
+    },
+    {
+      "uid": "73041e39de6fbb55",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "钛媒体",
+      "title": "Nvidia Halts AI Server Shipments to Four Southeast Asian Countries",
+      "url": "https://www.tmtpost.com/8221371.html",
+      "published_at": "2026-11-28T07:51:04Z",
+      "first_seen_at": "2026-11-28T11:31:22.782192Z",
+      "last_seen_at": "2026-11-28T11:31:22.782192Z",
+      "meta": {}
+    },
+    {
+      "uid": "8d1ad0a1d8fc5848",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "汽车行业",
+      "title": "蔚来开始用AI改造自己，这笔经济账怎么算？",
+      "url": "https://www.tmtpost.com/8221323.html",
+      "published_at": "2026-11-28T05:26:50Z",
+      "first_seen_at": "2026-11-28T11:31:22.782192Z",
+      "last_seen_at": "2026-11-28T11:31:22.782192Z",
+      "meta": {}
+    },
+    {
+      "uid": "a10ff410f2640ccb",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "英伟达",
+      "title": "AI服务器卖爆了，但卖服务器的不赚钱了：股价跌一半，市场在清算什么",
+      "url": "https://www.tmtpost.com/8221273.html",
+      "published_at": "2026-11-28T03:17:25Z",
+      "first_seen_at": "2026-11-28T11:31:22.782192Z",
+      "last_seen_at": "2026-11-28T11:31:22.782192Z",
+      "meta": {}
+    },
+    {
+      "uid": "03473357a44fd448",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "《复联5》要来救市了",
+      "url": "https://www.tmtpost.com/8221005.html",
+      "published_at": "2026-11-28T03:03:00Z",
+      "first_seen_at": "2026-11-28T11:31:22.782192Z",
+      "last_seen_at": "2026-11-28T11:31:22.782192Z",
+      "meta": {}
+    },
+    {
+      "uid": "e4d78c3c608a5030",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "“争议”总经理上任176天“闪辞”，水井坊6年已换8帅",
+      "url": "https://www.tmtpost.com/8221007.html",
+      "published_at": "2026-11-28T02:58:00Z",
+      "first_seen_at": "2026-11-28T11:31:22.782192Z",
+      "last_seen_at": "2026-11-28T11:31:22.782192Z",
+      "meta": {}
+    },
+    {
+      "uid": "3db754760485a975",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "OpenAI 和 Anthropic 在招什么样的营销人才？",
+      "url": "https://www.tmtpost.com/8221003.html",
+      "published_at": "2026-11-28T02:53:00Z",
+      "first_seen_at": "2026-11-28T11:31:22.782192Z",
+      "last_seen_at": "2026-11-28T11:31:22.782192Z",
+      "meta": {}
+    },
+    {
+      "uid": "a943d9dcfb51dd30",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "半年亏5亿、自有品牌销售占3.6%，大润发凭什么留住顾客？",
+      "url": "https://www.tmtpost.com/8220992.html",
+      "published_at": "2026-11-28T02:48:00Z",
+      "first_seen_at": "2026-11-28T11:31:22.782192Z",
+      "last_seen_at": "2026-11-28T11:31:22.782192Z",
+      "meta": {}
+    },
+    {
       "uid": "446fd074417e7596",
       "site_id": "tmtpost",
       "site_name": "钛媒体",
@@ -23,8 +119,8 @@
       "title": "港交所科技100指数大换血：六进七出，中国科技资产正在重新定价",
       "url": "https://www.tmtpost.com/8220989.html",
       "published_at": "2026-11-28T02:36:00Z",
-      "first_seen_at": "2026-11-28T02:53:43.811787Z",
-      "last_seen_at": "2026-11-28T02:53:43.811787Z",
+      "first_seen_at": "2026-11-28T11:31:22.782192Z",
+      "last_seen_at": "2026-11-28T11:31:22.782192Z",
       "meta": {}
     },
     {
@@ -35,8 +131,8 @@
       "title": "客户不买单，具身智能的“第一”还值几个钱？",
       "url": "https://www.tmtpost.com/8220898.html",
       "published_at": "2026-11-28T02:33:00Z",
-      "first_seen_at": "2026-11-28T02:53:43.811787Z",
-      "last_seen_at": "2026-11-28T02:53:43.811787Z",
+      "first_seen_at": "2026-11-28T11:31:22.782192Z",
+      "last_seen_at": "2026-11-28T11:31:22.782192Z",
       "meta": {}
     },
     {
@@ -47,8 +143,8 @@
       "title": "从2026广州车展，看汽车产业链的权力位移",
       "url": "https://www.tmtpost.com/8220706.html",
       "published_at": "2026-11-28T02:28:00Z",
-      "first_seen_at": "2026-11-28T02:53:43.811787Z",
-      "last_seen_at": "2026-11-28T02:53:43.811787Z",
+      "first_seen_at": "2026-11-28T11:31:22.782192Z",
+      "last_seen_at": "2026-11-28T11:31:22.782192Z",
       "meta": {}
     },
     {
@@ -59,8 +155,8 @@
       "title": "先别急着让宿华表演“黄仁勋回宫”",
       "url": "https://www.tmtpost.com/8220747.html",
       "published_at": "2026-11-28T02:22:54Z",
-      "first_seen_at": "2026-11-28T02:53:43.811787Z",
-      "last_seen_at": "2026-11-28T02:53:43.811787Z",
+      "first_seen_at": "2026-11-28T11:31:22.782192Z",
+      "last_seen_at": "2026-11-28T11:31:22.782192Z",
       "meta": {}
     },
     {
@@ -71,8 +167,8 @@
       "title": "中国客车出海，遇到了比关税更复杂的壁垒",
       "url": "https://www.tmtpost.com/8220984.html",
       "published_at": "2026-11-28T02:22:49Z",
-      "first_seen_at": "2026-11-28T02:53:43.811787Z",
-      "last_seen_at": "2026-11-28T02:53:43.811787Z",
+      "first_seen_at": "2026-11-28T11:31:22.782192Z",
+      "last_seen_at": "2026-11-28T11:31:22.782192Z",
       "meta": {}
     },
     {
@@ -83,8 +179,8 @@
       "title": "格力老兵，加码飞利浦空调",
       "url": "https://www.tmtpost.com/8220748.html",
       "published_at": "2026-11-28T02:15:47Z",
-      "first_seen_at": "2026-11-28T02:53:43.811787Z",
-      "last_seen_at": "2026-11-28T02:53:43.811787Z",
+      "first_seen_at": "2026-11-28T11:31:22.782192Z",
+      "last_seen_at": "2026-11-28T11:31:22.782192Z",
       "meta": {}
     },
     {
@@ -95,8 +191,8 @@
       "title": "袁记云饺一边招股，一边开出堡店首店",
       "url": "https://www.tmtpost.com/8220862.html",
       "published_at": "2026-11-28T02:15:41Z",
-      "first_seen_at": "2026-11-28T02:53:43.811787Z",
-      "last_seen_at": "2026-11-28T02:53:43.811787Z",
+      "first_seen_at": "2026-11-28T11:31:22.782192Z",
+      "last_seen_at": "2026-11-28T11:31:22.782192Z",
       "meta": {}
     },
     {
@@ -107,8 +203,8 @@
       "title": "爱奇艺站在悬崖之上，龚宇也有心无力？",
       "url": "https://www.tmtpost.com/8220926.html",
       "published_at": "2026-11-28T02:15:35Z",
-      "first_seen_at": "2026-11-28T02:53:43.811787Z",
-      "last_seen_at": "2026-11-28T02:53:43.811787Z",
+      "first_seen_at": "2026-11-28T11:31:22.782192Z",
+      "last_seen_at": "2026-11-28T11:31:22.782192Z",
       "meta": {}
     },
     {
@@ -119,8 +215,8 @@
       "title": "刘銮雄长子的资本野心：豪门长子不接班，盯上海外地产生意",
       "url": "https://www.tmtpost.com/8220724.html",
       "published_at": "2026-11-28T02:08:42Z",
-      "first_seen_at": "2026-11-28T02:53:43.811787Z",
-      "last_seen_at": "2026-11-28T02:53:43.811787Z",
+      "first_seen_at": "2026-11-28T11:31:22.782192Z",
+      "last_seen_at": "2026-11-28T11:31:22.782192Z",
       "meta": {}
     },
     {
@@ -131,109 +227,109 @@
       "title": "解码袁记IPO：一只饺子，两个市场，三种生意",
       "url": "https://www.tmtpost.com/8220884.html",
       "published_at": "2026-11-28T02:08:37Z",
-      "first_seen_at": "2026-11-28T02:53:43.811787Z",
-      "last_seen_at": "2026-11-28T02:53:43.811787Z",
-      "meta": {}
-    },
-    {
-      "uid": "64104e4591aef57a",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "投稿",
-      "title": "蔚来老板娘的千元女装店开到德基，难怪李斌的衣品好",
-      "url": "https://www.tmtpost.com/8220737.html",
-      "published_at": "2026-11-28T02:02:21Z",
-      "first_seen_at": "2026-11-28T02:53:43.811787Z",
-      "last_seen_at": "2026-11-28T02:53:43.811787Z",
-      "meta": {}
-    },
-    {
-      "uid": "2bc30a50f4ae9ddc",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "投稿",
-      "title": "长鑫科技流通股东大洗牌，外资股东至少套现80亿",
-      "url": "https://www.tmtpost.com/8220923.html",
-      "published_at": "2026-11-28T02:02:12Z",
-      "first_seen_at": "2026-11-28T02:53:43.811787Z",
-      "last_seen_at": "2026-11-28T02:53:43.811787Z",
-      "meta": {}
-    },
-    {
-      "uid": "c2730552b98bbd1e",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "投稿",
-      "title": "2027年国内车市能否走出低谷？三家造车新势力透露关键信号",
-      "url": "https://www.tmtpost.com/8220815.html",
-      "published_at": "2026-11-28T01:58:01Z",
-      "first_seen_at": "2026-11-28T02:53:43.811787Z",
-      "last_seen_at": "2026-11-28T02:53:43.811787Z",
-      "meta": {}
-    },
-    {
-      "uid": "f71868220368145a",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "投稿",
-      "title": "DeepSeek给智能装上了电表",
-      "url": "https://www.tmtpost.com/8220986.html",
-      "published_at": "2026-11-28T01:50:35Z",
-      "first_seen_at": "2026-11-28T02:53:43.811787Z",
-      "last_seen_at": "2026-11-28T02:53:43.811787Z",
-      "meta": {}
-    },
-    {
-      "uid": "e84fce85e41dbdc0",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "投稿",
-      "title": "耐克全球供应链再次受到考验",
-      "url": "https://www.tmtpost.com/8220973.html",
-      "published_at": "2026-11-28T01:49:28Z",
-      "first_seen_at": "2026-11-28T02:53:43.811787Z",
-      "last_seen_at": "2026-11-28T02:53:43.811787Z",
-      "meta": {}
-    },
-    {
-      "uid": "42e0144a36594761",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "投稿",
-      "title": "国际轻奢集体撤退，谁接住了中女的千元衣柜？",
-      "url": "https://www.tmtpost.com/8220985.html",
-      "published_at": "2026-11-28T01:49:21Z",
-      "first_seen_at": "2026-11-28T02:53:43.811787Z",
-      "last_seen_at": "2026-11-28T02:53:43.811787Z",
-      "meta": {}
-    },
-    {
-      "uid": "b806c390587a4704",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "投稿",
-      "title": "现在的黄仁勋也没办法让GeForce显卡变便宜",
-      "url": "https://www.tmtpost.com/8220759.html",
-      "published_at": "2026-11-28T01:47:31Z",
-      "first_seen_at": "2026-11-28T02:53:43.811787Z",
-      "last_seen_at": "2026-11-28T02:53:43.811787Z",
-      "meta": {}
-    },
-    {
-      "uid": "814d2fb6ca72dc57",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "投稿",
-      "title": "《后会友期》单挑红果，芒果TV「画地为牢」",
-      "url": "https://www.tmtpost.com/8220792.html",
-      "published_at": "2026-11-28T01:47:26Z",
-      "first_seen_at": "2026-11-28T02:53:43.811787Z",
-      "last_seen_at": "2026-11-28T02:53:43.811787Z",
+      "first_seen_at": "2026-11-28T11:31:22.782192Z",
+      "last_seen_at": "2026-11-28T11:31:22.782192Z",
       "meta": {}
     }
   ],
   "items_all": [
     {
+      "uid": "b7735c29f0ed561d",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "主编精选文章",
+      "title": "【数智周报】  黄仁勋回归英伟达，恢复CEO职务；Anthropic CEO以IPO发行价出售337.8万股，套现约2.8亿美元；英伟达暂停向四个东南亚国家出货服务器",
+      "url": "https://www.tmtpost.com/8221485.html",
+      "published_at": "2026-11-28T10:37:58Z",
+      "first_seen_at": "2026-11-28T11:31:22.782192Z",
+      "last_seen_at": "2026-11-28T11:31:22.782192Z",
+      "meta": {}
+    },
+    {
+      "uid": "73041e39de6fbb55",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "钛媒体",
+      "title": "Nvidia Halts AI Server Shipments to Four Southeast Asian Countries",
+      "url": "https://www.tmtpost.com/8221371.html",
+      "published_at": "2026-11-28T07:51:04Z",
+      "first_seen_at": "2026-11-28T11:31:22.782192Z",
+      "last_seen_at": "2026-11-28T11:31:22.782192Z",
+      "meta": {}
+    },
+    {
+      "uid": "8d1ad0a1d8fc5848",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "汽车行业",
+      "title": "蔚来开始用AI改造自己，这笔经济账怎么算？",
+      "url": "https://www.tmtpost.com/8221323.html",
+      "published_at": "2026-11-28T05:26:50Z",
+      "first_seen_at": "2026-11-28T11:31:22.782192Z",
+      "last_seen_at": "2026-11-28T11:31:22.782192Z",
+      "meta": {}
+    },
+    {
+      "uid": "a10ff410f2640ccb",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "英伟达",
+      "title": "AI服务器卖爆了，但卖服务器的不赚钱了：股价跌一半，市场在清算什么",
+      "url": "https://www.tmtpost.com/8221273.html",
+      "published_at": "2026-11-28T03:17:25Z",
+      "first_seen_at": "2026-11-28T11:31:22.782192Z",
+      "last_seen_at": "2026-11-28T11:31:22.782192Z",
+      "meta": {}
+    },
+    {
+      "uid": "03473357a44fd448",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "《复联5》要来救市了",
+      "url": "https://www.tmtpost.com/8221005.html",
+      "published_at": "2026-11-28T03:03:00Z",
+      "first_seen_at": "2026-11-28T11:31:22.782192Z",
+      "last_seen_at": "2026-11-28T11:31:22.782192Z",
+      "meta": {}
+    },
+    {
+      "uid": "e4d78c3c608a5030",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "“争议”总经理上任176天“闪辞”，水井坊6年已换8帅",
+      "url": "https://www.tmtpost.com/8221007.html",
+      "published_at": "2026-11-28T02:58:00Z",
+      "first_seen_at": "2026-11-28T11:31:22.782192Z",
+      "last_seen_at": "2026-11-28T11:31:22.782192Z",
+      "meta": {}
+    },
+    {
+      "uid": "3db754760485a975",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "OpenAI 和 Anthropic 在招什么样的营销人才？",
+      "url": "https://www.tmtpost.com/8221003.html",
+      "published_at": "2026-11-28T02:53:00Z",
+      "first_seen_at": "2026-11-28T11:31:22.782192Z",
+      "last_seen_at": "2026-11-28T11:31:22.782192Z",
+      "meta": {}
+    },
+    {
+      "uid": "a943d9dcfb51dd30",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "半年亏5亿、自有品牌销售占3.6%，大润发凭什么留住顾客？",
+      "url": "https://www.tmtpost.com/8220992.html",
+      "published_at": "2026-11-28T02:48:00Z",
+      "first_seen_at": "2026-11-28T11:31:22.782192Z",
+      "last_seen_at": "2026-11-28T11:31:22.782192Z",
+      "meta": {}
+    },
+    {
       "uid": "446fd074417e7596",
       "site_id": "tmtpost",
       "site_name": "钛媒体",
@@ -241,8 +337,8 @@
       "title": "港交所科技100指数大换血：六进七出，中国科技资产正在重新定价",
       "url": "https://www.tmtpost.com/8220989.html",
       "published_at": "2026-11-28T02:36:00Z",
-      "first_seen_at": "2026-11-28T02:53:43.811787Z",
-      "last_seen_at": "2026-11-28T02:53:43.811787Z",
+      "first_seen_at": "2026-11-28T11:31:22.782192Z",
+      "last_seen_at": "2026-11-28T11:31:22.782192Z",
       "meta": {}
     },
     {
@@ -253,8 +349,8 @@
       "title": "客户不买单，具身智能的“第一”还值几个钱？",
       "url": "https://www.tmtpost.com/8220898.html",
       "published_at": "2026-11-28T02:33:00Z",
-      "first_seen_at": "2026-11-28T02:53:43.811787Z",
-      "last_seen_at": "2026-11-28T02:53:43.811787Z",
+      "first_seen_at": "2026-11-28T11:31:22.782192Z",
+      "last_seen_at": "2026-11-28T11:31:22.782192Z",
       "meta": {}
     },
     {
@@ -265,8 +361,8 @@
       "title": "从2026广州车展，看汽车产业链的权力位移",
       "url": "https://www.tmtpost.com/8220706.html",
       "published_at": "2026-11-28T02:28:00Z",
-      "first_seen_at": "2026-11-28T02:53:43.811787Z",
-      "last_seen_at": "2026-11-28T02:53:43.811787Z",
+      "first_seen_at": "2026-11-28T11:31:22.782192Z",
+      "last_seen_at": "2026-11-28T11:31:22.782192Z",
       "meta": {}
     },
     {
@@ -277,8 +373,8 @@
       "title": "先别急着让宿华表演“黄仁勋回宫”",
       "url": "https://www.tmtpost.com/8220747.html",
       "published_at": "2026-11-28T02:22:54Z",
-      "first_seen_at": "2026-11-28T02:53:43.811787Z",
-      "last_seen_at": "2026-11-28T02:53:43.811787Z",
+      "first_seen_at": "2026-11-28T11:31:22.782192Z",
+      "last_seen_at": "2026-11-28T11:31:22.782192Z",
       "meta": {}
     },
     {
@@ -289,8 +385,8 @@
       "title": "中国客车出海，遇到了比关税更复杂的壁垒",
       "url": "https://www.tmtpost.com/8220984.html",
       "published_at": "2026-11-28T02:22:49Z",
-      "first_seen_at": "2026-11-28T02:53:43.811787Z",
-      "last_seen_at": "2026-11-28T02:53:43.811787Z",
+      "first_seen_at": "2026-11-28T11:31:22.782192Z",
+      "last_seen_at": "2026-11-28T11:31:22.782192Z",
       "meta": {}
     },
     {
@@ -301,8 +397,8 @@
       "title": "格力老兵，加码飞利浦空调",
       "url": "https://www.tmtpost.com/8220748.html",
       "published_at": "2026-11-28T02:15:47Z",
-      "first_seen_at": "2026-11-28T02:53:43.811787Z",
-      "last_seen_at": "2026-11-28T02:53:43.811787Z",
+      "first_seen_at": "2026-11-28T11:31:22.782192Z",
+      "last_seen_at": "2026-11-28T11:31:22.782192Z",
       "meta": {}
     },
     {
@@ -313,8 +409,8 @@
       "title": "袁记云饺一边招股，一边开出堡店首店",
       "url": "https://www.tmtpost.com/8220862.html",
       "published_at": "2026-11-28T02:15:41Z",
-      "first_seen_at": "2026-11-28T02:53:43.811787Z",
-      "last_seen_at": "2026-11-28T02:53:43.811787Z",
+      "first_seen_at": "2026-11-28T11:31:22.782192Z",
+      "last_seen_at": "2026-11-28T11:31:22.782192Z",
       "meta": {}
     },
     {
@@ -325,8 +421,8 @@
       "title": "爱奇艺站在悬崖之上，龚宇也有心无力？",
       "url": "https://www.tmtpost.com/8220926.html",
       "published_at": "2026-11-28T02:15:35Z",
-      "first_seen_at": "2026-11-28T02:53:43.811787Z",
-      "last_seen_at": "2026-11-28T02:53:43.811787Z",
+      "first_seen_at": "2026-11-28T11:31:22.782192Z",
+      "last_seen_at": "2026-11-28T11:31:22.782192Z",
       "meta": {}
     },
     {
@@ -337,8 +433,8 @@
       "title": "刘銮雄长子的资本野心：豪门长子不接班，盯上海外地产生意",
       "url": "https://www.tmtpost.com/8220724.html",
       "published_at": "2026-11-28T02:08:42Z",
-      "first_seen_at": "2026-11-28T02:53:43.811787Z",
-      "last_seen_at": "2026-11-28T02:53:43.811787Z",
+      "first_seen_at": "2026-11-28T11:31:22.782192Z",
+      "last_seen_at": "2026-11-28T11:31:22.782192Z",
       "meta": {}
     },
     {
@@ -349,109 +445,109 @@
       "title": "解码袁记IPO：一只饺子，两个市场，三种生意",
       "url": "https://www.tmtpost.com/8220884.html",
       "published_at": "2026-11-28T02:08:37Z",
-      "first_seen_at": "2026-11-28T02:53:43.811787Z",
-      "last_seen_at": "2026-11-28T02:53:43.811787Z",
-      "meta": {}
-    },
-    {
-      "uid": "64104e4591aef57a",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "投稿",
-      "title": "蔚来老板娘的千元女装店开到德基，难怪李斌的衣品好",
-      "url": "https://www.tmtpost.com/8220737.html",
-      "published_at": "2026-11-28T02:02:21Z",
-      "first_seen_at": "2026-11-28T02:53:43.811787Z",
-      "last_seen_at": "2026-11-28T02:53:43.811787Z",
-      "meta": {}
-    },
-    {
-      "uid": "2bc30a50f4ae9ddc",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "投稿",
-      "title": "长鑫科技流通股东大洗牌，外资股东至少套现80亿",
-      "url": "https://www.tmtpost.com/8220923.html",
-      "published_at": "2026-11-28T02:02:12Z",
-      "first_seen_at": "2026-11-28T02:53:43.811787Z",
-      "last_seen_at": "2026-11-28T02:53:43.811787Z",
-      "meta": {}
-    },
-    {
-      "uid": "c2730552b98bbd1e",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "投稿",
-      "title": "2027年国内车市能否走出低谷？三家造车新势力透露关键信号",
-      "url": "https://www.tmtpost.com/8220815.html",
-      "published_at": "2026-11-28T01:58:01Z",
-      "first_seen_at": "2026-11-28T02:53:43.811787Z",
-      "last_seen_at": "2026-11-28T02:53:43.811787Z",
-      "meta": {}
-    },
-    {
-      "uid": "f71868220368145a",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "投稿",
-      "title": "DeepSeek给智能装上了电表",
-      "url": "https://www.tmtpost.com/8220986.html",
-      "published_at": "2026-11-28T01:50:35Z",
-      "first_seen_at": "2026-11-28T02:53:43.811787Z",
-      "last_seen_at": "2026-11-28T02:53:43.811787Z",
-      "meta": {}
-    },
-    {
-      "uid": "e84fce85e41dbdc0",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "投稿",
-      "title": "耐克全球供应链再次受到考验",
-      "url": "https://www.tmtpost.com/8220973.html",
-      "published_at": "2026-11-28T01:49:28Z",
-      "first_seen_at": "2026-11-28T02:53:43.811787Z",
-      "last_seen_at": "2026-11-28T02:53:43.811787Z",
-      "meta": {}
-    },
-    {
-      "uid": "42e0144a36594761",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "投稿",
-      "title": "国际轻奢集体撤退，谁接住了中女的千元衣柜？",
-      "url": "https://www.tmtpost.com/8220985.html",
-      "published_at": "2026-11-28T01:49:21Z",
-      "first_seen_at": "2026-11-28T02:53:43.811787Z",
-      "last_seen_at": "2026-11-28T02:53:43.811787Z",
-      "meta": {}
-    },
-    {
-      "uid": "b806c390587a4704",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "投稿",
-      "title": "现在的黄仁勋也没办法让GeForce显卡变便宜",
-      "url": "https://www.tmtpost.com/8220759.html",
-      "published_at": "2026-11-28T01:47:31Z",
-      "first_seen_at": "2026-11-28T02:53:43.811787Z",
-      "last_seen_at": "2026-11-28T02:53:43.811787Z",
-      "meta": {}
-    },
-    {
-      "uid": "814d2fb6ca72dc57",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "投稿",
-      "title": "《后会友期》单挑红果，芒果TV「画地为牢」",
-      "url": "https://www.tmtpost.com/8220792.html",
-      "published_at": "2026-11-28T01:47:26Z",
-      "first_seen_at": "2026-11-28T02:53:43.811787Z",
-      "last_seen_at": "2026-11-28T02:53:43.811787Z",
+      "first_seen_at": "2026-11-28T11:31:22.782192Z",
+      "last_seen_at": "2026-11-28T11:31:22.782192Z",
       "meta": {}
     }
   ],
   "items_all_raw": [
     {
+      "uid": "b7735c29f0ed561d",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "主编精选文章",
+      "title": "【数智周报】  黄仁勋回归英伟达，恢复CEO职务；Anthropic CEO以IPO发行价出售337.8万股，套现约2.8亿美元；英伟达暂停向四个东南亚国家出货服务器",
+      "url": "https://www.tmtpost.com/8221485.html",
+      "published_at": "2026-11-28T10:37:58Z",
+      "first_seen_at": "2026-11-28T11:31:22.782192Z",
+      "last_seen_at": "2026-11-28T11:31:22.782192Z",
+      "meta": {}
+    },
+    {
+      "uid": "73041e39de6fbb55",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "钛媒体",
+      "title": "Nvidia Halts AI Server Shipments to Four Southeast Asian Countries",
+      "url": "https://www.tmtpost.com/8221371.html",
+      "published_at": "2026-11-28T07:51:04Z",
+      "first_seen_at": "2026-11-28T11:31:22.782192Z",
+      "last_seen_at": "2026-11-28T11:31:22.782192Z",
+      "meta": {}
+    },
+    {
+      "uid": "8d1ad0a1d8fc5848",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "汽车行业",
+      "title": "蔚来开始用AI改造自己，这笔经济账怎么算？",
+      "url": "https://www.tmtpost.com/8221323.html",
+      "published_at": "2026-11-28T05:26:50Z",
+      "first_seen_at": "2026-11-28T11:31:22.782192Z",
+      "last_seen_at": "2026-11-28T11:31:22.782192Z",
+      "meta": {}
+    },
+    {
+      "uid": "a10ff410f2640ccb",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "英伟达",
+      "title": "AI服务器卖爆了，但卖服务器的不赚钱了：股价跌一半，市场在清算什么",
+      "url": "https://www.tmtpost.com/8221273.html",
+      "published_at": "2026-11-28T03:17:25Z",
+      "first_seen_at": "2026-11-28T11:31:22.782192Z",
+      "last_seen_at": "2026-11-28T11:31:22.782192Z",
+      "meta": {}
+    },
+    {
+      "uid": "03473357a44fd448",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "《复联5》要来救市了",
+      "url": "https://www.tmtpost.com/8221005.html",
+      "published_at": "2026-11-28T03:03:00Z",
+      "first_seen_at": "2026-11-28T11:31:22.782192Z",
+      "last_seen_at": "2026-11-28T11:31:22.782192Z",
+      "meta": {}
+    },
+    {
+      "uid": "e4d78c3c608a5030",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "“争议”总经理上任176天“闪辞”，水井坊6年已换8帅",
+      "url": "https://www.tmtpost.com/8221007.html",
+      "published_at": "2026-11-28T02:58:00Z",
+      "first_seen_at": "2026-11-28T11:31:22.782192Z",
+      "last_seen_at": "2026-11-28T11:31:22.782192Z",
+      "meta": {}
+    },
+    {
+      "uid": "3db754760485a975",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "OpenAI 和 Anthropic 在招什么样的营销人才？",
+      "url": "https://www.tmtpost.com/8221003.html",
+      "published_at": "2026-11-28T02:53:00Z",
+      "first_seen_at": "2026-11-28T11:31:22.782192Z",
+      "last_seen_at": "2026-11-28T11:31:22.782192Z",
+      "meta": {}
+    },
+    {
+      "uid": "a943d9dcfb51dd30",
+      "site_id": "tmtpost",
+      "site_name": "钛媒体",
+      "source": "投稿",
+      "title": "半年亏5亿、自有品牌销售占3.6%，大润发凭什么留住顾客？",
+      "url": "https://www.tmtpost.com/8220992.html",
+      "published_at": "2026-11-28T02:48:00Z",
+      "first_seen_at": "2026-11-28T11:31:22.782192Z",
+      "last_seen_at": "2026-11-28T11:31:22.782192Z",
+      "meta": {}
+    },
+    {
       "uid": "446fd074417e7596",
       "site_id": "tmtpost",
       "site_name": "钛媒体",
@@ -459,8 +555,8 @@
       "title": "港交所科技100指数大换血：六进七出，中国科技资产正在重新定价",
       "url": "https://www.tmtpost.com/8220989.html",
       "published_at": "2026-11-28T02:36:00Z",
-      "first_seen_at": "2026-11-28T02:53:43.811787Z",
-      "last_seen_at": "2026-11-28T02:53:43.811787Z",
+      "first_seen_at": "2026-11-28T11:31:22.782192Z",
+      "last_seen_at": "2026-11-28T11:31:22.782192Z",
       "meta": {}
     },
     {
@@ -471,8 +567,8 @@
       "title": "客户不买单，具身智能的“第一”还值几个钱？",
       "url": "https://www.tmtpost.com/8220898.html",
       "published_at": "2026-11-28T02:33:00Z",
-      "first_seen_at": "2026-11-28T02:53:43.811787Z",
-      "last_seen_at": "2026-11-28T02:53:43.811787Z",
+      "first_seen_at": "2026-11-28T11:31:22.782192Z",
+      "last_seen_at": "2026-11-28T11:31:22.782192Z",
       "meta": {}
     },
     {
@@ -483,8 +579,8 @@
       "title": "从2026广州车展，看汽车产业链的权力位移",
       "url": "https://www.tmtpost.com/8220706.html",
       "published_at": "2026-11-28T02:28:00Z",
-      "first_seen_at": "2026-11-28T02:53:43.811787Z",
-      "last_seen_at": "2026-11-28T02:53:43.811787Z",
+      "first_seen_at": "2026-11-28T11:31:22.782192Z",
+      "last_seen_at": "2026-11-28T11:31:22.782192Z",
       "meta": {}
     },
     {
@@ -495,8 +591,8 @@
       "title": "先别急着让宿华表演“黄仁勋回宫”",
       "url": "https://www.tmtpost.com/8220747.html",
       "published_at": "2026-11-28T02:22:54Z",
-      "first_seen_at": "2026-11-28T02:53:43.811787Z",
-      "last_seen_at": "2026-11-28T02:53:43.811787Z",
+      "first_seen_at": "2026-11-28T11:31:22.782192Z",
+      "last_seen_at": "2026-11-28T11:31:22.782192Z",
       "meta": {}
     },
     {
@@ -507,8 +603,8 @@
       "title": "中国客车出海，遇到了比关税更复杂的壁垒",
       "url": "https://www.tmtpost.com/8220984.html",
       "published_at": "2026-11-28T02:22:49Z",
-      "first_seen_at": "2026-11-28T02:53:43.811787Z",
-      "last_seen_at": "2026-11-28T02:53:43.811787Z",
+      "first_seen_at": "2026-11-28T11:31:22.782192Z",
+      "last_seen_at": "2026-11-28T11:31:22.782192Z",
       "meta": {}
     },
     {
@@ -519,8 +615,8 @@
       "title": "格力老兵，加码飞利浦空调",
       "url": "https://www.tmtpost.com/8220748.html",
       "published_at": "2026-11-28T02:15:47Z",
-      "first_seen_at": "2026-11-28T02:53:43.811787Z",
-      "last_seen_at": "2026-11-28T02:53:43.811787Z",
+      "first_seen_at": "2026-11-28T11:31:22.782192Z",
+      "last_seen_at": "2026-11-28T11:31:22.782192Z",
       "meta": {}
     },
     {
@@ -531,8 +627,8 @@
       "title": "袁记云饺一边招股，一边开出堡店首店",
       "url": "https://www.tmtpost.com/8220862.html",
       "published_at": "2026-11-28T02:15:41Z",
-      "first_seen_at": "2026-11-28T02:53:43.811787Z",
-      "last_seen_at": "2026-11-28T02:53:43.811787Z",
+      "first_seen_at": "2026-11-28T11:31:22.782192Z",
+      "last_seen_at": "2026-11-28T11:31:22.782192Z",
       "meta": {}
     },
     {
@@ -543,8 +639,8 @@
       "title": "爱奇艺站在悬崖之上，龚宇也有心无力？",
       "url": "https://www.tmtpost.com/8220926.html",
       "published_at": "2026-11-28T02:15:35Z",
-      "first_seen_at": "2026-11-28T02:53:43.811787Z",
-      "last_seen_at": "2026-11-28T02:53:43.811787Z",
+      "first_seen_at": "2026-11-28T11:31:22.782192Z",
+      "last_seen_at": "2026-11-28T11:31:22.782192Z",
       "meta": {}
     },
     {
@@ -555,8 +651,8 @@
       "title": "刘銮雄长子的资本野心：豪门长子不接班，盯上海外地产生意",
       "url": "https://www.tmtpost.com/8220724.html",
       "published_at": "2026-11-28T02:08:42Z",
-      "first_seen_at": "2026-11-28T02:53:43.811787Z",
-      "last_seen_at": "2026-11-28T02:53:43.811787Z",
+      "first_seen_at": "2026-11-28T11:31:22.782192Z",
+      "last_seen_at": "2026-11-28T11:31:22.782192Z",
       "meta": {}
     },
     {
@@ -567,104 +663,8 @@
       "title": "解码袁记IPO：一只饺子，两个市场，三种生意",
       "url": "https://www.tmtpost.com/8220884.html",
       "published_at": "2026-11-28T02:08:37Z",
-      "first_seen_at": "2026-11-28T02:53:43.811787Z",
-      "last_seen_at": "2026-11-28T02:53:43.811787Z",
-      "meta": {}
-    },
-    {
-      "uid": "64104e4591aef57a",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "投稿",
-      "title": "蔚来老板娘的千元女装店开到德基，难怪李斌的衣品好",
-      "url": "https://www.tmtpost.com/8220737.html",
-      "published_at": "2026-11-28T02:02:21Z",
-      "first_seen_at": "2026-11-28T02:53:43.811787Z",
-      "last_seen_at": "2026-11-28T02:53:43.811787Z",
-      "meta": {}
-    },
-    {
-      "uid": "2bc30a50f4ae9ddc",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "投稿",
-      "title": "长鑫科技流通股东大洗牌，外资股东至少套现80亿",
-      "url": "https://www.tmtpost.com/8220923.html",
-      "published_at": "2026-11-28T02:02:12Z",
-      "first_seen_at": "2026-11-28T02:53:43.811787Z",
-      "last_seen_at": "2026-11-28T02:53:43.811787Z",
-      "meta": {}
-    },
-    {
-      "uid": "c2730552b98bbd1e",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "投稿",
-      "title": "2027年国内车市能否走出低谷？三家造车新势力透露关键信号",
-      "url": "https://www.tmtpost.com/8220815.html",
-      "published_at": "2026-11-28T01:58:01Z",
-      "first_seen_at": "2026-11-28T02:53:43.811787Z",
-      "last_seen_at": "2026-11-28T02:53:43.811787Z",
-      "meta": {}
-    },
-    {
-      "uid": "f71868220368145a",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "投稿",
-      "title": "DeepSeek给智能装上了电表",
-      "url": "https://www.tmtpost.com/8220986.html",
-      "published_at": "2026-11-28T01:50:35Z",
-      "first_seen_at": "2026-11-28T02:53:43.811787Z",
-      "last_seen_at": "2026-11-28T02:53:43.811787Z",
-      "meta": {}
-    },
-    {
-      "uid": "e84fce85e41dbdc0",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "投稿",
-      "title": "耐克全球供应链再次受到考验",
-      "url": "https://www.tmtpost.com/8220973.html",
-      "published_at": "2026-11-28T01:49:28Z",
-      "first_seen_at": "2026-11-28T02:53:43.811787Z",
-      "last_seen_at": "2026-11-28T02:53:43.811787Z",
-      "meta": {}
-    },
-    {
-      "uid": "42e0144a36594761",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "投稿",
-      "title": "国际轻奢集体撤退，谁接住了中女的千元衣柜？",
-      "url": "https://www.tmtpost.com/8220985.html",
-      "published_at": "2026-11-28T01:49:21Z",
-      "first_seen_at": "2026-11-28T02:53:43.811787Z",
-      "last_seen_at": "2026-11-28T02:53:43.811787Z",
-      "meta": {}
-    },
-    {
-      "uid": "b806c390587a4704",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "投稿",
-      "title": "现在的黄仁勋也没办法让GeForce显卡变便宜",
-      "url": "https://www.tmtpost.com/8220759.html",
-      "published_at": "2026-11-28T01:47:31Z",
-      "first_seen_at": "2026-11-28T02:53:43.811787Z",
-      "last_seen_at": "2026-11-28T02:53:43.811787Z",
-      "meta": {}
-    },
-    {
-      "uid": "814d2fb6ca72dc57",
-      "site_id": "tmtpost",
-      "site_name": "钛媒体",
-      "source": "投稿",
-      "title": "《后会友期》单挑红果，芒果TV「画地为牢」",
-      "url": "https://www.tmtpost.com/8220792.html",
-      "published_at": "2026-11-28T01:47:26Z",
-      "first_seen_at": "2026-11-28T02:53:43.811787Z",
-      "last_seen_at": "2026-11-28T02:53:43.811787Z",
+      "first_seen_at": "2026-11-28T11:31:22.782192Z",
+      "last_seen_at": "2026-11-28T11:31:22.782192Z",
       "meta": {}
     }
   ]
